@@ -1,0 +1,158 @@
+{
+  "translation": "BSB",
+  "translation_full_name": "Berean Study Bible",
+  "license": "CC BY-SA 4.0",
+  "book": "Genesis",
+  "pericope_titles": [
+    {
+      "pericope_id": "GEN-001",
+      "title": "The Reservoir of Creation: New Order",
+      "theme": "God's instant creative work establishing order from chaos and rest on the Sabbath."
+    },
+    {
+      "pericope_id": "GEN-002",
+      "title": "Eden: The Sovereign's Test & Labor",
+      "theme": "Man created to rule as 'King in Miniature Heaven,' placed in Eden to keep and cultivate."
+    },
+    {
+      "pericope_id": "GEN-003",
+      "title": "The Golden Chain Broken: Instant Surety",
+      "theme": "The Fall introduces death and judgment, yet God immediately provides ransom through Christ's sacrifice."
+    },
+    {
+      "pericope_id": "GEN-004",
+      "title": "Succession of Falls: Cain's Brand",
+      "theme": "Cain's rejection demonstrates the necessity of blood atonement and faith in Christ's coming sacrifice."
+    },
+    {
+      "pericope_id": "GEN-005",
+      "title": "The Longevity of the First Age",
+      "theme": "Enoch's faith contrasted with the great corruption of the Antediluvians and their worship of Cain."
+    },
+    {
+      "pericope_id": "GEN-006",
+      "title": "The Great Art Perishes: Noah's Ark",
+      "theme": "The perversion of God's gifts through self-glorification merits judgment; the arts are lost in the Flood."
+    },
+    {
+      "pericope_id": "GEN-007",
+      "title": "The Sign of the Bow: Encompassing Love",
+      "theme": "The rainbow covenant demonstrates God's mercy and Christ's love as the bridge between God and humanity."
+    },
+    {
+      "pericope_id": "GEN-008",
+      "title": "Accountability & Divine Sovereignty",
+      "theme": "God's law against murder reveals both human accountability and God's unlimited sovereignty over nations."
+    },
+    {
+      "pericope_id": "GEN-009",
+      "title": "Babel: Confederacy of Rebellion",
+      "theme": "Human self-exaltation and the attempt to replace divine precepts with human laws brings judgment."
+    },
+    {
+      "pericope_id": "GEN-010",
+      "title": "The Call: Separation and Naked Promise",
+      "theme": "Abraham chosen from idolatry must separate entirely from human influence and rely on God's naked promise."
+    },
+    {
+      "pericope_id": "GEN-011",
+      "title": "Lot's Choice: Temporal vs. Spiritual Advantage",
+      "theme": "Lot's selection of temporal advantage over moral environment leads to inevitable spiritual and physical loss."
+    },
+    {
+      "pericope_id": "GEN-012",
+      "title": "Melchizedek: Christ's Representative",
+      "theme": "Melchizedek as Christ's representative perpetuates divine law and establishes the legitimacy of tithing."
+    },
+    {
+      "pericope_id": "GEN-013",
+      "title": "Covenant of Pieces: Delayed Iniquity",
+      "theme": "God's long-suffering delays the destruction of the Amorites until their iniquity is full, balancing justice with mercy."
+    },
+    {
+      "pericope_id": "GEN-014",
+      "title": "Hagar: Human Schemes vs. Divine Plan",
+      "theme": "Ishmael's birth through human scheming contrasts with God's covenant plan marked by circumcision."
+    },
+    {
+      "pericope_id": "GEN-015",
+      "title": "Hospitality and the Boundary of Mercy",
+      "theme": "Abraham's intercession demonstrates mercy, yet Sodom passes the point of no return through deliberate rebellion."
+    },
+    {
+      "pericope_id": "GEN-016",
+      "title": "Lot's Paralysis and Escape",
+      "theme": "Lot's hesitation and his family's near-destruction illustrate the consequence of choosing moral compromise."
+    },
+    {
+      "pericope_id": "GEN-017",
+      "title": "The Akedah: Figure of Self-Denial",
+      "theme": "Isaac as a type of Christ reveals God's self-denial in giving His Son and demands Abraham's complete surrender."
+    },
+    {
+      "pericope_id": "GEN-018",
+      "title": "Final Rest: Successor Secured",
+      "theme": "Sarah's death closes the first promise-bearing era; Rebekah secures the covenant's continuance."
+    },
+    {
+      "pericope_id": "GEN-019",
+      "title": "Esau's Appetite: The Despised Birthright",
+      "theme": "Esau's indulgence in physical appetite at the expense of eternal privilege illustrates the tragedy of temporal choice."
+    },
+    {
+      "pericope_id": "GEN-020",
+      "title": "Jacob's Ladder: Bridging the Gulf",
+      "theme": "Christ as the ladder bridges the gulf created by sin, restoring separated humanity to communion with heaven."
+    },
+    {
+      "pericope_id": "GEN-021",
+      "title": "Laban's Artifice and Polygamy's Wrong",
+      "theme": "Jacob's trials through Laban's deception reveal the spiritual perils of polygamy and human entanglement."
+    },
+    {
+      "pericope_id": "GEN-022",
+      "title": "Peniel: Victory Through Self-Surrender",
+      "theme": "Jacob's wrestling with God's visitor teaches that spiritual victory requires humiliation and complete self-surrender."
+    },
+    {
+      "pericope_id": "GEN-023",
+      "title": "Humbled by Wrong: Purification",
+      "theme": "The Dinah tragedy and its aftermath show Jacob's family must lay off idols and be purified before God renews His covenant."
+    },
+    {
+      "pericope_id": "GEN-024",
+      "title": "Esau's Climax and Closure",
+      "theme": "Esau's genealogical genealogy marks the rejected line's finality, emphasizing covenant inheritance through Jacob alone."
+    },
+    {
+      "pericope_id": "GEN-025",
+      "title": "The Rejection: Joseph as Christ Type",
+      "theme": "Joseph, rejected by his brethren and sold for a small sum, foreshadows Christ's innocent suffering and exaltation."
+    },
+    {
+      "pericope_id": "GEN-026",
+      "title": "Integrity Under Siege: Joseph's Fortification",
+      "theme": "Joseph's early childhood impressions fortified his heart against temptation, demonstrating fixed principles' power."
+    },
+    {
+      "pericope_id": "GEN-027",
+      "title": "Prison Discipline: Prepared for Exaltation",
+      "theme": "Hardship in prison prepares Joseph through obedience to govern wisely, teaching that virtue's reward comes through suffering."
+    },
+    {
+      "pericope_id": "GEN-028",
+      "title": "Elevation: Man in Whom the Spirit of God Is",
+      "theme": "Pharaoh recognizes in Joseph a man filled with God's Spirit, proving that moral worth transcends social standing."
+    },
+    {
+      "pericope_id": "GEN-029",
+      "title": "Testing the Brethren and Reconciliation",
+      "theme": "Joseph's testing of his brothers and their confession reveal that God's providential care overrides human malice."
+    },
+    {
+      "pericope_id": "GEN-030",
+      "title": "Vayechi: The Enduring Promise",
+      "theme": "Jacob's final prophecy and blessing secure the covenant's continuation while warning against instability like Reuben's."
+    }
+  ]
+}
