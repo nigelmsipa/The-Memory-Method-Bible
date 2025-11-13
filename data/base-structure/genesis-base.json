@@ -3,338 +3,1315 @@
   "book_number": 1,
   "testament": "Old",
   "category": "Torah",
-  "total_pericopes": 30,
-  "description": "The Memory Method Bible: Genesis - 30 thematic pericopes optimized for memorization and recall",
-  "pericopes": [
+  "description": "The Memory Method Bible: Genesis - Organized by Themes, Stories, and Scenes for familiarization and optional memorization",
+  "themes": [
     {
-      "pericope_id": "GEN-001",
-      "lore_title": "The Reservoir of Creation: New Order",
-      "chapter_start": 1,
-      "verse_start": 1,
-      "chapter_end": 2,
-      "verse_end": 3,
-      "verse_count": 36,
-      "concept": "creation_and_order",
-      "tags": ["creation", "god_work", "order", "sabbath"]
+      "theme_id": 1,
+      "theme_name": "Primeval History",
+      "chapter_range": "1-11",
+      "theme_summary": "Creation, Fall, Moral Decline, Judgment, Covenant, Law, and Babel",
+      "stories": [
+        {
+          "story_id": "GEN-1-1",
+          "story_title": "The Reservoir of Creation: New Order",
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 3,
+          "verse_count": 36,
+          "concept": "creation_and_order",
+          "tags": ["creation", "god_work", "order", "sabbath"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-1-1",
+              "scene_name": "Day 1 - Light",
+              "chapter_start": 1,
+              "verse_start": 1,
+              "chapter_end": 1,
+              "verse_end": 5,
+              "verse_count": 5
+            },
+            {
+              "scene_id": "GEN-1-1-2",
+              "scene_name": "Day 2 - Sky and Waters",
+              "chapter_start": 1,
+              "verse_start": 6,
+              "chapter_end": 1,
+              "verse_end": 8,
+              "verse_count": 3
+            },
+            {
+              "scene_id": "GEN-1-1-3",
+              "scene_name": "Day 3 - Land and Vegetation",
+              "chapter_start": 1,
+              "verse_start": 9,
+              "chapter_end": 1,
+              "verse_end": 13,
+              "verse_count": 5
+            },
+            {
+              "scene_id": "GEN-1-1-4",
+              "scene_name": "Day 4 - Lights in the Sky",
+              "chapter_start": 1,
+              "verse_start": 14,
+              "chapter_end": 1,
+              "verse_end": 19,
+              "verse_count": 6
+            },
+            {
+              "scene_id": "GEN-1-1-5",
+              "scene_name": "Day 5 - Sea Creatures and Birds",
+              "chapter_start": 1,
+              "verse_start": 20,
+              "chapter_end": 1,
+              "verse_end": 23,
+              "verse_count": 4
+            },
+            {
+              "scene_id": "GEN-1-1-6",
+              "scene_name": "Day 6 - Animals and Mankind",
+              "chapter_start": 1,
+              "verse_start": 24,
+              "chapter_end": 1,
+              "verse_end": 31,
+              "verse_count": 8
+            },
+            {
+              "scene_id": "GEN-1-1-7",
+              "scene_name": "Day 7 - Rest and Sanctification",
+              "chapter_start": 2,
+              "verse_start": 1,
+              "chapter_end": 2,
+              "verse_end": 3,
+              "verse_count": 3
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-2",
+          "story_title": "Eden: The Sovereign's Test & Labor",
+          "chapter_start": 2,
+          "verse_start": 4,
+          "chapter_end": 2,
+          "verse_end": 25,
+          "verse_count": 22,
+          "concept": "eden_and_humanity",
+          "tags": ["garden", "adam", "labor", "authority"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-2-1",
+              "scene_name": "Creation of Man from Dust",
+              "chapter_start": 2,
+              "verse_start": 4,
+              "chapter_end": 2,
+              "verse_end": 7,
+              "verse_count": 4
+            },
+            {
+              "scene_id": "GEN-1-2-2",
+              "scene_name": "The Garden and the Trees",
+              "chapter_start": 2,
+              "verse_start": 8,
+              "chapter_end": 2,
+              "verse_end": 14,
+              "verse_count": 7
+            },
+            {
+              "scene_id": "GEN-1-2-3",
+              "scene_name": "Man's Commission and Command",
+              "chapter_start": 2,
+              "verse_start": 15,
+              "chapter_end": 2,
+              "verse_end": 17,
+              "verse_count": 3
+            },
+            {
+              "scene_id": "GEN-1-2-4",
+              "scene_name": "Creation of Woman",
+              "chapter_start": 2,
+              "verse_start": 18,
+              "chapter_end": 2,
+              "verse_end": 25,
+              "verse_count": 8
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-3",
+          "story_title": "The Golden Chain Broken: Instant Surety",
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 24,
+          "verse_count": 24,
+          "concept": "fall_and_ransom",
+          "tags": ["fall", "serpent", "curse", "christ_promise"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-3-1",
+              "scene_name": "The Temptation",
+              "chapter_start": 3,
+              "verse_start": 1,
+              "chapter_end": 3,
+              "verse_end": 7,
+              "verse_count": 7
+            },
+            {
+              "scene_id": "GEN-1-3-2",
+              "scene_name": "The Judgment",
+              "chapter_start": 3,
+              "verse_start": 8,
+              "chapter_end": 3,
+              "verse_end": 19,
+              "verse_count": 12
+            },
+            {
+              "scene_id": "GEN-1-3-3",
+              "scene_name": "The Promise and Expulsion",
+              "chapter_start": 3,
+              "verse_start": 20,
+              "chapter_end": 3,
+              "verse_end": 24,
+              "verse_count": 5
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-4",
+          "story_title": "Succession of Falls: Cain's Brand",
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 26,
+          "verse_count": 26,
+          "concept": "moral_decline_cain",
+          "tags": ["cain", "abel", "murder", "moral_decay"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-4-1",
+              "scene_name": "Cain and Abel's Offerings",
+              "chapter_start": 4,
+              "verse_start": 1,
+              "chapter_end": 4,
+              "verse_end": 7,
+              "verse_count": 7
+            },
+            {
+              "scene_id": "GEN-1-4-2",
+              "scene_name": "The Murder",
+              "chapter_start": 4,
+              "verse_start": 8,
+              "chapter_end": 4,
+              "verse_end": 15,
+              "verse_count": 8
+            },
+            {
+              "scene_id": "GEN-1-4-3",
+              "scene_name": "Cain's Line and Seth",
+              "chapter_start": 4,
+              "verse_start": 16,
+              "chapter_end": 4,
+              "verse_end": 26,
+              "verse_count": 11
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-5",
+          "story_title": "The Longevity of the First Age",
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 8,
+          "verse_count": 66,
+          "concept": "antediluvian_genealogy",
+          "tags": ["genealogy", "enoch", "longevity", "faith"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-5-1",
+              "scene_name": "Adam to Enoch: The Living Genealogy",
+              "chapter_start": 5,
+              "verse_start": 1,
+              "chapter_end": 5,
+              "verse_end": 24,
+              "verse_count": 24
+            },
+            {
+              "scene_id": "GEN-1-5-2",
+              "scene_name": "Enoch's Translation",
+              "chapter_start": 5,
+              "verse_start": 21,
+              "chapter_end": 5,
+              "verse_end": 24,
+              "verse_count": 4
+            },
+            {
+              "scene_id": "GEN-1-5-3",
+              "scene_name": "Noah and Rising Corruption",
+              "chapter_start": 5,
+              "verse_start": 25,
+              "chapter_end": 6,
+              "verse_end": 8,
+              "verse_count": 18
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-6",
+          "story_title": "The Great Art Perishes: Noah's Ark",
+          "chapter_start": 6,
+          "verse_start": 9,
+          "chapter_end": 7,
+          "verse_end": 24,
+          "verse_count": 64,
+          "concept": "corruption_and_flood",
+          "tags": ["corruption", "noah", "ark", "judgment"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-6-1",
+              "scene_name": "God's Command to Noah",
+              "chapter_start": 6,
+              "verse_start": 9,
+              "chapter_end": 6,
+              "verse_end": 22,
+              "verse_count": 14
+            },
+            {
+              "scene_id": "GEN-1-6-2",
+              "scene_name": "The Flood Begins",
+              "chapter_start": 7,
+              "verse_start": 1,
+              "chapter_end": 7,
+              "verse_end": 12,
+              "verse_count": 12
+            },
+            {
+              "scene_id": "GEN-1-6-3",
+              "scene_name": "The Waters Prevail",
+              "chapter_start": 7,
+              "verse_start": 13,
+              "chapter_end": 7,
+              "verse_end": 24,
+              "verse_count": 12
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-7",
+          "story_title": "The Sign of the Bow: Encompassing Love",
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 17,
+          "verse_count": 45,
+          "concept": "covenant_of_rainbow",
+          "tags": ["rainbow", "covenant", "mercy", "christ"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-7-1",
+              "scene_name": "The Waters Subside",
+              "chapter_start": 8,
+              "verse_start": 1,
+              "chapter_end": 8,
+              "verse_end": 14,
+              "verse_count": 14
+            },
+            {
+              "scene_id": "GEN-1-7-2",
+              "scene_name": "Noah's Sacrifice and God's Covenant",
+              "chapter_start": 8,
+              "verse_start": 15,
+              "chapter_end": 9,
+              "verse_end": 17,
+              "verse_count": 18
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-8",
+          "story_title": "Accountability & Divine Sovereignty",
+          "chapter_start": 9,
+          "verse_start": 18,
+          "chapter_end": 10,
+          "verse_end": 32,
+          "verse_count": 47,
+          "concept": "law_and_sovereignty",
+          "tags": ["murder_law", "accountability", "divine_control"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-8-1",
+              "scene_name": "Ham's Sin and the Curse",
+              "chapter_start": 9,
+              "verse_start": 18,
+              "chapter_end": 9,
+              "verse_end": 29,
+              "verse_count": 12
+            },
+            {
+              "scene_id": "GEN-1-8-2",
+              "scene_name": "The Table of Nations",
+              "chapter_start": 10,
+              "verse_start": 1,
+              "chapter_end": 10,
+              "verse_end": 32,
+              "verse_count": 32
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-9",
+          "story_title": "Babel: Confederacy of Rebellion",
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 26,
+          "verse_count": 26,
+          "concept": "babel_and_rebellion",
+          "tags": ["babel", "rebellion", "self_exaltation", "judgment"],
+          "scenes": [
+            {
+              "scene_id": "GEN-1-9-1",
+              "scene_name": "One Language and One Speech",
+              "chapter_start": 11,
+              "verse_start": 1,
+              "chapter_end": 11,
+              "verse_end": 4,
+              "verse_count": 4
+            },
+            {
+              "scene_id": "GEN-1-9-2",
+              "scene_name": "The Confusion of Tongues",
+              "chapter_start": 11,
+              "verse_start": 5,
+              "chapter_end": 11,
+              "verse_end": 9,
+              "verse_count": 5
+            },
+            {
+              "scene_id": "GEN-1-9-3",
+              "scene_name": "Shem's Genealogy",
+              "chapter_start": 11,
+              "verse_start": 10,
+              "chapter_end": 11,
+              "verse_end": 26,
+              "verse_count": 17
+            }
+          ]
+        }
+      ]
     },
     {
-      "pericope_id": "GEN-002",
-      "lore_title": "Eden: The Sovereign's Test & Labor",
-      "chapter_start": 2,
-      "verse_start": 4,
-      "chapter_end": 2,
-      "verse_end": 25,
-      "verse_count": 22,
-      "concept": "eden_and_humanity",
-      "tags": ["garden", "adam", "labor", "authority"]
+      "theme_id": 2,
+      "theme_name": "Abraham Cycle",
+      "chapter_range": "11:27-25:18",
+      "theme_summary": "The Call, Covenant, Tests, and Closure of Abraham",
+      "stories": [
+        {
+          "story_id": "GEN-2-1",
+          "story_title": "The Call: Separation and Naked Promise",
+          "chapter_start": 11,
+          "verse_start": 27,
+          "chapter_end": 12,
+          "verse_end": 9,
+          "verse_count": 20,
+          "concept": "abraham_call",
+          "tags": ["abraham", "call", "separation", "promise"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-1-1",
+              "scene_name": "Terah's Family and Death",
+              "chapter_start": 11,
+              "verse_start": 27,
+              "chapter_end": 11,
+              "verse_end": 32,
+              "verse_count": 6
+            },
+            {
+              "scene_id": "GEN-2-1-2",
+              "scene_name": "God's Call to Abram",
+              "chapter_start": 12,
+              "verse_start": 1,
+              "chapter_end": 12,
+              "verse_end": 9,
+              "verse_count": 9
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-2",
+          "story_title": "Lot's Choice: Temporal vs. Spiritual Advantage",
+          "chapter_start": 12,
+          "verse_start": 10,
+          "chapter_end": 13,
+          "verse_end": 18,
+          "verse_count": 33,
+          "concept": "lots_choice",
+          "tags": ["lot", "sodom", "choice", "consequence"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-2-1",
+              "scene_name": "Famine in Canaan",
+              "chapter_start": 12,
+              "verse_start": 10,
+              "chapter_end": 12,
+              "verse_end": 20,
+              "verse_count": 11
+            },
+            {
+              "scene_id": "GEN-2-2-2",
+              "scene_name": "Separation from Lot",
+              "chapter_start": 13,
+              "verse_start": 1,
+              "chapter_end": 13,
+              "verse_end": 18,
+              "verse_count": 18
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-3",
+          "story_title": "Melchizedek: Christ's Representative",
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 24,
+          "verse_count": 24,
+          "concept": "melchizedek",
+          "tags": ["melchizedek", "tithe", "christ", "priesthood"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-3-1",
+              "scene_name": "The War of the Kings",
+              "chapter_start": 14,
+              "verse_start": 1,
+              "chapter_end": 14,
+              "verse_end": 12,
+              "verse_count": 12
+            },
+            {
+              "scene_id": "GEN-2-3-2",
+              "scene_name": "Abram's Rescue and Melchizedek's Blessing",
+              "chapter_start": 14,
+              "verse_start": 13,
+              "chapter_end": 14,
+              "verse_end": 24,
+              "verse_count": 12
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-4",
+          "story_title": "Covenant of Pieces: Delayed Iniquity",
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 21,
+          "verse_count": 21,
+          "concept": "covenant_pieces",
+          "tags": ["covenant", "amorites", "judgment", "mercy"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-4-1",
+              "scene_name": "God's Assurance to Abram",
+              "chapter_start": 15,
+              "verse_start": 1,
+              "chapter_end": 15,
+              "verse_end": 6,
+              "verse_count": 6
+            },
+            {
+              "scene_id": "GEN-2-4-2",
+              "scene_name": "The Covenant Ceremony",
+              "chapter_start": 15,
+              "verse_start": 7,
+              "chapter_end": 15,
+              "verse_end": 21,
+              "verse_count": 15
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-5",
+          "story_title": "Hagar: Human Schemes vs. Divine Plan",
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 27,
+          "verse_count": 44,
+          "concept": "hagar_ishmael",
+          "tags": ["hagar", "ishmael", "circumcision", "covenant"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-5-1",
+              "scene_name": "Sarai's Plan with Hagar",
+              "chapter_start": 16,
+              "verse_start": 1,
+              "chapter_end": 16,
+              "verse_end": 6,
+              "verse_count": 6
+            },
+            {
+              "scene_id": "GEN-2-5-2",
+              "scene_name": "Hagar's Encounter and Ishmael's Birth",
+              "chapter_start": 16,
+              "verse_start": 7,
+              "chapter_end": 16,
+              "verse_end": 16,
+              "verse_count": 10
+            },
+            {
+              "scene_id": "GEN-2-5-3",
+              "scene_name": "The Covenant of Circumcision",
+              "chapter_start": 17,
+              "verse_start": 1,
+              "chapter_end": 17,
+              "verse_end": 27,
+              "verse_count": 27
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-6",
+          "story_title": "Hospitality and the Boundary of Mercy",
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 28,
+          "verse_count": 67,
+          "concept": "sodom_judgment",
+          "tags": ["sodom", "hospitality", "mercy", "judgment"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-6-1",
+              "scene_name": "The Visitors",
+              "chapter_start": 18,
+              "verse_start": 1,
+              "chapter_end": 18,
+              "verse_end": 15,
+              "verse_count": 15
+            },
+            {
+              "scene_id": "GEN-2-6-2",
+              "scene_name": "Abraham's Intercession",
+              "chapter_start": 18,
+              "verse_start": 16,
+              "chapter_end": 18,
+              "verse_end": 33,
+              "verse_count": 18
+            },
+            {
+              "scene_id": "GEN-2-6-3",
+              "scene_name": "Sodom's Judgment",
+              "chapter_start": 19,
+              "verse_start": 1,
+              "chapter_end": 19,
+              "verse_end": 28,
+              "verse_count": 28
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-7",
+          "story_title": "Lot's Paralysis and Escape",
+          "chapter_start": 19,
+          "verse_start": 29,
+          "chapter_end": 21,
+          "verse_end": 34,
+          "verse_count": 77,
+          "concept": "lots_escape_isaac",
+          "tags": ["lot", "escape", "isaac_born", "covenant"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-7-1",
+              "scene_name": "Lot's Escape and Moab and Ammon",
+              "chapter_start": 19,
+              "verse_start": 29,
+              "chapter_end": 19,
+              "verse_end": 38,
+              "verse_count": 10
+            },
+            {
+              "scene_id": "GEN-2-7-2",
+              "scene_name": "Abraham in Gerar",
+              "chapter_start": 20,
+              "verse_start": 1,
+              "chapter_end": 20,
+              "verse_end": 18,
+              "verse_count": 18
+            },
+            {
+              "scene_id": "GEN-2-7-3",
+              "scene_name": "Isaac Is Born",
+              "chapter_start": 21,
+              "verse_start": 1,
+              "chapter_end": 21,
+              "verse_end": 7,
+              "verse_count": 7
+            },
+            {
+              "scene_id": "GEN-2-7-4",
+              "scene_name": "Hagar Cast Out",
+              "chapter_start": 21,
+              "verse_start": 8,
+              "chapter_end": 21,
+              "verse_end": 21,
+              "verse_count": 14
+            },
+            {
+              "scene_id": "GEN-2-7-5",
+              "scene_name": "Covenant at Beersheba",
+              "chapter_start": 21,
+              "verse_start": 22,
+              "chapter_end": 21,
+              "verse_end": 34,
+              "verse_count": 13
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-8",
+          "story_title": "The Akedah: Figure of Self-Denial",
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 19,
+          "verse_count": 19,
+          "concept": "akedah_isaac_sacrifice",
+          "tags": ["akedah", "isaac", "sacrifice", "faith", "christ"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-8-1",
+              "scene_name": "God's Command",
+              "chapter_start": 22,
+              "verse_start": 1,
+              "chapter_end": 22,
+              "verse_end": 2,
+              "verse_count": 2
+            },
+            {
+              "scene_id": "GEN-2-8-2",
+              "scene_name": "The Journey and the Test",
+              "chapter_start": 22,
+              "verse_start": 3,
+              "chapter_end": 22,
+              "verse_end": 10,
+              "verse_count": 8
+            },
+            {
+              "scene_id": "GEN-2-8-3",
+              "scene_name": "The Provision",
+              "chapter_start": 22,
+              "verse_start": 11,
+              "chapter_end": 22,
+              "verse_end": 19,
+              "verse_count": 9
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-9",
+          "story_title": "Final Rest: Successor Secured",
+          "chapter_start": 22,
+          "verse_start": 20,
+          "chapter_end": 25,
+          "verse_end": 18,
+          "verse_count": 75,
+          "concept": "sarah_rebekah_closure",
+          "tags": ["sarah_death", "rebekah", "successor", "covenant"],
+          "scenes": [
+            {
+              "scene_id": "GEN-2-9-1",
+              "scene_name": "Abraham's Relatives",
+              "chapter_start": 22,
+              "verse_start": 20,
+              "chapter_end": 22,
+              "verse_end": 24,
+              "verse_count": 5
+            },
+            {
+              "scene_id": "GEN-2-9-2",
+              "scene_name": "Sarah's Death and Burial",
+              "chapter_start": 23,
+              "verse_start": 1,
+              "chapter_end": 23,
+              "verse_end": 20,
+              "verse_count": 20
+            },
+            {
+              "scene_id": "GEN-2-9-3",
+              "scene_name": "Bride for Isaac",
+              "chapter_start": 24,
+              "verse_start": 1,
+              "chapter_end": 24,
+              "verse_end": 67,
+              "verse_count": 67
+            },
+            {
+              "scene_id": "GEN-2-9-4",
+              "scene_name": "Abraham's Children and Death",
+              "chapter_start": 25,
+              "verse_start": 1,
+              "chapter_end": 25,
+              "verse_end": 18,
+              "verse_count": 18
+            }
+          ]
+        }
+      ]
     },
     {
-      "pericope_id": "GEN-003",
-      "lore_title": "The Golden Chain Broken: Instant Surety",
-      "chapter_start": 3,
-      "verse_start": 1,
-      "chapter_end": 3,
-      "verse_end": 24,
-      "verse_count": 24,
-      "concept": "fall_and_ransom",
-      "tags": ["fall", "serpent", "curse", "christ_promise"]
+      "theme_id": 3,
+      "theme_name": "Isaac & Jacob Cycle",
+      "chapter_range": "25:19-36:43",
+      "theme_summary": "The Twins, Jacob's Struggles, Covenant Renewal, and Esau's Rejection",
+      "stories": [
+        {
+          "story_id": "GEN-3-1",
+          "story_title": "Esau's Appetite: The Despised Birthright",
+          "chapter_start": 25,
+          "verse_start": 19,
+          "chapter_end": 28,
+          "verse_end": 9,
+          "verse_count": 73,
+          "concept": "esau_jacob_birthright",
+          "tags": ["esau", "jacob", "birthright", "appetite", "consequence"],
+          "scenes": [
+            {
+              "scene_id": "GEN-3-1-1",
+              "scene_name": "The Twins Are Born",
+              "chapter_start": 25,
+              "verse_start": 19,
+              "chapter_end": 25,
+              "verse_end": 26,
+              "verse_count": 8
+            },
+            {
+              "scene_id": "GEN-3-1-2",
+              "scene_name": "Esau Sells His Birthright",
+              "chapter_start": 25,
+              "verse_start": 27,
+              "chapter_end": 25,
+              "verse_end": 34,
+              "verse_count": 8
+            },
+            {
+              "scene_id": "GEN-3-1-3",
+              "scene_name": "Isaac in Gerar",
+              "chapter_start": 26,
+              "verse_start": 1,
+              "chapter_end": 26,
+              "verse_end": 35,
+              "verse_count": 35
+            },
+            {
+              "scene_id": "GEN-3-1-4",
+              "scene_name": "Jacob Deceives Isaac",
+              "chapter_start": 27,
+              "verse_start": 1,
+              "chapter_end": 27,
+              "verse_end": 40,
+              "verse_count": 40
+            },
+            {
+              "scene_id": "GEN-3-1-5",
+              "scene_name": "Jacob Flees to Laban",
+              "chapter_start": 27,
+              "verse_start": 41,
+              "chapter_end": 28,
+              "verse_end": 9,
+              "verse_count": 14
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-3-2",
+          "story_title": "Jacob's Ladder: Bridging the Gulf",
+          "chapter_start": 28,
+          "verse_start": 10,
+          "chapter_end": 30,
+          "verse_end": 24,
+          "verse_count": 60,
+          "concept": "jacobs_ladder",
+          "tags": ["jacob", "ladder", "bethel", "christ", "covenant"],
+          "scenes": [
+            {
+              "scene_id": "GEN-3-2-1",
+              "scene_name": "Jacob's Vision at Bethel",
+              "chapter_start": 28,
+              "verse_start": 10,
+              "chapter_end": 28,
+              "verse_end": 22,
+              "verse_count": 13
+            },
+            {
+              "scene_id": "GEN-3-2-2",
+              "scene_name": "Jacob Meets Rachel",
+              "chapter_start": 29,
+              "verse_start": 1,
+              "chapter_end": 29,
+              "verse_end": 14,
+              "verse_count": 14
+            },
+            {
+              "scene_id": "GEN-3-2-3",
+              "scene_name": "Jacob's Work for Rachel",
+              "chapter_start": 29,
+              "verse_start": 15,
+              "chapter_end": 29,
+              "verse_end": 30,
+              "verse_count": 16
+            },
+            {
+              "scene_id": "GEN-3-2-4",
+              "scene_name": "Children Are Born",
+              "chapter_start": 29,
+              "verse_start": 31,
+              "chapter_end": 30,
+              "verse_end": 24,
+              "verse_count": 20
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-3-3",
+          "story_title": "Laban's Artifice and Polygamy's Wrong",
+          "chapter_start": 30,
+          "verse_start": 25,
+          "chapter_end": 31,
+          "verse_end": 55,
+          "verse_count": 77,
+          "concept": "laban_polygamy",
+          "tags": ["laban", "polygamy", "trials", "deception"],
+          "scenes": [
+            {
+              "scene_id": "GEN-3-3-1",
+              "scene_name": "Jacob's Agreement with Laban",
+              "chapter_start": 30,
+              "verse_start": 25,
+              "chapter_end": 30,
+              "verse_end": 36,
+              "verse_count": 12
+            },
+            {
+              "scene_id": "GEN-3-3-2",
+              "scene_name": "Jacob's Prosperity",
+              "chapter_start": 30,
+              "verse_start": 37,
+              "chapter_end": 30,
+              "verse_end": 43,
+              "verse_count": 7
+            },
+            {
+              "scene_id": "GEN-3-3-3",
+              "scene_name": "The Flight from Laban",
+              "chapter_start": 31,
+              "verse_start": 1,
+              "chapter_end": 31,
+              "verse_end": 21,
+              "verse_count": 21
+            },
+            {
+              "scene_id": "GEN-3-3-4",
+              "scene_name": "Laban Pursues and They Make Covenant",
+              "chapter_start": 31,
+              "verse_start": 22,
+              "chapter_end": 31,
+              "verse_end": 55,
+              "verse_count": 34
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-3-4",
+          "story_title": "Peniel: Victory Through Self-Surrender",
+          "chapter_start": 32,
+          "verse_start": 1,
+          "chapter_end": 33,
+          "verse_end": 20,
+          "verse_count": 54,
+          "concept": "peniel_wrestling",
+          "tags": ["peniel", "wrestling", "god", "surrender", "victory"],
+          "scenes": [
+            {
+              "scene_id": "GEN-3-4-1",
+              "scene_name": "Jacob Prepares for Esau",
+              "chapter_start": 32,
+              "verse_start": 1,
+              "chapter_end": 32,
+              "verse_end": 21,
+              "verse_count": 21
+            },
+            {
+              "scene_id": "GEN-3-4-2",
+              "scene_name": "The Wrestling at Peniel",
+              "chapter_start": 32,
+              "verse_start": 22,
+              "chapter_end": 32,
+              "verse_end": 32,
+              "verse_count": 11
+            },
+            {
+              "scene_id": "GEN-3-4-3",
+              "scene_name": "The Reconciliation with Esau",
+              "chapter_start": 33,
+              "verse_start": 1,
+              "chapter_end": 33,
+              "verse_end": 20,
+              "verse_count": 20
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-3-5",
+          "story_title": "Humbled by Wrong: Purification",
+          "chapter_start": 33,
+          "verse_start": 21,
+          "chapter_end": 35,
+          "verse_end": 29,
+          "verse_count": 42,
+          "concept": "dinah_cleansing",
+          "tags": ["dinah", "shechem", "purification", "humbling"],
+          "scenes": [
+            {
+              "scene_id": "GEN-3-5-1",
+              "scene_name": "The Dinah Tragedy",
+              "chapter_start": 33,
+              "verse_start": 21,
+              "chapter_end": 34,
+              "verse_end": 31,
+              "verse_count": 36
+            },
+            {
+              "scene_id": "GEN-3-5-2",
+              "scene_name": "Purification and Covenant Renewal",
+              "chapter_start": 35,
+              "verse_start": 1,
+              "chapter_end": 35,
+              "verse_end": 15,
+              "verse_count": 15
+            },
+            {
+              "scene_id": "GEN-3-5-3",
+              "scene_name": "Benjamin's Birth and Isaac's Death",
+              "chapter_start": 35,
+              "verse_start": 16,
+              "chapter_end": 35,
+              "verse_end": 29,
+              "verse_count": 14
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-3-6",
+          "story_title": "Esau's Climax and Closure",
+          "chapter_start": 36,
+          "verse_start": 1,
+          "chapter_end": 36,
+          "verse_end": 43,
+          "verse_count": 43,
+          "concept": "esau_genealogy_closure",
+          "tags": ["esau", "genealogy", "rejected_line", "closure"],
+          "scenes": [
+            {
+              "scene_id": "GEN-3-6-1",
+              "scene_name": "Esau's Departure",
+              "chapter_start": 36,
+              "verse_start": 1,
+              "chapter_end": 36,
+              "verse_end": 8,
+              "verse_count": 8
+            },
+            {
+              "scene_id": "GEN-3-6-2",
+              "scene_name": "Esau's Descendants",
+              "chapter_start": 36,
+              "verse_start": 9,
+              "chapter_end": 36,
+              "verse_end": 43,
+              "verse_count": 35
+            }
+          ]
+        }
+      ]
     },
     {
-      "pericope_id": "GEN-004",
-      "lore_title": "Succession of Falls: Cain's Brand",
-      "chapter_start": 4,
-      "verse_start": 1,
-      "chapter_end": 4,
-      "verse_end": 26,
-      "verse_count": 26,
-      "concept": "moral_decline_cain",
-      "tags": ["cain", "abel", "murder", "moral_decay"]
-    },
-    {
-      "pericope_id": "GEN-005",
-      "lore_title": "The Longevity of the First Age",
-      "chapter_start": 5,
-      "verse_start": 1,
-      "chapter_end": 6,
-      "verse_end": 8,
-      "verse_count": 66,
-      "concept": "antediluvian_genealogy",
-      "tags": ["genealogy", "enoch", "longevity", "faith"]
-    },
-    {
-      "pericope_id": "GEN-006",
-      "lore_title": "The Great Art Perishes: Noah's Ark",
-      "chapter_start": 6,
-      "verse_start": 9,
-      "chapter_end": 7,
-      "verse_end": 24,
-      "verse_count": 64,
-      "concept": "corruption_and_flood",
-      "tags": ["corruption", "noah", "ark", "judgment"]
-    },
-    {
-      "pericope_id": "GEN-007",
-      "lore_title": "The Sign of the Bow: Encompassing Love",
-      "chapter_start": 8,
-      "verse_start": 1,
-      "chapter_end": 9,
-      "verse_end": 17,
-      "verse_count": 45,
-      "concept": "covenant_of_rainbow",
-      "tags": ["rainbow", "covenant", "mercy", "christ"]
-    },
-    {
-      "pericope_id": "GEN-008",
-      "lore_title": "Accountability & Divine Sovereignty",
-      "chapter_start": 9,
-      "verse_start": 18,
-      "chapter_end": 10,
-      "verse_end": 32,
-      "verse_count": 47,
-      "concept": "law_and_sovereignty",
-      "tags": ["murder_law", "accountability", "divine_control"]
-    },
-    {
-      "pericope_id": "GEN-009",
-      "lore_title": "Babel: Confederacy of Rebellion",
-      "chapter_start": 11,
-      "verse_start": 1,
-      "chapter_end": 11,
-      "verse_end": 26,
-      "verse_count": 26,
-      "concept": "babel_and_rebellion",
-      "tags": ["babel", "rebellion", "self_exaltation", "judgment"]
-    },
-    {
-      "pericope_id": "GEN-010",
-      "lore_title": "The Call: Separation and Naked Promise",
-      "chapter_start": 11,
-      "verse_start": 27,
-      "chapter_end": 12,
-      "verse_end": 9,
-      "verse_count": 20,
-      "concept": "abraham_call",
-      "tags": ["abraham", "call", "separation", "promise"]
-    },
-    {
-      "pericope_id": "GEN-011",
-      "lore_title": "Lot's Choice: Temporal vs. Spiritual Advantage",
-      "chapter_start": 12,
-      "verse_start": 10,
-      "chapter_end": 13,
-      "verse_end": 18,
-      "verse_count": 33,
-      "concept": "lots_choice",
-      "tags": ["lot", "sodom", "choice", "consequence"]
-    },
-    {
-      "pericope_id": "GEN-012",
-      "lore_title": "Melchizedek: Christ's Representative",
-      "chapter_start": 14,
-      "verse_start": 1,
-      "chapter_end": 14,
-      "verse_end": 24,
-      "verse_count": 24,
-      "concept": "melchizedek",
-      "tags": ["melchizedek", "tithe", "christ", "priesthood"]
-    },
-    {
-      "pericope_id": "GEN-013",
-      "lore_title": "Covenant of Pieces: Delayed Iniquity",
-      "chapter_start": 15,
-      "verse_start": 1,
-      "chapter_end": 15,
-      "verse_end": 21,
-      "verse_count": 21,
-      "concept": "covenant_pieces",
-      "tags": ["covenant", "amorites", "judgment", "mercy"]
-    },
-    {
-      "pericope_id": "GEN-014",
-      "lore_title": "Hagar: Human Schemes vs. Divine Plan",
-      "chapter_start": 16,
-      "verse_start": 1,
-      "chapter_end": 17,
-      "verse_end": 27,
-      "verse_count": 44,
-      "concept": "hagar_ishmael",
-      "tags": ["hagar", "ishmael", "circumcision", "covenant"]
-    },
-    {
-      "pericope_id": "GEN-015",
-      "lore_title": "Hospitality and the Boundary of Mercy",
-      "chapter_start": 18,
-      "verse_start": 1,
-      "chapter_end": 19,
-      "verse_end": 28,
-      "verse_count": 67,
-      "concept": "sodom_judgment",
-      "tags": ["sodom", "hospitality", "mercy", "judgment"]
-    },
-    {
-      "pericope_id": "GEN-016",
-      "lore_title": "Lot's Paralysis and Escape",
-      "chapter_start": 19,
-      "verse_start": 29,
-      "chapter_end": 21,
-      "verse_end": 34,
-      "verse_count": 77,
-      "concept": "lots_escape_isaac",
-      "tags": ["lot", "escape", "isaac_born", "covenant"]
-    },
-    {
-      "pericope_id": "GEN-017",
-      "lore_title": "The Akedah: Figure of Self-Denial",
-      "chapter_start": 22,
-      "verse_start": 1,
-      "chapter_end": 22,
-      "verse_end": 19,
-      "verse_count": 19,
-      "concept": "akedah_isaac_sacrifice",
-      "tags": ["akedah", "isaac", "sacrifice", "faith", "christ"]
-    },
-    {
-      "pericope_id": "GEN-018",
-      "lore_title": "Final Rest: Successor Secured",
-      "chapter_start": 22,
-      "verse_start": 20,
-      "chapter_end": 25,
-      "verse_end": 18,
-      "verse_count": 75,
-      "concept": "sarah_rebekah_closure",
-      "tags": ["sarah_death", "rebekah", "successor", "covenant"]
-    },
-    {
-      "pericope_id": "GEN-019",
-      "lore_title": "Esau's Appetite: The Despised Birthright",
-      "chapter_start": 25,
-      "verse_start": 19,
-      "chapter_end": 28,
-      "verse_end": 9,
-      "verse_count": 73,
-      "concept": "esau_jacob_birthright",
-      "tags": ["esau", "jacob", "birthright", "appetite", "consequence"]
-    },
-    {
-      "pericope_id": "GEN-020",
-      "lore_title": "Jacob's Ladder: Bridging the Gulf",
-      "chapter_start": 28,
-      "verse_start": 10,
-      "chapter_end": 30,
-      "verse_end": 24,
-      "verse_count": 60,
-      "concept": "jacobs_ladder",
-      "tags": ["jacob", "ladder", "bethel", "christ", "covenant"]
-    },
-    {
-      "pericope_id": "GEN-021",
-      "lore_title": "Laban's Artifice and Polygamy's Wrong",
-      "chapter_start": 30,
-      "verse_start": 25,
-      "chapter_end": 31,
-      "verse_end": 55,
-      "verse_count": 77,
-      "concept": "laban_polygamy",
-      "tags": ["laban", "polygamy", "trials", "deception"]
-    },
-    {
-      "pericope_id": "GEN-022",
-      "lore_title": "Peniel: Victory Through Self-Surrender",
-      "chapter_start": 32,
-      "verse_start": 1,
-      "chapter_end": 33,
-      "verse_end": 20,
-      "verse_count": 54,
-      "concept": "peniel_wrestling",
-      "tags": ["peniel", "wrestling", "god", "surrender", "victory"]
-    },
-    {
-      "pericope_id": "GEN-023",
-      "lore_title": "Humbled by Wrong: Purification",
-      "chapter_start": 33,
-      "verse_start": 21,
-      "chapter_end": 35,
-      "verse_end": 29,
-      "verse_count": 42,
-      "concept": "dinah_cleansing",
-      "tags": ["dinah", "shechem", "purification", "humbling"]
-    },
-    {
-      "pericope_id": "GEN-024",
-      "lore_title": "Esau's Climax and Closure",
-      "chapter_start": 36,
-      "verse_start": 1,
-      "chapter_end": 36,
-      "verse_end": 43,
-      "verse_count": 43,
-      "concept": "esau_genealogy_closure",
-      "tags": ["esau", "genealogy", "rejected_line", "closure"]
-    },
-    {
-      "pericope_id": "GEN-025",
-      "lore_title": "The Rejection: Joseph as Christ Type",
-      "chapter_start": 37,
-      "verse_start": 1,
-      "chapter_end": 37,
-      "verse_end": 36,
-      "verse_count": 36,
-      "concept": "joseph_rejection",
-      "tags": ["joseph", "rejection", "christ_type", "brothers"]
-    },
-    {
-      "pericope_id": "GEN-026",
-      "lore_title": "Integrity Under Siege: Joseph's Fortification",
-      "chapter_start": 38,
-      "verse_start": 1,
-      "chapter_end": 39,
-      "verse_end": 23,
-      "verse_count": 43,
-      "concept": "joseph_integrity_potiphar",
-      "tags": ["joseph", "integrity", "temptation", "virtue"]
-    },
-    {
-      "pericope_id": "GEN-027",
-      "lore_title": "Prison Discipline: Prepared for Exaltation",
-      "chapter_start": 39,
-      "verse_start": 24,
-      "chapter_end": 40,
-      "verse_end": 23,
-      "verse_count": 36,
-      "concept": "joseph_prison",
-      "tags": ["joseph", "prison", "discipline", "preparation"]
-    },
-    {
-      "pericope_id": "GEN-028",
-      "lore_title": "Elevation: Man in Whom the Spirit of God Is",
-      "chapter_start": 41,
-      "verse_start": 1,
-      "chapter_end": 44,
-      "verse_end": 17,
-      "verse_count": 136,
-      "concept": "joseph_elevation_pharaoh",
-      "tags": ["joseph", "elevation", "pharaoh", "spirit_of_god"]
-    },
-    {
-      "pericope_id": "GEN-029",
-      "lore_title": "Testing the Brethren and Reconciliation",
-      "chapter_start": 44,
-      "verse_start": 18,
-      "chapter_end": 47,
-      "verse_end": 27,
-      "verse_count": 100,
-      "concept": "joseph_tests_reconciliation",
-      "tags": ["joseph", "brothers", "reconciliation", "god_providence"]
-    },
-    {
-      "pericope_id": "GEN-030",
-      "lore_title": "Vayechi: The Enduring Promise",
-      "chapter_start": 47,
-      "verse_start": 28,
-      "chapter_end": 50,
-      "verse_end": 26,
-      "verse_count": 79,
-      "concept": "jacob_prophecy_closure",
-      "tags": ["jacob", "prophecy", "blessing", "promise", "covenant"]
+      "theme_id": 4,
+      "theme_name": "Joseph Cycle",
+      "chapter_range": "37-50",
+      "theme_summary": "Rejection, Testing, Elevation, and Divine Providence",
+      "stories": [
+        {
+          "story_id": "GEN-4-1",
+          "story_title": "The Rejection: Joseph as Christ Type",
+          "chapter_start": 37,
+          "verse_start": 1,
+          "chapter_end": 37,
+          "verse_end": 36,
+          "verse_count": 36,
+          "concept": "joseph_rejection",
+          "tags": ["joseph", "rejection", "christ_type", "brothers"],
+          "scenes": [
+            {
+              "scene_id": "GEN-4-1-1",
+              "scene_name": "Joseph's Dreams",
+              "chapter_start": 37,
+              "verse_start": 1,
+              "chapter_end": 37,
+              "verse_end": 11,
+              "verse_count": 11
+            },
+            {
+              "scene_id": "GEN-4-1-2",
+              "scene_name": "The Plot and the Sale",
+              "chapter_start": 37,
+              "verse_start": 12,
+              "chapter_end": 37,
+              "verse_end": 36,
+              "verse_count": 25
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-4-2",
+          "story_title": "Integrity Under Siege: Joseph's Fortification",
+          "chapter_start": 38,
+          "verse_start": 1,
+          "chapter_end": 39,
+          "verse_end": 23,
+          "verse_count": 43,
+          "concept": "joseph_integrity_potiphar",
+          "tags": ["joseph", "integrity", "temptation", "virtue"],
+          "scenes": [
+            {
+              "scene_id": "GEN-4-2-1",
+              "scene_name": "Judah and Tamar",
+              "chapter_start": 38,
+              "verse_start": 1,
+              "chapter_end": 38,
+              "verse_end": 30,
+              "verse_count": 30
+            },
+            {
+              "scene_id": "GEN-4-2-2",
+              "scene_name": "Joseph in Potiphar's House",
+              "chapter_start": 39,
+              "verse_start": 1,
+              "chapter_end": 39,
+              "verse_end": 23,
+              "verse_count": 23
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-4-3",
+          "story_title": "Prison Discipline: Prepared for Exaltation",
+          "chapter_start": 39,
+          "verse_start": 24,
+          "chapter_end": 40,
+          "verse_end": 23,
+          "verse_count": 36,
+          "concept": "joseph_prison",
+          "tags": ["joseph", "prison", "discipline", "preparation"],
+          "scenes": [
+            {
+              "scene_id": "GEN-4-3-1",
+              "scene_name": "Joseph Imprisoned",
+              "chapter_start": 39,
+              "verse_start": 24,
+              "chapter_end": 40,
+              "verse_end": 8,
+              "verse_count": 17
+            },
+            {
+              "scene_id": "GEN-4-3-2",
+              "scene_name": "Joseph Interprets Dreams",
+              "chapter_start": 40,
+              "verse_start": 9,
+              "chapter_end": 40,
+              "verse_end": 23,
+              "verse_count": 15
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-4-4",
+          "story_title": "Elevation: Man in Whom the Spirit of God Is",
+          "chapter_start": 41,
+          "verse_start": 1,
+          "chapter_end": 42,
+          "verse_end": 38,
+          "verse_count": 88,
+          "concept": "joseph_elevation_pharaoh",
+          "tags": ["joseph", "elevation", "pharaoh", "spirit_of_god"],
+          "scenes": [
+            {
+              "scene_id": "GEN-4-4-1",
+              "scene_name": "Pharaoh's Dream",
+              "chapter_start": 41,
+              "verse_start": 1,
+              "chapter_end": 41,
+              "verse_end": 36,
+              "verse_count": 36
+            },
+            {
+              "scene_id": "GEN-4-4-2",
+              "scene_name": "Joseph's Elevation and Marriage",
+              "chapter_start": 41,
+              "verse_start": 37,
+              "chapter_end": 41,
+              "verse_end": 57,
+              "verse_count": 21
+            },
+            {
+              "scene_id": "GEN-4-4-3",
+              "scene_name": "The Famine and First Brothers' Visit",
+              "chapter_start": 42,
+              "verse_start": 1,
+              "chapter_end": 42,
+              "verse_end": 38,
+              "verse_count": 38
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-4-5",
+          "story_title": "The Test and Preparation for Reconciliation",
+          "chapter_start": 43,
+          "verse_start": 1,
+          "chapter_end": 44,
+          "verse_end": 34,
+          "verse_count": 66,
+          "concept": "joseph_tests_brothers",
+          "tags": ["joseph", "brothers", "test", "benjmain"],
+          "scenes": [
+            {
+              "scene_id": "GEN-4-5-1",
+              "scene_name": "Benjamin's Inclusion",
+              "chapter_start": 43,
+              "verse_start": 1,
+              "chapter_end": 43,
+              "verse_end": 34,
+              "verse_count": 34
+            },
+            {
+              "scene_id": "GEN-4-5-2",
+              "scene_name": "The Test Unveiled",
+              "chapter_start": 44,
+              "verse_start": 1,
+              "chapter_end": 44,
+              "verse_end": 34,
+              "verse_count": 34
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-4-6",
+          "story_title": "Reconciliation and Divine Intent",
+          "chapter_start": 45,
+          "verse_start": 1,
+          "chapter_end": 47,
+          "verse_end": 27,
+          "verse_count": 90,
+          "concept": "joseph_reconciliation",
+          "tags": ["joseph", "reconciliation", "providence", "family"],
+          "scenes": [
+            {
+              "scene_id": "GEN-4-6-1",
+              "scene_name": "Joseph Reveals Himself",
+              "chapter_start": 45,
+              "verse_start": 1,
+              "chapter_end": 45,
+              "verse_end": 15,
+              "verse_count": 15
+            },
+            {
+              "scene_id": "GEN-4-6-2",
+              "scene_name": "Pharaoh's Welcome and Jacob's Journey",
+              "chapter_start": 45,
+              "verse_start": 16,
+              "chapter_end": 46,
+              "verse_end": 27,
+              "verse_count": 37
+            },
+            {
+              "scene_id": "GEN-4-6-3",
+              "scene_name": "Settlement in Goshen",
+              "chapter_start": 47,
+              "verse_start": 1,
+              "chapter_end": 47,
+              "verse_end": 27,
+              "verse_count": 27
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-4-7",
+          "story_title": "Vayechi: The Enduring Promise",
+          "chapter_start": 47,
+          "verse_start": 28,
+          "chapter_end": 50,
+          "verse_end": 26,
+          "verse_count": 79,
+          "concept": "jacob_prophecy_closure",
+          "tags": ["jacob", "prophecy", "blessing", "promise", "covenant"],
+          "scenes": [
+            {
+              "scene_id": "GEN-4-7-1",
+              "scene_name": "Jacob's Age and Final Request",
+              "chapter_start": 47,
+              "verse_start": 28,
+              "chapter_end": 47,
+              "verse_end": 31,
+              "verse_count": 4
+            },
+            {
+              "scene_id": "GEN-4-7-2",
+              "scene_name": "Joseph's Oath and Vow",
+              "chapter_start": 48,
+              "verse_start": 1,
+              "chapter_end": 48,
+              "verse_end": 22,
+              "verse_count": 22
+            },
+            {
+              "scene_id": "GEN-4-7-3",
+              "scene_name": "Jacob's Blessing of His Sons",
+              "chapter_start": 49,
+              "verse_start": 1,
+              "chapter_end": 49,
+              "verse_end": 28,
+              "verse_count": 28
+            },
+            {
+              "scene_id": "GEN-4-7-4",
+              "scene_name": "Jacob's Death and Burial",
+              "chapter_start": 49,
+              "verse_start": 29,
+              "chapter_end": 50,
+              "verse_end": 14,
+              "verse_count": 16
+            },
+            {
+              "scene_id": "GEN-4-7-5",
+              "scene_name": "Final Reconciliation",
+              "chapter_start": 50,
+              "verse_start": 15,
+              "chapter_end": 50,
+              "verse_end": 21,
+              "verse_count": 7
+            },
+            {
+              "scene_id": "GEN-4-7-6",
+              "scene_name": "Joseph's Death",
+              "chapter_start": 50,
+              "verse_start": 22,
+              "chapter_end": 50,
+              "verse_end": 26,
+              "verse_count": 5
+            }
+          ]
+        }
+      ]
     }
   ]
 }

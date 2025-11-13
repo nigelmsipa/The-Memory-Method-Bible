@@ -3,156 +3,61 @@
   "translation_full_name": "Majority Text (Byzantine Greek Tradition)",
   "license": "Public Domain",
   "book": "Genesis",
-  "pericope_titles": [
+  "themes": [
     {
-      "pericope_id": "GEN-001",
-      "title": "The Reservoir of Creation: New Order",
-      "theme": "God, through His almighty power, created all things orderly and complete, resting on the seventh day to sanctify it."
+      "theme_id": 1,
+      "theme_name": "Primeval History",
+      "stories": [
+        {"story_id": "GEN-1-1", "title": "The Reservoir of Creation: New Order", "theme": "God, through His almighty power, created all things orderly and complete, resting on the seventh day to sanctify it."},
+        {"story_id": "GEN-1-2", "title": "Eden: The Sovereign's Test & Labor", "theme": "The Lord God formed man in His own image and gave him dominion over the garden, with the privilege and responsibility of stewardship."},
+        {"story_id": "GEN-1-3", "title": "The Golden Chain Broken: Instant Surety", "theme": "Man's disobedience brought death and judgment, yet God promised that the Seed of the woman would crush the serpent's head."},
+        {"story_id": "GEN-1-4", "title": "Succession of Falls: Cain's Brand", "theme": "Cain's offering was rejected because it lacked the blood sacrifice that God requires; in anger he murdered his brother Abel."},
+        {"story_id": "GEN-1-5", "title": "The Longevity of the First Age", "theme": "The patriarchs lived in great longevity; Enoch alone walked with God and was translated, while corruption increased among men."},
+        {"story_id": "GEN-1-6", "title": "The Great Art Perishes: Noah's Ark", "theme": "The earth became full of violence and corruption through the perversion of God's gifts; God commanded Noah to build an ark for preservation."},
+        {"story_id": "GEN-1-7", "title": "The Sign of the Bow: Encompassing Love", "theme": "The flood waters prevailed over all the earth; God remembered Noah and set the rainbow in the sky as a covenant sign of mercy."},
+        {"story_id": "GEN-1-8", "title": "Accountability & Divine Sovereignty", "theme": "God decreed that man's blood shall be shed for the shedding of blood; His dominion extends over all nations and peoples."},
+        {"story_id": "GEN-1-9", "title": "Babel: Confederacy of Rebellion", "theme": "Mankind united in pride to build a city and tower against God; the Lord confounded their tongues and scattered them abroad."}
+      ]
     },
     {
-      "pericope_id": "GEN-002",
-      "title": "Eden: The Sovereign's Test & Labor",
-      "theme": "The Lord God formed man in His own image and gave him dominion over the garden, with the privilege and responsibility of stewardship."
+      "theme_id": 2,
+      "theme_name": "Abraham Cycle",
+      "stories": [
+        {"story_id": "GEN-2-1", "title": "The Call: Separation and Naked Promise", "theme": "The Lord called Abram to depart from his kindred and country and follow nothing but His promise, establishing him as the father of the faithful."},
+        {"story_id": "GEN-2-2", "title": "Lot's Choice: Temporal vs. Spiritual Advantage", "theme": "Lot chose the well-watered plain of the Jordan, not knowing his choice would lead him and his family toward Sodom's destruction."},
+        {"story_id": "GEN-2-3", "title": "Melchizedek: Christ's Representative", "theme": "Melchizedek, King of Salem and Priest of the Most High God, blessed Abram and received tithes, foreshadowing Christ's priesthood."},
+        {"story_id": "GEN-2-4", "title": "Covenant of Pieces: Delayed Iniquity", "theme": "God made a covenant with Abram in a vision, revealing that his seed shall be as the stars, though the Amorites' cup of iniquity is not yet full."},
+        {"story_id": "GEN-2-5", "title": "Hagar: Human Schemes vs. Divine Plan", "theme": "Sarai gave Hagar to Abram according to man's wisdom; Ishmael was born, yet God's covenant was sealed with Isaac through circumcision."},
+        {"story_id": "GEN-2-6", "title": "Hospitality and the Boundary of Mercy", "theme": "The Lord appeared to Abraham; he interceded for Sodom, yet the city had transgressed the boundary of God's mercy through deliberate wickedness."},
+        {"story_id": "GEN-2-7", "title": "Lot's Paralysis and Escape", "theme": "The angels made haste to bring Lot forth from Sodom's judgment; Isaac was born to Abraham, the promised heir of the covenant."},
+        {"story_id": "GEN-2-8", "title": "The Akedah: Figure of Self-Denial", "theme": "God commanded Abraham to offer Isaac; this trial revealed the magnitude of God's love and the completeness of faith required of the believer."},
+        {"story_id": "GEN-2-9", "title": "Final Rest: Successor Secured", "theme": "Sarah passed from this life; Abraham sent his servant to secure Rebekah as a bride, ensuring the covenant line's continuation."}
+      ]
     },
     {
-      "pericope_id": "GEN-003",
-      "title": "The Golden Chain Broken: Instant Surety",
-      "theme": "Man's disobedience brought death and judgment, yet God promised that the Seed of the woman would crush the serpent's head."
+      "theme_id": 3,
+      "theme_name": "Isaac & Jacob Cycle",
+      "stories": [
+        {"story_id": "GEN-3-1", "title": "Esau's Appetite: The Despised Birthright", "theme": "Esau, overcome by hunger from the field, sold his birthright for a meal, despising the sacred privilege for a moment's gratification."},
+        {"story_id": "GEN-3-2", "title": "Jacob's Ladder: Bridging the Gulf", "theme": "Jacob saw a vision of a ladder reaching to heaven with angels ascending and descending, Christ being the bridge between man and God."},
+        {"story_id": "GEN-3-3", "title": "Laban's Artifice and Polygamy's Wrong", "theme": "Jacob served Laban and was deceived with Leah before receiving Rachel; the multiplication of wives brought contention and sorrow."},
+        {"story_id": "GEN-3-4", "title": "Peniel: Victory Through Self-Surrender", "theme": "Jacob wrestled with a Man until daybreak and prevailed; through this humiliation and self-surrender, he received the name Israel."},
+        {"story_id": "GEN-3-5", "title": "Humbled by Wrong: Purification", "theme": "Dinah was defiled by Shechem; Jacob's family was humbled and required to put away their strange gods before God's covenant was renewed."},
+        {"story_id": "GEN-3-6", "title": "Esau's Climax and Closure", "theme": "The genealogy of Esau is recorded, marking the rejected line; through Jacob alone the covenant promise continues unto all generations."}
+      ]
     },
     {
-      "pericope_id": "GEN-004",
-      "title": "Succession of Falls: Cain's Brand",
-      "theme": "Cain's offering was rejected because it lacked the blood sacrifice that God requires; in anger he murdered his brother Abel."
-    },
-    {
-      "pericope_id": "GEN-005",
-      "title": "The Longevity of the First Age",
-      "theme": "The patriarchs lived in great longevity; Enoch alone walked with God and was translated, while corruption increased among men."
-    },
-    {
-      "pericope_id": "GEN-006",
-      "title": "The Great Art Perishes: Noah's Ark",
-      "theme": "The earth became full of violence and corruption through the perversion of God's gifts; God commanded Noah to build an ark for preservation."
-    },
-    {
-      "pericope_id": "GEN-007",
-      "title": "The Sign of the Bow: Encompassing Love",
-      "theme": "The flood waters prevailed over all the earth; God remembered Noah and set the rainbow in the sky as a covenant sign of mercy."
-    },
-    {
-      "pericope_id": "GEN-008",
-      "title": "Accountability & Divine Sovereignty",
-      "theme": "God decreed that man's blood shall be shed for the shedding of blood; His dominion extends over all nations and peoples."
-    },
-    {
-      "pericope_id": "GEN-009",
-      "title": "Babel: Confederacy of Rebellion",
-      "theme": "Mankind united in pride to build a city and tower against God; the Lord confounded their tongues and scattered them abroad."
-    },
-    {
-      "pericope_id": "GEN-010",
-      "title": "The Call: Separation and Naked Promise",
-      "theme": "The Lord called Abram to depart from his kindred and country and follow nothing but His promise, establishing him as the father of the faithful."
-    },
-    {
-      "pericope_id": "GEN-011",
-      "title": "Lot's Choice: Temporal vs. Spiritual Advantage",
-      "theme": "Lot chose the well-watered plain of the Jordan, not knowing his choice would lead him and his family toward Sodom's destruction."
-    },
-    {
-      "pericope_id": "GEN-012",
-      "title": "Melchizedek: Christ's Representative",
-      "theme": "Melchizedek, King of Salem and Priest of the Most High God, blessed Abram and received tithes, foreshadowing Christ's priesthood."
-    },
-    {
-      "pericope_id": "GEN-013",
-      "title": "Covenant of Pieces: Delayed Iniquity",
-      "theme": "God made a covenant with Abram in a vision, revealing that his seed shall be as the stars, though the Amorites' cup of iniquity is not yet full."
-    },
-    {
-      "pericope_id": "GEN-014",
-      "title": "Hagar: Human Schemes vs. Divine Plan",
-      "theme": "Sarai gave Hagar to Abram according to man's wisdom; Ishmael was born, yet God's covenant was sealed with Isaac through circumcision."
-    },
-    {
-      "pericope_id": "GEN-015",
-      "title": "Hospitality and the Boundary of Mercy",
-      "theme": "The Lord appeared to Abraham; he interceded for Sodom, yet the city had transgressed the boundary of God's mercy through deliberate wickedness."
-    },
-    {
-      "pericope_id": "GEN-016",
-      "title": "Lot's Paralysis and Escape",
-      "theme": "The angels made haste to bring Lot forth from Sodom's judgment; Isaac was born to Abraham, the promised heir of the covenant."
-    },
-    {
-      "pericope_id": "GEN-017",
-      "title": "The Akedah: Figure of Self-Denial",
-      "theme": "God commanded Abraham to offer Isaac; this trial revealed the magnitude of God's love and the completeness of faith required of the believer."
-    },
-    {
-      "pericope_id": "GEN-018",
-      "title": "Final Rest: Successor Secured",
-      "theme": "Sarah passed from this life; Abraham sent his servant to secure Rebekah as a bride, ensuring the covenant line's continuation."
-    },
-    {
-      "pericope_id": "GEN-019",
-      "title": "Esau's Appetite: The Despised Birthright",
-      "theme": "Esau, overcome by hunger from the field, sold his birthright for a meal, despising the sacred privilege for a moment's gratification."
-    },
-    {
-      "pericope_id": "GEN-020",
-      "title": "Jacob's Ladder: Bridging the Gulf",
-      "theme": "Jacob saw a vision of a ladder reaching to heaven with angels ascending and descending, Christ being the bridge between man and God."
-    },
-    {
-      "pericope_id": "GEN-021",
-      "title": "Laban's Artifice and Polygamy's Wrong",
-      "theme": "Jacob served Laban and was deceived with Leah before receiving Rachel; the multiplication of wives brought contention and sorrow."
-    },
-    {
-      "pericope_id": "GEN-022",
-      "title": "Peniel: Victory Through Self-Surrender",
-      "theme": "Jacob wrestled with a Man until daybreak and prevailed; through this humiliation and self-surrender, he received the name Israel."
-    },
-    {
-      "pericope_id": "GEN-023",
-      "title": "Humbled by Wrong: Purification",
-      "theme": "Dinah was defiled by Shechem; Jacob's family was humbled and required to put away their strange gods before God's covenant was renewed."
-    },
-    {
-      "pericope_id": "GEN-024",
-      "title": "Esau's Climax and Closure",
-      "theme": "The genealogy of Esau is recorded, marking the rejected line; through Jacob alone the covenant promise continues unto all generations."
-    },
-    {
-      "pericope_id": "GEN-025",
-      "title": "The Rejection: Joseph as Christ Type",
-      "theme": "Joseph was hated by his brethren and sold into captivity; he foreshadowed Christ rejected by His own and delivered to death."
-    },
-    {
-      "pericope_id": "GEN-026",
-      "title": "Integrity Under Siege: Joseph's Fortification",
-      "theme": "Joseph resisted the temptation of Potiphar's wife, his early impressions having fortified his heart against the enticements of the flesh."
-    },
-    {
-      "pericope_id": "GEN-027",
-      "title": "Prison Discipline: Prepared for Exaltation",
-      "theme": "The Lord was with Joseph in prison; through affliction and obedience, He prepared Joseph to govern and teach others wisdom."
-    },
-    {
-      "pericope_id": "GEN-028",
-      "title": "Elevation: Man in Whom the Spirit of God Is",
-      "theme": "Pharaoh recognized in Joseph a man upon whom the Spirit of God rested; he exalted him above all the land of Egypt."
-    },
-    {
-      "pericope_id": "GEN-029",
-      "title": "Testing the Brethren and Reconciliation",
-      "theme": "Joseph tested his brethren to bring them to confession and repentance; God's purpose overrode their evil to bring salvation to many."
-    },
-    {
-      "pericope_id": "GEN-030",
-      "title": "Vayechi: The Enduring Promise",
-      "theme": "Jacob blessed his sons with his dying breath; the scepter and lawgiver shall not depart from Judah until the coming of Shiloh."
+      "theme_id": 4,
+      "theme_name": "Joseph Cycle",
+      "stories": [
+        {"story_id": "GEN-4-1", "title": "The Rejection: Joseph as Christ Type", "theme": "Joseph was hated by his brethren and sold into captivity; he foreshadowed Christ rejected by His own and delivered to death."},
+        {"story_id": "GEN-4-2", "title": "Integrity Under Siege: Joseph's Fortification", "theme": "Joseph resisted the temptation of Potiphar's wife, his early impressions having fortified his heart against the enticements of the flesh."},
+        {"story_id": "GEN-4-3", "title": "Prison Discipline: Prepared for Exaltation", "theme": "The Lord was with Joseph in prison; through affliction and obedience, He prepared Joseph to govern and teach others wisdom."},
+        {"story_id": "GEN-4-4", "title": "Elevation: Man in Whom the Spirit of God Is", "theme": "Pharaoh recognized in Joseph a man upon whom the Spirit of God rested; he exalted him above all the land of Egypt."},
+        {"story_id": "GEN-4-5", "title": "The Test and Preparation for Reconciliation", "theme": "Joseph tested his brothers with wisdom and severity, bringing them to confession and genuine repentance through his strategies."},
+        {"story_id": "GEN-4-6", "title": "Reconciliation and Divine Intent", "theme": "Joseph tested his brethren to bring them to confession and repentance; God's purpose overrode their evil to bring salvation to many."},
+        {"story_id": "GEN-4-7", "title": "Vayechi: The Enduring Promise", "theme": "Jacob blessed his sons with his dying breath; the scepter and lawgiver shall not depart from Judah until the coming of Shiloh."}
+      ]
     }
   ]
 }

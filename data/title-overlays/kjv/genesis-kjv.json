@@ -3,156 +3,61 @@
   "translation_full_name": "King James Version",
   "license": "Public Domain",
   "book": "Genesis",
-  "pericope_titles": [
+  "themes": [
     {
-      "pericope_id": "GEN-001",
-      "title": "The Creation of the Heavens and the Earth",
-      "theme": "In the beginning God created the heavens and the earth, establishing order from void, and rested upon the seventh day."
+      "theme_id": 1,
+      "theme_name": "Primeval History",
+      "stories": [
+        {"story_id": "GEN-1-1", "title": "The Creation of the Heavens and the Earth", "theme": "In the beginning God created the heavens and the earth, establishing order from void, and rested upon the seventh day."},
+        {"story_id": "GEN-1-2", "title": "The Garden of Eden and the Formation of Man", "theme": "The LORD God formed man from the dust and placed him in the garden to keep and tend it as steward of creation."},
+        {"story_id": "GEN-1-3", "title": "The Temptation of Man and the Promise of Redemption", "theme": "The serpent beguiled woman and man fell into transgression; yet the seed of the woman shall bruise the serpent's head."},
+        {"story_id": "GEN-1-4", "title": "Cain and Abel: The Way of Sacrifice and Murder", "theme": "Cain's offering was rejected; in his wrath he slew his brother, bringing the first blood guilt upon the earth."},
+        {"story_id": "GEN-1-5", "title": "The Generations of Adam unto the Days of Noah", "theme": "Enoch walked with God and was taken; the rest of mankind multiplied in iniquity until the flood brought judgment."},
+        {"story_id": "GEN-1-6", "title": "The Corruption of Mankind and the Building of the Ark", "theme": "The earth was filled with violence and corrupt imaginings; God commanded Noah to build an ark for the saving of his house."},
+        {"story_id": "GEN-1-7", "title": "The Flood and God's Covenant with a Token", "theme": "The waters prevailed upon the earth; yet God remembered Noah, and set His bow in the cloud as a token of the covenant."},
+        {"story_id": "GEN-1-8", "title": "The Law Against Murder and the Governance of Nations", "theme": "God set a law that whoso sheddeth man's blood shall have his own blood shed; God's dominion endureth over all."},
+        {"story_id": "GEN-1-9", "title": "Babel: The Confusion of Tongues and Human Rebellion", "theme": "The sons of men built a city and tower to make a name for themselves, wherefore the LORD confounded their language."}
+      ]
     },
     {
-      "pericope_id": "GEN-002",
-      "title": "The Garden of Eden and the Formation of Man",
-      "theme": "The LORD God formed man from the dust and placed him in the garden to keep and tend it as steward of creation."
+      "theme_id": 2,
+      "theme_name": "Abraham Cycle",
+      "stories": [
+        {"story_id": "GEN-2-1", "title": "The Call of Abram Out of Ur of the Chaldees", "theme": "The LORD said unto Abram: Get thee out of thy country unto a land I shall show thee; he departed not knowing whither."},
+        {"story_id": "GEN-2-2", "title": "Lot's Choice and the Separation of the Righteous", "theme": "Lot lifted up his eyes and chose the plain of Jordan, not knowing he drew nigh to Sodom, a city appointed unto destruction."},
+        {"story_id": "GEN-2-3", "title": "Melchizedek, King of Salem and Priest of the Most High God", "theme": "Melchizedek brought forth bread and wine and blessed Abram, and Abram gave him tithes of all."},
+        {"story_id": "GEN-2-4", "title": "The Covenant Made in a Vision: The Seed Shall Be as the Stars", "theme": "God promised Abram his seed shall be as the stars, though the Amorites' iniquity was not yet full."},
+        {"story_id": "GEN-2-5", "title": "Hagar and Ishmael: The Covenant Sealed with Circumcision", "theme": "Sarai gave Hagar unto Abram, and he took her; yet God's covenant was established with Isaac by the sign of circumcision."},
+        {"story_id": "GEN-2-6", "title": "The Visitation of the Angels and the Intercession of Abraham", "theme": "The LORD appeared to Abraham as three men; he made intercession for Sodom, but the city passed the bound of mercy."},
+        {"story_id": "GEN-2-7", "title": "The Flight of Lot and the Birth of Isaac", "theme": "Lot lingered; the angels hasted him, saying: Escape for thy life. Yet Sarah conceived and Isaac was born in the appointed time."},
+        {"story_id": "GEN-2-8", "title": "The Binding of Isaac: A Figure of the Self-Sacrifice of God", "theme": "God commanded Abraham to offer Isaac his son; in this trial was revealed the magnitude of God's self-denial in giving His own."},
+        {"story_id": "GEN-2-9", "title": "The Death of Sarah and the Taking of Rebekah", "theme": "Sarah died and was buried in the cave of Machpelah; a bride was taken for Isaac from afar, that the covenant continue."}
+      ]
     },
     {
-      "pericope_id": "GEN-003",
-      "title": "The Temptation of Man and the Promise of Redemption",
-      "theme": "The serpent beguiled woman and man fell into transgression; yet the seed of the woman shall bruise the serpent's head."
+      "theme_id": 3,
+      "theme_name": "Isaac & Jacob Cycle",
+      "stories": [
+        {"story_id": "GEN-3-1", "title": "Esau and Jacob: The Birthright Despised for a Pottage", "theme": "Esau, faint from hunting, sold his birthright for a mess of pottage, thus he despised his birthright before the LORD."},
+        {"story_id": "GEN-3-2", "title": "Jacob's Vision at Bethel: The Ladder Reaching unto Heaven", "theme": "Jacob saw a ladder set up on the earth, and the top of it reached to heaven; the angels of God ascended and descended upon it."},
+        {"story_id": "GEN-3-3", "title": "Jacob's Service unto Laban and the Striving of Two Wives", "theme": "Jacob served fourteen years for Rachel; yet Laban deceived him with Leah, and strife entered through multiplied wives."},
+        {"story_id": "GEN-3-4", "title": "Peniel: Jacob's Wrestling and Transformation at Daybreak", "theme": "There wrestled a man with Jacob until the breaking of the day; and he said, Thy name shall be called Israel."},
+        {"story_id": "GEN-3-5", "title": "The Humbling of Jacob's House: The Dinah Tragedy and Purification", "theme": "Dinah was defiled by Shechem; Jacob's sons spoiled the city. Jacob commanded: Put away your strange gods and be clean."},
+        {"story_id": "GEN-3-6", "title": "The Generations of Esau: The Rejected Line", "theme": "These are the generations of Esau: he is Edom. Thus was the rejected line sealed, the covenant passing unto Jacob."}
+      ]
     },
     {
-      "pericope_id": "GEN-004",
-      "title": "Cain and Abel: The Way of Sacrifice and Murder",
-      "theme": "Cain's offering was rejected; in his wrath he slew his brother, bringing the first blood guilt upon the earth."
-    },
-    {
-      "pericope_id": "GEN-005",
-      "title": "The Generations of Adam unto the Days of Noah",
-      "theme": "Enoch walked with God and was taken; the rest of mankind multiplied in iniquity until the flood brought judgment."
-    },
-    {
-      "pericope_id": "GEN-006",
-      "title": "The Corruption of Mankind and the Building of the Ark",
-      "theme": "The earth was filled with violence and corrupt imaginings; God commanded Noah to build an ark for the saving of his house."
-    },
-    {
-      "pericope_id": "GEN-007",
-      "title": "The Flood and God's Covenant with a Token",
-      "theme": "The waters prevailed upon the earth; yet God remembered Noah, and set His bow in the cloud as a token of the covenant."
-    },
-    {
-      "pericope_id": "GEN-008",
-      "title": "The Law Against Murder and the Governance of Nations",
-      "theme": "God set a law that whoso sheddeth man's blood shall have his own blood shed; God's dominion endureth over all."
-    },
-    {
-      "pericope_id": "GEN-009",
-      "title": "Babel: The Confusion of Tongues and Human Rebellion",
-      "theme": "The sons of men built a city and tower to make a name for themselves, wherefore the LORD confounded their language."
-    },
-    {
-      "pericope_id": "GEN-010",
-      "title": "The Call of Abram Out of Ur of the Chaldees",
-      "theme": "The LORD said unto Abram: Get thee out of thy country unto a land I shall show thee; he departed not knowing whither."
-    },
-    {
-      "pericope_id": "GEN-011",
-      "title": "Lot's Choice and the Separation of the Righteous",
-      "theme": "Lot lifted up his eyes and chose the plain of Jordan, not knowing he drew nigh to Sodom, a city appointed unto destruction."
-    },
-    {
-      "pericope_id": "GEN-012",
-      "title": "Melchizedek, King of Salem and Priest of the Most High God",
-      "theme": "Melchizedek brought forth bread and wine and blessed Abram, and Abram gave him tithes of all."
-    },
-    {
-      "pericope_id": "GEN-013",
-      "title": "The Covenant Made in a Vision: The Seed Shall Be as the Stars",
-      "theme": "God promised Abram his seed shall be as the stars, though the Amorites' iniquity was not yet full."
-    },
-    {
-      "pericope_id": "GEN-014",
-      "title": "Hagar and Ishmael: The Covenant Sealed with Circumcision",
-      "theme": "Sarai gave Hagar unto Abram, and he took her; yet God's covenant was established with Isaac by the sign of circumcision."
-    },
-    {
-      "pericope_id": "GEN-015",
-      "title": "The Visitation of the Angels and the Intercession of Abraham",
-      "theme": "The LORD appeared to Abraham as three men; he made intercession for Sodom, but the city passed the bound of mercy."
-    },
-    {
-      "pericope_id": "GEN-016",
-      "title": "The Flight of Lot and the Birth of Isaac",
-      "theme": "Lot lingered; the angels hasted him, saying: Escape for thy life. Yet Sarah conceived and Isaac was born in the appointed time."
-    },
-    {
-      "pericope_id": "GEN-017",
-      "title": "The Binding of Isaac: A Figure of the Self-Sacrifice of God",
-      "theme": "God commanded Abraham to offer Isaac his son; in this trial was revealed the magnitude of God's self-denial in giving His own."
-    },
-    {
-      "pericope_id": "GEN-018",
-      "title": "The Death of Sarah and the Taking of Rebekah",
-      "theme": "Sarah died and was buried in the cave of Machpelah; a bride was taken for Isaac from afar, that the covenant continue."
-    },
-    {
-      "pericope_id": "GEN-019",
-      "title": "Esau and Jacob: The Birthright Despised for a Pottage",
-      "theme": "Esau, faint from hunting, sold his birthright for a mess of pottage, thus he despised his birthright before the LORD."
-    },
-    {
-      "pericope_id": "GEN-020",
-      "title": "Jacob's Vision at Bethel: The Ladder Reaching unto Heaven",
-      "theme": "Jacob saw a ladder set up on the earth, and the top of it reached to heaven; the angels of God ascended and descended upon it."
-    },
-    {
-      "pericope_id": "GEN-021",
-      "title": "Jacob's Service unto Laban and the Striving of Two Wives",
-      "theme": "Jacob served fourteen years for Rachel; yet Laban deceived him with Leah, and strife entered through multiplied wives."
-    },
-    {
-      "pericope_id": "GEN-022",
-      "title": "Peniel: Jacob's Wrestling and Transformation at Daybreak",
-      "theme": "There wrestled a man with Jacob until the breaking of the day; and he said, Thy name shall be called Israel."
-    },
-    {
-      "pericope_id": "GEN-023",
-      "title": "The Humbling of Jacob's House: The Dinah Tragedy and Purification",
-      "theme": "Dinah was defiled by Shechem; Jacob's sons spoiled the city. Jacob commanded: Put away your strange gods and be clean."
-    },
-    {
-      "pericope_id": "GEN-024",
-      "title": "The Generations of Esau: The Rejected Line",
-      "theme": "These are the generations of Esau: he is Edom. Thus was the rejected line sealed, the covenant passing unto Jacob."
-    },
-    {
-      "pericope_id": "GEN-025",
-      "title": "Joseph's Dreaming: Rejected by His Brethren",
-      "theme": "Joseph dreamed a dream and told it unto his brethren; they hated him yet more, saying: Shall he reign over us?"
-    },
-    {
-      "pericope_id": "GEN-026",
-      "title": "Joseph's Integrity: Temptation Resisted Through Early Impressions",
-      "theme": "Joseph was brought unto Potiphar's house; when tempted, he refused, saying: How can I do this great wickedness?"
-    },
-    {
-      "pericope_id": "GEN-027",
-      "title": "Joseph in Prison: The Path of Tribulation Unto Exaltation",
-      "theme": "Though Joseph suffered in the house of the prison, the LORD was with him and showed him mercy and gave him favor."
-    },
-    {
-      "pericope_id": "GEN-028",
-      "title": "Joseph Exalted: A Man in Whom the Spirit of God Dwelleth",
-      "theme": "Pharaoh said unto Joseph: Can we find such a one as this is, a man in whom the Spirit of God is?"
-    },
-    {
-      "pericope_id": "GEN-029",
-      "title": "Joseph's Testing of His Brethren: Repentance and Reconciliation",
-      "theme": "His brethren confessed: We are verily guilty; yet Joseph said: God meant it unto good, to save much people alive."
-    },
-    {
-      "pericope_id": "GEN-030",
-      "title": "Vayechi: Jacob's Blessing and the Promise Perpetual",
-      "theme": "Jacob blessed his sons, saying unto Judah: The scepter shall not depart from thee. Thus was the covenant made sure forever."
+      "theme_id": 4,
+      "theme_name": "Joseph Cycle",
+      "stories": [
+        {"story_id": "GEN-4-1", "title": "Joseph's Dreaming: Rejected by His Brethren", "theme": "Joseph dreamed a dream and told it unto his brethren; they hated him yet more, saying: Shall he reign over us?"},
+        {"story_id": "GEN-4-2", "title": "Joseph's Integrity: Temptation Resisted Through Early Impressions", "theme": "Joseph was brought unto Potiphar's house; when tempted, he refused, saying: How can I do this great wickedness?"},
+        {"story_id": "GEN-4-3", "title": "Joseph in Prison: The Path of Tribulation Unto Exaltation", "theme": "Though Joseph suffered in the house of the prison, the LORD was with him and showed him mercy and gave him favor."},
+        {"story_id": "GEN-4-4", "title": "Joseph Exalted: A Man in Whom the Spirit of God Dwelleth", "theme": "Pharaoh said unto Joseph: Can we find such a one as this is, a man in whom the Spirit of God is?"},
+        {"story_id": "GEN-4-5", "title": "Joseph's Testing of His Brethren: Repentance and Reconciliation", "theme": "His brethren confessed: We are verily guilty; yet Joseph said: God meant it unto good, to save much people alive."},
+        {"story_id": "GEN-4-6", "title": "Joseph and His Brethren: The Providence of God Revealed", "theme": "Joseph revealed himself and said unto his brethren: I am Joseph; doth my father yet live?"},
+        {"story_id": "GEN-4-7", "title": "Vayechi: Jacob's Blessing and the Promise Perpetual", "theme": "Jacob blessed his sons, saying unto Judah: The scepter shall not depart from thee. Thus was the covenant made sure forever."}
+      ]
     }
   ]
 }
