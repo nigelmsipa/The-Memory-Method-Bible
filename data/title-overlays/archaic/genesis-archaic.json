@@ -1,7 +1,7 @@
 {
-  "translation": "KJV",
-  "translation_full_name": "King James Version",
-  "license": "Public Domain",
+  "language_style": "Archaic English",
+  "language_style_full_name": "Archaic and Formal Biblical English (KJV, Geneva, Bishop's Bible, etc.)",
+  "license": "Translation-specific",
   "book": "Genesis",
   "themes": [
     {
