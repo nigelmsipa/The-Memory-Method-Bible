@@ -3,398 +3,393 @@
   "book_number": 1,
   "testament": "Old",
   "category": "Torah",
-  "description": "The Memory Method Bible: Genesis - Organized by Themes, Stories, and Scenes for familiarization and optional memorization",
+  "description": "The Memory Method Bible: Genesis - Organized by 2 major thematic arcs with 29 story units based on toledot (genealogical) boundaries and natural narrative divisions",
   "themes": [
     {
       "theme_id": 1,
-      "theme_name": "Primeval History",
+      "theme_name": "Primordial Dawn: Creation to Catastrophe",
       "chapter_range": "1-11",
-      "theme_summary": "Creation, Fall, Moral Decline, Judgment, Covenant, Law, and Babel",
+      "theme_summary": "From God's perfect creation through humanity's rebellion, moral decline, divine judgment, and the scattering of nations. This arc establishes the backdrop of universal human need for redemption.",
+      "theme_rationale": "Unified by universal scope (affects all humanity), etiological purposes (explaining why things are), and the cycle of sin-judgment-mercy. Ends with narrowed genealogy toward Abram, marking transition to particularistic covenant.",
       "stories": [
         {
+          "story_number": 1,
           "story_id": "GEN-1-1",
-          "story_title": "The Reservoir of Creation: New Order",
+          "story_title": "Creation Week: God's Grand Opening",
           "chapter_start": 1,
           "verse_start": 1,
           "chapter_end": 2,
           "verse_end": 3,
           "verse_count": 36,
-          "concept": "creation_and_order",
-          "tags": ["creation", "god_work", "order", "sabbath"],
+          "toledot_marker": "Not explicitly marked, but introduces toledot of heavens and earth (2:4)",
+          "boundary_rationale": "Distinct unit bounded by the seven-day creation cycle with Sabbath rest. Moves from void to order, establishing the cosmic foundation before human narrative. Natural break at 2:4 when genealogy begins.",
+          "concept_slug": "creation_and_order",
+          "tags": ["creation", "order", "cosmos", "humanity_in_image", "sabbath", "divine_work"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-1-1-1",
-              "scene_name": "Day 1 - Light",
+              "scene_name": "Days 1-3: Forming Light, Realm, Life",
               "chapter_start": 1,
               "verse_start": 1,
               "chapter_end": 1,
-              "verse_end": 5,
-              "verse_count": 5
-            },
-            {
-              "scene_id": "GEN-1-1-2",
-              "scene_name": "Day 2 - Sky and Waters",
-              "chapter_start": 1,
-              "verse_start": 6,
-              "chapter_end": 1,
-              "verse_end": 8,
-              "verse_count": 3
-            },
-            {
-              "scene_id": "GEN-1-1-3",
-              "scene_name": "Day 3 - Land and Vegetation",
-              "chapter_start": 1,
-              "verse_start": 9,
-              "chapter_end": 1,
               "verse_end": 13,
-              "verse_count": 5
+              "verse_count": 13,
+              "scene_rationale": "Paired by symmetry: setup phase. Days 1-3 establish realms (light/dark, sky/water, land/sea/vegetation). Each day shows God separating, naming, and populating."
             },
             {
-              "scene_id": "GEN-1-1-4",
-              "scene_name": "Day 4 - Lights in the Sky",
+              "scene_number": 2,
+              "scene_id": "GEN-1-1-2",
+              "scene_name": "Days 4-6: Filling Realms, Climax with Humans",
               "chapter_start": 1,
               "verse_start": 14,
               "chapter_end": 1,
-              "verse_end": 19,
-              "verse_count": 6
-            },
-            {
-              "scene_id": "GEN-1-1-5",
-              "scene_name": "Day 5 - Sea Creatures and Birds",
-              "chapter_start": 1,
-              "verse_start": 20,
-              "chapter_end": 1,
-              "verse_end": 23,
-              "verse_count": 4
-            },
-            {
-              "scene_id": "GEN-1-1-6",
-              "scene_name": "Day 6 - Animals and Mankind",
-              "chapter_start": 1,
-              "verse_start": 24,
-              "chapter_end": 1,
               "verse_end": 31,
-              "verse_count": 8
+              "verse_count": 18,
+              "scene_rationale": "Paired by symmetry: filling phase. Days 4-6 fill the realms with inhabitants (lights in sky, creatures in air/water, animals and humans on land). Day 6 climax with humanity bearing God's image."
             },
             {
-              "scene_id": "GEN-1-1-7",
-              "scene_name": "Day 7 - Rest and Sanctification",
+              "scene_number": 3,
+              "scene_id": "GEN-1-1-3",
+              "scene_name": "Day 7: Rest and Sanctification",
               "chapter_start": 2,
               "verse_start": 1,
               "chapter_end": 2,
               "verse_end": 3,
-              "verse_count": 3
+              "verse_count": 3,
+              "scene_rationale": "Thematic capstone. God rests, blesses the seventh day, sanctifies it. Establishes rhythmic pattern and divine satisfaction with creation."
             }
           ]
         },
         {
+          "story_number": 2,
           "story_id": "GEN-1-2",
-          "story_title": "Eden: The Sovereign's Test & Labor",
+          "story_title": "Eden: Paradise Lost in One Bite",
           "chapter_start": 2,
           "verse_start": 4,
-          "chapter_end": 2,
-          "verse_end": 25,
-          "verse_count": 22,
-          "concept": "eden_and_humanity",
-          "tags": ["garden", "adam", "labor", "authority"],
+          "chapter_end": 3,
+          "verse_end": 24,
+          "verse_count": 46,
+          "toledot_marker": "Toledot of heavens and earth (2:4)",
+          "boundary_rationale": "Begins with toledot formula 2:4. Coherent arc: formation of man and woman, test via commandment, fall through deception, judgment and expulsion. Ends with cherubim guarding garden—clear conclusion.",
+          "concept_slug": "fall_and_curse",
+          "tags": ["eden", "temptation", "sin", "disobedience", "curse", "death", "expulsion", "promise_of_redemption"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-1-2-1",
-              "scene_name": "Creation of Man from Dust",
+              "scene_name": "The Garden Prepared and Humanity Placed",
               "chapter_start": 2,
               "verse_start": 4,
               "chapter_end": 2,
-              "verse_end": 7,
-              "verse_count": 4
-            },
-            {
-              "scene_id": "GEN-1-2-2",
-              "scene_name": "The Garden and the Trees",
-              "chapter_start": 2,
-              "verse_start": 8,
-              "chapter_end": 2,
-              "verse_end": 14,
-              "verse_count": 7
-            },
-            {
-              "scene_id": "GEN-1-2-3",
-              "scene_name": "Man's Commission and Command",
-              "chapter_start": 2,
-              "verse_start": 15,
-              "chapter_end": 2,
               "verse_end": 17,
-              "verse_count": 3
+              "verse_count": 14,
+              "scene_rationale": "Establishes setting and Adam's role. Moves from cosmic creation to earthly particulars: garden location, rivers, Adam's placement and commission over creation."
             },
             {
-              "scene_id": "GEN-1-2-4",
-              "scene_name": "Creation of Woman",
+              "scene_number": 2,
+              "scene_id": "GEN-1-2-2",
+              "scene_name": "The Test: Commandment and Woman",
               "chapter_start": 2,
               "verse_start": 18,
               "chapter_end": 2,
               "verse_end": 25,
-              "verse_count": 8
-            }
-          ]
-        },
-        {
-          "story_id": "GEN-1-3",
-          "story_title": "The Golden Chain Broken: Instant Surety",
-          "chapter_start": 3,
-          "verse_start": 1,
-          "chapter_end": 3,
-          "verse_end": 24,
-          "verse_count": 24,
-          "concept": "fall_and_ransom",
-          "tags": ["fall", "serpent", "curse", "christ_promise"],
-          "scenes": [
+              "verse_count": 8,
+              "scene_rationale": "Introduces the test (forbidden tree) and Eve's creation. Establishes conditions for temptation: the prohibition and the prohibition-breaker both present."
+            },
             {
+              "scene_number": 3,
               "scene_id": "GEN-1-3-1",
-              "scene_name": "The Temptation",
+              "scene_name": "The Temptation and Fall",
               "chapter_start": 3,
               "verse_start": 1,
               "chapter_end": 3,
               "verse_end": 7,
-              "verse_count": 7
+              "verse_count": 7,
+              "scene_rationale": "Serpent's deception, woman's reasoning, man's compliance. The moment of rebellion—eating the fruit and eyes opening to shame."
             },
             {
+              "scene_number": 4,
               "scene_id": "GEN-1-3-2",
-              "scene_name": "The Judgment",
+              "scene_name": "The Judgment and Expulsion",
               "chapter_start": 3,
               "verse_start": 8,
               "chapter_end": 3,
-              "verse_end": 19,
-              "verse_count": 12
-            },
-            {
-              "scene_id": "GEN-1-3-3",
-              "scene_name": "The Promise and Expulsion",
-              "chapter_start": 3,
-              "verse_start": 20,
-              "chapter_end": 3,
               "verse_end": 24,
-              "verse_count": 5
+              "verse_count": 17,
+              "scene_rationale": "Confrontation with God, judgment pronounced on serpent, woman, and man. Clothing provided, expulsion with cherubim guard. Introduces toil, pain, and death into human condition. Scene 3:15 promises future victor over serpent."
             }
           ]
         },
         {
-          "story_id": "GEN-1-4",
-          "story_title": "Succession of Falls: Cain's Brand",
+          "story_number": 3,
+          "story_id": "GEN-1-3",
+          "story_title": "Cain & Abel: First Blood, First Blame",
           "chapter_start": 4,
           "verse_start": 1,
           "chapter_end": 4,
           "verse_end": 26,
           "verse_count": 26,
-          "concept": "moral_decline_cain",
-          "tags": ["cain", "abel", "murder", "moral_decay"],
+          "toledot_marker": "Continuation of toledot of heavens and earth (initiated 2:4)",
+          "boundary_rationale": "Continues toledot of heavens/earth showing outcomes of human sin. Coherent narrative: births, offerings, murder, consequence, and Seth's birth marking redemptive line. Ends with calling on God's name—transition to genealogy.",
+          "concept_slug": "sin_escalation_and_line_division",
+          "tags": ["cain", "abel", "offering", "rejection", "murder", "mark", "seth", "bloodline", "worship"],
           "scenes": [
             {
-              "scene_id": "GEN-1-4-1",
-              "scene_name": "Cain and Abel's Offerings",
+              "scene_number": 1,
+              "scene_id": "GEN-1-3-1",
+              "scene_name": "The Two Offerings and Rejection",
               "chapter_start": 4,
               "verse_start": 1,
               "chapter_end": 4,
               "verse_end": 7,
-              "verse_count": 7
+              "verse_count": 7,
+              "scene_rationale": "Both brothers bring offerings. Abel's is accepted, Cain's rejected. Establishes the blood-sacrifice principle and raises question of why one is favored over the other."
             },
             {
-              "scene_id": "GEN-1-4-2",
-              "scene_name": "The Murder",
+              "scene_number": 2,
+              "scene_id": "GEN-1-3-2",
+              "scene_name": "Anger, Murder, and the Mark",
               "chapter_start": 4,
               "verse_start": 8,
               "chapter_end": 4,
               "verse_end": 15,
-              "verse_count": 8
+              "verse_count": 8,
+              "scene_rationale": "God warns Cain about sin crouching at his door. Cain kills Abel in rage. God judges Cain to be a fugitive, but marks him for protection—divine mercy amid justice."
             },
             {
-              "scene_id": "GEN-1-4-3",
-              "scene_name": "Cain's Line and Seth",
+              "scene_number": 3,
+              "scene_id": "GEN-1-3-3",
+              "scene_name": "Cain's Descendants and Seth's Line",
               "chapter_start": 4,
               "verse_start": 16,
               "chapter_end": 4,
               "verse_end": 26,
-              "verse_count": 11
+              "verse_count": 11,
+              "scene_rationale": "Genealogy of Cain shows cultural advancement (Jabal, Jubal, Tubal-cain) but also escalating violence (Lamech's boast). Seth's birth replaces Abel; his line calls on God's name—marks the righteous lineage continuing."
             }
           ]
         },
         {
-          "story_id": "GEN-1-5",
-          "story_title": "The Longevity of the First Age",
+          "story_number": 4,
+          "story_id": "GEN-1-4",
+          "story_title": "Patriarchs of Old: The Long View",
           "chapter_start": 5,
           "verse_start": 1,
-          "chapter_end": 6,
-          "verse_end": 8,
-          "verse_count": 66,
-          "concept": "antediluvian_genealogy",
-          "tags": ["genealogy", "enoch", "longevity", "faith"],
+          "chapter_end": 5,
+          "verse_end": 32,
+          "verse_count": 32,
+          "toledot_marker": "Toledot of Adam (5:1)",
+          "boundary_rationale": "New toledot formula marking shift to genealogy proper. Shows patriarchal longevity from Adam to Noah, with Enoch's unique translation highlighting righteous response. Ends with Noah's three sons, hinting at coming bifurcation.",
+          "concept_slug": "longevity_and_faith",
+          "tags": ["genealogy", "adam", "seth", "enoch", "noah", "longevity", "walk_with_god", "death", "patriarchs"],
           "scenes": [
             {
-              "scene_id": "GEN-1-5-1",
-              "scene_name": "Adam to Enoch: The Living Genealogy",
+              "scene_number": 1,
+              "scene_id": "GEN-1-4-1",
+              "scene_name": "Adam to Enoch: Generational Succession",
               "chapter_start": 5,
               "verse_start": 1,
               "chapter_end": 5,
               "verse_end": 24,
-              "verse_count": 24
+              "verse_count": 24,
+              "scene_rationale": "Formulaic genealogy emphasizing generational descent and extreme longevity. Each entry follows pattern: name, age at son's birth, remaining years, death. Enoch stands out: 'walked with God' (365 years) and was taken—no death recorded."
             },
             {
-              "scene_id": "GEN-1-5-2",
-              "scene_name": "Enoch's Translation",
-              "chapter_start": 5,
-              "verse_start": 21,
-              "chapter_end": 5,
-              "verse_end": 24,
-              "verse_count": 4
-            },
-            {
-              "scene_id": "GEN-1-5-3",
-              "scene_name": "Noah and Rising Corruption",
+              "scene_number": 2,
+              "scene_id": "GEN-1-4-2",
+              "scene_name": "Noah and the Shortened Lifespan",
               "chapter_start": 5,
               "verse_start": 25,
-              "chapter_end": 6,
-              "verse_end": 8,
-              "verse_count": 18
+              "chapter_end": 5,
+              "verse_end": 32,
+              "verse_count": 8,
+              "scene_rationale": "Noah's entry introduces his three sons (Shem, Ham, Japheth) and a shift: God limits human lifespan to 120 years. Sets stage for flood narrative and shows divine response to corruption."
             }
           ]
         },
         {
-          "story_id": "GEN-1-6",
-          "story_title": "The Great Art Perishes: Noah's Ark",
+          "story_number": 5,
+          "story_id": "GEN-1-5",
+          "story_title": "The Corruption Deepens: Prelude to Flood",
           "chapter_start": 6,
-          "verse_start": 9,
-          "chapter_end": 7,
-          "verse_end": 24,
-          "verse_count": 64,
-          "concept": "corruption_and_flood",
-          "tags": ["corruption", "noah", "ark", "judgment"],
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 8,
+          "verse_count": 8,
+          "toledot_marker": "Continuation of toledot of Adam (initiated 5:1)",
+          "boundary_rationale": "Transitional story showing escalating human wickedness. 'Sons of God' marry human women, giants appear, God grieves decision to make humans. Ends with Noah's favor—sets up him as righteous remnant.",
+          "concept_slug": "human_wickedness_and_gods_response",
+          "tags": ["nephilim", "giants", "wickedness", "divine_regret", "noah_favor", "lifespan_limit", "flood_prelude"],
           "scenes": [
             {
+              "scene_number": 1,
+              "scene_id": "GEN-1-5-1",
+              "scene_name": "Divine-Human Unions and Corruption",
+              "chapter_start": 6,
+              "verse_start": 1,
+              "chapter_end": 6,
+              "verse_end": 4,
+              "verse_count": 4,
+              "scene_rationale": "Sons of God take human wives; giants (Nephilim) are born. Humanity multiplies but corruption spreads—violation of proper boundaries between divine and human realms."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-5-2",
+              "scene_name": "Divine Grief and Noah's Grace",
+              "chapter_start": 6,
+              "verse_start": 5,
+              "chapter_end": 6,
+              "verse_end": 8,
+              "verse_count": 4,
+              "scene_rationale": "God observes wickedness, grieves making humans, decides to wipe them out. But Noah finds favor—he alone is righteous and blameless in his generation. Divine mercy preserved through one righteous family."
+            }
+          ]
+        },
+        {
+          "story_number": 6,
+          "story_id": "GEN-1-6",
+          "story_title": "Noah's Ark: Floodgates of Fury and Favor",
+          "chapter_start": 6,
+          "verse_start": 9,
+          "chapter_end": 9,
+          "verse_end": 29,
+          "verse_count": 81,
+          "toledot_marker": "Toledot of Noah (6:9)",
+          "boundary_rationale": "Major toledot opening new section. Coherent narrative arc: command to build ark, boarding creatures, flood destruction, waters receding, sacrifice and covenant. Ends with Noah's drunkenness and blessing—closes his era.",
+          "concept_slug": "judgment_and_covenant",
+          "tags": ["noah", "ark", "flood", "judgment", "preservation", "covenant", "rainbow", "blessing", "curse"],
+          "scenes": [
+            {
+              "scene_number": 1,
               "scene_id": "GEN-1-6-1",
-              "scene_name": "God's Command to Noah",
+              "scene_name": "The Command and Construction",
               "chapter_start": 6,
               "verse_start": 9,
               "chapter_end": 6,
               "verse_end": 22,
-              "verse_count": 14
+              "verse_count": 14,
+              "scene_rationale": "God commands Noah to build ark with precise dimensions. Lists all creatures to be saved. Emphasizes Noah's righteousness and obedience—he does exactly as God says."
             },
             {
+              "scene_number": 2,
               "scene_id": "GEN-1-6-2",
-              "scene_name": "The Flood Begins",
+              "scene_name": "The Flood Begins and Prevails",
               "chapter_start": 7,
               "verse_start": 1,
               "chapter_end": 7,
-              "verse_end": 12,
-              "verse_count": 12
+              "verse_end": 24,
+              "verse_count": 24,
+              "scene_rationale": "Noah's family enters ark with animals. Rain falls 40 days; waters prevail 150 days. All life on earth dies—complete destruction except those in ark. Emphasizes totality of judgment."
             },
             {
+              "scene_number": 3,
               "scene_id": "GEN-1-6-3",
-              "scene_name": "The Waters Prevail",
-              "chapter_start": 7,
-              "verse_start": 13,
-              "chapter_end": 7,
-              "verse_end": 24,
-              "verse_count": 12
-            }
-          ]
-        },
-        {
-          "story_id": "GEN-1-7",
-          "story_title": "The Sign of the Bow: Encompassing Love",
-          "chapter_start": 8,
-          "verse_start": 1,
-          "chapter_end": 9,
-          "verse_end": 17,
-          "verse_count": 45,
-          "concept": "covenant_of_rainbow",
-          "tags": ["rainbow", "covenant", "mercy", "christ"],
-          "scenes": [
-            {
-              "scene_id": "GEN-1-7-1",
-              "scene_name": "The Waters Subside",
+              "scene_name": "Waters Recede and Animals Released",
               "chapter_start": 8,
               "verse_start": 1,
               "chapter_end": 8,
               "verse_end": 14,
-              "verse_count": 14
+              "verse_count": 14,
+              "scene_rationale": "Waters abate. Noah sends out raven (doesn't return), then dove (returns—no resting place). Second and third releases of dove. Ark settles on Ararat. Signals transition from destruction to new beginning."
             },
             {
-              "scene_id": "GEN-1-7-2",
-              "scene_name": "Noah's Sacrifice and God's Covenant",
+              "scene_number": 4,
+              "scene_id": "GEN-1-6-4",
+              "scene_name": "Exit, Sacrifice, and Covenant",
               "chapter_start": 8,
               "verse_start": 15,
               "chapter_end": 9,
               "verse_end": 17,
-              "verse_count": 18
-            }
-          ]
-        },
-        {
-          "story_id": "GEN-1-8",
-          "story_title": "Accountability & Divine Sovereignty",
-          "chapter_start": 9,
-          "verse_start": 18,
-          "chapter_end": 10,
-          "verse_end": 32,
-          "verse_count": 47,
-          "concept": "law_and_sovereignty",
-          "tags": ["murder_law", "accountability", "divine_control"],
-          "scenes": [
+              "verse_count": 17,
+              "scene_rationale": "God commands exit. Noah builds altar and sacrifices. God smells pleasing aroma, commits never to curse ground again, blesses them to multiply. Establishes perpetual covenant—no more total judgment."
+            },
             {
-              "scene_id": "GEN-1-8-1",
-              "scene_name": "Ham's Sin and the Curse",
+              "scene_number": 5,
+              "scene_id": "GEN-1-6-5",
+              "scene_name": "The Rainbow Sign and Noah's Blessing",
               "chapter_start": 9,
               "verse_start": 18,
               "chapter_end": 9,
               "verse_end": 29,
-              "verse_count": 12
-            },
-            {
-              "scene_id": "GEN-1-8-2",
-              "scene_name": "The Table of Nations",
-              "chapter_start": 10,
-              "verse_start": 1,
-              "chapter_end": 10,
-              "verse_end": 32,
-              "verse_count": 32
+              "verse_count": 12,
+              "scene_rationale": "God gives Noah covenant terms: fear and dread shall rest on animals; blood justice established; rainbow as perpetual sign. Noah plants vineyard, drinks wine, becomes drunk. Ham's disrespect brings curse; Shem and Japheth blessed. Shows human nature persists post-flood."
             }
           ]
         },
         {
-          "story_id": "GEN-1-9",
-          "story_title": "Babel: Confederacy of Rebellion",
-          "chapter_start": 11,
+          "story_number": 7,
+          "story_id": "GEN-1-7",
+          "story_title": "Nations Scattered: Table and Confusion",
+          "chapter_start": 10,
           "verse_start": 1,
           "chapter_end": 11,
-          "verse_end": 26,
-          "verse_count": 26,
-          "concept": "babel_and_rebellion",
-          "tags": ["babel", "rebellion", "self_exaltation", "judgment"],
+          "verse_end": 9,
+          "verse_count": 37,
+          "toledot_marker": "Toledot of Noah's sons (10:1); continues through Babel",
+          "boundary_rationale": "Opens with toledot of Noah's sons. Coherent unit: genealogy branching into 70 nations (Table of Nations) followed immediately by Babel account explaining language diversity. Ends with dispersion—natural conclusion before genealogy narrows.",
+          "concept_slug": "nations_divided",
+          "tags": ["nations", "genealogy", "nimrod", "babel", "tower", "language", "confusion", "scattering", "dispersion"],
           "scenes": [
             {
-              "scene_id": "GEN-1-9-1",
-              "scene_name": "One Language and One Speech",
+              "scene_number": 1,
+              "scene_id": "GEN-1-7-1",
+              "scene_name": "The Seventy Nations Branching",
+              "chapter_start": 10,
+              "verse_start": 1,
+              "chapter_end": 10,
+              "verse_end": 32,
+              "verse_count": 32,
+              "scene_rationale": "Detailed genealogy of Noah's three sons producing peoples, languages, lands. Nimrod noted as mighty hunter. Maps out the post-flood world's diversity. Highly structured genealogical table."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-7-2",
+              "scene_name": "Babel: Tower and Confusion",
               "chapter_start": 11,
               "verse_start": 1,
               "chapter_end": 11,
-              "verse_end": 4,
-              "verse_count": 4
-            },
-            {
-              "scene_id": "GEN-1-9-2",
-              "scene_name": "The Confusion of Tongues",
-              "chapter_start": 11,
-              "verse_start": 5,
-              "chapter_end": 11,
               "verse_end": 9,
-              "verse_count": 5
-            },
+              "verse_count": 9,
+              "scene_rationale": "Humanity speaks one language, journeys east, settles in Babylon. Builds city and tower. God descends, confuses language, scatters them. Etiological tale explaining language diversity and political fragmentation. Ironic: goal was to prevent scattering; God's judgment scattered them."
+            }
+          ]
+        },
+        {
+          "story_number": 8,
+          "story_id": "GEN-1-8",
+          "story_title": "The Narrowing Begins: Genealogy to Abram",
+          "chapter_start": 11,
+          "verse_start": 10,
+          "chapter_end": 11,
+          "verse_end": 32,
+          "verse_count": 23,
+          "toledot_marker": "Toledot of Shem (11:10)",
+          "boundary_rationale": "New toledot opening final primordial story. Genealogy from Shem to Terah, with lifespans decreasing. Shows narrowing focus from all nations to one family. Ends with Terah's migration to Haran and family introduction—perfect transition to Abram's call.",
+          "concept_slug": "genealogical_narrowing",
+          "tags": ["genealogy", "shem", "terah", "abram", "haran", "decreasing_lifespan", "covenant_line"],
+          "scenes": [
             {
-              "scene_id": "GEN-1-9-3",
-              "scene_name": "Shem's Genealogy",
+              "scene_number": 1,
+              "scene_id": "GEN-1-8-1",
+              "scene_name": "Shem's Line to Abram",
               "chapter_start": 11,
               "verse_start": 10,
               "chapter_end": 11,
               "verse_end": 26,
-              "verse_count": 17
+              "verse_count": 17,
+              "scene_rationale": "Genealogical descent from Shem to Terah with lifespans. Shows continuation of blessed Shem's line through Abram. Lifespans continue declining from primordial ages."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-8-2",
+              "scene_name": "Terah's Family and Migration",
+              "chapter_start": 11,
+              "verse_start": 27,
+              "chapter_end": 11,
+              "verse_end": 32,
+              "verse_count": 6,
+              "scene_rationale": "Introduces Terah, Abram, Nahor, Haran. Haran dies. Terah takes Abram, his grandson Lot, and Sarai, journeys toward Canaan but settles in Haran. Sets stage for divine call to Abram."
             }
           ]
         }
@@ -402,912 +397,1275 @@
     },
     {
       "theme_id": 2,
-      "theme_name": "Abraham Cycle",
-      "chapter_range": "11:27-25:18",
-      "theme_summary": "The Call, Covenant, Tests, and Closure of Abraham",
+      "theme_name": "Patriarchal Promise: Covenant and Wanderings",
+      "chapter_range": "12-50",
+      "theme_summary": "God's elective grace toward one family amid trials, deceptions, and blessings. United by the Abrahamic covenant promises (land, offspring, blessing) echoing through generations. Traces familial and personal struggles within the framework of divine faithfulness.",
+      "theme_rationale": "Unified by covenant motifs repeated across generations, faith tests (hospitality, obedience, deception), and the theme of barrenness overcome. Shifts from universal (primordial) to particular (chosen family). Ends with Joseph's death in Egypt, pointing toward exodus and promised land.",
       "stories": [
         {
+          "story_number": 1,
           "story_id": "GEN-2-1",
-          "story_title": "The Call: Separation and Naked Promise",
+          "story_title": "Abram's Call: Stranger Becomes Star-Dust Father",
           "chapter_start": 11,
           "verse_start": 27,
           "chapter_end": 12,
           "verse_end": 9,
-          "verse_count": 20,
-          "concept": "abraham_call",
-          "tags": ["abraham", "call", "separation", "promise"],
+          "verse_count": 23,
+          "toledot_marker": "Toledot of Terah (11:27) opens patriarchal arc",
+          "boundary_rationale": "Begins toledot of Terah. Coherent narrative: family settled in Haran, God calls Abram to leave, promises land and great nation, Abram obeys and travels to Canaan, builds altars. Established call narrative—perfect opening to covenant cycle.",
+          "concept_slug": "divine_call_and_obedience",
+          "tags": ["abram", "call", "promise", "obedience", "canaan", "altar", "faith", "departure"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-2-1-1",
-              "scene_name": "Terah's Family and Death",
-              "chapter_start": 11,
-              "verse_start": 27,
-              "chapter_end": 11,
-              "verse_end": 32,
-              "verse_count": 6
-            },
-            {
-              "scene_id": "GEN-2-1-2",
-              "scene_name": "God's Call to Abram",
+              "scene_name": "The Call: Leave Everything",
               "chapter_start": 12,
               "verse_start": 1,
               "chapter_end": 12,
+              "verse_end": 5,
+              "verse_count": 5,
+              "scene_rationale": "God tells Abram to leave country, kindred, father's house. Promises to make him great nation, bless him, make name great. Abram obeys—demonstrates radical faith in bare promise."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-1-2",
+              "scene_name": "Journey and Covenant Renewal",
+              "chapter_start": 12,
+              "verse_start": 6,
+              "chapter_end": 12,
               "verse_end": 9,
-              "verse_count": 9
+              "verse_count": 4,
+              "scene_rationale": "Abram travels through Canaan to Shechem. God appears and promises land to his offspring. Abram builds altar—marks covenant claim and pledge of worship."
             }
           ]
         },
         {
+          "story_number": 2,
           "story_id": "GEN-2-2",
-          "story_title": "Lot's Choice: Temporal vs. Spiritual Advantage",
+          "story_title": "Egypt and Lot: First Tests of Faith",
           "chapter_start": 12,
           "verse_start": 10,
           "chapter_end": 13,
           "verse_end": 18,
-          "verse_count": 33,
-          "concept": "lots_choice",
-          "tags": ["lot", "sodom", "choice", "consequence"],
+          "verse_count": 27,
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Coherent pair of episodes testing Abram's faith: famine forces Egypt sojourn where he misrepresents Sarai as sister (will repeat pattern), Pharaoh takes her and plagues follow. Returns enriched. Then separation from Lot due to wealth—both test faith and divine protection.",
+          "concept_slug": "faith_tested_and_covenant_protected",
+          "tags": ["egypt", "famine", "sarai", "deception", "pharaoh", "lot", "separation", "wealth", "altar"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-2-2-1",
-              "scene_name": "Famine in Canaan",
+              "scene_name": "Famine and Egyptian Sojourn",
               "chapter_start": 12,
               "verse_start": 10,
               "chapter_end": 12,
               "verse_end": 20,
-              "verse_count": 11
+              "verse_count": 11,
+              "scene_rationale": "Famine forces Abram to Egypt. Fearing his wife's beauty will get him killed, he tells Sarai to say she's his sister. Pharaoh takes her; plagues strike. Pharaoh discovers truth, rebukes Abram, sends them away with gifts. Shows Abram's lack of trust despite God's promises."
             },
             {
+              "scene_number": 2,
               "scene_id": "GEN-2-2-2",
-              "scene_name": "Separation from Lot",
+              "scene_name": "Return and Lot's Separation",
               "chapter_start": 13,
               "verse_start": 1,
               "chapter_end": 13,
               "verse_end": 18,
-              "verse_count": 18
+              "verse_count": 18,
+              "scene_rationale": "Abram and Lot return to Canaan wealthy. Herdsmen quarrel over pasture. Abram generously offers Lot first choice of land. Lot chooses Jordan plain. Abram remains in Canaan. God reaffirms promise of countless descendants and land to all Abram sees."
             }
           ]
         },
         {
+          "story_number": 3,
           "story_id": "GEN-2-3",
-          "story_title": "Melchizedek: Christ's Representative",
+          "story_title": "War, Rescue, and Priestly Blessing",
           "chapter_start": 14,
           "verse_start": 1,
           "chapter_end": 14,
           "verse_end": 24,
           "verse_count": 24,
-          "concept": "melchizedek",
-          "tags": ["melchizedek", "tithe", "christ", "priesthood"],
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Standalone episode: war among kings, Lot captured, Abram rescues him with trained men. Meets mysterious Melchizedek who blesses Abram and receives tithe. Shows Abram's power and honor. Natural break—different narrative type and setting.",
+          "concept_slug": "military_victory_and_divine_priesthood",
+          "tags": ["war", "lot_captured", "rescue", "melchizedek", "salem", "tithe", "priesthood", "blessing"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-2-3-1",
-              "scene_name": "The War of the Kings",
+              "scene_name": "War and Rescue",
               "chapter_start": 14,
               "verse_start": 1,
               "chapter_end": 14,
-              "verse_end": 12,
-              "verse_count": 12
+              "verse_end": 16,
+              "verse_count": 16,
+              "scene_rationale": "Kings wage war; Lot is captured and taken. Abram, learning of it, musters 318 trained men, pursues kings, defeats them, rescues Lot and others. Demonstrates Abram's military capability and leadership."
             },
             {
+              "scene_number": 2,
               "scene_id": "GEN-2-3-2",
-              "scene_name": "Abram's Rescue and Melchizedek's Blessing",
+              "scene_name": "Melchizedek's Blessing and Tithe",
               "chapter_start": 14,
-              "verse_start": 13,
+              "verse_start": 17,
               "chapter_end": 14,
               "verse_end": 24,
-              "verse_count": 12
+              "verse_count": 8,
+              "scene_rationale": "Melchizedek, King of Salem and Priest of Most High God, brings bread and wine, blesses Abram, who gives him tithe of spoils. Abram refuses king of Sodom's offer of goods—his faith is in God's promise, not plunder."
             }
           ]
         },
         {
+          "story_number": 4,
           "story_id": "GEN-2-4",
-          "story_title": "Covenant of Pieces: Delayed Iniquity",
+          "story_title": "Covenant Vision: Stars, Fire, and Prophecy",
           "chapter_start": 15,
           "verse_start": 1,
           "chapter_end": 15,
           "verse_end": 21,
           "verse_count": 21,
-          "concept": "covenant_pieces",
-          "tags": ["covenant", "amorites", "judgment", "mercy"],
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Distinct episode: God appears in vision. Abram expresses concern (no son). God promises offspring as countless as stars. Abram believes; God counts it as righteousness. Covenant ceremony with smoking pot and torch. Prophecy of Egypt bondage. Clear vision narrative with covenant ratification.",
+          "concept_slug": "covenant_and_faith_credited",
+          "tags": ["vision", "covenant", "stars", "faith", "righteousness", "egypt_bondage", "ceremony", "prophecy"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-2-4-1",
-              "scene_name": "God's Assurance to Abram",
+              "scene_name": "Vision and Promise of Offspring",
               "chapter_start": 15,
               "verse_start": 1,
               "chapter_end": 15,
               "verse_end": 6,
-              "verse_count": 6
+              "verse_count": 6,
+              "scene_rationale": "God appears in vision, tells Abram not to fear, promises reward. Abram expresses concern: no child, servant will inherit. God takes him outside, shows stars, promises offspring equal to stars. Abram believes; God counts it as righteousness."
             },
             {
+              "scene_number": 2,
               "scene_id": "GEN-2-4-2",
-              "scene_name": "The Covenant Ceremony",
+              "scene_name": "Covenant Ceremony and Land Promise",
               "chapter_start": 15,
               "verse_start": 7,
               "chapter_end": 15,
               "verse_end": 21,
-              "verse_count": 15
+              "verse_count": 15,
+              "scene_rationale": "God identifies as one who brought Abram from Ur, promises land from Egypt to Euphrates. Abram asks for assurance. God commands sacrifice preparation. As sun sets, deep sleep falls on Abram; smoking pot and flaming torch pass between pieces. God prophesies Egypt bondage of 400 years, then return."
             }
           ]
         },
         {
+          "story_number": 5,
           "story_id": "GEN-2-5",
-          "story_title": "Hagar: Human Schemes vs. Divine Plan",
+          "story_title": "Hagar and Ishmael: Human Plans vs. Divine Promise",
           "chapter_start": 16,
           "verse_start": 1,
           "chapter_end": 17,
           "verse_end": 27,
-          "verse_count": 44,
-          "concept": "hagar_ishmael",
-          "tags": ["hagar", "ishmael", "circumcision", "covenant"],
+          "verse_count": 50,
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Two-part narrative: Sarai's plan (give handmaid Hagar to Abram), Ishmael's birth, angel encounter with Hagar in wilderness. Then divine covenant with Abraham (name change, circumcision, Isaac's promise). Shows human striving vs. divine timing.",
+          "concept_slug": "flesh_versus_promise",
+          "tags": ["sarai", "hagar", "ishmael", "angel", "abraham", "covenant", "circumcision", "isaac", "laughter"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-2-5-1",
-              "scene_name": "Sarai's Plan with Hagar",
+              "scene_name": "Hagar's Conception and Flight",
               "chapter_start": 16,
               "verse_start": 1,
               "chapter_end": 16,
-              "verse_end": 6,
-              "verse_count": 6
-            },
-            {
-              "scene_id": "GEN-2-5-2",
-              "scene_name": "Hagar's Encounter and Ishmael's Birth",
-              "chapter_start": 16,
-              "verse_start": 7,
-              "chapter_end": 16,
               "verse_end": 16,
-              "verse_count": 10
+              "verse_count": 16,
+              "scene_rationale": "Sarai, frustrated by barrenness, gives Hagar to Abram. Hagar conceives; Sarai mistreats her. Hagar flees to wilderness. Angel appears, tells her to return, promises her offspring. Gives birth to Ishmael—product of human plan, not divine."
             },
             {
-              "scene_id": "GEN-2-5-3",
-              "scene_name": "The Covenant of Circumcision",
+              "scene_number": 2,
+              "scene_id": "GEN-2-5-2",
+              "scene_name": "Covenant Sealed: Circumcision and Isaac's Promise",
               "chapter_start": 17,
               "verse_start": 1,
               "chapter_end": 17,
               "verse_end": 27,
-              "verse_count": 27
+              "verse_count": 27,
+              "scene_rationale": "When Abram is 99, God appears, changes his name to Abraham ('father of multitudes'), promises covenant eternally. Commands circumcision as sign. Changes Sarai to Sarah. Sarah will bear son at 90. Abraham laughs. Isaac born in divine promise—fruit of God's faithfulness, not flesh."
             }
           ]
         },
         {
+          "story_number": 6,
           "story_id": "GEN-2-6",
-          "story_title": "Hospitality and the Boundary of Mercy",
+          "story_title": "Sodom's Mercy Boundary: Hospitality and Judgment",
           "chapter_start": 18,
           "verse_start": 1,
           "chapter_end": 19,
-          "verse_end": 28,
-          "verse_count": 67,
-          "concept": "sodom_judgment",
-          "tags": ["sodom", "hospitality", "mercy", "judgment"],
+          "verse_end": 38,
+          "verse_count": 70,
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Distinct narrative cycle: visitors appear, Abraham offers hospitality, Isaac birth announced, Abraham intercedes for Sodom (showing mercy theme), judgment falls. Lot rescued but city destroyed. Shows divine justice and family preservation. Ends with Lot's daughters' incest (etiological for Moab/Ammon).",
+          "concept_slug": "hospitality_intercession_judgment",
+          "tags": ["visitors", "hospitality", "isaac_promise", "sodom", "gomorrah", "intercession", "lot", "escape", "judgement", "moab", "ammon"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-2-6-1",
-              "scene_name": "The Visitors",
+              "scene_name": "Divine Visitors and Isaac Announced",
               "chapter_start": 18,
               "verse_start": 1,
               "chapter_end": 18,
               "verse_end": 15,
-              "verse_count": 15
+              "verse_count": 15,
+              "scene_rationale": "Three visitors appear. Abraham extends hospitality, provides meal. They announce Sarah will bear a son. Sarah laughs in disbelief. Visitors identify themselves as divine messengers with agenda regarding Sodom."
             },
             {
+              "scene_number": 2,
               "scene_id": "GEN-2-6-2",
-              "scene_name": "Abraham's Intercession",
+              "scene_name": "Intercession for Sodom",
               "chapter_start": 18,
               "verse_start": 16,
               "chapter_end": 18,
               "verse_end": 33,
-              "verse_count": 18
+              "verse_count": 18,
+              "scene_rationale": "God reveals plan to judge Sodom for wickedness. Abraham bargains: will God spare if 50 righteous found? Then 45, 40, 30, 20, 10. God agrees—showing mercy threshold. Abraham's intercession shows relationship of trust with God."
             },
             {
+              "scene_number": 3,
               "scene_id": "GEN-2-6-3",
-              "scene_name": "Sodom's Judgment",
+              "scene_name": "Sodom's Fall and Lot's Escape",
               "chapter_start": 19,
               "verse_start": 1,
               "chapter_end": 19,
-              "verse_end": 28,
-              "verse_count": 28
+              "verse_end": 29,
+              "verse_count": 29,
+              "scene_rationale": "Two angels arrive in Sodom. Lot offers hospitality. Men of city surround house demanding the strangers. Angels protect Lot, strike men blind, command Lot to flee. Fire and sulfur rain destroys cities. Lot's wife looks back, becomes salt. Lot flees to Zoar. Abraham watches destruction from height."
+            },
+            {
+              "scene_number": 4,
+              "scene_id": "GEN-2-6-4",
+              "scene_name": "Lot's Daughters and Moab's Origin",
+              "chapter_start": 19,
+              "verse_start": 30,
+              "chapter_end": 19,
+              "verse_end": 38,
+              "verse_count": 9,
+              "scene_rationale": "Lot flees to mountains with daughters, fearing no man will marry them. Daughters get Lot drunk, lie with him to preserve seed. Both conceive: first bears Moab, second bears Ben-ammi (Ammon). Etiological account of Israel's neighboring nations."
             }
           ]
         },
         {
+          "story_number": 7,
           "story_id": "GEN-2-7",
-          "story_title": "Lot's Paralysis and Escape",
-          "chapter_start": 19,
-          "verse_start": 29,
-          "chapter_end": 21,
-          "verse_end": 34,
-          "verse_count": 77,
-          "concept": "lots_escape_isaac",
-          "tags": ["lot", "escape", "isaac_born", "covenant"],
+          "story_title": "Abimelech and Deception Reprised",
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 18,
+          "verse_count": 18,
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Parallel to Egypt episode: Abraham again misrepresents Sarah as sister; Abimelech (different from Pharaoh) takes her; God appears to Abimelech in dream, reveals truth. Abimelech restores Sarah, gives gifts, reproves Abraham. Different outcome (dream warning) but same test pattern.",
+          "concept_slug": "fear_and_divine_protection",
+          "tags": ["abimelech", "gerar", "sarah", "sister_deception", "dream", "rebuke", "covenant"],
           "scenes": [
             {
+              "scene_number": 1,
               "scene_id": "GEN-2-7-1",
-              "scene_name": "Lot's Escape and Moab and Ammon",
-              "chapter_start": 19,
-              "verse_start": 29,
-              "chapter_end": 19,
-              "verse_end": 38,
-              "verse_count": 10
-            },
-            {
-              "scene_id": "GEN-2-7-2",
-              "scene_name": "Abraham in Gerar",
+              "scene_name": "Deception and Divine Warning",
               "chapter_start": 20,
               "verse_start": 1,
               "chapter_end": 20,
-              "verse_end": 18,
-              "verse_count": 18
+              "verse_end": 7,
+              "verse_count": 7,
+              "scene_rationale": "Abraham moves to Gerar. Again tells Sarah she's his sister (half-truth). Abimelech takes her. God comes to Abimelech in dream, says he's about to die because of taken wife. Abimelech had not touched her; appeals to God. God says He prevented touching and will restore."
             },
             {
-              "scene_id": "GEN-2-7-3",
-              "scene_name": "Isaac Is Born",
+              "scene_number": 2,
+              "scene_id": "GEN-2-7-2",
+              "scene_name": "Restoration and Covenant",
+              "chapter_start": 20,
+              "verse_start": 8,
+              "chapter_end": 20,
+              "verse_end": 18,
+              "verse_count": 11,
+              "scene_rationale": "Abimelech rises early, tells servants, confronts Abraham. Abraham admits fear, half-truth claim. Abimelech gives Sarah back with gifts of cattle, servants, land. Abraham prays for Abimelech's household (wife and concubines' fertility restored). Shows Abraham's intercession and restoration of peace."
+            }
+          ]
+        },
+        {
+          "story_number": 8,
+          "story_id": "GEN-2-8",
+          "story_title": "Isaac Born: Promise Fulfilled, Ishmael Cast Out",
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 34,
+          "verse_count": 34,
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Fulfillment narrative: Isaac born to aged Abraham and Sarah. Circumcised on eighth day. Ishmael mocks Isaac; Sarai demands Hagar and Ishmael be cast out. Abraham reluctantly complies. Angel preserves Hagar and Ishmael in wilderness. Covenant with Abimelech establishes peace. Resolves heir question.",
+          "concept_slug": "promise_fulfilled_lines_divided",
+          "tags": ["isaac_birth", "circumcision", "laughter", "ishmael", "hagar", "casting_out", "well", "covenant", "abimelech"],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-8-1",
+              "scene_name": "Isaac's Birth and Ishmael's Jealousy",
               "chapter_start": 21,
               "verse_start": 1,
               "chapter_end": 21,
-              "verse_end": 7,
-              "verse_count": 7
+              "verse_end": 9,
+              "verse_count": 9,
+              "scene_rationale": "Isaac born when Abraham is 100, Sarah 90. Circumcised on eighth day. Sarai's faith vindicated—she bears seed in old age. Weaning feast held. Ishmael (now teenage) mocks Isaac. Sarai's jealousy aroused for her son's inheritance."
             },
             {
-              "scene_id": "GEN-2-7-4",
-              "scene_name": "Hagar Cast Out",
+              "scene_number": 2,
+              "scene_id": "GEN-2-8-2",
+              "scene_name": "Expulsion and Wilderness Salvation",
               "chapter_start": 21,
-              "verse_start": 8,
+              "verse_start": 10,
               "chapter_end": 21,
               "verse_end": 21,
-              "verse_count": 14
+              "verse_count": 12,
+              "scene_rationale": "Sarai demands Hagar and Ishmael be cast out. Abraham distressed (son from his body). God tells Abraham to obey Sarah—Isaac is the covenant seed, but Ishmael will become nation. Abraham sends them to wilderness. Water runs out; Hagar despairs. Angel appears, shows well, promises Ishmael will be great nation."
             },
             {
-              "scene_id": "GEN-2-7-5",
-              "scene_name": "Covenant at Beersheba",
+              "scene_number": 3,
+              "scene_id": "GEN-2-8-3",
+              "scene_name": "Well Covenant and Peace Treaty",
               "chapter_start": 21,
               "verse_start": 22,
               "chapter_end": 21,
               "verse_end": 34,
-              "verse_count": 13
+              "verse_count": 13,
+              "scene_rationale": "Abimelech and commander approach Abraham to make covenant. Abraham complains about well Abimelech's servants seized. They make oath at Beer-sheba. Abimelech plants tamarisk tree. Abraham establishes altar, calls on God. Both swear oath—peace established through well and covenant."
             }
           ]
         },
         {
-          "story_id": "GEN-2-8",
-          "story_title": "The Akedah: Figure of Self-Denial",
+          "story_number": 9,
+          "story_id": "GEN-2-9",
+          "story_title": "The Akedah: Ultimate Test of Faith",
           "chapter_start": 22,
           "verse_start": 1,
           "chapter_end": 22,
-          "verse_end": 19,
-          "verse_count": 19,
-          "concept": "akedah_isaac_sacrifice",
-          "tags": ["akedah", "isaac", "sacrifice", "faith", "christ"],
+          "verse_end": 24,
+          "verse_count": 24,
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Climactic episode: God commands Abraham to sacrifice Isaac (the promised heir). Abraham obeys without question, journeys with Isaac to Moriah. Prepares sacrifice. Angel stays hand, provides ram. Covenant reaffirmed with blessing. Represents apex of Abraham's faith and foreshadows redemptive substitution.",
+          "concept_slug": "faith_tested_to_limit",
+          "tags": ["akedah", "test", "isaac", "sacrifice", "moriah", "angel", "ram", "covenant", "blessing", "seed"],
           "scenes": [
             {
-              "scene_id": "GEN-2-8-1",
-              "scene_name": "God's Command",
+              "scene_number": 1,
+              "scene_id": "GEN-2-9-1",
+              "scene_name": "The Command and Journey",
               "chapter_start": 22,
               "verse_start": 1,
               "chapter_end": 22,
-              "verse_end": 2,
-              "verse_count": 2
-            },
-            {
-              "scene_id": "GEN-2-8-2",
-              "scene_name": "The Journey and the Test",
-              "chapter_start": 22,
-              "verse_start": 3,
-              "chapter_end": 22,
               "verse_end": 10,
-              "verse_count": 8
+              "verse_count": 10,
+              "scene_rationale": "God commands Abraham to take Isaac (his only son, whom he loves) to Moriah and sacrifice him. Abraham rises early, takes Isaac and two servants, travels three days. Tells servants to wait; he and Isaac go to worship. Takes wood and knife. Isaac asks where the lamb is."
             },
             {
-              "scene_id": "GEN-2-8-3",
-              "scene_name": "The Provision",
+              "scene_number": 2,
+              "scene_id": "GEN-2-9-2",
+              "scene_name": "The Altar and Deliverance",
               "chapter_start": 22,
               "verse_start": 11,
               "chapter_end": 22,
-              "verse_end": 19,
-              "verse_count": 9
+              "verse_end": 24,
+              "verse_count": 14,
+              "scene_rationale": "Abraham builds altar, arranges wood, binds Isaac, places him on altar. Reaches for knife. Angel calls out, stops him. Abraham looks; ram caught in thicket. Sacrifices ram instead of Isaac. Names place Yireh (God provides). Angel reaffirms covenant: offspring as stars, possess gates, all nations blessed through seed."
             }
           ]
         },
         {
-          "story_id": "GEN-2-9",
-          "story_title": "Final Rest: Successor Secured",
-          "chapter_start": 22,
-          "verse_start": 20,
-          "chapter_end": 25,
-          "verse_end": 18,
-          "verse_count": 75,
-          "concept": "sarah_rebekah_closure",
-          "tags": ["sarah_death", "rebekah", "successor", "covenant"],
+          "story_number": 10,
+          "story_id": "GEN-2-10",
+          "story_title": "Sarah's Death and Machpelah Purchase",
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 23,
+          "verse_end": 20,
+          "verse_count": 20,
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Transitional narrative: Sarah dies at 127. Abraham mourns. Negotiates with Ephron for cave burial at Machpelah. Exact legal transaction recorded—shows first land ownership in Canaan. Honors matriarch and secures burial place for covenant family.",
+          "concept_slug": "covenant_inheritance_begins",
+          "tags": ["sarah_death", "mourning", "ephron", "machpelah", "cave", "burial", "field_purchase", "hittites", "canaan_land"],
           "scenes": [
             {
-              "scene_id": "GEN-2-9-1",
-              "scene_name": "Abraham's Relatives",
-              "chapter_start": 22,
-              "verse_start": 20,
-              "chapter_end": 22,
-              "verse_end": 24,
-              "verse_count": 5
-            },
-            {
-              "scene_id": "GEN-2-9-2",
-              "scene_name": "Sarah's Death and Burial",
+              "scene_number": 1,
+              "scene_id": "GEN-2-10-1",
+              "scene_name": "Mourning and Negotiation",
               "chapter_start": 23,
               "verse_start": 1,
               "chapter_end": 23,
-              "verse_end": 20,
-              "verse_count": 20
+              "verse_end": 13,
+              "verse_count": 13,
+              "scene_rationale": "Sarah dies at Hebron. Abraham mourns and weeps. Seeks burial place from Hittites. Ephron offers cave at Machpelah. Abraham insists on payment. Discussion over price, with cultural formalities observed."
             },
             {
-              "scene_id": "GEN-2-9-3",
-              "scene_name": "Bride for Isaac",
+              "scene_number": 2,
+              "scene_id": "GEN-2-10-2",
+              "scene_name": "Purchase Sealed",
+              "chapter_start": 23,
+              "verse_start": 14,
+              "chapter_end": 23,
+              "verse_end": 20,
+              "verse_count": 7,
+              "scene_rationale": "Abraham weighs out silver (400 shekels). Transaction witnessed by Hittites. Cave of Machpelah becomes Abraham's property. Sarah buried there. First land ownership in Canaan—fulfilling the promise of land, though beginning with death and burial."
+            }
+          ]
+        },
+        {
+          "story_number": 11,
+          "story_id": "GEN-2-11",
+          "story_title": "Isaac's Bride: Rebekah Chosen by Providence",
+          "chapter_start": 24,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 67,
+          "verse_count": 67,
+          "toledot_marker": "Continues toledot of Terah",
+          "boundary_rationale": "Detailed narrative: Abraham sends servant to find bride for Isaac from his kindred. Servant travels to Mesopotamia, prays at well. Rebekah appears, offers water. Servant recognizes God's providence. Negotiates with family, Rebekah consents. Servant brings her to Isaac. Isaac marries her, comforted after Sarah's death.",
+          "concept_slug": "providence_and_continuation",
+          "tags": ["isaac", "rebekah", "servant", "betrothal", "well", "providence", "family_line", "marriage", "covenant_continuation"],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-11-1",
+              "scene_name": "Servant's Mission and Prayer",
               "chapter_start": 24,
               "verse_start": 1,
               "chapter_end": 24,
-              "verse_end": 67,
-              "verse_count": 67
+              "verse_end": 27,
+              "verse_count": 27,
+              "scene_rationale": "Abraham instructs servant to find bride for Isaac from his kindred, not Canaanites. Servant takes oath. Servant journeys to Nahor's city. Prays at well for God to show kindness: maiden offering water to him and camels should be chosen bride."
             },
             {
-              "scene_id": "GEN-2-9-4",
-              "scene_name": "Abraham's Children and Death",
+              "scene_number": 2,
+              "scene_id": "GEN-2-11-2",
+              "scene_name": "Rebekah and Divine Sign",
+              "chapter_start": 24,
+              "verse_start": 28,
+              "chapter_end": 24,
+              "verse_end": 49,
+              "verse_count": 22,
+              "scene_rationale": "Rebekah appears with pitcher. Servant asks for water; she not only gives but offers to water all his camels. Servant recognizes sign. Gives her gold ring and bracelets. Learns she's granddaughter of Nahor (Abraham's brother). Rebekah tells her family. Servant recounts all to Laban and family."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-11-3",
+              "scene_name": "Rebekah's Consent and Marriage",
+              "chapter_start": 24,
+              "verse_start": 50,
+              "chapter_end": 24,
+              "verse_end": 67,
+              "verse_count": 18,
+              "scene_rationale": "Laban and family recognize God's hand. Servant asks to depart with Rebekah. They call Rebekah, ask if she'll go. She consents. Servant and Rebekah depart. Isaac is in field meditating when servant arrives. Rebekah sees Isaac, covers herself. Servant tells all. Isaac takes Rebekah into Sarah's tent, marries her, loves her, comforted after mother's death."
+            }
+          ]
+        },
+        {
+          "story_number": 12,
+          "story_id": "GEN-2-12",
+          "story_title": "Abraham's Legacy: Death and Ishmael",
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 18,
+          "verse_count": 18,
+          "toledot_marker": "Toledot of Ishmael (25:12) marks Abraham cycle closing",
+          "boundary_rationale": "Abraham takes Keturah, has more children. Gives gifts but inheritance to Isaac. Abraham dies at 175, buried at Machpelah with Sarah by Isaac and Ishmael. Ishmael's genealogy follows (toledot of Ishmael). Closes Abraham era, marks separation of covenant line (Isaac) from other lines.",
+          "concept_slug": "covenant_inheritance_secured",
+          "tags": ["abraham_death", "keturah", "gifts", "inheritance", "isaac_blessed", "ishmael_descendants", "burial", "covenant_line"],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-12-1",
+              "scene_name": "Abraham's Later Family and Inheritance",
               "chapter_start": 25,
               "verse_start": 1,
               "chapter_end": 25,
+              "verse_end": 11,
+              "verse_count": 11,
+              "scene_rationale": "Abraham takes Keturah as wife. She bears Zimran, Jokshan, Medan, Midian, Ishbak, Shuah. Abraham gives all he has to Isaac. To sons of concubines (including Keturah's), Abraham gives gifts, sends them east before Isaac. Clear inheritance hierarchy established."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-12-2",
+              "scene_name": "Abraham's Death and Burial",
+              "chapter_start": 25,
+              "verse_start": 7,
+              "chapter_end": 25,
+              "verse_end": 11,
+              "verse_count": 5,
+              "scene_rationale": "Abraham dies at 175, old and satisfied. Buried at Machpelah by Isaac and Ishmael. God blesses Isaac. Isaac settles at Beer-lahai-roi. Covenant authority transfers to Isaac; Ishmael acknowledged but separated."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-12-3",
+              "scene_name": "Ishmael's Line and Settlements",
+              "chapter_start": 25,
+              "verse_start": 12,
+              "chapter_end": 25,
               "verse_end": 18,
-              "verse_count": 18
+              "verse_count": 7,
+              "scene_rationale": "Ishmael's genealogy (12 sons, princes) and settlements listed. Died at 137. Ishmael's line established as great nation per God's promise, but covenant continues through Isaac alone."
             }
           ]
-        }
-      ]
-    },
-    {
-      "theme_id": 3,
-      "theme_name": "Isaac & Jacob Cycle",
-      "chapter_range": "25:19-36:43",
-      "theme_summary": "The Twins, Jacob's Struggles, Covenant Renewal, and Esau's Rejection",
-      "stories": [
+        },
         {
-          "story_id": "GEN-3-1",
-          "story_title": "Esau's Appetite: The Despised Birthright",
+          "story_number": 13,
+          "story_id": "GEN-2-13",
+          "story_title": "Twins and Birthright: Esau's Hunger",
           "chapter_start": 25,
           "verse_start": 19,
-          "chapter_end": 28,
-          "verse_end": 9,
-          "verse_count": 73,
-          "concept": "esau_jacob_birthright",
-          "tags": ["esau", "jacob", "birthright", "appetite", "consequence"],
+          "chapter_end": 25,
+          "verse_end": 34,
+          "verse_count": 16,
+          "toledot_marker": "Toledot of Isaac (25:19)",
+          "boundary_rationale": "New toledot opening Isaac cycle. Isaac prays for Rebekah's barrenness; she conceives twins. Oracle: older will serve younger. Struggle in womb foreshadows their conflict. Esau emerges red and hairy (Edom). Jacob born grasping heel. Adult: Esau sells birthright to Jacob for lentil stew—despises his inheritance.",
+          "concept_slug": "birthright_and_blessing_theme_begins",
+          "tags": ["isaac", "rebekah", "twins", "esau", "jacob", "oracle", "birthright", "lentil_stew", "despise", "inheritance"],
           "scenes": [
             {
-              "scene_id": "GEN-3-1-1",
-              "scene_name": "The Twins Are Born",
+              "scene_number": 1,
+              "scene_id": "GEN-2-13-1",
+              "scene_name": "Conception and Oracle",
               "chapter_start": 25,
               "verse_start": 19,
               "chapter_end": 25,
               "verse_end": 26,
-              "verse_count": 8
+              "verse_count": 8,
+              "scene_rationale": "Isaac prays for barren Rebekah. She conceives twins. Struggle in womb. Rebekah inquires of God. Oracle: two nations in womb, older will serve younger. Rebekah's faith tested—promise inverts normal inheritance."
             },
             {
-              "scene_id": "GEN-3-1-2",
-              "scene_name": "Esau Sells His Birthright",
+              "scene_number": 2,
+              "scene_id": "GEN-2-13-2",
+              "scene_name": "Birth and Birthright Sale",
               "chapter_start": 25,
-              "verse_start": 27,
+              "verse_start": 25,
               "chapter_end": 25,
               "verse_end": 34,
-              "verse_count": 8
-            },
-            {
-              "scene_id": "GEN-3-1-3",
-              "scene_name": "Isaac in Gerar",
-              "chapter_start": 26,
-              "verse_start": 1,
-              "chapter_end": 26,
-              "verse_end": 35,
-              "verse_count": 35
-            },
-            {
-              "scene_id": "GEN-3-1-4",
-              "scene_name": "Jacob Deceives Isaac",
-              "chapter_start": 27,
-              "verse_start": 1,
-              "chapter_end": 27,
-              "verse_end": 40,
-              "verse_count": 40
-            },
-            {
-              "scene_id": "GEN-3-1-5",
-              "scene_name": "Jacob Flees to Laban",
-              "chapter_start": 27,
-              "verse_start": 41,
-              "chapter_end": 28,
-              "verse_end": 9,
-              "verse_count": 14
+              "verse_count": 10,
+              "scene_rationale": "Esau born first, red, hairy (called Edom). Jacob follows, grasping Esau's heel. Boys grow: Esau skillful hunter, Jacob quiet dweller of tents. Isaac loves Esau; Rebekah loves Jacob. Esau comes exhausted from hunting. Jacob offers stew for birthright. Esau despises birthright, swears oath. Jacob gains it. Shows character: Esau values immediate gratification over covenant privilege."
             }
           ]
         },
         {
-          "story_id": "GEN-3-2",
-          "story_title": "Jacob's Ladder: Bridging the Gulf",
-          "chapter_start": 28,
-          "verse_start": 10,
-          "chapter_end": 30,
-          "verse_end": 24,
-          "verse_count": 60,
-          "concept": "jacobs_ladder",
-          "tags": ["jacob", "ladder", "bethel", "christ", "covenant"],
+          "story_number": 14,
+          "story_id": "GEN-2-14",
+          "story_title": "Isaac in Gerar: Tested Promises and Disputes",
+          "chapter_start": 26,
+          "verse_start": 1,
+          "chapter_end": 26,
+          "verse_end": 35,
+          "verse_count": 35,
+          "toledot_marker": "Continues toledot of Isaac",
+          "boundary_rationale": "Parallel to Abraham's episodes: Isaac goes to Gerar during famine. Tells Rebekah to say she's his sister. Abimelech discovers truth, rebukes Isaac. Despite deception, Isaac prospers, becomes mighty. Wells dug, then seized by Philistines. Dispute over water rights. Covenant with Abimelech. Esau's marriage to Hittites grieves Isaac.",
+          "concept_slug": "faith_tested_prosperity_granted",
+          "tags": ["isaac", "gerar", "rebekah", "sister_deception", "abimelech", "wells", "dispute", "covenant", "prosperity", "esau_hittite_wives"],
           "scenes": [
             {
-              "scene_id": "GEN-3-2-1",
-              "scene_name": "Jacob's Vision at Bethel",
+              "scene_number": 1,
+              "scene_id": "GEN-2-14-1",
+              "scene_name": "Deception and Prosperity",
+              "chapter_start": 26,
+              "verse_start": 1,
+              "chapter_end": 26,
+              "verse_end": 16,
+              "verse_count": 16,
+              "scene_rationale": "Famine in land. Isaac goes to Gerar to Abimelech. God appears, tells him not to go to Egypt but to stay in land; will be with him, bless him, fulfill oath to Abraham. Isaac tells Rebekah to say she's his sister (same deception as Abraham). Abimelech sees them caressing. Rebukes Isaac. Isaac fears men might kill him for wife. Isaac sows, reaps 100-fold, becomes very wealthy, prospers exceedingly."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-14-2",
+              "scene_name": "Wells and Covenant",
+              "chapter_start": 26,
+              "verse_start": 17,
+              "chapter_end": 26,
+              "verse_end": 33,
+              "verse_count": 17,
+              "scene_rationale": "Philistines envy Isaac, fill his wells with dirt. Isaac moves away. Digs wells again (named Esek, Sitnah—disputes over them). Moves to Rehoboth. Third well disputed-free. Names it Rehoboth (room). Moves to Beersheba. God appears, renews covenant. Builds altar, calls on God's name. Abimelech, his commander, come to make covenant. Isaac makes feast. They swear oath."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-14-3",
+              "scene_name": "Esau's Wives and Family Strife",
+              "chapter_start": 26,
+              "verse_start": 34,
+              "chapter_end": 26,
+              "verse_end": 35,
+              "verse_count": 2,
+              "scene_rationale": "Esau marries Judith and Basemath (Hittite women). Their marriages cause grief to Isaac and Rebekah. Sets stage for Rebekah's preference for Jacob and plot to steal blessing."
+            }
+          ]
+        },
+        {
+          "story_number": 15,
+          "story_id": "GEN-2-15",
+          "story_title": "Jacob's Theft: Disguise and Blessing Stolen",
+          "chapter_start": 27,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 46,
+          "verse_count": 46,
+          "toledot_marker": "Continues toledot of Isaac",
+          "boundary_rationale": "Escalation narrative: Isaac old and blind. Plans to bless Esau. Rebekah hears, conspires with Jacob to steal blessing. Jacob disguises as Esau, deceives father. Receives covenant blessing. Esau returns, discovers deception, rage ensues. Isaac blesses Esau (servant/lesser blessing). Jacob must flee. Rebekah plans his escape to Haran.",
+          "concept_slug": "deception_and_divine_purpose",
+          "tags": ["isaac", "blind", "blessing", "esau", "jacob", "rebekah", "deception", "goat_skin", "covenant_blessing", "rage", "escape"],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-15-1",
+              "scene_name": "The Plot and Disguise",
+              "chapter_start": 27,
+              "verse_start": 1,
+              "chapter_end": 27,
+              "verse_end": 17,
+              "verse_count": 17,
+              "scene_rationale": "Isaac, old and blind, tells Esau to hunt wild game and prepare food so he can bless him before dying. Rebekah overhears. Tells Jacob to go fetch kid goats. She'll prepare food to deceive Isaac. Jacob objects: Esau hairy, he smooth; father will curse not bless. Rebekah assumes curse. Gets Jacob's clothes and hairy skins. Prepares savory food."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-15-2",
+              "scene_name": "The Deception and Blessing",
+              "chapter_start": 27,
+              "verse_start": 18,
+              "chapter_end": 27,
+              "verse_end": 29,
+              "verse_count": 12,
+              "scene_rationale": "Jacob brings food to Isaac. Isaac questions (voice like Jacob but hands like Esau). Jacob lies: 'I'm Esau.' Isaac eats, drinks, smells clothes (Esau's), blesses him: may God give you dew of heaven, fat earth, abundant grain and wine, peoples serve you, nations bow. Cursed be those cursing you, blessed those blessing you. Covenant blessing transferred."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-15-3",
+              "scene_name": "Esau's Rage and Flight",
+              "chapter_start": 27,
+              "verse_start": 30,
+              "chapter_end": 27,
+              "verse_end": 46,
+              "verse_count": 17,
+              "scene_rationale": "Jacob leaves. Esau returns with food. Isaac recognizes deception. Esau cries in great bitterness: 'Bless me too, father!' Isaac explains Jacob took blessing. Esau plots to kill Jacob after Isaac's death. Rebekah learns of plot, tells Jacob to flee to Laban in Haran. Jacob obeys. Rebekah tells Isaac to send Jacob to find wife from Laban's house (fulfilling Isaac's father's commission)."
+            }
+          ]
+        },
+        {
+          "story_number": 16,
+          "story_id": "GEN-2-16",
+          "story_title": "Jacob's Dream: Ladder to Heaven",
+          "chapter_start": 28,
+          "verse_start": 1,
+          "chapter_end": 28,
+          "verse_end": 22,
+          "verse_count": 22,
+          "toledot_marker": "Continues toledot of Isaac",
+          "boundary_rationale": "Transitional narrative: Jacob flees Beersheba toward Haran. Arrives at Bethel. Sleeps on stone. Vision: ladder reaching to heaven with angels ascending/descending. God appears, renews covenant promises (land, offspring, blessing). Jacob awakens, anoints stone, vows: if God keeps him, he'll give tithe and stone will be God's house.",
+          "concept_slug": "divine_assurance_in_exile",
+          "tags": ["jacob", "flee", "bethel", "dream", "ladder", "angels", "covenant", "god_appears", "vow", "tithe"],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-16-1",
+              "scene_name": "Jacob's Departure and Blessing",
+              "chapter_start": 28,
+              "verse_start": 1,
+              "chapter_end": 28,
+              "verse_end": 5,
+              "verse_count": 5,
+              "scene_rationale": "Isaac calls Jacob, blesses him (covenant blessing formally granted): God of Abraham bless you, give you land of Canaan, make you company of peoples, give Abrahamic blessing to you and seed. Jacob sent to Laban to take wife from Laban's daughters."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-16-2",
+              "scene_name": "The Dream and Covenant Renewal",
               "chapter_start": 28,
               "verse_start": 10,
               "chapter_end": 28,
               "verse_end": 22,
-              "verse_count": 13
-            },
-            {
-              "scene_id": "GEN-3-2-2",
-              "scene_name": "Jacob Meets Rachel",
-              "chapter_start": 29,
-              "verse_start": 1,
-              "chapter_end": 29,
-              "verse_end": 14,
-              "verse_count": 14
-            },
-            {
-              "scene_id": "GEN-3-2-3",
-              "scene_name": "Jacob's Work for Rachel",
-              "chapter_start": 29,
-              "verse_start": 15,
-              "chapter_end": 29,
-              "verse_end": 30,
-              "verse_count": 16
-            },
-            {
-              "scene_id": "GEN-3-2-4",
-              "scene_name": "Children Are Born",
-              "chapter_start": 29,
-              "verse_start": 31,
-              "chapter_end": 30,
-              "verse_end": 24,
-              "verse_count": 20
+              "verse_count": 13,
+              "scene_rationale": "Jacob leaves Beersheba, travels toward Haran. Reaches certain place at sunset, takes stone for pillow, sleeps. Dreams: ladder set on earth, top reaches heaven, God's angels ascending/descending. Lord stands beside him, reaffirms covenant: land to him and seed, seed will spread, all families of earth blessed through seed. God will be with him wherever he goes, bring him back. Jacob awakens, afraid, anoints stone with oil. Names place Bethel (house of God). Makes vow: if God keeps him, returns him safely, God will be his God, this stone shall be God's house, he'll give tithe."
             }
           ]
         },
         {
-          "story_id": "GEN-3-3",
-          "story_title": "Laban's Artifice and Polygamy's Wrong",
-          "chapter_start": 30,
-          "verse_start": 25,
-          "chapter_end": 31,
-          "verse_end": 55,
-          "verse_count": 77,
-          "concept": "laban_polygamy",
-          "tags": ["laban", "polygamy", "trials", "deception"],
+          "story_number": 17,
+          "story_id": "GEN-2-17",
+          "story_title": "Jacob in Mesopotamia: Laboring for Family",
+          "chapter_start": 29,
+          "verse_start": 1,
+          "chapter_end": 30,
+          "verse_end": 43,
+          "verse_count": 67,
+          "toledot_marker": "Continues toledot of Isaac",
+          "boundary_rationale": "Extended narrative: Jacob reaches Haran, meets Rachel at well, loves her immediately. Agrees to serve Laban 7 years for her. Laban deceives Jacob with Leah on wedding night. Jacob labors another 7 years for Rachel. Multiple wives produce 12 sons and daughter Dinah. Jacob's cattle-breeding prosperity. Complex family dynamics unfold, showing theme of deception and divine providence.",
+          "concept_slug": "family_building_through_trials",
+          "tags": ["jacob", "laban", "rachel", "leah", "well", "marriage", "deception", "children", "dinah", "cattle", "prosperity", "wives"],
           "scenes": [
             {
-              "scene_id": "GEN-3-3-1",
-              "scene_name": "Jacob's Agreement with Laban",
+              "scene_number": 1,
+              "scene_id": "GEN-2-17-1",
+              "scene_name": "Meeting Rachel and Seven Years' Labor",
+              "chapter_start": 29,
+              "verse_start": 1,
+              "chapter_end": 29,
+              "verse_end": 30,
+              "verse_count": 30,
+              "scene_rationale": "Jacob reaches Haran, meets shepherds at well. They know Laban. Rachel arrives with sheep. Jacob recognizes cousin, welcomes her, offers to water sheep. Jacob kisses Rachel, weeps (recognized his kinswomen). Brought to Laban who embraces him. Jacob lives with Laban. After month, Laban asks Jacob's wages. Jacob says: 'I'll serve you 7 years for Rachel your younger daughter.' Laban agrees. Jacob serves 7 years (loved Rachel, seemed short). Jacob requests Rachel as wife."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-17-2",
+              "scene_name": "Deception, Leah, and Second Labor",
+              "chapter_start": 29,
+              "verse_start": 23,
+              "chapter_end": 30,
+              "verse_end": 24,
+              "verse_count": 26,
+              "scene_rationale": "Laban gathers people, makes feast. But brings Leah (elder daughter). Jacob doesn't notice till morning. Jacob complains: 'Why deceive me? I served for Rachel!' Laban says: 'Not custom to marry younger before elder. Complete Leah's week; then Rachel for another 7 years service.' Jacob takes Rachel as wife too. Labors another 7 years while Leah bears children: Reuben, Simeon, Levi, Judah. Rachel long barren. Rachel gives Bilhah (servant), bears Dan, Naphtali. Leah gives Zilpah, bears Gad, Asher. Leah bears Issachar, Zebulun, Dinah. Finally Rachel bears Joseph. Jacob approaches Laban: 'Send me back to my country.' Laban negotiates cattle wages."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-17-3",
+              "scene_name": "Prosperity and Cattle Breeding",
               "chapter_start": 30,
               "verse_start": 25,
               "chapter_end": 30,
-              "verse_end": 36,
-              "verse_count": 12
-            },
-            {
-              "scene_id": "GEN-3-3-2",
-              "scene_name": "Jacob's Prosperity",
-              "chapter_start": 30,
-              "verse_start": 37,
-              "chapter_end": 30,
               "verse_end": 43,
-              "verse_count": 7
-            },
-            {
-              "scene_id": "GEN-3-3-3",
-              "scene_name": "The Flight from Laban",
-              "chapter_start": 31,
-              "verse_start": 1,
-              "chapter_end": 31,
-              "verse_end": 21,
-              "verse_count": 21
-            },
-            {
-              "scene_id": "GEN-3-3-4",
-              "scene_name": "Laban Pursues and They Make Covenant",
-              "chapter_start": 31,
-              "verse_start": 22,
-              "chapter_end": 31,
-              "verse_end": 55,
-              "verse_count": 34
+              "verse_count": 19,
+              "scene_rationale": "Jacob agrees to keep all speckled and spotted animals (Laban's cattle as wages). Jacob uses selective breeding scheme (striped rods in watering troughs) to increase spotted and speckled offspring. Becomes increasingly prosperous. Acquires maidservants, menservants, camels, donkeys. Laban's sons envy Jacob. Shows Jacob's cunning and God's blessing amid deception."
             }
           ]
         },
         {
-          "story_id": "GEN-3-4",
-          "story_title": "Peniel: Victory Through Self-Surrender",
+          "story_number": 18,
+          "story_id": "GEN-2-18",
+          "story_title": "Jacob's Flight: Stolen Idols and Covenant",
+          "chapter_start": 31,
+          "verse_start": 1,
+          "chapter_end": 31,
+          "verse_end": 55,
+          "verse_count": 55,
+          "toledot_marker": "Continues toledot of Isaac",
+          "boundary_rationale": "Conflict narrative: Jacob perceives Laban's changed attitude. God tells Jacob to return to Canaan. Jacob flees with wives, children, wealth. Rachel steals Laban's household idols. Laban pursues, catches up, searches for idols (Rachel hides them). Confrontation and accusations. They make covenant at Galeed (heap of stones). Laban returns. Jacob continues toward Canaan.",
+          "concept_slug": "independence_and_trust",
+          "tags": ["jacob_flight", "laban_pursuit", "idols", "rachel_hides", "search", "confrontation", "galeed", "pillar", "covenant", "oath"],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-18-1",
+              "scene_name": "Departure and Pursuit",
+              "chapter_start": 31,
+              "verse_start": 1,
+              "chapter_end": 31,
+              "verse_end": 25,
+              "verse_count": 25,
+              "scene_rationale": "Jacob hears Laban's sons saying Jacob took all Laban's wealth. Jacob sees Laban's face no longer favorable. God tells Jacob to return to land of fathers. Jacob calls Rachel and Leah to field, explains situation, tells of angel in dream. Rachel and Leah agree: father hasn't given them inheritance, treated them as strangers. Jacob flees with all he has. Crosses Euphrates. Laban away shearing sheep. Rachel steals household idols. Three days later, Laban learns Jacob fled. Pursues Jacob, catches him on seventh day. God warns Laban in dream not to speak to Jacob."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-18-2",
+              "scene_name": "Confrontation and Covenant",
+              "chapter_start": 31,
+              "verse_start": 25,
+              "chapter_end": 31,
+              "verse_end": 55,
+              "verse_count": 31,
+              "scene_rationale": "Laban confronts Jacob: 'Why fled secretly? Why steal daughters like captives? Could have sent you away joyfully.' Laban searches for idols. Rachel hides them in camel saddle, sits on them. Laban finds nothing. Jacob angrily confronts Laban: served faithfully 20 years, changed wages 10 times, but God protected him. God appeared last night, told Laban not to speak to Jacob. Laban and Jacob make covenant: pile stones as witness (Galeed/Mizpah—God watch between us). Eat together. Kiss. Laban blesses grandchildren, returns to Haran. Jacob continues toward Canaan."
+            }
+          ]
+        },
+        {
+          "story_number": 19,
+          "story_id": "GEN-2-19",
+          "story_title": "Peniel: Wrestled by God, Named Israel",
           "chapter_start": 32,
           "verse_start": 1,
           "chapter_end": 33,
           "verse_end": 20,
-          "verse_count": 54,
-          "concept": "peniel_wrestling",
-          "tags": ["peniel", "wrestling", "god", "surrender", "victory"],
+          "verse_count": 81,
+          "toledot_marker": "Continues toledot of Isaac",
+          "boundary_rationale": "Climactic narrative: Jacob approaches Esau's territory. Sees God's camp. Sends messengers to Esau (placating). Prepares gifts. At night, sends family across ford. Alone, a Man wrestles him till daybreak. Man can't overpower Jacob. Blesses him, changes name to Israel (prevailed with God). Jacob names place Peniel. Continues toward Esau. They meet, reconcile. Jacob settles at Shechem.",
+          "concept_slug": "transformation_through_surrender",
+          "tags": ["jacob", "mahanaim", "messengers", "esau", "wrestling", "man", "angel", "peniel", "israel", "name_change", "hip", "blessing", "reconciliation"],
           "scenes": [
             {
-              "scene_id": "GEN-3-4-1",
-              "scene_name": "Jacob Prepares for Esau",
+              "scene_number": 1,
+              "scene_id": "GEN-2-19-1",
+              "scene_name": "Preparation and Fear",
               "chapter_start": 32,
               "verse_start": 1,
               "chapter_end": 32,
               "verse_end": 21,
-              "verse_count": 21
+              "verse_count": 21,
+              "scene_rationale": "Jacob sees God's camp, calls it Mahanaim. Sends messengers to Esau with message of respect. Messengers return: Esau coming with 400 men. Jacob fears greatly. Divides household, flocks, herds into two groups (one escapes if other attacked). Prays to God: recalls covenant, asks deliverance from Esau. Selects gift from flocks for Esau (hundreds of animals). Sends servants with gifts ahead in waves, hoping to appease Esau."
             },
             {
-              "scene_id": "GEN-3-4-2",
-              "scene_name": "The Wrestling at Peniel",
+              "scene_number": 2,
+              "scene_id": "GEN-2-19-2",
+              "scene_name": "The Wrestling and Transformation",
               "chapter_start": 32,
               "verse_start": 22,
               "chapter_end": 32,
               "verse_end": 32,
-              "verse_count": 11
+              "verse_count": 11,
+              "scene_rationale": "Jacob sends wife and children across Jabbok ford. Alone. A Man wrestles him till daybreak. Man sees he can't overpower Jacob. Touches Jacob's hip (dislocates it). Asks Jacob to let him go (day breaking). Jacob refuses unless blessed. Man asks Jacob's name (Jacob). Says: 'No longer Jacob but Israel—you've struggled with God and men, prevailed.' Jacob asks Man's name. Man refuses, blesses him. Jacob names place Peniel (face of God) because he saw God face-to-face and lived. Jacob limps away (hip hurt). Therefore Israelites don't eat sinew of hip."
             },
             {
-              "scene_id": "GEN-3-4-3",
-              "scene_name": "The Reconciliation with Esau",
+              "scene_number": 3,
+              "scene_id": "GEN-2-19-3",
+              "scene_name": "Esau's Embrace and Settlement",
               "chapter_start": 33,
               "verse_start": 1,
               "chapter_end": 33,
               "verse_end": 20,
-              "verse_count": 20
+              "verse_count": 20,
+              "scene_rationale": "Jacob sees Esau with 400 men. Bows 7 times. Esau runs, embraces Jacob, falls on neck, weeps. Esau asks about family—Jacob introduces wives and children. Esau asks about gifts. Jacob urges Esau to accept (appeasement). Esau accepts. Asks where Jacob going. Jacob says follow slowly. Esau offers to leave some men. Jacob declines. Esau returns to Seir. Jacob journeys to Succoth, builds booths. Later moves to Shechem, buys field from Hamor's sons. Builds altar called El-Elohe-Israel."
             }
           ]
         },
         {
-          "story_id": "GEN-3-5",
-          "story_title": "Humbled by Wrong: Purification",
-          "chapter_start": 33,
-          "verse_start": 21,
+          "story_number": 20,
+          "story_id": "GEN-2-20",
+          "story_title": "Dinah's Defilement: Vengeance and Purification",
+          "chapter_start": 34,
+          "verse_start": 1,
           "chapter_end": 35,
           "verse_end": 29,
-          "verse_count": 42,
-          "concept": "dinah_cleansing",
-          "tags": ["dinah", "shechem", "purification", "humbling"],
+          "verse_count": 61,
+          "toledot_marker": "Continues toledot of Isaac",
+          "boundary_rationale": "Crisis narrative: Dinah (Jacob's daughter) is violated by Shechem. Hamor seeks marriage arrangement. Jacob's sons deceive: agree if Shechem's men circumcise. During healing, Jacob's sons slaughter all males, take Dinah and plunder. Jacob rebukes sons for compromising his name. Jacob returns to Bethel for purification, buries foreign gods. God appears, renews covenant. Rachel dies bearing Benjamin. Isaac dies.",
+          "concept_slug": "family_honor_and_divine_renewal",
+          "tags": ["dinah", "shechem", "hamor", "violation", "deception", "circumcision", "slaughter", "plunder", "jacob_rebuke", "purification", "bethel", "rachel_death", "isaac_death"],
           "scenes": [
             {
-              "scene_id": "GEN-3-5-1",
-              "scene_name": "The Dinah Tragedy",
-              "chapter_start": 33,
-              "verse_start": 21,
+              "scene_number": 1,
+              "scene_id": "GEN-2-20-1",
+              "scene_name": "Violation and Negotiation",
+              "chapter_start": 34,
+              "verse_start": 1,
               "chapter_end": 34,
-              "verse_end": 31,
-              "verse_count": 36
+              "verse_end": 12,
+              "verse_count": 12,
+              "scene_rationale": "Dinah goes out to see women of land. Shechem (Hamor's son) seizes her, lies with her, defiles her. Shechem loves Dinah, asks father to get her as wife. Hamor comes to Jacob, negotiates marriage. Jacob's sons plot revenge: agree if Shechem's men circumcise."
             },
             {
-              "scene_id": "GEN-3-5-2",
-              "scene_name": "Purification and Covenant Renewal",
+              "scene_number": 2,
+              "scene_id": "GEN-2-20-2",
+              "scene_name": "Deception and Slaughter",
+              "chapter_start": 34,
+              "verse_start": 24,
+              "chapter_end": 34,
+              "verse_end": 31,
+              "verse_count": 8,
+              "scene_rationale": "Hamor and Shechem agree, circumcise all men. On third day (healing pain), Simeon and Levi (Dinah's brothers) slaughter all males. Take Dinah from Shechem's house. Jacob's sons plunder city, flocks, herds, asses, all in and outside. Jacob rebukes them: 'You've troubled me, made me odious to inhabitants, few of us will be destroyed.'"
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-20-3",
+              "scene_name": "Return to Bethel and Covenant Renewal",
               "chapter_start": 35,
               "verse_start": 1,
               "chapter_end": 35,
               "verse_end": 15,
-              "verse_count": 15
+              "verse_count": 15,
+              "scene_rationale": "God tells Jacob: go to Bethel, dwell there, build altar. Jacob tells family to put away foreign gods, purify selves, change garments. Jacob buries idols under oak at Shechem. Journey toward Bethel. God appears on way, renews covenant: name is Israel, land given to seed. Builds altar at Bethel (God-house where vision occurred)."
             },
             {
-              "scene_id": "GEN-3-5-3",
-              "scene_name": "Benjamin's Birth and Isaac's Death",
+              "scene_number": 4,
+              "scene_id": "GEN-2-20-4",
+              "scene_name": "Rachel's Death and Isaac's End",
               "chapter_start": 35,
               "verse_start": 16,
               "chapter_end": 35,
               "verse_end": 29,
-              "verse_count": 14
+              "verse_count": 14,
+              "scene_rationale": "Jacob journeys from Bethel. Rachel travails, bears son (Benjamin), dies. Jacob names son Ben-oni (son of sorrow); Israel calls him Benjamin (son of right hand). Rachel buried on way to Ephrath (Bethlehem). Reuben lies with Bilhah (Jacob's concubine). Jacob hears, troubled. List of 12 sons: 6 by Leah, 2 by Bilhah, 2 by Zilpah, 2 by Rachel. Isaac dies at Mamre at 180 years. Esau and Jacob bury him together."
             }
           ]
         },
         {
-          "story_id": "GEN-3-6",
-          "story_title": "Esau's Climax and Closure",
+          "story_number": 21,
+          "story_id": "GEN-2-21",
+          "story_title": "Esau's Line: Edom Separated and Recorded",
           "chapter_start": 36,
           "verse_start": 1,
           "chapter_end": 36,
           "verse_end": 43,
           "verse_count": 43,
-          "concept": "esau_genealogy_closure",
-          "tags": ["esau", "genealogy", "rejected_line", "closure"],
+          "toledot_marker": "Toledot of Esau (36:1,9)",
+          "boundary_rationale": "Genealogical interlude: Esau's genealogy (wives, sons, clans, kings) documented. Esau settles in Mount Seir. Detailed genealogy distinguishes non-covenant line. Natural break marking separation from Jacob's covenant line. Sets up Joseph narrative.",
+          "concept_slug": "rejected_line_documented",
+          "tags": ["esau", "edom", "wives", "sons", "clans", "kings", "seir", "genealogy", "non_covenant"],
           "scenes": [
             {
-              "scene_id": "GEN-3-6-1",
-              "scene_name": "Esau's Departure",
+              "scene_number": 1,
+              "scene_id": "GEN-2-21-1",
+              "scene_name": "Esau's Marriages and Sons",
               "chapter_start": 36,
               "verse_start": 1,
               "chapter_end": 36,
               "verse_end": 8,
-              "verse_count": 8
+              "verse_count": 8,
+              "scene_rationale": "Esau (Edom) married Canaanite and Hittite women. Wives: Adah, Oholibamah, Basemath. Sons: Eliphaz, Reuel, Jeush, Jaalam, Korah. Esau takes wives, sons, household, cattle, all substance to Mount Seir (land can't sustain both him and Jacob)."
             },
             {
-              "scene_id": "GEN-3-6-2",
-              "scene_name": "Esau's Descendants",
+              "scene_number": 2,
+              "scene_id": "GEN-2-21-2",
+              "scene_name": "Esau's Chiefs and Kings",
               "chapter_start": 36,
               "verse_start": 9,
               "chapter_end": 36,
               "verse_end": 43,
-              "verse_count": 35
+              "verse_count": 35,
+              "scene_rationale": "Detailed genealogy of Esau's clans: Eliphaz's descendants (Teman, Omar, Zepho, Gatam, Kenaz, Amalek—from Timna concubine). Reuel's descendants (Nahath, Zerah, Shammah, Mizzah). Oholibamah's sons (Jeush, Jaalam, Korah). Chiefs of Edom listed. Kings reigned in Edom before Israel's kings. Esau's line fully documented but distinct from covenant line."
             }
           ]
-        }
-      ]
-    },
-    {
-      "theme_id": 4,
-      "theme_name": "Joseph Cycle",
-      "chapter_range": "37-50",
-      "theme_summary": "Rejection, Testing, Elevation, and Divine Providence",
-      "stories": [
+        },
         {
-          "story_id": "GEN-4-1",
-          "story_title": "The Rejection: Joseph as Christ Type",
+          "story_number": 22,
+          "story_id": "GEN-2-22",
+          "story_title": "Joseph's Dreams: Beloved Son Betrayed",
           "chapter_start": 37,
           "verse_start": 1,
           "chapter_end": 37,
           "verse_end": 36,
           "verse_count": 36,
-          "concept": "joseph_rejection",
-          "tags": ["joseph", "rejection", "christ_type", "brothers"],
+          "toledot_marker": "Toledot of Jacob (37:2)",
+          "boundary_rationale": "New toledot opening final narrative cycle. Joseph favored by Jacob. Dreams of dominance incite hatred from brothers. Coat of colors symbolizes favoritism. Brothers conspire: Reuben plans rescue, but Judah sells Joseph to Midianite traders. They dip coat in blood, deceive Jacob. Joseph taken to Egypt as slave. Marks major transition in patriarchal narrative.",
+          "concept_slug": "rejection_foreshadowing_exaltation",
+          "tags": ["joseph", "jacob", "coat_of_colors", "dreams", "brothers_hatred", "conspiracy", "reuben", "judah", "midianites", "egypt", "slavery"],
           "scenes": [
             {
-              "scene_id": "GEN-4-1-1",
-              "scene_name": "Joseph's Dreams",
+              "scene_number": 1,
+              "scene_id": "GEN-2-22-1",
+              "scene_name": "Joseph's Dreams and Brothers' Hatred",
               "chapter_start": 37,
               "verse_start": 1,
               "chapter_end": 37,
               "verse_end": 11,
-              "verse_count": 11
+              "verse_count": 11,
+              "scene_rationale": "Jacob settles in Canaan. Joseph (17) tends flocks with brothers. Joseph brings evil report to father. Jacob loves Joseph more than other sons (born in old age), makes coat of colors. Brothers see father's love, hate Joseph. Joseph dreams: sheaves bow to his sheave. Brothers hate him more. Dreams again: sun, moon, 11 stars bow to him. Father rebukes but keeps saying in mind."
             },
             {
-              "scene_id": "GEN-4-1-2",
-              "scene_name": "The Plot and the Sale",
+              "scene_number": 2,
+              "scene_id": "GEN-2-22-2",
+              "scene_name": "The Conspiracy and Sale",
               "chapter_start": 37,
               "verse_start": 12,
               "chapter_end": 37,
               "verse_end": 36,
-              "verse_count": 25
+              "verse_count": 25,
+              "scene_rationale": "Brothers pasture flocks in Dothan. Jacob sends Joseph to see brothers. Joseph finds them in Dothan. They see him afar, conspire to kill him (fulfill dreams). Reuben suggests casting him into pit (planning rescue). Strip Joseph of coat, cast him into empty pit. Sit to eat. Midianite traders pass. Judah suggests selling Joseph (better than killing, keep him alive). Sell Joseph for 20 pieces of silver. Midianites take Joseph to Egypt. Reuben returns, finds pit empty, tears clothes. Brothers dip coat in goat's blood, bring to Jacob. Jacob recognizes coat, thinks Joseph killed by wild beast. Mourns deeply."
             }
           ]
         },
         {
-          "story_id": "GEN-4-2",
-          "story_title": "Integrity Under Siege: Joseph's Fortification",
+          "story_number": 23,
+          "story_id": "GEN-2-23",
+          "story_title": "Judah and Tamar: Redemptive Interlude",
           "chapter_start": 38,
           "verse_start": 1,
-          "chapter_end": 39,
-          "verse_end": 23,
-          "verse_count": 43,
-          "concept": "joseph_integrity_potiphar",
-          "tags": ["joseph", "integrity", "temptation", "virtue"],
+          "chapter_end": 38,
+          "verse_end": 30,
+          "verse_count": 30,
+          "toledot_marker": "Continues toledot of Jacob (parallel to Joseph narrative)",
+          "boundary_rationale": "Distinct interlude amid Joseph narrative. Judah separates from brothers, marries Canaanite, has sons. Er (firstborn) dies. Tamar (widow) seeks Onan. Onan dies. Judah denies her Shelah. Tamar disguises as harlot, becomes pregnant by Judah. Twins born: Perez and Zerah. Shows themes of family continuity and divine providence amid human failure.",
+          "concept_slug": "family_line_preserved_through_righteous_woman",
+          "tags": ["judah", "tamar", "er", "onan", "shelah", "levirate", "harlot", "disguise", "perez", "zerah", "pregnancy", "twins"],
           "scenes": [
             {
-              "scene_id": "GEN-4-2-1",
-              "scene_name": "Judah and Tamar",
+              "scene_number": 1,
+              "scene_id": "GEN-2-23-1",
+              "scene_name": "Judah's Family and Levirate Failures",
               "chapter_start": 38,
               "verse_start": 1,
               "chapter_end": 38,
-              "verse_end": 30,
-              "verse_count": 30
+              "verse_end": 11,
+              "verse_count": 11,
+              "scene_rationale": "Judah separates from brothers, goes to Adullamite Hirah. Sees Shuah's daughter, takes her, lies with her. Conceives and bears Er. Conceives again, bears Onan. Again bears Shelah. Judah arranges Er to marry Tamar. Er wickedwicked in sight of God, dies. Judah tells Onan to perform levirate duty (raise seed for brother). Onan lies with Tamar but spills seed (avoids fathering for Er). Dies also."
             },
             {
-              "scene_id": "GEN-4-2-2",
-              "scene_name": "Joseph in Potiphar's House",
+              "scene_number": 2,
+              "scene_id": "GEN-2-23-2",
+              "scene_name": "Tamar's Deception and Redemption",
+              "chapter_start": 38,
+              "verse_start": 12,
+              "chapter_end": 38,
+              "verse_end": 30,
+              "verse_count": 19,
+              "scene_rationale": "Judah tells Tamar to wait for Shelah (fears he'll die too). Tamar waits. Shelah grows up but not given to Tamar. Tamar learns Judah going to Timnah to shear sheep. Removes widow's garments, covers face, sits on way. Judah sees, thinks she's harlot, negotiates (pledges signet, cord, staff). Tamar becomes pregnant. Judah sends friend to retrieve pledges, find woman. No harlot there. Tamar later revealed as pregnant. Judah orders burn her. Tamar produces signet, cord, staff. Judah recognizes them, admits she's righteous (he refused to give Shelah). Tamar bears twins: Perez and Zerah. Perez line leads to David."
+            }
+          ]
+        },
+        {
+          "story_number": 24,
+          "story_id": "GEN-2-24",
+          "story_title": "Joseph in Egypt: Virtue Amid Temptation",
+          "chapter_start": 39,
+          "verse_start": 1,
+          "chapter_end": 40,
+          "verse_end": 23,
+          "verse_count": 57,
+          "toledot_marker": "Continues toledot of Jacob",
+          "boundary_rationale": "Extended narrative: Midianites/Potiphar buy Joseph. Potiphar recognizes God with Joseph, makes him overseer. Potiphar's wife tempts Joseph; he refuses. False accusation, imprisonment. Chief jailer trusts Joseph. Joseph interprets dreams of cupbearer and baker. Shows Joseph's resistance to temptation and favor despite trials.",
+          "concept_slug": "integrity_tested_and_honored",
+          "tags": ["joseph", "egypt", "potiphar", "overseer", "temptation", "resistance", "false_accusation", "prison", "cupbearer", "baker", "dreams", "interpretation"],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-24-1",
+              "scene_name": "Joseph Prospers in Potiphar's House",
               "chapter_start": 39,
               "verse_start": 1,
               "chapter_end": 39,
-              "verse_end": 23,
-              "verse_count": 23
-            }
-          ]
-        },
-        {
-          "story_id": "GEN-4-3",
-          "story_title": "Prison Discipline: Prepared for Exaltation",
-          "chapter_start": 39,
-          "verse_start": 24,
-          "chapter_end": 40,
-          "verse_end": 23,
-          "verse_count": 36,
-          "concept": "joseph_prison",
-          "tags": ["joseph", "prison", "discipline", "preparation"],
-          "scenes": [
-            {
-              "scene_id": "GEN-4-3-1",
-              "scene_name": "Joseph Imprisoned",
-              "chapter_start": 39,
-              "verse_start": 24,
-              "chapter_end": 40,
-              "verse_end": 8,
-              "verse_count": 17
+              "verse_end": 6,
+              "verse_count": 6,
+              "scene_rationale": "Potiphar (Pharaoh's officer) buys Joseph from Ishmaelites. Joseph finds favor in Potiphar's eyes, becomes servant to him. Sees God with Joseph, makes him overseer of house and all he has. Lord blesses Potiphar's house for Joseph's sake. Potiphar puts all in Joseph's hand except food. Joseph becomes successful man."
             },
             {
-              "scene_id": "GEN-4-3-2",
-              "scene_name": "Joseph Interprets Dreams",
-              "chapter_start": 40,
-              "verse_start": 9,
+              "scene_number": 2,
+              "scene_id": "GEN-2-24-2",
+              "scene_name": "Temptation and False Accusation",
+              "chapter_start": 39,
+              "verse_start": 7,
+              "chapter_end": 39,
+              "verse_end": 20,
+              "verse_count": 14,
+              "scene_rationale": "Potiphar's wife notices Joseph, desires him. Asks him to lie with her. Joseph refuses: Potiphar trusted him with all; betraying that trust betrays God. Woman pesters Joseph daily. One day Joseph is in house; no men around. Woman grabs his garment. Joseph flees. Woman cries out, accuses Joseph before Potiphar. Potiphar angers, imprisons Joseph."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-24-3",
+              "scene_name": "Prison Favor and Dream Interpretation",
+              "chapter_start": 39,
+              "verse_start": 21,
               "chapter_end": 40,
               "verse_end": 23,
-              "verse_count": 15
+              "verse_count": 16,
+              "scene_rationale": "God is with Joseph in prison. Shows mercy, gives favor with chief jailer. Jailer puts Joseph in charge of all prisoners. Joseph interprets dreams of Pharaoh's cupbearer and baker (imprisoned with him). Cupbearer will be restored, baker executed (three days). Joseph asks cupbearer to remember him when restored. Cupbearer forgets."
             }
           ]
         },
         {
-          "story_id": "GEN-4-4",
-          "story_title": "Elevation: Man in Whom the Spirit of God Is",
+          "story_number": 25,
+          "story_id": "GEN-2-25",
+          "story_title": "Pharaoh's Dreams: Joseph's Exaltation",
           "chapter_start": 41,
           "verse_start": 1,
-          "chapter_end": 42,
-          "verse_end": 38,
-          "verse_count": 88,
-          "concept": "joseph_elevation_pharaoh",
-          "tags": ["joseph", "elevation", "pharaoh", "spirit_of_god"],
+          "chapter_end": 41,
+          "verse_end": 57,
+          "verse_count": 57,
+          "toledot_marker": "Continues toledot of Jacob",
+          "boundary_rationale": "Pivotal narrative: Pharaoh dreams (cows, grain). Magicians can't interpret. Cupbearer remembers Joseph. Joseph brought from prison, interprets: 7 years plenty, 7 years famine. Pharaoh recognizes Spirit of God in Joseph, exalts him over Egypt. Joseph manages famine preparation. Becomes vizier, marries Asenath, has sons. Shows divine providence raising Joseph to power.",
+          "concept_slug": "exaltation_through_divine_wisdom",
+          "tags": ["pharaoh", "dreams", "cows", "grain", "magicians", "cupbearer", "joseph", "interpretation", "plenty", "famine", "vizier", "exaltation", "asenath"],
           "scenes": [
             {
-              "scene_id": "GEN-4-4-1",
-              "scene_name": "Pharaoh's Dream",
+              "scene_number": 1,
+              "scene_id": "GEN-2-25-1",
+              "scene_name": "Dreams and Interpretation",
               "chapter_start": 41,
               "verse_start": 1,
               "chapter_end": 41,
               "verse_end": 36,
-              "verse_count": 36
+              "verse_count": 36,
+              "scene_rationale": "Pharaoh dreams two dreams (same meaning): seven well-favored, fat cows eaten by seven lean, ugly cows; seven good ears of grain consumed by seven thin ears blighted by wind. Wakes, troubled. Calls magicians; none interpret. Cupbearer remembers Joseph (forgetfulness broken). Joseph brought from prison, shaved, changed clothes. Interprets: seven years of great plenty throughout Egypt, then seven years of famine. All plenty will be forgotten. Advise Pharaoh: appoint man to gather grain during plenty."
             },
             {
-              "scene_id": "GEN-4-4-2",
-              "scene_name": "Joseph's Elevation and Marriage",
+              "scene_number": 2,
+              "scene_id": "GEN-2-25-2",
+              "scene_name": "Exaltation and Preparation",
               "chapter_start": 41,
               "verse_start": 37,
               "chapter_end": 41,
               "verse_end": 57,
-              "verse_count": 21
-            },
-            {
-              "scene_id": "GEN-4-4-3",
-              "scene_name": "The Famine and First Brothers' Visit",
-              "chapter_start": 42,
-              "verse_start": 1,
-              "chapter_end": 42,
-              "verse_end": 38,
-              "verse_count": 38
+              "verse_count": 21,
+              "scene_rationale": "Pharaoh sees no one as discreet and wise as Joseph. Says to Joseph: 'You shall be over my house; all my people shall obey you.' Makes Joseph ruler over all Egypt (only Pharaoh greater). Gives signet ring, fine linen, gold chain. Makes Joseph ride in second chariot. Cries before him: 'Bow the knee!' Pharaoh names Joseph Zaphenath-paneah, gives Asenath (priest's daughter) as wife. Joseph is 30. Goes through Egypt. Seven years of plenty come; Joseph gathers grain as sand of sea, exceeding much."
             }
           ]
         },
         {
-          "story_id": "GEN-4-5",
-          "story_title": "The Test and Preparation for Reconciliation",
+          "story_number": 26,
+          "story_id": "GEN-2-26",
+          "story_title": "Famine's Test: Brothers Descend for Grain",
+          "chapter_start": 42,
+          "verse_start": 1,
+          "chapter_end": 42,
+          "verse_end": 38,
+          "verse_count": 38,
+          "toledot_marker": "Continues toledot of Jacob",
+          "boundary_rationale": "Testing narrative: Famine comes. Jacob hears grain in Egypt, sends 10 sons (keeps Benjamin). Joseph recognizes brothers but they don't recognize him. Accuses them of spying. Keeps Simeon, releases others with grain. Money returned in sacks (reveals divine favor). Brothers return, report to Jacob. Jacob grieves Simeon, refuses to send Benjamin. Sets stage for reconciliation.",
+          "concept_slug": "testing_and_hidden_identity",
+          "tags": ["famine", "jacob", "sons", "egypt", "joseph_disguised", "grain", "accusation", "spies", "simeon", "hostage", "benjamin"],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-26-1",
+              "scene_name": "The First Journey and Accusation",
+              "chapter_start": 42,
+              "verse_start": 1,
+              "chapter_end": 42,
+              "verse_end": 17,
+              "verse_count": 17,
+              "scene_rationale": "Famine in land. Jacob sees grain in Egypt, tells sons to go down. 10 sons go (Benjamin stays). Joseph (governor over land) sells grain to people. Brothers come, bow before him. Joseph recognizes them but acts as stranger, speaks harshly. Accuses them of spying to see nakedness of land. Brothers protest: servants not spies, 12 brothers (one dead, youngest in Canaan). Joseph insists: prove by bringing youngest. Keep one as hostage; others get grain."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-26-2",
+              "scene_name": "Return and Revelation of Mercy",
+              "chapter_start": 42,
+              "verse_start": 18,
+              "chapter_end": 42,
+              "verse_end": 38,
+              "verse_count": 21,
+              "scene_rationale": "Brothers discuss (speaking in Hebrew, think Joseph doesn't understand). Recall selling Joseph, suffering now. Reuben says: 'Didn't I tell you? Blood is required.' Joseph turns away weeping. Returns, takes Simeon, binds him before eyes. Joseph secretly commands money be returned in sacks. Also gives food for journey. Brothers depart, afraid. One opens sack at inn, finds money. Fear increases. Return to Jacob, report all. Jacob grieves Simeon, refuses Benjamin: 'If harm befalls him, you'll bring gray hair to grave.'"
+            }
+          ]
+        },
+        {
+          "story_number": 27,
+          "story_id": "GEN-2-27",
+          "story_title": "Benjamin's Journey: The Cup Test Deepens",
           "chapter_start": 43,
           "verse_start": 1,
           "chapter_end": 44,
           "verse_end": 34,
-          "verse_count": 66,
-          "concept": "joseph_tests_brothers",
-          "tags": ["joseph", "brothers", "test", "benjmain"],
+          "verse_count": 107,
+          "toledot_marker": "Continues toledot of Jacob",
+          "boundary_rationale": "Extended narrative: Famine continues. Jacob finally allows Benjamin. Joseph receives them, weeps at sight of Benjamin. Feast prepared. Joseph plants cup in Benjamin's sack. Accuses them of theft. Demands Benjamin stay as slave. Judah offers himself instead. Shows brothers' moral transformation and Joseph's final test before revelation.",
+          "concept_slug": "repentance_and_redemptive_testing",
+          "tags": ["benjamin", "joseph", "feast", "silver_cup", "theft_accusation", "benjamin_slave", "judah_plea", "redemption", "conscience", "testing"],
           "scenes": [
             {
-              "scene_id": "GEN-4-5-1",
-              "scene_name": "Benjamin's Inclusion",
+              "scene_number": 1,
+              "scene_id": "GEN-2-27-1",
+              "scene_name": "Journey with Benjamin",
               "chapter_start": 43,
               "verse_start": 1,
               "chapter_end": 43,
               "verse_end": 34,
-              "verse_count": 34
+              "verse_count": 34,
+              "scene_rationale": "Famine persists. Judah tells Jacob: must go back if siblings want to buy grain. Jacob asks why they told Joseph about Benjamin. Judah guarantees Benjamin's safety with his own life. Jacob sends Benjamin with brothers, gifts, double money. Joseph's steward is instructed to bring them to Joseph's house. Served meal; Benjamin given 5 times portion. Joseph's heart fills with love for Benjamin; must leave to weep."
             },
             {
-              "scene_id": "GEN-4-5-2",
-              "scene_name": "The Test Unveiled",
+              "scene_number": 2,
+              "scene_id": "GEN-2-27-2",
+              "scene_name": "Cup Planted and Accusation",
               "chapter_start": 44,
               "verse_start": 1,
               "chapter_end": 44,
+              "verse_end": 17,
+              "verse_count": 17,
+              "scene_rationale": "Morning after feast, brothers sent away with grain. Joseph secretly commands steward to put his silver cup in Benjamin's sack. Steward pursues, accuses of stealing divining cup (Joseph drinks from it). Brothers protest innocence; agree whoever has it dies, rest become Joseph's slaves. Cup found in Benjamin's sack. Brothers tear clothes. Return to Joseph, all bow."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-27-3",
+              "scene_name": "Judah's Plea for Benjamin",
+              "chapter_start": 44,
+              "verse_start": 18,
+              "chapter_end": 44,
               "verse_end": 34,
-              "verse_count": 34
+              "verse_count": 17,
+              "scene_rationale": "Judah approaches Joseph, asks hearing. Recounts Jacob's love for Benjamin (Rachel's only other son), Reuben's warning about not returning to Jacob if Benjamin harmed. Judah takes blame, offers himself as Joseph's slave instead of Benjamin. Speaks of father's grief (Benjamin would bring gray hair to grave). Joseph sees genuine repentance, moves to reveal himself."
             }
           ]
         },
         {
-          "story_id": "GEN-4-6",
-          "story_title": "Reconciliation and Divine Intent",
+          "story_number": 28,
+          "story_id": "GEN-2-28",
+          "story_title": "Reconciliation: Joseph Revealed and Egypt Received",
           "chapter_start": 45,
           "verse_start": 1,
           "chapter_end": 47,
-          "verse_end": 27,
-          "verse_count": 90,
-          "concept": "joseph_reconciliation",
-          "tags": ["joseph", "reconciliation", "providence", "family"],
+          "verse_end": 31,
+          "verse_count": 120,
+          "toledot_marker": "Continues toledot of Jacob",
+          "boundary_rationale": "Climactic narrative: Joseph reveals himself, weeping. Tells brothers he's Joseph sold to Egypt; don't grieve—God sent him to preserve life. Invites Jacob to Egypt. Brothers report to Jacob. Jacob believes, prepares to travel. Jacob and family settle in Goshen. Joseph presents Jacob to Pharaoh. Manages famine with wisdom. Shows divine providence bringing reconciliation and protection.",
+          "concept_slug": "divine_purpose_revealed_and_reconciled",
+          "tags": ["joseph_revelation", "weeping", "forgiveness", "god_sent", "preservation", "jacob_travels", "goshen", "pharaoh_meeting", "famine_management", "providence"],
           "scenes": [
             {
-              "scene_id": "GEN-4-6-1",
-              "scene_name": "Joseph Reveals Himself",
+              "scene_number": 1,
+              "scene_id": "GEN-2-28-1",
+              "scene_name": "Joseph's Disclosure and Invitation",
               "chapter_start": 45,
               "verse_start": 1,
               "chapter_end": 45,
               "verse_end": 15,
-              "verse_count": 15
+              "verse_count": 15,
+              "scene_rationale": "Joseph can't contain himself. Commands all to leave except brothers. Weeps aloud. Tells brothers: 'I am Joseph!' But don't be grieved or angry sold me here—God sent me to preserve life. Famine 2 more years; God made Joseph father to Pharaoh, lord of Egypt. Instructs: go quickly, tell father Joseph alive, bring Jacob to Goshen. Joseph will sustain family. Embraces Benjamin weeping; Benjamin weeps."
             },
             {
-              "scene_id": "GEN-4-6-2",
-              "scene_name": "Pharaoh's Welcome and Jacob's Journey",
+              "scene_number": 2,
+              "scene_id": "GEN-2-28-2",
+              "scene_name": "Jacob's Journey and Settlement",
               "chapter_start": 45,
               "verse_start": 16,
               "chapter_end": 46,
-              "verse_end": 27,
-              "verse_count": 37
+              "verse_end": 34,
+              "verse_count": 51,
+              "scene_rationale": "Pharaoh hears, approves. Gives carts to bring Jacob and family. Joseph gives them provisions. Jacob disbelieves till sees carts. Jacob says: 'Enough—Joseph still lives; I'll go see him.' Journey to Beersheba; God speaks to Jacob: 'Don't fear to go to Egypt; I'll make you great nation there.' Jacob takes all sons, grandsons, daughters, 70 souls. God lists sons and grandsons. Jacob sends Judah ahead to Joseph. Joseph meets Jacob, embraces long time weeping. Joseph tells brothers, father how to approach Pharaoh (they're shepherds, occupation detestable to Egyptians—will be allowed to dwell in Goshen). Joseph presents Jacob to Pharaoh; Jacob blesses Pharaoh."
             },
             {
-              "scene_id": "GEN-4-6-3",
-              "scene_name": "Settlement in Goshen",
+              "scene_number": 3,
+              "scene_id": "GEN-2-28-3",
+              "scene_name": "Joseph's Famine Management",
               "chapter_start": 47,
               "verse_start": 1,
               "chapter_end": 47,
-              "verse_end": 27,
-              "verse_count": 27
+              "verse_end": 31,
+              "verse_count": 31,
+              "scene_rationale": "Joseph settles Jacob and family in Goshen. Famine worsens; Joseph sells grain to people (no money left). Takes livestock as payment, then land. Egyptians become Pharaoh's servants. Joseph moves Israel to cities. Jacob lives in Egypt 17 years. Approach death, charges Joseph: don't bury in Egypt but in Canaan with fathers. Joseph swears oath. Israel bows."
             }
           ]
         },
         {
-          "story_id": "GEN-4-7",
-          "story_title": "Vayechi: The Enduring Promise",
-          "chapter_start": 47,
-          "verse_start": 28,
+          "story_number": 29,
+          "story_id": "GEN-2-29",
+          "story_title": "Vayechi: Jacob's Blessing and the Promise Endures",
+          "chapter_start": 48,
+          "verse_start": 1,
           "chapter_end": 50,
           "verse_end": 26,
-          "verse_count": 79,
-          "concept": "jacob_prophecy_closure",
-          "tags": ["jacob", "prophecy", "blessing", "promise", "covenant"],
+          "verse_count": 105,
+          "toledot_marker": "Continues toledot of Jacob (concluding cycle)",
+          "boundary_rationale": "Final narrative: Jacob old, approaches death. Adopts Ephraim and Manasseh as his own sons (Joseph's sons). Blesses them. Calls 12 sons, blesses each with tribal prophecy. Jacob dies; Joseph grieves. Carries Jacob to Canaan for burial. Returns to Egypt. Brothers fear Joseph will now revenge them. Joseph reassures: God meant evil for good, to save many alive. Joseph dies, charges descendants: carry bones to Canaan. Book closes with promise pointing toward exodus.",
+          "concept_slug": "generational_blessing_and_future_promise",
+          "tags": ["jacob_adoption", "ephraim_manasseh", "tribal_blessings", "jacob_death", "canaan_burial", "joseph_reassurance", "promise_fulfilled", "covenant_continuation", "exodus_foreshadow"],
           "scenes": [
             {
-              "scene_id": "GEN-4-7-1",
-              "scene_name": "Jacob's Age and Final Request",
-              "chapter_start": 47,
-              "verse_start": 28,
-              "chapter_end": 47,
-              "verse_end": 31,
-              "verse_count": 4
-            },
-            {
-              "scene_id": "GEN-4-7-2",
-              "scene_name": "Joseph's Oath and Vow",
+              "scene_number": 1,
+              "scene_id": "GEN-2-29-1",
+              "scene_name": "Adoption and Blessing of Joseph's Sons",
               "chapter_start": 48,
               "verse_start": 1,
               "chapter_end": 48,
               "verse_end": 22,
-              "verse_count": 22
+              "verse_count": 22,
+              "scene_rationale": "Jacob's health fails. Joseph brings Ephraim and Manasseh. Jacob adopts them (give them status of Reuben and Simeon). Jacob blesses them but crosses hands—Ephraim (younger) gets primary blessing over Manasseh (elder). Joseph objects; Jacob explains: Manasseh great but Ephraim greater. Prophecy: Ephraim become multitude of nations."
             },
             {
-              "scene_id": "GEN-4-7-3",
-              "scene_name": "Jacob's Blessing of His Sons",
+              "scene_number": 2,
+              "scene_id": "GEN-2-29-2",
+              "scene_name": "The Twelve Tribal Blessings",
               "chapter_start": 49,
               "verse_start": 1,
               "chapter_end": 49,
-              "verse_end": 28,
-              "verse_count": 28
+              "verse_end": 33,
+              "verse_count": 33,
+              "scene_rationale": "Jacob calls 12 sons. Blesses each with tribal prophecy. Reuben: unstable, won't excel. Simeon and Levi: scattered in Israel (for Shechem violence). Judah: lion, scepter won't depart, Shiloh (Messiah) comes to him. Zebulun: harbor for ships. Issachar: strong but servant. Dan: judge. Gad: overcoming troop. Asher: rich in dainties. Naphtali: swift deer. Joseph: fruitful vine, blessed abundantly. Benjamin: ravenous wolf. Covers both individual character and collective destiny. Shows God's covenant purposes for each tribe."
             },
             {
-              "scene_id": "GEN-4-7-4",
-              "scene_name": "Jacob's Death and Burial",
-              "chapter_start": 49,
-              "verse_start": 29,
-              "chapter_end": 50,
-              "verse_end": 14,
-              "verse_count": 16
-            },
-            {
-              "scene_id": "GEN-4-7-5",
-              "scene_name": "Final Reconciliation",
+              "scene_number": 3,
+              "scene_id": "GEN-2-29-3",
+              "scene_name": "Death, Burial, and Enduring Promise",
               "chapter_start": 50,
-              "verse_start": 15,
-              "chapter_end": 50,
-              "verse_end": 21,
-              "verse_count": 7
-            },
-            {
-              "scene_id": "GEN-4-7-6",
-              "scene_name": "Joseph's Death",
-              "chapter_start": 50,
-              "verse_start": 22,
+              "verse_start": 1,
               "chapter_end": 50,
               "verse_end": 26,
-              "verse_count": 5
+              "verse_count": 26,
+              "scene_rationale": "Jacob dies (147 years old). Joseph weeps, embraces him. Joseph commands Egyptian physicians embalm Jacob. Joseph asks Pharaoh permission to bury father in Canaan. Pharaoh grants. Great entourage (Egyptians, servants, chariots) accompanies. Journey to Canaan; mourn 7 days. Bury Jacob in Machpelah. Return to Egypt. Brothers fear Joseph revenge. Joseph reassures: 'God meant evil for good, to preserve many.' Joseph lives 110 years, sees Ephraim's and Manasseh's great-grandchildren. Before death charges descendants: 'God will surely visit you, bring you to land sworn to Abraham, Isaac, Jacob.' Asks them carry his bones to Canaan. Dies, embalmed, placed in coffin in Egypt. Book closes: promise lives on through Joseph's oath toward exodus."
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
-  "translation": "KJV",
-  "translation_full_name": "King James Version",
-  "license": "Public Domain",
+  "translation": "Modern English",
+  "translation_full_name": "Modern English (Contemporary Translations: BSB, Majority, WEB)",
+  "license": "Translation-specific",
   "book": "Genesis",
   "themes": [
     {
@@ -18,7 +18,7 @@
           "chapter_end": 2,
           "verse_end": 3,
           "verse_count": 36,
-          "summary": "In the beginning God created the heavens and the earth, and in six days made all things orderly and perfect, resting upon the seventh day which he sanctified."
+          "summary": "In the beginning, God created the heavens and the earth. Over six days, He ordered creation perfectly, bringing light, sky, land, vegetation, and all living creatures into being. On the seventh day, He rested and sanctified it."
         },
         {
           "story_id": "GEN-1-2",
@@ -29,7 +29,7 @@
           "chapter_end": 3,
           "verse_end": 24,
           "verse_count": 46,
-          "summary": "The Lord God formed man in his own image and placed him in the garden of Eden, yet through the serpent's subtlety man transgressed, and was cast out to labour and sorrow."
+          "summary": "God formed Adam in His own image and placed him in the Garden of Eden. God gave him one command: don't eat from the tree of knowledge. But through the serpent's deception, Adam and Eve disobeyed, were expelled, and faced death and suffering."
         },
         {
           "story_id": "GEN-1-3",
@@ -40,7 +40,7 @@
           "chapter_end": 4,
           "verse_end": 26,
           "verse_count": 26,
-          "summary": "Cain's offering was not accepted of the Lord, for he lacked the blood sacrifice which God requireth; in anger he slew his brother Abel, yet God set a mark upon him for preservation."
+          "summary": "Adam's sons, Cain and Abel, brought offerings to the Lord. God accepted Abel's sacrifice but rejected Cain's. Angry and jealous, Cain killed his brother Abel. God marked Cain and sent him as a fugitive from the ground that had received his brother's blood."
         },
         {
           "story_id": "GEN-1-4",
@@ -51,7 +51,7 @@
           "chapter_end": 5,
           "verse_end": 32,
           "verse_count": 32,
-          "summary": "The patriarchs lived in great longevity from Adam unto Noah; Enoch alone walked with God and was translated without death, whilst corruption multiplied amongst men."
+          "summary": "The early patriarchs—from Adam through Noah—lived for hundreds of years. Enoch walked with God so closely that he was taken to heaven without experiencing death. But corruption and evil spread throughout the human race."
         },
         {
           "story_id": "GEN-1-5",
@@ -62,7 +62,7 @@
           "chapter_end": 6,
           "verse_end": 8,
           "verse_count": 8,
-          "summary": "The sons of God took wives of men, and giants were born; the earth became full of wickedness, yet Noah found grace in the eyes of the Lord."
+          "summary": "The sons of God took human wives, and giants were born. The earth became filled with violence and wickedness. Yet Noah found favor with the Lord and stood righteous in his generation."
         },
         {
           "story_id": "GEN-1-6",
@@ -73,7 +73,7 @@
           "chapter_end": 9,
           "verse_end": 29,
           "verse_count": 81,
-          "summary": "God commanded Noah to build an ark and preserve all flesh through the waters of judgment; the flood covered the earth, yet the Lord remembered Noah and made a covenant with the rainbow as a sign."
+          "summary": "God commanded Noah to build an ark and bring his family and animals aboard. The waters of judgment flooded the earth and destroyed all living things. God remembered Noah, the waters receded, and He made a covenant, setting the rainbow as a sign."
         },
         {
           "story_id": "GEN-1-7",
@@ -84,7 +84,7 @@
           "chapter_end": 11,
           "verse_end": 9,
           "verse_count": 37,
-          "summary": "Noah's sons did multiply and spread throughout the earth; yet when men sought to reach unto heaven in pride, God confounded their speech and scattered them abroad."
+          "summary": "Noah's sons multiplied and their descendants spread across the earth and spoke one language. But when they tried to build a tower reaching to heaven in their pride, God confused their speech and scattered them across the land."
         },
         {
           "story_id": "GEN-1-8",
@@ -95,7 +95,7 @@
           "chapter_end": 11,
           "verse_end": 32,
           "verse_count": 23,
-          "summary": "From Shem's line was born the genealogy descending unto Terah and his son Abram; the focus narroweth from all nations unto one family chosen for covenant."
+          "summary": "The genealogy descended from Shem through Terah and his son Abram. God's focus narrowed from all the nations of the earth to a single family chosen for covenant and blessing."
         }
       ]
     },
@@ -113,7 +113,7 @@
           "chapter_end": 12,
           "verse_end": 9,
           "verse_count": 23,
-          "summary": "The Lord called Abram to depart from his kindred and country, promising to make him a great nation; Abram believed and journeyed to Canaan to build altars unto the Lord."
+          "summary": "The Lord called Abram to leave his homeland and family, promising to make him a great nation. Abram believed God and journeyed to Canaan, building altars and calling on the name of the Lord."
         },
         {
           "story_id": "GEN-2-2",
@@ -124,7 +124,7 @@
           "chapter_end": 13,
           "verse_end": 18,
           "verse_count": 27,
-          "summary": "Famine drove Abram to Egypt, where he lacked faith and said his wife was his sister; yet God preserved her, and Abram returned enriched but separated from Lot due to strife."
+          "summary": "A famine drove Abram to Egypt. There he doubted God's protection and lied about his wife. God protected her miraculously. Abram returned enriched but separated from Lot, whose flocks had multiplied and caused strife."
         },
         {
           "story_id": "GEN-2-3",
@@ -135,7 +135,7 @@
           "chapter_end": 14,
           "verse_end": 24,
           "verse_count": 24,
-          "summary": "Kings made war and took Lot captive; Abram pursued and rescued him, then was met by Melchizedek, priest of the Most High, who blessed him and received tithes."
+          "summary": "Kings waged war and captured Lot. Abram armed his trained men and rescued his nephew. He was then blessed by Melchizedek, the priest of the Most High God, who brought bread and wine."
         },
         {
           "story_id": "GEN-2-4",
@@ -146,7 +146,7 @@
           "chapter_end": 15,
           "verse_end": 21,
           "verse_count": 21,
-          "summary": "God appeared unto Abram in a vision and promised him seed as the stars, counting his faith for righteousness; he made a covenant and prophesied Egypt's bondage."
+          "summary": "God appeared to Abram in a vision and promised descendants as numerous as the stars. Abram believed, and God counted it to him as righteousness. God made a covenant, prophesying that his descendants would be enslaved in Egypt for 400 years."
         },
         {
           "story_id": "GEN-2-5",
@@ -157,7 +157,7 @@
           "chapter_end": 17,
           "verse_end": 27,
           "verse_count": 50,
-          "summary": "Sarai gave Hagar to Abram after the flesh, and Ishmael was born; yet God's covenant was established with Abraham through circumcision, and Isaac was promised though Sarah laughed."
+          "summary": "Sarah, impatient for a son, gave her servant Hagar to Abram. Ishmael was born, but God's covenant remained with Abram. God renamed him Abraham, sealed the covenant with circumcision, and promised that Isaac—born to Sarah—would be his heir."
         },
         {
           "story_id": "GEN-2-6",
@@ -168,7 +168,7 @@
           "chapter_end": 19,
           "verse_end": 38,
           "verse_count": 70,
-          "summary": "The Lord appeared unto Abraham with visitors; he showed great hospitality and interceded for Sodom, yet the city had transgressed and was destroyed with fire and brimstone."
+          "summary": "The Lord appeared to Abraham with visitors. Abraham showed them hospitality. He pleaded with God to spare Sodom if righteous people were found there. But Sodom had transgressed greatly; God rained down fire and destroyed it, yet Lot and his daughters escaped."
         },
         {
           "story_id": "GEN-2-7",
@@ -179,7 +179,7 @@
           "chapter_end": 20,
           "verse_end": 18,
           "verse_count": 18,
-          "summary": "Abraham again said his wife was his sister to Abimelech; God warned Abimelech in a dream, and he restored Sarah with gifts, making a covenant with Abraham."
+          "summary": "Abraham traveled to Gerar and again told the king that Sarah was his sister. God came to Abimelech in a dream and warned him. Abimelech returned Sarah with gifts, and made a covenant with Abraham."
         },
         {
           "story_id": "GEN-2-8",
@@ -190,7 +190,7 @@
           "chapter_end": 21,
           "verse_end": 34,
           "verse_count": 34,
-          "summary": "Isaac was born when Abraham was 100 and Sarah 90, fulfilling the promise; Ishmael was cast out, yet God preserved him in the wilderness and made him a great nation."
+          "summary": "Isaac was born when Abraham was 100 and Sarah was 90, fulfilling the promise. Sarah had Hagar and Ishmael cast out. God protected Ishmael in the wilderness and made him into a great nation."
         },
         {
           "story_id": "GEN-2-9",
@@ -201,7 +201,7 @@
           "chapter_end": 22,
           "verse_end": 24,
           "verse_count": 24,
-          "summary": "God commanded Abraham to offer Isaac his only son; Abraham obeyed without question, yet the Lord stayed his hand and provided a ram in his stead, reaffirming the covenant."
+          "summary": "God tested Abraham, commanding him to offer his only son, Isaac, as a sacrifice. Abraham obeyed. As he raised the knife, God stopped him, saying he now knew Abraham's fear of God. God provided a ram instead and reaffirmed His covenant."
         },
         {
           "story_id": "GEN-2-10",
@@ -212,7 +212,7 @@
           "chapter_end": 23,
           "verse_end": 20,
           "verse_count": 20,
-          "summary": "Sarah died at 127 years; Abraham mourned and purchased the cave of Machpelah for her burial, securing the first inheritance of the promised land."
+          "summary": "Sarah died at 127 years old. Abraham mourned her and negotiated to purchase the cave of Machpelah as a burial place, securing the first inheritance of the promised land for his family."
         },
         {
           "story_id": "GEN-2-11",
@@ -223,7 +223,7 @@
           "chapter_end": 24,
           "verse_end": 67,
           "verse_count": 67,
-          "summary": "Abraham sent his servant to find a bride for Isaac from his kindred; the servant prayed at the well, and God answered by bringing forth Rebekah, who was taken to wife by Isaac."
+          "summary": "Abraham sent his servant to find a bride for Isaac from among his relatives. At the well, the servant prayed for a sign. God answered: Rebekah appeared and showed kindness to the servant and his camels. She became Isaac's wife."
         },
         {
           "story_id": "GEN-2-12",
@@ -234,7 +234,7 @@
           "chapter_end": 25,
           "verse_end": 18,
           "verse_count": 18,
-          "summary": "Abraham died at 175 years, old and satisfied; his covenant was transferred unto Isaac alone, whilst Ishmael's line was established as a great nation apart."
+          "summary": "Abraham died at 175 years old, full of years and satisfied with his life. His covenant was transferred to Isaac alone, while Ishmael's line was established as a great nation in its own right."
         },
         {
           "story_id": "GEN-2-13",
@@ -245,7 +245,7 @@
           "chapter_end": 25,
           "verse_end": 34,
           "verse_count": 16,
-          "summary": "Isaac's wife conceived twins, and God revealed that the elder would serve the younger; Esau despised his birthright and sold it to Jacob for pottage."
+          "summary": "Isaac's wife Rebekah became pregnant with twins. God revealed that the older would serve the younger. When born, Jacob came out holding Esau's heel. Years later, Esau despised his birthright and sold it to Jacob for a bowl of stew."
         },
         {
           "story_id": "GEN-2-14",
@@ -256,7 +256,7 @@
           "chapter_end": 26,
           "verse_end": 35,
           "verse_count": 35,
-          "summary": "Isaac went to Gerar during famine, repeated his father's deception about his wife, yet prospered greatly; he dug wells and made covenants, though his son Esau grieved him with Hittite wives."
+          "summary": "Isaac traveled to Gerar during a famine and repeated his father's mistake—claiming his wife was his sister. God blessed him greatly; he dug wells and made covenants. But Esau troubled him by marrying Hittite women."
         },
         {
           "story_id": "GEN-2-15",
@@ -267,7 +267,7 @@
           "chapter_end": 27,
           "verse_end": 46,
           "verse_count": 46,
-          "summary": "Isaac, being old and blind, blessed Jacob in Esau's stead through deception and disguise; Esau's rage forced Jacob to flee to Haran to escape his brother's vengeance."
+          "summary": "Isaac, old and blind, called Esau to hunt and bring him food so he could give him the patriarchal blessing. Rebekah overheard and helped Jacob deceive his father. Jacob received the blessing meant for Esau, and fled to Haran to escape his brother's rage."
         },
         {
           "story_id": "GEN-2-16",
@@ -278,7 +278,7 @@
           "chapter_end": 28,
           "verse_end": 22,
           "verse_count": 22,
-          "summary": "Jacob fled toward Haran and dreamed of a ladder reaching unto heaven; the Lord appeared and renewed the covenant, and Jacob vowed to give tithes and make that stone his house."
+          "summary": "Jacob fled toward Haran and dreamed of a ladder reaching from earth to heaven, with God's angels ascending and descending. The Lord appeared and renewed the covenant promise. Jacob vowed to honor God and return a tenth of all he received."
         },
         {
           "story_id": "GEN-2-17",
@@ -289,7 +289,7 @@
           "chapter_end": 30,
           "verse_end": 43,
           "verse_count": 67,
-          "summary": "Jacob labored fourteen years for Rachel, was deceived with Leah, and through his wives bore twelve sons; his cunning with cattle made him wealthy, though Laban envied him."
+          "summary": "Jacob served Laban fourteen years—seven for Rachel and seven more when deceived with Leah first. Through his wives, he fathered twelve sons. Jacob's cunning with breeding produced great flocks, though Laban envied his wealth."
         },
         {
           "story_id": "GEN-2-18",
@@ -300,7 +300,7 @@
           "chapter_end": 31,
           "verse_end": 55,
           "verse_count": 55,
-          "summary": "Jacob fled from Laban with all he had, whilst Rachel stole her father's idols; Laban pursued but could not find them, and they made a covenant at Galeed before parting."
+          "summary": "Jacob fled Laban with his wives, children, and livestock. Rachel secretly took her father's household idols. Laban pursued but couldn't find them. Jacob and Laban made a covenant at Mizpah and parted peacefully."
         },
         {
           "story_id": "GEN-2-19",
@@ -311,7 +311,7 @@
           "chapter_end": 33,
           "verse_end": 20,
           "verse_count": 81,
-          "summary": "Jacob wrestled with a Man until daybreak and prevailed; through this wrestling he was renamed Israel, and his hip was touched; he reconciled with Esau and settled in Canaan."
+          "summary": "Jacob wrestled with a Man (God) until dawn and prevailed. God touched his hip, crippling him, then renamed him Israel ('he who wrestles with God'). Jacob saw God's face and was transformed. He was reconciled with Esau and settled in Canaan."
         },
         {
           "story_id": "GEN-2-20",
@@ -322,7 +322,7 @@
           "chapter_end": 35,
           "verse_end": 29,
           "verse_count": 61,
-          "summary": "Dinah was defiled by Shechem; Jacob's sons deceived the city with circumcision and slew all the males; Jacob returned to Bethel to purify his house and renew the covenant."
+          "summary": "Dinah was seduced by Shechem, the son of a local chief. Jacob's sons deceived the city, requiring circumcision as a marriage condition. The men were circumcised, then murdered by Simeon and Levi. Jacob returned to Bethel to purify his household and renew his covenant with God."
         },
         {
           "story_id": "GEN-2-21",
@@ -333,7 +333,7 @@
           "chapter_end": 36,
           "verse_end": 43,
           "verse_count": 43,
-          "summary": "Esau's genealogy was recorded, showing the rejected line that would become Edom and dwell in Mount Seir, whilst Jacob alone carried forward the covenant unto all generations."
+          "summary": "Esau's genealogy was recorded, showing his line that became Edom, dwelling in Mount Seir. Esau's rejected line is documented as a contrast to Jacob, through whom the covenant would continue."
         },
         {
           "story_id": "GEN-2-22",
@@ -344,7 +344,7 @@
           "chapter_end": 37,
           "verse_end": 36,
           "verse_count": 36,
-          "summary": "Joseph's dreams of dominance incited his brothers' hatred; they stripped him of his coat of colours and sold him unto Midianite traders who brought him into Egypt as a slave."
+          "summary": "Joseph had dreams showing his brothers and parents bowing to him. His brothers hated him for his boasting and his father's favoritism. In jealousy, they stripped him of his coat of many colors and sold him to Midianite traders who brought him to Egypt."
         },
         {
           "story_id": "GEN-2-23",
@@ -355,7 +355,7 @@
           "chapter_end": 38,
           "verse_end": 30,
           "verse_count": 30,
-          "summary": "Judah's sons died for their wickedness; Tamar, denied her right to Shelah, disguised herself and bore twins unto Judah, preserving the line that would lead to David."
+          "summary": "Judah's first two sons died for their wickedness. Judah refused to give his youngest son Shelah to Tamar. Tamar disguised herself as a prostitute, conceived twins with Judah, and secured her place in the line leading to David and Jesus."
         },
         {
           "story_id": "GEN-2-24",
@@ -366,7 +366,7 @@
           "chapter_end": 40,
           "verse_end": 23,
           "verse_count": 57,
-          "summary": "Joseph found favour in Potiphar's sight and was made overseer, yet resisted the temptation of his master's wife; falsely accused, he was imprisoned yet blessed by the Lord."
+          "summary": "Joseph served Potiphar and found favor, becoming overseer of his house. Potiphar's wife tempted Joseph repeatedly. He resisted and fled, but was falsely accused and imprisoned. Even in prison, God blessed him and he found favor."
         },
         {
           "story_id": "GEN-2-25",
@@ -377,7 +377,7 @@
           "chapter_end": 41,
           "verse_end": 57,
           "verse_count": 57,
-          "summary": "Pharaoh dreamed of famine and plenty; Joseph interpreted the dreams and revealed the Spirit of God upon him; he was exalted to rule over Egypt and prepare for the coming famine."
+          "summary": "Pharaoh dreamed of seven fat cows eaten by seven thin cows, and seven full ears eaten by seven withered ears. Joseph interpreted: seven years of plenty followed by seven years of famine. Pharaoh exalted Joseph to rule Egypt and prepare for the crisis."
         },
         {
           "story_id": "GEN-2-26",
@@ -388,7 +388,7 @@
           "chapter_end": 42,
           "verse_end": 38,
           "verse_count": 38,
-          "summary": "Famine came upon the land; Jacob sent his sons to Egypt for grain, where Joseph tested them, keeping Simeon as surety and returning their money in their sacks."
+          "summary": "Famine struck the land. Jacob sent his sons to Egypt to buy grain, but kept Benjamin at home. Joseph recognized his brothers but tested them, accusing them of being spies and keeping Simeon as hostage while returning their money."
         },
         {
           "story_id": "GEN-2-27",
@@ -399,7 +399,7 @@
           "chapter_end": 44,
           "verse_end": 34,
           "verse_count": 107,
-          "summary": "Jacob sent Benjamin with his brothers; Joseph placed his cup in Benjamin's sack and accused him of theft; Judah offered himself in Benjamin's stead, showing genuine repentance."
+          "summary": "Jacob reluctantly sent Benjamin with his other sons. Joseph welcomed them, placed his silver cup in Benjamin's sack, and accused him of theft. Judah stepped forward and offered himself as a slave instead of Benjamin, revealing his transformed heart."
         },
         {
           "story_id": "GEN-2-28",
@@ -410,7 +410,7 @@
           "chapter_end": 47,
           "verse_end": 31,
           "verse_count": 120,
-          "summary": "Joseph revealed himself unto his brethren, saying God sent him to preserve life; he brought Jacob and all his house to Egypt to dwell in Goshen and be sustained through famine."
+          "summary": "Joseph revealed himself to his brothers, saying God had sent him ahead to preserve their lives. He brought his entire family—70 people—to Egypt and settled them in Goshen to survive the famine and enjoy his protection."
         },
         {
           "story_id": "GEN-2-29",
@@ -421,7 +421,7 @@
           "chapter_end": 50,
           "verse_end": 26,
           "verse_count": 105,
-          "summary": "Jacob blessed his twelve sons with tribal prophecies before his death; Joseph was assured that God would bring his people to the promised land, and he charged them to carry his bones to Canaan."
+          "summary": "Jacob blessed his twelve sons with tribal prophecies before he died. Joseph brought his sons to Jacob, who crossed his hands and blessed the younger over the older. Joseph was assured that God would bring his descendants to the promised land. Jacob died, and his body was carried back to Canaan for burial."
         }
       ]
     }
