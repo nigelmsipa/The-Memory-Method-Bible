@@ -1,0 +1,923 @@
+{
+  "book": "Jeremiah",
+  "book_number": 24,
+  "testament": "Old",
+  "category": "Major Prophets",
+  "description": "The Memory Method Bible: Jeremiah - Organized by 4 major thematic arcs containing 23 distinct units, tracing the prophet's dismantling of false hope, the dismantling of Judah, and the planting of a New Covenant.",
+  "themes": [
+    {
+      "theme_id": 1,
+      "theme_name": "The Prophet of Dismantling: Indictment and Warning",
+      "chapter_range": "1-25",
+      "theme_summary": "Jeremiah's call and his relentless poetic oracles exposing Judah's apostasy. This arc focuses on the 'tearing down' phase of his ministry, identifying the rot in the Temple, the leadership, and the heart of the people.",
+      "theme_rationale": "Unified by the 'Call Narrative' (Ch. 1) which sets the agenda: 'to pluck up and to break down.' This section is dominated by poetic oracles of judgment and the 'Confessions of Jeremiah,' revealing the prophet's internal struggle. It concludes with the Cup of Wrath (Ch. 25), summarizing the judgment on Judah and the nations.",
+      "stories": [
+        {
+          "story_number": 1,
+          "story_id": "JER-1-1",
+          "story_title": "The Call: Prophet to the Nations",
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 19,
+          "verse_count": 19,
+          "oracle_type": "Call Narrative (Vocation Report)",
+          "boundary_rationale": "Distinct unit serving as the prologue. Establishes Jeremiah's authority, the timeline, and the core metaphors (Almond Rod, Boiling Pot) that govern the entire book.",
+          "concept_slug": "predestined_calling",
+          "tags": [
+            "call",
+            "youth",
+            "nations",
+            "almond_rod",
+            "boiling_pot",
+            "fortified_city"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-1-1-1",
+              "scene_name": "Consecration and Objection",
+              "chapter_start": 1,
+              "verse_start": 1,
+              "chapter_end": 1,
+              "verse_end": 10,
+              "verse_count": 10,
+              "scene_rationale": "God identifies Jeremiah as chosen before birth. Jeremiah objects based on youth. God touches his mouth, imparting the 'pluck up/plant' commission."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-1-1-2",
+              "scene_name": "Visions of Vigilance and Invasion",
+              "chapter_start": 1,
+              "verse_start": 11,
+              "chapter_end": 1,
+              "verse_end": 19,
+              "verse_count": 9,
+              "scene_rationale": "Two visions: The Almond Rod (God watching to perform His word) and the Boiling Pot (disaster tilting from the North). God promises to make Jeremiah a fortified city against opposition."
+            }
+          ],
+          "scholarly_rationale": "Jeremiah 1 functions as the 'programmatic intro.' The six verbs in 1:10 (pluck up, break down, destroy, overthrow, build, plant) structure the entire book. The majority of chapters 1-29 focus on the first four (negative), while 30-33 focus on the last two (positive). The 'foe from the North' motif (1:14) is the primary political threat (Babylon) throughout the book.",
+          "literary_patterns": [
+            "Wordplay (shaqed/shoqed - Almond/Watching)",
+            "Theophany and Commission structure",
+            "Military metaphor (Fortified City)"
+          ],
+          "theological_themes": [
+            "Divine predestination",
+            "Inevitability of Northern judgment",
+            "Prophet as isolated warrior"
+          ]
+        },
+        {
+          "story_number": 2,
+          "story_id": "JER-1-2",
+          "story_title": "The Broken Marriage: Israel's Apostasy",
+          "chapter_start": 2,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 5,
+          "verse_count": 42,
+          "oracle_type": "Lawsuit Oracle (Rib)",
+          "boundary_rationale": "A coherent poetic unit using the marriage/harlotry metaphor. Moves from the honeymoon period (wilderness) to current infidelity (Baal worship).",
+          "concept_slug": "spiritual_adultery",
+          "tags": [
+            "harlotry",
+            "broken_cisterns",
+            "wilderness",
+            "baal",
+            "apostasy"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-1-2-1",
+              "scene_name": "The Memory of Devotion",
+              "chapter_start": 2,
+              "verse_start": 1,
+              "chapter_end": 2,
+              "verse_end": 3,
+              "verse_count": 3,
+              "scene_rationale": "God recalls the 'honeymoon' of the Exodus wilderness wanderings when Israel was holy and devoted."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-1-2-2",
+              "scene_name": "Two Evils: Fountain vs. Cisterns",
+              "chapter_start": 2,
+              "verse_start": 4,
+              "chapter_end": 2,
+              "verse_end": 19,
+              "verse_count": 16,
+              "scene_rationale": "The core indictment: Israel forsook the Living Water for cracked cisterns (idols/alliances). The absurdity of exchanging Glory for nothingness."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "JER-1-2-3",
+              "scene_name": "The Wild Donkey: Unrestrained Lust",
+              "chapter_start": 2,
+              "verse_start": 20,
+              "chapter_end": 3,
+              "verse_end": 5,
+              "verse_count": 23,
+              "scene_rationale": "Graphic imagery of Israel as a female camel/donkey in heat, pursuing foreign gods. The stain of guilt cannot be washed away with lye."
+            }
+          ],
+          "scholarly_rationale": "This section utilizes the 'Covenant Lawsuit' (Rib) genre. The imagery shifts rapidly—bride, slave, wild donkey, thief—to depict the irrationality of sin. The 'Broken Cisterns' metaphor (2:13) is theological bedrock for Jeremiah: sin is not just rule-breaking, it is ontological stupidity (exchanging source of life for emptiness).",
+          "literary_patterns": [
+            "Metaphor stacking (Bride, Animal, Stain, Thief)",
+            "Rhetorical questions",
+            "Contrast: Living Water vs. Broken Cisterns"
+          ],
+          "cross_references": [
+            "Hosea 1-3 (Marriage metaphor)",
+            "John 4:10-14 (Living Water)"
+          ]
+        },
+        {
+          "story_number": 3,
+          "story_id": "JER-1-3",
+          "story_title": "Temple Sermon: The Lie of Safety",
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 3,
+          "verse_count": 37,
+          "oracle_type": "Prose Sermon / Prophetic Indictment",
+          "boundary_rationale": "The famous 'Temple Sermon.' Shifts from poetry to prose. A specific historical event where Jeremiah stands at the gate. Ends with the condemnation of Topheth (child sacrifice).",
+          "concept_slug": "false_security",
+          "tags": [
+            "temple_sermon",
+            "shiloh",
+            "deceptive_words",
+            "queen_of_heaven",
+            "topheth",
+            "valley_of_slaughter"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-1-3-1",
+              "scene_name": "The Temple Gate Address",
+              "chapter_start": 7,
+              "verse_start": 1,
+              "chapter_end": 7,
+              "verse_end": 15,
+              "verse_count": 15,
+              "scene_rationale": "Jeremiah attacks the mantra 'The Temple of the Lord.' Threatens that Jerusalem will become like Shiloh (destroyed) if they don't amend ways."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-1-3-2",
+              "scene_name": "Pagan Family Worship",
+              "chapter_start": 7,
+              "verse_start": 16,
+              "chapter_end": 7,
+              "verse_end": 20,
+              "verse_count": 5,
+              "scene_rationale": "Jeremiah forbidden to pray for the people. Describes whole families making cakes for the Queen of Heaven."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "JER-1-3-3",
+              "scene_name": "The Valley of Slaughter",
+              "chapter_start": 7,
+              "verse_start": 30,
+              "chapter_end": 8,
+              "verse_end": 3,
+              "verse_count": 8,
+              "scene_rationale": "Condemnation of child sacrifice in Ben-hinnom. The place of worship will become a massive grave (Topheth)."
+            }
+          ],
+          "scholarly_rationale": "This sermon attacks the 'Inviolability of Zion' theology—the popular belief that God would never allow the Temple to be destroyed (based on Isaiah's deliverance in 701 BC). Jeremiah cites the destruction of Shiloh (where the Ark once stayed) as historical precedent that God judges His own house. This sermon nearly gets him killed (see Ch 26).",
+          "literary_patterns": [
+            "Triadic Repetition ('The Temple of the Lord' x3)",
+            "Historical Allusion (Shiloh)",
+            "Prose discourse"
+          ],
+          "theological_themes": [
+            "Conditional covenant dwelling",
+            "Hypocrisy of liturgy without ethics",
+            "Horror of child sacrifice"
+          ]
+        },
+        {
+          "story_number": 4,
+          "story_id": "JER-1-4",
+          "story_title": "Laments and Symbolic Acts: The Linen Belt",
+          "chapter_start": 8,
+          "verse_start": 18,
+          "chapter_end": 13,
+          "verse_end": 27,
+          "verse_count": 122,
+          "oracle_type": "Mixed (Laments, Symbolic Action)",
+          "boundary_rationale": "A cluster of intense personal laments ('Weeping Prophet' passages) culminating in the sign of the Linen Loincloth. Focuses on the sorrow of God and the rot of the people.",
+          "concept_slug": "divine_sorrow_and_rot",
+          "tags": [
+            "balm_of_gilead",
+            "weeping",
+            "linen_belt",
+            "euphrates",
+            "marred_pride"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-1-4-1",
+              "scene_name": "Is There No Balm in Gilead?",
+              "chapter_start": 8,
+              "verse_start": 18,
+              "chapter_end": 9,
+              "verse_end": 1,
+              "verse_count": 6,
+              "scene_rationale": "The famous cry of grief. Jeremiah identifies intimately with the wound of his people. 'Oh that my head were waters...'"
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-1-4-2",
+              "scene_name": "The Ruined Linen Belt",
+              "chapter_start": 13,
+              "verse_start": 1,
+              "chapter_end": 13,
+              "verse_end": 11,
+              "verse_count": 11,
+              "scene_rationale": "Symbolic action: Jeremiah buries a linen belt near the Euphrates. Dug up later, it is ruined. Symbolizes how close God held Israel and how useless they have become."
+            }
+          ],
+          "scholarly_rationale": "These chapters earn Jeremiah the title 'The Weeping Prophet.' The poetry here blurs the speaker—is it Jeremiah weeping, or God? This 'divine pathos' (Heschel) suggests God is not an unmoved mover but suffers with His people even as He judges them. The Linen Belt (Ch 13) is the first major 'Acted Parable,' visually demonstrating covenant intimacy and total corruption.",
+          "literary_patterns": [
+            "Pathos/Lament poetry",
+            "Speaker ambiguity (God/Prophet)",
+            "Sign-act (Perath/Euphrates)"
+          ]
+        },
+        {
+          "story_number": 5,
+          "story_id": "JER-1-5",
+          "story_title": "The Potter and the Clay: Sovereignty",
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 18,
+          "verse_count": 63,
+          "oracle_type": "Symbolic Action / Narrative",
+          "boundary_rationale": "Two linked pottery metaphors: The Potter's House (Ch 18 - possibility of repentance) and the Broken Flask (Ch 19 - irreversibility of judgment), leading to Jeremiah's persecution by Pashhur and his deepest despair.",
+          "concept_slug": "sovereign_shaping_and_shattering",
+          "tags": [
+            "potter",
+            "clay",
+            "broken_flask",
+            "topheth",
+            "pashhur",
+            "stocks",
+            "fire_in_bones"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-1-5-1",
+              "scene_name": "The Potter's House: Reworking the Clay",
+              "chapter_start": 18,
+              "verse_start": 1,
+              "chapter_end": 18,
+              "verse_end": 12,
+              "verse_count": 12,
+              "scene_rationale": "Jeremiah watches a potter rework spoiled clay. Lesson: God's sovereignty is interactive; if a nation repents, He relents."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-1-5-2",
+              "scene_name": "The Broken Flask: Irreversible Doom",
+              "chapter_start": 19,
+              "verse_start": 1,
+              "chapter_end": 19,
+              "verse_end": 13,
+              "verse_count": 13,
+              "scene_rationale": "Jeremiah smashes a clay flask at Topheth. Lesson: Some hardening is final. Judah will be shattered beyond repair."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "JER-1-5-3",
+              "scene_name": "Pashhur's Stocks and Fire in Bones",
+              "chapter_start": 20,
+              "verse_start": 1,
+              "chapter_end": 20,
+              "verse_end": 18,
+              "verse_count": 18,
+              "scene_rationale": "Priest Pashhur beats Jeremiah. Jeremiah renames him 'Terror on Every Side.' Jeremiah laments his calling but admits God's word is a 'burning fire' he cannot hold in."
+            }
+          ],
+          "scholarly_rationale": "This triad (18-20) moves from theoretical hope (reworking clay) to finalized judgment (smashed flask) to personal consequence (persecution). Jeremiah 20:7-18 is the final and darkest 'Confession,' accusing God of deception ('You deceived me, Lord'). It reveals the psychological cost of the prophetic office.",
+          "literary_patterns": [
+            "Paired symbolic actions (building vs. destroying)",
+            "Lament/Curse of birth day",
+            "Divine compulsion motif"
+          ],
+          "cross_references": [
+            "Romans 9:20-21 (Paul uses Potter/Clay image)",
+            "Job 3 (Cursing the day of birth)"
+          ]
+        },
+        {
+          "story_number": 6,
+          "story_id": "JER-1-6",
+          "story_title": "Shepherds and the Cup of Wrath",
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 38,
+          "verse_count": 118,
+          "oracle_type": "Oracles Against Leaders / Summary Judgment",
+          "boundary_rationale": "Indictment of false shepherds (kings/prophets) contrasted with the promise of the 'Righteous Branch.' Ends with Chapter 25, the summary conclusion of the first half of the book (70 years exile + Cup of Wrath for nations).",
+          "concept_slug": "false_shepherds_and_righteous_branch",
+          "tags": [
+            "shepherds",
+            "righteous_branch",
+            "lying_prophets",
+            "cup_of_wrath",
+            "70_years",
+            "babylon"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-1-6-1",
+              "scene_name": "The Righteous Branch",
+              "chapter_start": 23,
+              "verse_start": 1,
+              "chapter_end": 23,
+              "verse_end": 8,
+              "verse_count": 8,
+              "scene_rationale": "Woe to bad shepherds. Promise of a future Davidic King (The Branch) named 'The Lord Our Righteousness.'"
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-1-6-2",
+              "scene_name": "The Seventy Years and Cup of Wrath",
+              "chapter_start": 25,
+              "verse_start": 1,
+              "chapter_end": 25,
+              "verse_end": 33,
+              "verse_count": 33,
+              "scene_rationale": "Jeremiah summarizes 23 years of ministry. Predicts 70-year exile. Vision of the Cup of God's Wrath being forced on Jerusalem and then all nations."
+            }
+          ],
+          "scholarly_rationale": "Chapter 25 is the hinge of the book. It looks back at 23 years of ignored warnings and looks forward to the specific duration of Exile (70 years). The 'Righteous Branch' (23:5) is a primary Messianic text, contrasting the failed Zedekiah (whose name means 'My righteousness is Yah') with the true King ('Yah is our Righteousness').",
+          "literary_patterns": [
+            "Messianic title (Tzemach - Branch)",
+            "Judgment metaphor (Cup of Wine)",
+            "Specific predictive dating (70 years)"
+          ],
+          "theological_themes": [
+            "Failure of human monarchy",
+            "Messianic hope",
+            "Universal judgment starting with God's house"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 2,
+      "theme_name": "The Conflict of Words: Biography and False Prophecy",
+      "chapter_range": "26-29, 34-45",
+      "theme_summary": "A largely biographical section detailing Jeremiah's conflict with kings (Jehoiakim, Zedekiah) and false prophets (Hananiah). Focuses on the rejection of the Word and the fall of the city.",
+      "theme_rationale": "This section shifts from poetic oracles to prose narrative. It highlights the 'Battle for the Mind' of Judah—who is telling the truth? It contrasts the true prophet (Jeremiah) with the false (Hananiah) and the reception of the scroll by the wicked king vs. the weak king. Note: Chapters 30-33 are extracted as a separate 'Book of Consolation' theme.",
+      "stories": [
+        {
+          "story_number": 1,
+          "story_id": "JER-2-1",
+          "story_title": "True vs. False: The Yoke of Babylon",
+          "chapter_start": 27,
+          "verse_start": 1,
+          "chapter_end": 28,
+          "verse_end": 17,
+          "verse_count": 39,
+          "oracle_type": "Biographical Narrative / Sign Act",
+          "boundary_rationale": "Coherent narrative concerning the 'Yoke' sign act. Jeremiah wears a yoke (submit to Babylon); Hananiah breaks it (false hope). Ends with Hananiah's death.",
+          "concept_slug": "yoke_of_submission",
+          "tags": [
+            "yoke",
+            "hananiah",
+            "false_prophets",
+            "submission",
+            "nebuchadnezzar"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-2-1-1",
+              "scene_name": "Wearing the Yoke",
+              "chapter_start": 27,
+              "verse_start": 1,
+              "chapter_end": 27,
+              "verse_end": 22,
+              "verse_count": 22,
+              "scene_rationale": "God commands Jeremiah to make a yoke and wear it, preaching submission to Nebuchadnezzar as God's servant."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-2-1-2",
+              "scene_name": "Hananiah Breaks the Yoke",
+              "chapter_start": 28,
+              "verse_start": 1,
+              "chapter_end": 28,
+              "verse_end": 17,
+              "verse_count": 17,
+              "scene_rationale": "Hananiah prophesies peace, breaks Jeremiah's wooden yoke. Jeremiah replaces it with an iron yoke. Hananiah dies for preaching rebellion."
+            }
+          ],
+          "scholarly_rationale": "This is the definitive OT text on discerning true vs. false prophecy. Hananiah used correct theology (God saves Zion) but at the wrong time. Jeremiah introduces the 'Nebuchadnezzar as God's Servant' motif—a radical political theology claiming God is using a pagan emperor to discipline His people. Submission to Babylon is submission to Yahweh.",
+          "literary_patterns": [
+            "Sign-act escalation (Wood to Iron)",
+            "Prophetic confrontation",
+            "Death fulfillment"
+          ],
+          "theological_themes": [
+            "Discerning truth",
+            "God's sovereignty over pagan empires",
+            "Danger of patriotic theology"
+          ]
+        },
+        {
+          "story_number": 2,
+          "story_id": "JER-2-2",
+          "story_title": "The Letter to the Exiles",
+          "chapter_start": 29,
+          "verse_start": 1,
+          "chapter_end": 29,
+          "verse_end": 32,
+          "verse_count": 32,
+          "oracle_type": "Epistle",
+          "boundary_rationale": "A distinct literary unit: a letter sent from Jerusalem to those already in Babylon (Jehoiachin's exile). Contains the famous 'plans to prosper you' verse in context.",
+          "concept_slug": "seek_the_peace_of_the_city",
+          "tags": [
+            "letter",
+            "exile",
+            "welfare",
+            "70_years",
+            "plans_for_good"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-2-2-1",
+              "scene_name": "Build Houses and Plant Gardens",
+              "chapter_start": 29,
+              "verse_start": 1,
+              "chapter_end": 29,
+              "verse_end": 9,
+              "verse_count": 9,
+              "scene_rationale": "Radical instruction: Don't resist. Settle down in Babylon. Seek the welfare (shalom) of the pagan city, for in its shalom you find shalom."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-2-2-2",
+              "scene_name": "Future Hope and False Letters",
+              "chapter_start": 29,
+              "verse_start": 10,
+              "chapter_end": 29,
+              "verse_end": 32,
+              "verse_count": 23,
+              "scene_rationale": "Promise that after 70 years God will visit them. Condemnation of Shemaiah who sent letters from Babylon opposing Jeremiah."
+            }
+          ],
+          "scholarly_rationale": "This letter revolutionizes Jewish identity. It asserts that Yahweh can be worshipped outside the land, without the Temple. The command to 'seek the shalom' of Babylon (29:7) is the foundation for diaspora theology—living faithfully as a minority in a hostile culture.",
+          "literary_patterns": [
+            "Epistolary format",
+            "Reversal of expectation (Settle vs. Return soon)"
+          ],
+          "cross_references": [
+            "1 Peter 2:11-12 (Sojourners and exiles)"
+          ]
+        },
+        {
+          "story_number": 3,
+          "story_id": "JER-2-3",
+          "story_title": "The Tale of Two Scrolls",
+          "chapter_start": 36,
+          "verse_start": 1,
+          "chapter_end": 36,
+          "verse_end": 32,
+          "verse_count": 32,
+          "oracle_type": "Biographical Narrative",
+          "boundary_rationale": "A self-contained narrative about the writing, reading, destruction, and rewriting of Jeremiah's scroll. Contrasts sharply with Josiah's reception of the scroll in 2 Kings 22.",
+          "concept_slug": "indestructible_word",
+          "tags": [
+            "scroll",
+            "baruch",
+            "jehoiakim",
+            "penknife",
+            "fire"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-2-3-1",
+              "scene_name": "Baruch Writes and Reads",
+              "chapter_start": 36,
+              "verse_start": 1,
+              "chapter_end": 36,
+              "verse_end": 19,
+              "verse_count": 19,
+              "scene_rationale": "Jeremiah dictates to Baruch. Baruch reads the scroll in the Temple. The officials hear it and are afraid."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-2-3-2",
+              "scene_name": "Jehoiakim Burns the Scroll",
+              "chapter_start": 36,
+              "verse_start": 20,
+              "chapter_end": 36,
+              "verse_end": 32,
+              "verse_count": 13,
+              "scene_rationale": "King Jehoiakim hears the scroll, cuts it with a knife, and burns it column by column. Jeremiah simply dictates a new, longer scroll."
+            }
+          ],
+          "scholarly_rationale": "This chapter explains how the book of Jeremiah came to be (dictation to Baruch). It serves as a foil to King Josiah (who tore his clothes when hearing the Law). Jehoiakim tears the scroll instead. The theological point: You can destroy the paper, but you cannot destroy the Word. The second scroll becomes larger than the first.",
+          "literary_patterns": [
+            "Narrative contrast (Officials' fear vs. King's arrogance)",
+            "Motif of the written word"
+          ]
+        },
+        {
+          "story_number": 4,
+          "story_id": "JER-2-4",
+          "story_title": "The Fall of Jerusalem: Jeremiah's Passion",
+          "chapter_start": 37,
+          "verse_start": 1,
+          "chapter_end": 39,
+          "verse_end": 18,
+          "verse_count": 63,
+          "oracle_type": "Historical Narrative",
+          "boundary_rationale": "Continuous narrative of the siege, Jeremiah's imprisonment in the cistern, his rescue by Ebed-melech, and the final breach of the city walls.",
+          "concept_slug": "siege_and_fall",
+          "tags": [
+            "cistern",
+            "ebed_melech",
+            "zedekiah",
+            "siege",
+            "fall_of_jerusalem"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-2-4-1",
+              "scene_name": "Jeremiah in the Mud",
+              "chapter_start": 38,
+              "verse_start": 1,
+              "chapter_end": 38,
+              "verse_end": 13,
+              "verse_count": 13,
+              "scene_rationale": "Officials throw Jeremiah into a muddy cistern to die. Ebed-melech (Ethiopian eunuch) rescues him."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-2-4-2",
+              "scene_name": "Secret Meeting with Zedekiah",
+              "chapter_start": 38,
+              "verse_start": 14,
+              "chapter_end": 38,
+              "verse_end": 28,
+              "verse_count": 15,
+              "scene_rationale": "Weak King Zedekiah asks for advice but fears his officials. Jeremiah urges surrender to live. Zedekiah refuses out of fear."
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "JER-2-4-3",
+              "scene_name": "The City Falls",
+              "chapter_start": 39,
+              "verse_start": 1,
+              "chapter_end": 39,
+              "verse_end": 18,
+              "verse_count": 18,
+              "scene_rationale": "Babylon breaches the walls. Zedekiah captured, blinded. Temple burned. Jeremiah freed by Nebuchadnezzar's captain."
+            }
+          ],
+          "scholarly_rationale": "This is the 'Passion Narrative' of Jeremiah. He suffers the physical reality of his message (imprisonment, near death). Ebed-melech the foreigner acts with faith while the Davidic King Zedekiah acts in paralyzing fear. The fall of the city (39) vindicates Jeremiah's decades of unpopular ministry.",
+          "literary_patterns": [
+            "Irony (Prophet prisoner vs. King prisoner)",
+            "Foreigner faith vs. Native apostasy"
+          ],
+          "theological_themes": [
+            "Vindication of the Word",
+            "Failure of leadership",
+            "Salvation for the faithful outsider"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 3,
+      "theme_name": "The Book of Consolation: The New Covenant",
+      "chapter_range": "30-33",
+      "theme_summary": "The theological heart of the book. Amidst the siege, God commands Jeremiah to write a book of hope. Contains the promise of restoration and the New Covenant.",
+      "theme_rationale": "Scholars universally recognize Ch 30-33 as a distinct sub-book ('The Book of Consolation'). While the rest of Jeremiah is judgment-heavy, this section is purely restorative. It shifts the metaphor from 'breaking down' to 'planting and building' (1:10).",
+      "stories": [
+        {
+          "story_number": 1,
+          "story_id": "JER-3-1",
+          "story_title": "Restoration of Jacob",
+          "chapter_start": 30,
+          "verse_start": 1,
+          "chapter_end": 31,
+          "verse_end": 26,
+          "verse_count": 50,
+          "oracle_type": "Salvation Oracle",
+          "boundary_rationale": "Poetic cycle promising the return of both Northern Israel (Ephraim) and Judah. Ends with the sweet sleep of the prophet.",
+          "concept_slug": "tears_to_joy",
+          "tags": [
+            "jacob_trouble",
+            "wounds_healed",
+            "rachel_weeping",
+            "ephraim",
+            "dance"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-3-1-1",
+              "scene_name": "Healing the Incurable Wound",
+              "chapter_start": 30,
+              "verse_start": 12,
+              "chapter_end": 30,
+              "verse_end": 22,
+              "verse_count": 11,
+              "scene_rationale": "God admits he wounded Judah, but now He will heal the 'incurable' wound and restore the city."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-3-1-2",
+              "scene_name": "Rachel Weeping for Her Children",
+              "chapter_start": 31,
+              "verse_start": 15,
+              "chapter_end": 31,
+              "verse_end": 22,
+              "verse_count": 8,
+              "scene_rationale": "Poetic image of Rachel weeping in Ramah. God answers: 'Refrain your voice from weeping... they shall come back.'"
+            }
+          ],
+          "scholarly_rationale": "This poetry matches the joy of Isaiah 40-55. It emphasizes the reunification of the divided monarchy (Israel and Judah). The 'Rachel Weeping' passage is pivotal, linking ancestral grief to exilic hope (and later utilized by Matthew in the NT).",
+          "literary_patterns": [
+            "Inclusio (Restoration formulas)",
+            "Personification (Rachel)"
+          ],
+          "cross_references": [
+            "Matthew 2:18 (Rachel weeping)"
+          ]
+        },
+        {
+          "story_number": 2,
+          "story_id": "JER-3-2",
+          "story_title": "The New Covenant",
+          "chapter_start": 31,
+          "verse_start": 27,
+          "chapter_end": 31,
+          "verse_end": 40,
+          "verse_count": 14,
+          "oracle_type": "Salvation Oracle",
+          "boundary_rationale": "The explicit announcement of the 'New Covenant' (Berit Chadashah). The theological peak of the book.",
+          "concept_slug": "law_on_hearts",
+          "tags": [
+            "new_covenant",
+            "heart",
+            "forgiveness",
+            "knowledge_of_god"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-3-2-1",
+              "scene_name": "Writing the Law on the Heart",
+              "chapter_start": 31,
+              "verse_start": 31,
+              "chapter_end": 31,
+              "verse_end": 34,
+              "verse_count": 4,
+              "scene_rationale": "The promise: Not like the Sinai covenant. Law written on hearts. Universal knowledge of God. Total forgiveness of iniquity."
+            }
+          ],
+          "scholarly_rationale": "Jeremiah 31:31-34 is the only OT mention of a 'New Covenant.' It does not promise new laws, but a new locus for the law (internal will vs. external tablets) and a new power to obey. This text is foundational for the NT (Hebrews 8, 10; Luke 22).",
+          "literary_patterns": [
+            "Contrast (Old vs. New)",
+            "Divine I-Will statements"
+          ],
+          "theological_themes": [
+            "Internalization of religion",
+            "Unilateral divine grace",
+            "Permanence of Israel"
+          ]
+        },
+        {
+          "story_number": 3,
+          "story_id": "JER-3-3",
+          "story_title": "Buying the Field at Anathoth",
+          "chapter_start": 32,
+          "verse_start": 1,
+          "chapter_end": 33,
+          "verse_end": 26,
+          "verse_count": 60,
+          "oracle_type": "Symbolic Action / Narrative",
+          "boundary_rationale": "A narrative prose section within the Book of Consolation. Jeremiah performs an irrational business transaction (buying land during a siege) to prove his faith in the restoration.",
+          "concept_slug": "investment_in_future",
+          "tags": [
+            "anathoth",
+            "field",
+            "deed",
+            "siege_ramps"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-3-3-1",
+              "scene_name": "The Purchase and the Prayer",
+              "chapter_start": 32,
+              "verse_start": 1,
+              "chapter_end": 32,
+              "verse_end": 25,
+              "verse_count": 25,
+              "scene_rationale": "With Babylonians at the gates, Jeremiah uses his right of redemption to buy a field. He prays in confusion: 'You say buy a field, but the city is given to the Chaldeans!'"
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-3-3-2",
+              "scene_name": "Houses and Fields Shall Again Be Bought",
+              "chapter_start": 32,
+              "verse_start": 26,
+              "chapter_end": 32,
+              "verse_end": 44,
+              "verse_count": 19,
+              "scene_rationale": "God's answer: 'Is anything too hard for Me?' Just as I brought this disaster, I will bring this good. Normalcy will return."
+            }
+          ],
+          "scholarly_rationale": "This is 'betting on God.' Buying real estate in a conquered country is economic suicide, but symbolic faithfulness. It demonstrates that the promise of restoration (Ch 30-31) is not just poetry, but concrete historical reality.",
+          "literary_patterns": [
+            "Legal terminology (deeds, witnesses)",
+            "Prayer-Answer structure"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 4,
+      "theme_name": "The God of All Nations: Judgment and Epilogue",
+      "chapter_range": "46-52",
+      "theme_summary": "Jeremiah turns his face to the surrounding nations, pronouncing judgment on Egypt, Philistia, Moab, and finally Babylon itself. Concludes with the historical appendix.",
+      "theme_rationale": "Standard prophetic structure (Judgment on Judah -> Judgment on Nations). This establishes Yahweh not just as a tribal deity but the cosmic Lord of history. The climax is the massive oracle against Babylon (50-51), showing that the destroyer will be destroyed. Chapter 52 parallels 2 Kings 25.",
+      "stories": [
+        {
+          "story_number": 1,
+          "story_id": "JER-4-1",
+          "story_title": "Oracles Against the Nations (OAN)",
+          "chapter_start": 46,
+          "verse_start": 1,
+          "chapter_end": 49,
+          "verse_end": 39,
+          "verse_count": 124,
+          "oracle_type": "Judgment Oracles",
+          "boundary_rationale": "Collection of poetic oracles addressing neighbors. Distinct from the Babylon oracle. Grouped by geography.",
+          "concept_slug": "cosmic_judgment",
+          "tags": [
+            "egypt",
+            "moab",
+            "ammon",
+            "edom",
+            "damascus"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-4-1-1",
+              "scene_name": "Egypt: The Broken Reed",
+              "chapter_start": 46,
+              "verse_start": 2,
+              "chapter_end": 46,
+              "verse_end": 28,
+              "verse_count": 27,
+              "scene_rationale": "Defeat of Pharaoh Neco at Carchemish. Egypt is no longer a savior."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-4-1-2",
+              "scene_name": "Moab: The Wine Poured Out",
+              "chapter_start": 48,
+              "verse_start": 1,
+              "chapter_end": 48,
+              "verse_end": 47,
+              "verse_count": 47,
+              "scene_rationale": "Extensive lament over Moab. Pride goes before destruction."
+            }
+          ],
+          "scholarly_rationale": "In the Septuagint (LXX), these oracles appear after 25:13. In the Masoretic Text (our Bible), they are at the end. They fulfill Jeremiah's call in 1:10 to be a 'prophet to the nations.' They show God is the sovereign administrator of international politics.",
+          "literary_patterns": [
+            "Geo-political catalog",
+            "Mocking laments"
+          ]
+        },
+        {
+          "story_number": 2,
+          "story_id": "JER-4-2",
+          "story_title": "The Doom of Babylon",
+          "chapter_start": 50,
+          "verse_start": 1,
+          "chapter_end": 51,
+          "verse_end": 64,
+          "verse_count": 110,
+          "oracle_type": "Judgment Oracle / Symbolic Action",
+          "boundary_rationale": "The longest oracle in the book, solely focused on Babylon. Ends with the symbolic sinking of the scroll in the Euphrates.",
+          "concept_slug": "babylon_fallen",
+          "tags": [
+            "babylon",
+            "vengeance",
+            "medians",
+            "sink_stone"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-4-2-1",
+              "scene_name": "Flee from Babylon",
+              "chapter_start": 50,
+              "verse_start": 1,
+              "chapter_end": 50,
+              "verse_end": 10,
+              "verse_count": 10,
+              "scene_rationale": "Announcement that Bel is put to shame. Command to God's people to flee before the destruction."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-4-2-2",
+              "scene_name": "Sinking the Scroll",
+              "chapter_start": 51,
+              "verse_start": 59,
+              "chapter_end": 51,
+              "verse_end": 64,
+              "verse_count": 6,
+              "scene_rationale": "Seraiah (Baruch's brother) takes a scroll of these curses to Babylon, reads it, ties a stone to it, and throws it in the Euphrates. 'Thus shall Babylon sink.'"
+            }
+          ],
+          "scholarly_rationale": "This is the irony of the book. Babylon, God's 'Hammer of the whole earth' (50:23), is now broken. It serves as the prototype for the destruction of evil (echoed in Revelation 17-18). The act of sinking the scroll bookends the sign of the linen belt (Ch 13) also at the Euphrates.",
+          "literary_patterns": [
+            "Mockery of idols",
+            "Repetition of 'Vengeance for His Temple'",
+            "Symbolic action closure"
+          ],
+          "cross_references": [
+            "Revelation 18 (Fallen is Babylon)",
+            "Isaiah 13-14 (Judgment on Babylon)"
+          ]
+        },
+        {
+          "story_number": 3,
+          "story_id": "JER-4-3",
+          "story_title": "Historical Epilogue: Fall and Favor",
+          "chapter_start": 52,
+          "verse_start": 1,
+          "chapter_end": 52,
+          "verse_end": 34,
+          "verse_count": 34,
+          "oracle_type": "Historical Narrative",
+          "boundary_rationale": "Identical to 2 Kings 24:18-25:30. Recounts the fall of Jerusalem (again) but ends with the release of King Jehoiachin in Babylon.",
+          "concept_slug": "glimmer_of_hope",
+          "tags": [
+            "zedekiah",
+            "temple_burning",
+            "jehoiachin",
+            "table_of_king"
+          ],
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "JER-4-3-1",
+              "scene_name": "The Destruction Recounted",
+              "chapter_start": 52,
+              "verse_start": 1,
+              "chapter_end": 52,
+              "verse_end": 30,
+              "verse_count": 30,
+              "scene_rationale": "A sober accounting of the destruction, deportation, and looting of the Temple items."
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "JER-4-3-2",
+              "scene_name": "Jehoiachin Lifted Up",
+              "chapter_start": 52,
+              "verse_start": 31,
+              "chapter_end": 52,
+              "verse_end": 34,
+              "verse_count": 4,
+              "scene_rationale": "Years later, the exiled King Jehoiachin is released from prison and eats at the King of Babylon's table. A subtle ending indicating the Davidic line is not extinguished."
+            }
+          ],
+          "scholarly_rationale": "Why repeat the fall? To validate Jeremiah's words one last time. But the final 4 verses are crucial. By showing Jehoiachin treated kindly, the book ends not on total death, but on the preservation of the Davidic seed, leaving the door open for the 'Righteous Branch' prophesied in Ch 23.",
+          "literary_patterns": [
+            "Historical verification",
+            "Open-ended conclusion"
+          ],
+          "theological_themes": [
+            "God's word fulfilled",
+            "Preservation of the messianic line"
+          ]
+        }
+      ]
+    }
+  ]
+}
