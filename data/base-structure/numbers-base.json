@@ -1,0 +1,548 @@
+{
+  "book_name": "Numbers",
+  "hebrew_name": "במדבר (Bamidbar)",
+  "canonical_grouping": "Torah (Pentateuch)",
+  "big_picture_notes": "The Hebrew title Bamidbar ('In the wilderness') captures the book's essence as a liminal text chronicling the 40-year transitional period from Sinai to the Promised Land. The English title derives from the two foundational censuses that frame the work. The overarching structure integrates geography (Sinai, wilderness, Plains of Moab) with theology: the distinction between a disobedient first generation condemned to die in the wilderness and an obedient second generation who will enter Canaan. The book's central theological argument is articulated through an inclusio formed by two nearly identical censuses (603,550 vs. 601,730), proving God's unconditional faithfulness despite the people's conditional failure. Numbers is ultimately a narrative of God's faithfulness in the face of human faithlessness.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Camp at Sinai: Formation of the First Generation",
+      "why_start_end_and_literary_glue": "This section is a single, cohesive literary unit defined by its static geographical location (Mount Sinai) and unified theme: preparation. It transforms ex-slaves into an ordered, holy, mobile nation-army. It details the liturgical blueprint and organization of the people, camp, and priesthood. Begins with precise chronological marker ('on the first day of the second month, in the second year') initiating the census. Ends with the two silver trumpets—the human signal to convene the assembly and signal the march. The binding element is thematic repetition focusing on order, holiness, structure, and proximity to the divine, reinforced by a chiastic spatial metaphor in the camp's design (A-B-C-B'-A') where the Tabernacle sits at the literal and physical center of the nation.",
+      "reference": "1:1-10:10",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Census Command",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts with the book's opening divine speech, setting time and place. Ends when the core command—to count all males 20 years and older for military service—is fully articulated. Key devices: Anaphora (repetition of census criteria), Formal dating formula."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Appointing the Tribal Leaders",
+          "reference": "1:5-16",
+          "why_start_end_and_devices": "Starts with God's directive to take assistants for the census. Ends when the litany of all 12 names is complete. Key devices: Litany (formal, repetitive list establishing human authority structure under Moses and Aaron)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Census Execution",
+          "reference": "1:17-19",
+          "why_start_end_and_devices": "Starts with 'Moses and Aaron took these men.' Ends with completion of registration 'by their clans.' Key devices: Repetition ('by their clans,' 'by their ancestral houses'), reinforcing organizational theme."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Tribal Totals (Reuben to Naphtali)",
+          "reference": "1:20-43",
+          "why_start_end_and_devices": "Starts with the first tribe ('From the sons of Reuben...'). Ends with the final tribe ('...of Naphtali.'). Single, massive, repetitive block. Key devices: Anaphora. The relentless, rhythmic repetition of 'those enrolled from the tribe of...' creates an overwhelming sense of a vast, organized multitude."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Grand Total (Excluding Levites)",
+          "reference": "1:44-47",
+          "why_start_end_and_devices": "Starts with summary 'These were the men...'. Ends with the explicit total (603,550) and crucial note of Levites' exclusion, setting up the next scene. Key devices: Summary Formula. Functions as numerical climax."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Role of the Levites",
+          "reference": "1:48-54",
+          "why_start_end_and_devices": "Starts with new divine speech ('For the LORD had told Moses...'). Ends with charge for Levites to guard the Tabernacle. Key devices: Antithesis (structural contrast). Levites' priestly purpose inside the camp guards the center; Israel's military purpose operates outside."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Command to Encamp (Chiastic Opener)",
+          "reference": "2:1-2",
+          "why_start_end_and_devices": "Starts with new divine speech ('The LORD spoke...'). Ends with specific command to camp by standard, facing the Tabernacle. Key devices: Inclusio. This is the 'A' block of the chiastic camp layout, closed by 2:32-34."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Camp Layout (East, South, Center, West, North)",
+          "reference": "2:3-31",
+          "why_start_end_and_devices": "Single, structured pericope detailing chiastic camp layout. Starts with Eastern camp (Judah). Ends with Northern camp (Dan) and its total. Key devices: Chiasm (A-B-C-B'-A'). Central axis is v. 17—'the tent of meeting shall set out in the center'—the structural and theological pivot."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Summary of the Camp (Chiastic Closer)",
+          "reference": "2:32-34",
+          "why_start_end_and_devices": "Starts with summary of census totals (v. 32). Ends with note of Israel's complete obedience (v. 34). Key devices: Inclusio. This 'A'' block closes the chiasm with 2:1-2, using same 'camped by regiments' language."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Levitical Priesthood (Aaron's Sons)",
+          "reference": "3:1-10",
+          "why_start_end_and_devices": "Starts by establishing priestly line of Aaron ('These are the generations...'). Ends by establishing Levites as their assistants. Key devices: Parallelism. Chapters 3-4 organize Levi (the priesthood), parallel to Chapters 1-2 organizing Israel (the nation)."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Levites as Firstborn Substitutes",
+          "reference": "3:11-13",
+          "why_start_end_and_devices": "Starts with divine speech ('And I, behold, I have taken...'). Ends with theological justification for substitution. Key devices: Metaphor. The Levites are human substitute or redemption payment for Israel's firstborn."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Census of the Levites",
+          "reference": "3:14-39",
+          "why_start_end_and_devices": "Starts with command to census the Levites (one month and up). Ends with total (22,000). Long, repetitive list. Key devices: Anaphora (repetition for Gershon, Kohath, Merari), Parallelism (this census parallels Chapter 1)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Redemption of the Firstborn",
+          "reference": "3:40-51",
+          "why_start_end_and_devices": "Starts with command to census the firstborn (v. 40). Ends with collection of 'redemption money' and presentation to Aaron. Key devices: Narrative Resolution. Solves numerical discrepancy (22,273 firstborn vs. 22,000 Levites), completing substitution theme."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Duties of the Kohathites",
+          "reference": "4:1-20",
+          "why_start_end_and_devices": "Starts with command to census Kohathites for service (by age 30-50, not just count). Ends with warning not to let them see holy things uncovered. Key devices: Repetition. Chapter 4 parallels Chapter 3's census, but this time for avoda ('service')."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Duties of Gershon and Merari",
+          "reference": "4:21-33",
+          "why_start_end_and_devices": "Long, repetitive list. Starts with command for Gershonites. Ends with command for Merarites. Key devices: Parallelism. Commands for Gershon and Merari structured identically to Kohathite command."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Results of the Levitical Census",
+          "reference": "4:34-49",
+          "why_start_end_and_devices": "Starts with execution of census ('Moses and Aaron... numbered...'). Ends with total (8,580). Concludes entire census block of Chapters 1-4. Key devices: Summary Formula. Functions as inclusio and summary for Chapter 4."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Laws of Camp Purity (The Unclean)",
+          "reference": "5:1-4",
+          "why_start_end_and_devices": "Starts with new divine speech on purity. Ends with execution of command ('they put them outside...'). Key devices: Thematic Connection. After establishing physical order (Chapters 1-4), text shifts to ritual order (Chapters 5-6)."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Laws of Restitution",
+          "reference": "5:5-10",
+          "why_start_end_and_devices": "Starts with new divine speech ('Speak to the people...'). Ends with law of restitution for trespass, including when there is no next of kin. Key devices: Legal case-law formula."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Law of the Jealous Wife (Sotah)",
+          "reference": "5:11-31",
+          "why_start_end_and_devices": "Starts with new legal case ('If any man's wife...'). Ends with full ritual prescription. Self-contained legal unit. Key devices: Repetition ('jealous' appears 5 times), Ritual Formula."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Law of the Nazirite",
+          "reference": "6:1-21",
+          "why_start_end_and_devices": "Starts with new legal case ('When either a man or a woman...'). Ends with ritual for completing the vow. Key devices: Ritual Formula, Antithesis. Nazirite is layperson who temporarily takes on priestly-level holiness."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Priestly Blessing",
+          "reference": "6:22-27",
+          "why_start_end_and_devices": "Starts with command to Aaron to bless. Ends with blessing itself and justification ('so they shall put my name...'). Key devices: Poetic Parallelism. 3-line poem with escalating parallel ideas. Theological climax of holiness section."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Offerings of the Leaders (Days 1-12)",
+          "reference": "7:1-88",
+          "why_start_end_and_devices": "Starts with historical event of the consecration. Ends with final offering on 12th day and summary of all items. Single, massive block. Key devices: Extreme Repetition. Exact same offering listed 12 times, once for each tribe. Achieves emphasis through monotony, stressing unity and equal participation."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Voice from the Mercy Seat",
+          "reference": "7:89",
+          "why_start_end_and_devices": "Single, concluding verse showing result of Tabernacle's consecration: Moses can now hear God speak from within it. Key devices: Narrative Resolution. Payoff for all of Exodus, Leviticus, and Numbers 1-7. The system works. God is in the camp."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Tabernacle Lamps",
+          "reference": "8:1-4",
+          "why_start_end_and_devices": "Starts with new command to Aaron ('When you set up the lamps...'). Ends with Aaron's obedience. Brief, practical addendum. Key devices: Command-and-obedience formula."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Consecration of the Levites",
+          "reference": "8:5-26",
+          "why_start_end_and_devices": "Starts with command to cleanse the Levites. Ends with their formal presentation for service. Parallels laws for Nazirite and offerings of leaders. Key devices: Ceremonial formula, Thematic parallelism."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Second Passover",
+          "reference": "9:1-14",
+          "why_start_end_and_devices": "Starts with command to keep the Passover. Ends with resolution for unclean men, creating a 'second Passover'. Key devices: Narrative Case-Law. Practical problem arises (men unclean), and new law created in response to ensure inclusion."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Guiding Cloud",
+          "reference": "9:15-23",
+          "why_start_end_and_devices": "Starts by describing cloud covering the Tabernacle. Ends by describing how cloud's movement dictates camp's movement. Key devices: Thematic Preparation. Sets up the mechanism for journey beginning Story 2. Establishes divine signal for all subsequent action."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Two Silver Trumpets",
+          "reference": "10:1-10",
+          "why_start_end_and_devices": "Starts with final divine command of Story 1. Ends with purpose of trumpets: to call assembly and signal the march. Key devices: Narrative Closure. Final piece of preparation. People now have divine signal (cloud) and human signal (trumpets) to begin journey."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The March and Failure: The First Generation in the Wilderness",
+      "why_start_end_and_literary_glue": "This unit is defined by geographical movement (from Sinai to Moab) and repeating thematic cycle. Forms narrative core of entire book, explaining why 40-year wandering was necessary. This is the 'Wilderness of Death,' textually and theologically separating the disobedient first generation from the obedient second. Primary literary glue is the 'Murmuring Cycle': 1) People complain (food, leadership, danger). 2) God's anger burns. 3) Moses intercedes. 4) Judgment or provision resolves crisis. Cycle builds tension until ultimate rebellion (Chapter 14), where Moses' intercession only mitigates consequence from total annihilation to 40-year death sentence. Ends with sin at Baal Peor—final climactic apostasy—and command to 'harass the Midianites.' Subsequent census in 26:1 occurs explicitly 'after the plague,' making end of Chapter 25 the definitive narrative seam between death of old generation and rise of new.",
+      "reference": "10:11-25:18",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Cloud Moves and the March Begins",
+          "reference": "10:11-13",
+          "why_start_end_and_devices": "Starts with specific date and action of cloud lifting. Ends with journey beginning 'at the LORD's command'. Key devices: Thematic Pivot. Hinge between stasis of Story 1 and motion of Story 2."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Order of the March",
+          "reference": "10:14-28",
+          "why_start_end_and_devices": "Starts with first standard (Judah) setting out. Ends with last standard (Dan) setting out. Key devices: Parallelism and Repetition. Repetitive formula 'and the standard of... set out' creates sense of massive, ordered procession."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Moses and Hobab",
+          "reference": "10:29-32",
+          "why_start_end_and_devices": "Starts with new dialogue ('Moses said to Hobab...'). Ends with Hobab's final, ambiguous response. Key devices: Irony. Israel, who has God as guide (the cloud), begs human to be their 'eyes.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Invocations of the Ark",
+          "reference": "10:33-36",
+          "why_start_end_and_devices": "Starts with action ('When the ark set out...'). Ends with action ('...when it rested...'). Self-contained poetic unit. Key devices: Poetic Inclusio. Distinct, ancient poem embedded in text, acting as poetic bracket for entire journey."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Fire at Taberah (Murmuring Cycle 1)",
+          "reference": "11:1-3",
+          "why_start_end_and_devices": "Starts with first complaint ('the people complained...'). Ends with naming of place ('Taberah'), resolving the incident. Key devices: Wordplay. Place named Taberah because 'the fire of the LORD burned (taverah) among them.'"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Craving for Meat (Murmuring Cycle 2)",
+          "reference": "11:4-9",
+          "why_start_end_and_devices": "Starts with 'mixed multitude' instigating new craving. Ends with description of manna they despise. Key devices: Antithesis and Irony. Contrasts 'free' fish of Egypt (slavery) with 'dull' manna (freedom), highlighting faithless nostalgia."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Moses' Complaint",
+          "reference": "11:10-15",
+          "why_start_end_and_devices": "Starts with Moses' lament ('Why have you afflicted...'). Ends with despairing plea ('...kill me at once'). Key devices: Rhetorical Questions and Hyperbole. Moses' complaint parallels people's, but born of leadership exhaustion, not faithlessness."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Seventy Elders",
+          "reference": "11:16-30",
+          "why_start_end_and_devices": "Starts with God's solution to Moses' complaint. Ends with Spirit resting on 70, and resolution of Eldad/Medad incident. Key devices: Thematic Resolution. Solves leadership crisis from 11:10-15."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Quail and the Plague (Cycle 2 Concludes)",
+          "reference": "11:31-35",
+          "why_start_end_and_devices": "Starts with God providing quail. Ends with plague and naming of Kibroth-hattaavah ('graves of craving'). Key devices: Wordplay (naming) and Tragic Irony. People get exactly what they asked for; it destroys them."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Rebellion of Miriam and Aaron",
+          "reference": "12:1-16",
+          "why_start_end_and_devices": "Starts with Miriam and Aaron speaking against Moses. Ends with Miriam restored from leprosy and camp moving on. Key devices: Antithesis. God's speech (v. 6-8) draws sharp distinction between 'prophet' (dreams/visions) and Moses (speaks 'mouth to mouth'). Cements Moses' unique authority."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Spies Are Sent (The Pivotal Failure)",
+          "reference": "13:1-16",
+          "why_start_end_and_devices": "Starts with command from God to send leaders. Ends with litany of 12 names. Key devices: Litany. Emphasis on their 'chieftain' status is ironic device underscoring their spectacular failure as leaders."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Moses' Instructions to the Spies",
+          "reference": "13:17-20",
+          "why_start_end_and_devices": "Starts with Moses' commission ('Go up...'). Ends with geographical/chronological note ('the season of the first ripe grapes'), setting stage for report."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Spies' Journey",
+          "reference": "13:21-25",
+          "why_start_end_and_devices": "Starts with action ('So they went up...'). Ends with return 'after forty days'. Key devices: Foreshadowing. 40 days of spying will be metaphorically transformed into 40 years of wandering."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Spies' Report (The Good and the Bad)",
+          "reference": "13:26-29",
+          "why_start_end_and_devices": "Starts with spies' arrival and initial report. Ends with confirmation of land's strength. Key devices: Antithesis. 'Good news/bad news' structure: 'It flows with milk and honey... But the people are strong.'"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Caleb's Rebuttal",
+          "reference": "13:30",
+          "why_start_end_and_devices": "Single, short scene. Starts with Caleb's interruption ('Caleb quieted...'). Ends with statement of faith ('we are well able to overcome it'). Key devices: Heroic Beat. Sharp, courageous contrast to following report."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The 'Evil Report'",
+          "reference": "13:31-33",
+          "why_start_end_and_devices": "Starts with other spies contradicting Caleb. Ends with climactic, faithless metaphor ('we seemed like grasshoppers'). Key devices: Hyperbole ('giants,' 'Nephilim') and Metaphor. Failure of perspective; they 'lost sight of Him [God] completely.'"
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The People's Rebellion",
+          "reference": "14:1-4",
+          "why_start_end_and_devices": "Starts with people's reaction ('Then all the congregation... cried'). Ends with plot to return to Egypt. Ultimate rejection of the Exodus. Key devices: Narrative escalation."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Leaders' Plea",
+          "reference": "14:5-9",
+          "why_start_end_and_devices": "Starts with four faithful leaders tearing their clothes. Ends with plea not to rebel. Moment of final choice. Key devices: Dramatic tension, Antithesis (faithful vs. faithless)."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Divine Judgment and Moses' Intercession",
+          "reference": "14:10-19",
+          "why_start_end_and_devices": "Starts with people attempting to stone faithful leaders, God's glory appearing. Ends with Moses' powerful intercession. Key devices: Intertextual Allusion. Moses quotes God's self-revelation from Exodus 34."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The 40-Year Decree",
+          "reference": "14:20-35",
+          "why_start_end_and_devices": "Starts with God's verdict ('I have pardoned...'). Ends with decree: all 20+ will die in wilderness, except Caleb and Joshua. Key devices: Symbolic Judgment. 40 days of faithless spying linked to 40 years of wandering. Theological climax of book."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Ten Spies Die",
+          "reference": "14:36-38",
+          "why_start_end_and_devices": "Starts with immediate execution of sentence on 10 spies. Ends with their death by plague. Key devices: Narrative Causality. Shows direct result of the 'evil report.'"
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Abortive Invasion",
+          "reference": "14:39-45",
+          "why_start_end_and_devices": "Starts with people's grief and presumptuous attempt to invade. Ends with utter defeat. Key devices: Irony. Very thing they were commanded to do (and refused) they now do in disobedience, and fail."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Laws for the Next Generation",
+          "reference": "15:1-41",
+          "why_start_end_and_devices": "Starts with divine speech about laws 'when you come into the land...'. Ends with law of tassels (tzitzit). Key devices: Thematic Pivot. God skips condemned generation. Laws are for children who will enter land. Shows promise continues despite judgment."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Rebellion of Korah",
+          "reference": "16:1-35",
+          "why_start_end_and_devices": "Starts with Korah's assembly against Moses and Aaron. Ends with earth swallowing Dathan/Abiram and fire consuming 250 rebels. Key devices: Chiasm. Complex rebellion of Levites (Korah) and Reubenites (Dathan/Abiram) challenging priestly and prophetic authority. Dual judgments (earth, fire) match dual rebellion."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The People Murmur (Again)",
+          "reference": "16:36-50 (or 17:1-15 in Hebrew)",
+          "why_start_end_and_devices": "Starts with people murmuring next day ('You have killed...'). Ends with Aaron stopping plague with censer. Key devices: Intense Repetition. Even after seeing divine judgment, people still murmur, showing complete intractability."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Aaron's Budding Staff",
+          "reference": "17:1-13 (or 17:16-28 in Hebrew)",
+          "why_start_end_and_devices": "Starts with God's test to end murmuring (one staff for each tribe). Ends with Aaron's staff budding, proving priestly right. Key devices: Symbolism. Dead wood sprouting life is divine symbol of God's chosen priesthood."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Duties of Priests and Levites",
+          "reference": "18:1-32",
+          "why_start_end_and_devices": "Starts with God confirming duties to Aaron. Ends with full description of tithes for Levites. Key devices: Thematic Resolution. Legally resolves political challenge from Korah rebellion."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Red Heifer",
+          "reference": "19:1-22",
+          "why_start_end_and_devices": "Starts with command for Red Heifer ritual. Ends with description of water of purification. Key devices: Ritual Formula. Provides solution for corpse-uncleanness, critical law for generation condemned to die in wilderness."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Death of Miriam; Water from the Rock (Meribah)",
+          "reference": "20:1-13",
+          "why_start_end_and_devices": "Starts with death of Miriam and lack of water. Ends with God barring Moses and Aaron from land for their sin (striking, not speaking to, rock). Key devices: Tragic Parallelism. Parallels people's sin (Chapter 14). Now leaders fail and are condemned to die outside land."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Edom Refuses Passage",
+          "reference": "20:14-21",
+          "why_start_end_and_devices": "Starts with Moses' diplomatic request to Edom. Ends with Edom's military refusal. Simple, contained diplomatic narrative. Key devices: Diplomatic exchange."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Death of Aaron",
+          "reference": "20:22-29",
+          "why_start_end_and_devices": "Starts with divine command for Aaron to die. Ends with death, transfer of vestments to Eleazar, and 30-day mourning. Key devices: Symbolic Transfer. Stripping Aaron's garments and placing on Eleazar is physical transfer of High Priesthood from first generation to second."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Bronze Serpent",
+          "reference": "21:1-9",
+          "why_start_end_and_devices": "Starts with murmuring ('the people spoke against God...'). Ends with remedy (bronze serpent) and people's survival. Key devices: Symbolism. Serpent that causes death (fiery serpents) is represented and looked upon to grant life—powerful symbol of faith-based healing."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Journey to Moab",
+          "reference": "21:10-35",
+          "why_start_end_and_devices": "Travelogue starting with 'they set out...'. Ends with defeat of Amorites (Sihon and Og). Key devices: Embedded Poetry ('The Song of the Well' v. 17-18). Shows new generation beginning first victories."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Balak Summons Balaam (The Balaam Pericope)",
+          "reference": "22:1-14",
+          "why_start_end_and_devices": "Begins Balaam Pericope. Starts with Balak seeing Israel and fearing. Ends with Balaam refusing first offer after God speaks. Key devices: Irony. Balak fears Israel, who are passive and unaware of supernatural plot."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Balaam Goes to Balak",
+          "reference": "22:15-21",
+          "why_start_end_and_devices": "Starts with Balak's second, persistent offer. Ends with Balaam going, with God's conditional permission. Key devices: Escalating persuasion, Divine permission with conditions."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Talking Donkey",
+          "reference": "22:22-35",
+          "why_start_end_and_devices": "Self-contained narrative. Starts with God's anger at Balaam and angel appearing. Ends with donkey speaking and Balaam's eyes opened. Key devices: Irony and Satire. Pagan seer is blind to divine; dumb animal can see angel. Humiliates Balaam, asserts YHWH's control."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Balaam's First Oracle",
+          "reference": "22:36-23:12",
+          "why_start_end_and_devices": "Starts with Balaam meeting Balak. Ends with Balak's frustration ('you have blessed them!'). Key devices: Poetic Oracle. Intended curse transformed by God into blessing."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Balaam's Second Oracle",
+          "reference": "23:13-26",
+          "why_start_end_and_devices": "Starts with Balak moving Balaam to new location. Ends with renewed frustration. Key devices: Poetic Oracle. Features 'God is not a man, that he should lie,' reinforcing book's theme of God's faithfulness."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Balaam's Third Oracle",
+          "reference": "23:27-24:14",
+          "why_start_end_and_devices": "Starts with Balak's third attempt at new location. Ends with Balak's anger flaring and Balaam 'fired'. Key devices: Poetic Oracle. Contains famous blessing 'How lovely are your tents, O Jacob...'"
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Balaam's Final Oracles (The Star from Jacob)",
+          "reference": "24:15-25",
+          "why_start_end_and_devices": "Starts with Balaam continuing to speak (v. 15). Ends with final prophecy against other nations and departure. Key devices: Messianic Prophecy. 'I see him, but not now... a star shall come forth from Jacob' is key prophecy of Israel's ultimate triumph."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Apostasy at Baal Peor",
+          "reference": "25:1-9",
+          "why_start_end_and_devices": "Starts immediately after Balaam story ('While Israel...'). Ends with Phinehas's zealous killing of Israelite man and Midianite woman, stopping plague. Key devices: Savage Juxtaposition. Theological climax of Story 2. Slams sublime prophecy of Israel's divine destiny (Chapter 24) against sordid reality of apostasy (Chapter 25). Core argument in miniature: Israel's holiness from God's unmerited blessing, not their own character."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Covenant with Phinehas",
+          "reference": "25:10-18",
+          "why_start_end_and_devices": "Starts with God's approving speech ('Phinehas... has turned away my wrath'). Ends with final command: 'Harass the Midianites.' Key devices: Thematic Pivot. Phinehas's zeal marks end of old generation's apathy, beginning of new generation's zeal. Closes wilderness story and sets up war (Chapter 31)."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Plains of Moab: Formation of the Second Generation",
+      "why_start_end_and_literary_glue": "This unit is defined by new, static location (Plains of Moab, opposite Jericho) and new cast of characters (second generation). Thematic focus shifts from wandering to inheritance, land, and conquest. Primary glue is Structural Parallelism (Inclusio) with Story 1: Story 1 (Chapters 1-10) = Census 1 + Laws for the March + Organization of Camp; Story 3 (Chapters 26-36) = Census 2 + Laws for the Land + Organization for Conquest. Unified by concept of land and inheritance connecting the census (for land allotment), daughters of Zelophehad (inheritance law), Joshua's appointment (to lead into land), and cities of refuge (land organization). Census totals reveal God's faithfulness (nearly identical: 603,550 vs. 601,730) but also His judgment—Simeon, prominent in Peor sin, decimated from 59,300 to 22,200. Begins explicitly 'after the plague' with command for second census. Concludes with geographical summary (Plains of Moab by Jordan), thematic summary (these commandments), and narrative closure.",
+      "reference": "26:1-36:13",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Second Census",
+          "reference": "26:1-51",
+          "why_start_end_and_devices": "Starts with divine command 'after the plague'. Ends with grand total. Long, repetitive pericope. Key devices: Anaphora ('the clan of...'), Allusion (v. 11 explicitly notes 'sons of Korah did not die,' connecting to Chapter 16 judgment)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Principles of Land Division",
+          "reference": "26:52-56",
+          "why_start_end_and_devices": "Starts with new divine speech ('To these the land shall be divided...'). Ends with command to divide by lot. Key devices: Thematic Connection. Provides purpose for census just taken."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Census of Levites and Thematic Climax",
+          "reference": "26:57-65",
+          "why_start_end_and_devices": "Starts with parallel census of Levites. Ends with theological climax of entire two-generation narrative (v. 64-65). Key devices: Parallelism (parallels Chapter 3 Levite census) and Inclusio (v. 64-65 payoff to decree in 14:20-35). Verse proves first generation gone: 'there was not left a man of them... save Caleb... and Joshua.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Case of Zelophehad's Daughters",
+          "reference": "27:1-11",
+          "why_start_end_and_devices": "Starts with daughters approaching leaders with legal problem. Ends with God's ruling in favor, establishing new law. Key devices: Narrative Case-Law. Not random law. Flows from previous scenes. Census and land division were male-centric. Scene addresses resulting legal gap, reinforcing inheritance theme."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Joshua Appointed as Successor",
+          "reference": "27:12-23",
+          "why_start_end_and_devices": "Starts with God telling Moses to go up mountain to die. Ends with formal commissioning of Joshua before whole assembly. Key devices: Thematic Parallelism. First generation has passed (Scene 3). First leader must also pass. Creates new leadership (Joshua) for new generation."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Laws of Offerings (Daily, Sabbath, Monthly)",
+          "reference": "28:1-15",
+          "why_start_end_and_devices": "Starts with new divine speech ('Command the people...'). Ends with laws for New Moon offering. Key devices: Structural Parallelism. Parallels block of laws in Story 1 (Chapters 5-6). Story 1's laws were for wilderness (purity, Nazirite); Story 3's are for land (permanent, ordered calendar of sacrifice)."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Laws of Festivals (Passover, Weeks, Trumpets, Atonement, Booths)",
+          "reference": "28:16-29:40",
+          "why_start_end_and_devices": "Single, long, repetitive legal block. Starts with Passover law. Ends with Feast of Booths law. Key devices: Anaphora ('On the... day you shall have...'). Provides liturgical calendar for new generation in land."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Laws Concerning Vows",
+          "reference": "30:1-16",
+          "why_start_end_and_devices": "Starts with Moses speaking to leaders about vows. Ends with final case (vows of widow/divorced woman). Key devices: Legal formula progression. Focuses on legal authority and social structure."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The War Against Midian",
+          "reference": "31:1-12",
+          "why_start_end_and_devices": "Starts with divine command to execute judgment from 25:18. Ends with death of Midianite kings and Balaam. Key devices: Narrative Resolution. Direct consequence of sin at Baal Peor. Killing Balaam ties off entire Story 2 plot (Chapters 22-25)."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Purification of Spoils and Division of Plunder",
+          "reference": "31:13-54",
+          "why_start_end_and_devices": "Starts with Moses' anger at officers for sparing women. Ends with final division of spoils and offering to LORD. Key devices: Ritual Formula. Integrates ritual law (purification, from Chapter 19) with military narrative."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Transjordan Tribes (Reuben and Gad)",
+          "reference": "32:1-42",
+          "why_start_end_and_devices": "Starts with Reuben and Gad approaching Moses with request. Ends with their vow to cross and fight before settling. Key devices: Irony and Allusion. Request ('do not make us cross Jordan') echoes faithless refusal of fathers. Moses explicitly connects this (v. 6-15), fearing repeat of Chapter 14. Resolves when they accept condition."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Summary of Israel's Journeys",
+          "reference": "33:1-49",
+          "why_start_end_and_devices": "Starts with formal introduction ('These are the stages... which Moses wrote...'). Ends with final stop in Plains of Moab. Key devices: Litany and Summary. Retrospective chapter, memoir of entire journey from Egypt, listing every stop. Functions as literary boundary, summarizing all Story 2."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Instructions for Conquering the Land",
+          "reference": "33:50-56",
+          "why_start_end_and_devices": "Starts with new divine speech in Plains of Moab. Ends with warning not to let inhabitants remain. Key devices: Thematic Preparation. Sets up theology of conquest for Book of Joshua."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Boundaries of the Land",
+          "reference": "34:1-29",
+          "why_start_end_and_devices": "Starts with command to define boundaries. Ends with leaders who will divide land (Eleazar and Joshua). Formal, legal definition of inheritance. Key devices: Geographical and administrative specification."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Cities of Refuge",
+          "reference": "35:1-34",
+          "why_start_end_and_devices": "Starts with command to set aside cities for Levites. Ends with law of blood avenger and Cities of Refuge. Key devices: Narrative Case-Law. Key piece of social-legal organization for life in land."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Marriage of Heiresses (Bookend)",
+          "reference": "36:1-13",
+          "why_start_end_and_devices": "Starts with leaders of Gilead raising new problem. Ends with final verse of book. Key devices: Narrative Inclusio. Perfect bookend to Scene 3.4 (Zelophehad's Daughters). Scene 3.4 raised female inheritance issue; this scene solves final complication (if they marry outside tribe?). Ending here means book's final word is about securing inheritance in land for new generation."
+        }
+      ]
+    }
+  ]
+}
