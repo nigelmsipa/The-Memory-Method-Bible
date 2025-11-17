@@ -1,0 +1,426 @@
+{
+  "book_name": "Deuteronomy",
+  "hebrew_name": "דְּבָרִים (Devarim)",
+  "canonical_grouping": "Torah (Pentateuch)",
+  "big_picture_notes": "The Hebrew title Devarim ('Words') accurately describes the book's content as a series of formal orations, not narrative or legal-ritual manual. It is fundamentally a valedictory (farewell) speech—a series of three (or four) final addresses by Moses on the plains of Moab before his death. The book's genre is inherently persuasive, blending historical review, legal exposition, and prophetic warning. Its literary genius lies in using the Ancient Near Eastern suzerain-vassal treaty as the chassis for theological message. Deuteronomy is a covenant renewal document casting YHWH as the Great King (Suzerain) who benevolently rescued Israel (vassal) from Egypt. The rhetoric is sermonic and hortatory throughout, aiming to transform hearts, not merely secure compliance. The entire structure maps directly onto classical ANE treaty form: Preamble, Historical Prologue, General Stipulations, Specific Stipulations, Sanctions, Covenant Renewal, Deposition & Succession, Witnesses, and Epilogue.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The First Speech (The Historical Prologue)",
+      "why_start_end_and_literary_glue": "Functions as the Preamble and Historical Prologue of the covenant treaty. Moses, as covenant mediator, opens with formal superscription 'Eleh ha-devarim, establishing setting (plains of Moab), time (40th year), and authority. The speech is rhetorical history of wilderness wandering from Horeb to present—not objective history but persuasive argument: God (Suzerain) has been perfectly faithful, while Israel (vassal) has been rebellious. This past failure motivates new generation to 'hear' and 'obey.' Speech concludes with first great exhortation to obedience and powerful warning against idolatry using Horeb aural (non-visual) revelation as key argument. Distinct, self-contained speech introduced by formal opening and entirely retrospective (historical) and hortatory (persuasive). Climaxes at 4:40. Brief third-person narrative interlude (4:41-43) describing Moses setting aside cities of refuge provides geographical and legal pause, formally separating first speech from second. Entire unit held together by theme of 'remembering' versus 'forgetting' and stitched by temporal marker 'at that time' (ba-et ha-hi) introducing each historical vignette.",
+      "reference": "1:1-4:43",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Superscription",
+          "reference": "1:1-5",
+          "why_start_end_and_devices": "Book's incipit 'Eleh ha-devarim. End: v. 5, 'Moses undertook to explain this law.' Formal preamble identifying speaker (Moses), audience (all Israel), location (plains of Moab), and time (40th year, 11th month, 1st day). Functions exactly like preamble of ANE treaty, establishing legal authority. Key devices: Formal legal opening, chronological and geographical precision."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Command from Horeb",
+          "reference": "1:6-8",
+          "why_start_end_and_devices": "Start: first quoted speech 'The LORD our God said to us at Horeb...'. End: concluding promise 'Go in and take possession...'. Narrative starting point of historical review. Frames entire 40-year period as response to divine command and promise. Key devices: Direct divine speech, mandate and promise."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Appointment of Judges",
+          "reference": "1:9-18",
+          "why_start_end_and_devices": "Start: formulaic temporal marker ba-et ha-hi ('At that time') v. 9. End: inclusio v. 18 'I commanded you at the time...'. Masterful rhetorical adaptation. In Exodus 18, Jethro suggests appointment; here Moses recasts it as his own idea, prompted by God's blessing. Paints picture of wise leadership and divine faithfulness. Key devices: Inclusio (envelope structure), rhetorical reframing."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Mission of the Spies",
+          "reference": "1:19-33",
+          "why_start_end_and_devices": "Start: narrative transition 'Then we set out from Horeb... and we came to Kadesh-barnea' (v. 19). End: Moses's final plea (v. 33). First major historical indictment. Mission is people's idea ('you all came near and said...'), placing blame squarely on them. Recounts his own encouragement and their unbelief despite God's faithfulness. Key devices: Rhetorical shift of blame, contrast between faith and unbelief."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Penalty for Unbelief",
+          "reference": "1:34-46",
+          "why_start_end_and_devices": "Start: God's reaction 'And the LORD heard the sound of your words...' (v. 34). End: finality of defeat and divine silence (v. 45-46). Details consequences of rebellion. Key elements: oath of judgment, exception (Caleb), penalty extended to Moses. Includes presumptuous, disobedient invasion attempt and rout. Powerful warning: rebellion leads to death and divine silence. Key devices: Narrative escalation, divine judgment, irony."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Years of Wandering",
+          "reference": "2:1-25",
+          "why_start_end_and_devices": "Start: 'Then we turned and set out for the wilderness...' (v. 1). End: 'as I am commanding you today' (v. 25). Covers 38 years of wandering, characterized by divine commands to not engage certain relatives (Edom, Moab, Ammon). Shows God's precise control over history and geography. Pivots at v. 24 with command to now engage. Key devices: Repetition of divine instructions, geographical precision, divine sovereignty."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Conquest of Transjordan",
+          "reference": "2:26-3:11",
+          "why_start_end_and_devices": "Start: 'So I sent messengers from the wilderness of Kedemoth to Sihon...' (v. 26). End: summary of Og's conquest (3:11). Tale of two kings (Sihon, Og) presented as model holy wars. God 'hardened Sihon's spirit' and 'gave Og into [his] hand.' Rhetorical point: when Israel obedient, God delivers total victory. Contrasts with failure at Hormah. Key devices: Narrative parallelism, divine agency, victory themes."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Land Distribution and Moses's Plea",
+          "reference": "3:12-29",
+          "why_start_end_and_devices": "Start: 'So we took possession of this land at that time' (v. 12). End: command to 'stay in the valley' (v. 29). Details distribution of Transjordanian land to 2.5 tribes and charge to help brothers. Then poignant personal aside: Moses's plea to be allowed to enter land and God's firm refusal. Personalizes cost of earlier rebellion, formally sets up Joshua's succession. Key devices: Leadership transition, personal pathos, divine refusal."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Great Exhortation",
+          "reference": "4:1-14",
+          "why_start_end_and_devices": "Start: major pivot 'And now, O Israel, listen...' (v. 1). End: exhortation to 'teach them to your children...' (v. 14). Rhetorical climax of first speech. Shift from history to exhortation. Because of history recounted, Israel must 'listen' and 'do' the law. Two arguments: negative example (Baal-Peor) and positive example (Israel's unique wisdom). Core argument: Horeb experience of hearing without form. Key devices: Rhetorical pivot, exemplary narratives, divine uniqueness."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Warning Against Idolatry",
+          "reference": "4:15-31",
+          "why_start_end_and_devices": "Start: direct link 'Therefore watch yourselves carefully...' (v. 15). End: note of hope after exile prophecy 'he will not forget the covenant' (v. 31). Heart of speech's application. Because they saw no form at Horeb, they must not make any image. God called 'jealous God, consuming fire' (v. 24). Contains first clear prophecy of covenant failure, exile, and restoration. Key devices: Theological argument from Horeb experience, divine character, prophetic warning and promise."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Uniqueness of God's Election",
+          "reference": "4:32-40",
+          "why_start_end_and_devices": "Start: rhetorical question 'For ask now...' (v. 32). End: final summary 'that it may go well with you' (v. 40). Concluding peroration of first speech. Series of powerful rhetorical questions argues for YHWH's uniqueness and Israel's unprecedented status. God chose them for love of fathers, not merit. Grace-based argument is final motivation for obedience. Key devices: Rhetorical questions, theological argument, motivational clause."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Cities of Refuge (Narrative Interlude)",
+          "reference": "4:41-43",
+          "why_start_end_and_devices": "Start: shift to third-person 'Then Moses set apart...' (v. 41). End: list of three cities (v. 43). Narrative interlude, not part of speech. Narrator reports Moses's action setting apart cities of refuge in Transjordan. Serves as structural 'curtain drop' or 'hard break' between first speech and formal preamble of second speech. Key devices: Narrative framing, structural separation."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Second Speech, Part 1 (The General Stipulations)",
+      "why_start_end_and_literary_glue": "Comprises first part of Moses's second, main address. Functions as General Stipulations section of covenant treaty. Theological 'heart' of Deuteronomy, establishing principles of loyalty that precede specific laws. Begins with own formal superscription (4:44-49), preamble mirroring 1:1-5. This repetition signals what follows is central, most important part of torah. Speech proper begins at 5:1 with great call 'Hear, O Israel' (Shema Yisrael), grounding authority in Horeb covenant and re-presenting Ten Commandments with critical rhetorical shift: covenant not just with fathers but 'with us, who are all of us here alive today.' Uses rest of unit (Ch. 6-11) as massive sermonic expansion of first and second commandments ('No other gods,' 'Make no idols'), centering on Shema itself (6:4-9) demanding total, exclusive love. Chapters 7-11 are powerful hortatory sermons on why Israel must maintain exclusive loyalty, using history as primary rhetorical tool. Warns against temptations: fear, pride in prosperity, self-righteousness.",
+      "reference": "4:44-11:32",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Preamble to the Second Speech",
+          "reference": "4:44-49",
+          "why_start_end_and_devices": "Start: formal introduction 'And this is the law (torah)...' (v. 44). End: detailed location description (v. 49). Second, more specific preamble formally introducing 'law' (torah), specified as 'testimonies,' 'statutes,' and 'rules' (v. 45). Functions as 'envelope' with 1:1-5, re-grounding reader in precise historical/geographical setting before legal exposition. Key devices: Formal introduction, geographical precision, legal terminology."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Horeb Covenant",
+          "reference": "5:1-5",
+          "why_start_end_and_devices": "Start: new call to assembly 'And Moses summoned all Israel and said 'Hear, O Israel...' (v. 1). End: statement of Moses's role as mediator (v. 5). Opens main speech with foundational claim. Covenant at Horeb not just past event for dead parents. Radical claim: 'The LORD did not make this covenant with our fathers, but with us, who are all of us here alive today' (v. 3). Rhetorical move makes law immediately binding on current generation. Key devices: Direct address, covenantal claim, generation transfer."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Ten Commandments",
+          "reference": "5:6-21",
+          "why_start_end_and_devices": "Start: preamble 'I am the LORD your God...' (v. 6). End: final (tenth) commandment (v. 21). Moses's recitation of covenant's core stipulations (Decalogue), first in Exodus 20. Content largely same, but profound rhetorical change: Sabbath command (vv. 12-15) no longer grounded in Creation but Redemption: 'You shall remember you were a slave in Egypt...' (v. 15). Re-frames law as response to grace, central Deuteronomy theme. Key devices: Legal formulation, rhetorical adaptation, grace framework."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The People's Fear and the Mediator's Role",
+          "reference": "5:22-33",
+          "why_start_end_and_devices": "Start: narrative summary 'These words the LORD spoke... with loud voice' (v. 22). End: conclusion with commission to Moses (v. 33). Establishes Moses's permanent mediator role. People terrified by God's direct presence beg Moses be intermediary: 'You go near and hear... and you tell us' (v. 27). God endorses plan (v. 28). Validates Moses's authority to speak rest of laws on God's behalf. Key devices: Narrative framing, dialogue, authority establishment."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Shema (The Great Command)",
+          "reference": "6:1-9",
+          "why_start_end_and_devices": "Start: transition 'Now this is the commandment...' (v. 1). End: instruction to 'write them on the doorposts...' (v. 9). Theological apex of book. Begins with Shema ('Hear, O Israel...'), definitive monotheism statement (v. 4). 'Hearing' immediately transitions to command: 'You shall love the LORD your God with all your heart, soul, and might' (v. 5). Demand for love (total, exclusive loyalty) is 'general stipulation' summarizing entire law. Following verses detail all-encompassing nature: taught, talked about, bound, written. Key devices: Rhetorical pivot, comprehensive law, poetic formulation."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Danger of Forgetting in Prosperity",
+          "reference": "6:10-25",
+          "why_start_end_and_devices": "Start: new scenario 'And when the LORD your God brings you into the land...' (v. 10). End: concluding answer for future generations (v. 25). First of several warnings. Moses's great fear is not failure but success. Warns when full, in good cities not built, 'heart' will be 'lifted up' and forget LORD (vv. 11-12). Provides antidote: 'fear the LORD' (v. 13) and teach children story of redemption. Key devices: Hypothetical scenario, warning against complacency, pedagogical emphasis."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "A Holy People and the Program of Conquest",
+          "reference": "7:1-26",
+          "why_start_end_and_devices": "Start: instructions for conquest 'When the LORD your God brings you into the land...' (v. 1). End: final instruction to 'utterly detest' idols (v. 26). Outlines 'program of conquest,' demanding 'total destruction' (herem) of Canaanite nations. Harsh command given theological rationale: prevent religious syncretism. Core is doctrine of election: 'The LORD... has chosen you' (v. 6), not for size/power but 'because the LORD loves you' (vv. 7-8). Key devices: Theological rationale, election doctrine, holy war framework."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Lesson of the Manna",
+          "reference": "8:1-20",
+          "why_start_end_and_devices": "Start: exhortation 'The whole commandment... you shall be careful to do...' (v. 1). End: final warning 'you shall surely perish' (v. 20). Masterful sermon on memory. Returns to prosperity danger theme. Uses manna (vv. 3, 16) as key metaphor. God's wilderness purpose was to 'humble' and 'test,' teaching 'man does not live by bread alone, but by every word from LORD's mouth' (v. 3). Must remember when rich, lest say 'My power... has gotten me wealth' (v. 17). Key devices: Historical exemplum, metaphor (manna), motivational rhetoric."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Lesson of the Golden Calf (Historical Indictment)",
+          "reference": "9:1-10:11",
+          "why_start_end_and_devices": "Start: pivot to new topic 'Hear, O Israel: you are to cross over Jordan today...' (9:1). End: conclusion 'and the LORD listened to me' (10:11). Historical-rhetorical climax of second speech. To destroy self-righteousness, Moses reminds of greatest sin: Golden Calf (9:7-21). Describes detail how he 'fell down before LORD' (9:18, 25) to intercede. Long recollection of their 'stubbornness' (9:7) proves they possess land only through God's grace and Moses's mediation, not their righteousness (9:5). Includes making new tablets (10:1-5). Key devices: Historical narrative, intercession theme, humility argument."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Call to Covenant Commitment",
+          "reference": "10:12-11:32",
+          "why_start_end_and_devices": "Start: great rhetorical question 'And now, Israel, what does the LORD your God require of you...?' (10:12). End: final summary and transition 'you shall be careful to do all the statutes...' (11:32). Concluding exhortation of 'General Stipulations.' After sinful history review, Moses returns to present. Answer: 'fear... walk... love... and serve' God. Key command: 'Circumcise therefore the foreskin of your heart' (10:16). Final passionate appeal (Ch. 11) for Israel to 'love the LORD' (11:1), 'keep his charge' (11:1), teach children (11:19). Culminates with great choice: 'See, I am setting before you today a blessing and a curse' (11:26). Key devices: Rhetorical question, heart metaphor, choice presentation."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Second Speech, Part 2 (The Deuteronomic Code)",
+      "why_start_end_and_literary_glue": "Massive unit constituting Specific Stipulations section of covenant treaty. The 'Deuteronomic Code' proper, detailed legal corpus introduced by general principles of Story B. Highly organized legal code functioning as constitution for Israel's life in land. Not random collection but systematic, thematic exposition of what it looks like to 'love the LORD your God' in practice, likely following Ten Commandments structure. Broadly organized into three main sections: Laws of Worship (Ch. 12-16a) expanding Decalogue 1-4; Laws of Leadership (Ch. 16b-18) expanding Decalogue 5; Laws of Community Life (Ch. 19-25) expanding Decalogue 6-10. Entire section formally sealed by covenant ratification ceremony (Chapter 26) where people bring firstfruits/tithes and formally declare mutual allegiance with YHWH. Code is systematically revised and expanded version of older Covenant Code, moving toward humanitarian expansion and centralization of worship.",
+      "reference": "12:1-26:19",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Central Sanctuary",
+          "reference": "12:1-32",
+          "why_start_end_and_devices": "Start: unit's opening 'These are the statutes...' (v. 1). End: concluding summary and warning (v. 32). Foundational law of entire Code. Commands destruction of all Canaanite shrines (vv. 2-3) and centralization of Israelite worship at 'the place that the LORD your God will choose' (v. 5). Radical innovation, departing from Genesis-Exodus practice. Allows secular butchering but strictly forbids sacrificial worship anywhere but one central altar. Key devices: Legal formulation, centralization principle, prohibition structure."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Law of the Apostate",
+          "reference": "13:1-18",
+          "why_start_end_and_devices": "Start: 'if' clause 'If a prophet or a dreamer...' (v. 1). End: concluding promise (v. 18). Details legal response to apostasy in three scaling scenarios: false prophet (vv. 1-5), family member (vv. 6-11), entire town (vv. 12-18). Punishment is herem (total destruction). Direct application of 'no other gods' command, demonstrating absolute, exclusive loyalty demanded by Suzerain. Key devices: Casuistic law (case-by-case), escalating scenarios, herem doctrine."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Purity Laws (Ritual and Dietary)",
+          "reference": "14:1-21",
+          "why_start_end_and_devices": "Start: new topic 'You are the sons of the LORD... You shall not cut yourselves...' (v. 1). End: concluding dietary rule (v. 21). Defines Israel as 'holy people' (v. 2, 21) through two categories: mourning practices (vv. 1-2) forbidding pagan self-mutilation, and dietary laws (vv. 3-21) defining 'clean/unclean' animals. Condensed version of Leviticus 11, adapted to Deuteronomy's rhetorical style. Key devices: Holiness doctrine, binary classifications, identity markers."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Law of the Tithe",
+          "reference": "14:22-29",
+          "why_start_end_and_devices": "Start: new command 'You shall tithe...' (v. 22). End: concluding rationale 'that the LORD your God may bless you' (v. 29). Adapts tithe for new centralized system. Tithe brought to 'the place' (v. 23). Pragmatic exception: convert to money if place too far (vv. 24-26). Introduces three-year cycle where third-year tithe kept locally for Levite, sojourner, fatherless, widow (vv. 28-29). Key devices: Practical law-giving, economic provision, social justice."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Sabbatical Year (Debts and Slaves)",
+          "reference": "15:1-18",
+          "why_start_end_and_devices": "Start: new cycle 'At the end of every seven years...' (v. 1). End: concluding rationale for freeing slaves (v. 18). Expands social justice implications of Sabbath principle. Two main laws: release of debts every seven years (vv. 1-11) with warning against 'mean heart' (v. 9) as 7th year approaches, and release of Hebrew slaves (vv. 12-18), requiring master furnish 'liberally' (v. 14). Key devices: Cyclical law, humanitarian emphasis, heart motivation."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Firstlings and Annual Feasts",
+          "reference": "15:19-16:17",
+          "why_start_end_and_devices": "Start: new topic 'All the firstborn males...' (v. 19). End: summary command for three pilgrimage feasts (v. 17). Consolidates laws of sacred time binding to central sanctuary. Covers firstborn animal (15:19-23) and three great pilgrimage feasts (Passover, Weeks, Booths) (16:1-17). Rhetoric requires all males 'appear before the LORD... in the place that he will choose' (v. 16), physically unifying nation three times yearly. Key devices: Sacred calendar, pilgrimage laws, unity reinforcement."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Laws for Judges and Justice",
+          "reference": "16:18-17:13",
+          "why_start_end_and_devices": "Start: new command 'You shall appoint judges...' (v. 18). End: concluding warning 'shall do no more presumptuously' (v. 13). Begins 'Leadership' block. Establishes local judiciary ('judges and officers in all gates,' v. 18) commanding pure justice: 'Justice, and only justice, you shall follow' (v. 20). Establishes 'supreme court' at central sanctuary where Levites and judge hear difficult cases (17:8-13), key centralizing move. Key devices: Judicial structure, justice principle, appellate system."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Law of the King",
+          "reference": "17:14-20",
+          "why_start_end_and_devices": "Start: new scenario 'When you... say, 'I will set a king over me...' (v. 14). End: concluding promise 'that he may continue long in his kingdom' (v. 20). Unique, revolutionary text. Permits monarchy but severely restricts. King must be Israelite, not multiply horses (military power), not multiply wives (alliances), not multiply gold (wealth). One positive duty: write 'copy of this law' (mishneh ha-torah) and read it all life, 'that his heart may not be lifted up above his brothers' (v. 20). King subject to torah. Key devices: Conditional permission, restrictive regulations, torah supremacy."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Priests, Levites, and Prophets",
+          "reference": "18:1-22",
+          "why_start_end_and_devices": "Start: new topic 'The Levitical priests...' (v. 1). End: concluding test of true prophet (v. 22). Details 'spiritual' leadership. Priests/Levites: 'no inheritance,' 'LORD is their inheritance' (vv. 1-2). Provides material support (vv. 3-8). Prophets: warns against pagan divination (vv. 9-14), delivers key promise of 'prophet like me' (v. 15, 18). Establishes prophetic office as legitimate successor to Moses's authority, provides test for true vs. false prophet (vv. 20-22). Key devices: Priestly theology, prophetic succession, discernment criteria."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Cities of Refuge and Witnesses",
+          "reference": "19:1-21",
+          "why_start_end_and_devices": "Start: new topic 'When the LORD your God cuts off the nations...' (v. 1). End: concluding 'purge' formula (v. 21). Begins 'Community Life' section focusing on justice. Cities of Refuge (vv. 1-13): law of asylum for accidental manslaughter, protecting 'innocent blood' (v. 10). Witnesses (vv. 14-21): forbids moving boundary markers (v. 14), establishes rules of evidence: 'only on evidence of two/three witnesses' (v. 15). False witness penalty: lex talionis ('eye for eye,' v. 21). Key devices: Asylum principle, evidentiary rules, legal proportionality."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Laws of Warfare",
+          "reference": "20:1-20",
+          "why_start_end_and_devices": "Start: new scenario 'When you go out to war...' (v. 1). End: concluding rule on fruit trees (v. 20). Provides rules for holy war. Known for 'humanitarian' provisions: priest's exhortation (vv. 2-4) and exemptions for newly married, new house/vineyard, 'fearful' (vv. 5-8). Distinguishes 'distant' cities (offer peace, vv. 10-15) and 'cities in land' (total herem, vv. 16-18). Reinforces Chapter 7 theme. Key devices: Holy war theology, humanitarian provisions, geographical distinction."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Unsolved Murder and Family Laws",
+          "reference": "21:1-23",
+          "why_start_end_and_devices": "Start: new scenario 'If in the land... someone is found slain...' (v. 1). End: 'a hanged man is cursed by God' (v. 23). Collection of laws dealing with difficult cases threatening community purity. Unsolved Murder (vv. 1-9): ritual prescribed to absolve land of bloodguilt. Female Captive (vv. 10-14): law protecting woman taken in war. Firstborn Son (vv. 15-17): protects inheritance rights of 'hated' wife's son. Rebellious Son (vv. 18-21): public legal process. Hanged Man (vv. 22-23): buried same day to prevent defilement. Key devices: Casuistic collection, purity concerns, family law."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Laws of Property and Morality",
+          "reference": "22:1-30",
+          "why_start_end_and_devices": "Start: new scenario 'You shall not see your brother's ox... and ignore them' (v. 1). End: law regarding father's wife (v. 30). 'Casuistic' (case-by-case) collection. Covers Lost Property (vv. 1-3), General Helpfulness (v. 4), Distinction of Sexes (v. 5), Mother Bird (vv. 6-7), Parapets (v. 8), Unlawful Mixtures (vv. 9-11), Tassels (v. 12), series on sexual morality including accusations of non-virginity, adultery, rape (vv. 13-30). Key devices: Casuistic law, practical ethics, sexual regulations."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Congregation and Camp Purity",
+          "reference": "23:1-25",
+          "why_start_end_and_devices": "Start: list excluding from 'assembly of the LORD' (v. 1). End: concluding law on vows (v. 25). Focuses on holiness of 'assembly' and 'camp.' Assembly Exclusions (vv. 1-8): lists those excluded (eunuchs, Ammonites, Moabites) and admitted (Edomites, Egyptians). Camp Purity (vv. 9-14): ritual (nocturnal emissions) and physical (latrines) purity in military camp. Various Laws (vv. 15-25): runaway slaves, cult prostitution, interest, vows. Key devices: Membership criteria, purity rules, miscellaneous laws."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Laws of Divorce, Loans, and Justice",
+          "reference": "24:1-22",
+          "why_start_end_and_devices": "Start: new law 'When a man takes a wife...' (v. 1). End: rationale 'remember that you were a slave in Egypt' (v. 22). Collection heavily focused on protecting vulnerable. Divorce (vv. 1-4): regulates divorce, forbids remarrying divorced wife who married another. Newlyweds (v. 5). Loans/Pledges (vv. 6, 10-13): protect 'mill' (living) and 'cloak' (warmth). Leprosy (vv. 8-9). Day Laborers (vv. 14-15): 'pay him his wages... before sun sets.' Justice (v. 16). Vulnerable (vv. 17-22): protect sojourner, fatherless, widow, command leaving 'gleanings.' Key devices: Social justice emphasis, humanitarian rhetoric, victim protection."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Various Social and Civil Laws",
+          "reference": "25:1-19",
+          "why_start_end_and_devices": "Start: law on flogging 'If there is a dispute...' (v. 1). End: command to 'blot out memory of Amalek' (v. 19). Final collection of laws. Flogging (vv. 1-3): limits to 40 lashes, 'lest your brother be degraded.' The Ox (v. 4). Levirate Marriage (vv. 5-10). Immodest Woman (vv. 11-12). Honest Weights (vv. 13-16). Amalek (vv. 17-19): command to 'remember' and 'blot out,' final herem act. Key devices: Miscellaneous legal collection, herem command, memory rhetoric."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Firstfruits, Tithes, and Covenant Conclusion",
+          "reference": "26:1-19",
+          "why_start_end_and_devices": "Start: liturgical intro 'When you come into the land...' (v. 1). End: final verse of Code 'as he has promised' (v. 19). Formal ratification of entire Deuteronomic Code (Ch. 12-25). Two parts: Liturgy of Firstfruits (vv. 1-11): worshiper recites 'credo' of redemption ('A wandering Aramean was my father...') (v. 5). Liturgy of Tithe (vv. 12-15). Leads to grand finale (vv. 16-19) where Moses declares mutual, formal covenant: 'you have declared today that the LORD is your God... and the LORD has declared today that you are his treasured people...'. Key devices: Liturgical action, historical recitation, covenant declaration."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Second Speech, Part 3 (The Covenant Sanctions)",
+      "why_start_end_and_literary_glue": "Constitutes formal Sanctions clause of ANE treaty. Having laid out general principles (Story B) and specific stipulations (Story C), Moses details severe consequences for keeping or breaking covenant. Unit is itself in two distinct parts. First, Chapter 27 describes future ratification ceremony people must perform entering land. Moses, joined by 'elders,' commands building altar on Mount Ebal (mountain of curse) and writing 'all words of this law' on plastered stones. Twelve tribes divide, six on Mount Gerizim for blessings, six on Mount Ebal for curses. Levites recite twelve specific curses, people respond 'Amen'. Placement of altar on Mount Ebal is profound theological statement: law's function is to reveal curse, God has provided atonement altar at point of failure. Second, Chapter 28 presents blessings/curses in masterpiece of persuasive rhetoric. Blessings for obedience (28:1-14) are short, powerful, holistic. Curses for disobedience (28:15-68) are terrifyingly long, detailed, graphic. Literary imbalance (14 vs. 54 verses) typical of ANE treaties. Curses systematically reverse blessings, culminate in ultimate covenant curse: plague, siege, cannibalism, exile—scattered and 'taken back to Egypt.'",
+      "reference": "27:1-29:1 (or 28:69 in Hebrew)",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Command for the Ebal Altar",
+          "reference": "27:1-10",
+          "why_start_end_and_devices": "Start: new command 'Now Moses and the elders...' (v. 1). End: concluding exhortation 'Obey the voice of the LORD...' (v. 10). Details instructions for ratification ceremony in land. Key elements: large plastered stones with law written on them (vv. 2-4), and uncut stone altar (vv. 5-7). Command to build altar on Mount Ebal is theologically central. Scene 'bracketed' by 'Moses and elders' (v. 1) and 'Moses and Levitical priests' (v. 9), reinforcing collective authority. Key devices: Ritual instruction, material inscription, collective leadership."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Twelve Curses",
+          "reference": "27:11-26",
+          "why_start_end_and_devices": "Start: new command from Moses 'Moses commanded the people...' (v. 11). End: final, all-encompassing curse and 'Amen' (v. 26). Details formal curse ceremony. Divides tribes: six for blessing on Gerizim, six for curse on Ebal (vv. 12-13). Levites recite twelve 'cursed be anyone who...' statements, focusing on secret sins (idols, v. 15), dishonoring parents (v. 16), injustice (v. 19), sexual immorality. Climaxes with final, summarizing curse: 'Cursed be anyone who does not confirm words of this law by doing them' (v. 26). Repeated 'And all the people shall say, Amen' turns into participatory, self-binding oath. Key devices: Ceremonial listing, tribal division, participatory oath."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Blessings for Obedience",
+          "reference": "28:1-14",
+          "why_start_end_and_devices": "Start: conditional 'if': 'And if you faithfully obey...' (v. 1). End: concluding summary 'above only, and not beneath' (v. 14). Positive side of sanction. Powerful, hortatory description of total, holistic national blessing. Key phrase: blessing will 'come upon you and overtake you' (v. 2). Systematic blessings: in city/country (v. 3), of body/ground (v. 4), in provision (v. 5), in security (v. 7), national status ('head not tail,' v. 13). Key devices: Conditional blessing, systematic enumeration, motivational rhetoric."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Curses for Disobedience",
+          "reference": "28:15-68",
+          "why_start_end_and_devices": "Start: parallel conditional 'but': 'But if you will not obey...' (v. 15). End: terrifying final image 'and no one shall buy you' (v. 68). One of most terrifying Bible chapters. Systematic, detailed, graphic deconstruction of blessings from vv. 1-14. Sickness, famine, defeat, confusion—every life aspect cursed. Structured in escalating horror cycles, culminating in siege (vv. 49-57) with 'abomination' of cannibalism, and final curse of exile (vv. 63-68). Ends with ultimate Exodus inversion: 'LORD will bring you back in ships to Egypt... and you shall offer yourselves for sale... but no one will buy you' (v. 68). Key devices: Escalation, graphic imagery, ultimate reversal."
+        }
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "The Third Speech (Covenant Renewal and Choice)",
+      "why_start_end_and_literary_glue": "Moses's third and final sermon, delivered as distinct covenant-making ceremony on plains of Moab. Functions as Covenant Renewal proper. Having laid out law and sanctions, Moses gathers all Israel—leaders, men, women, children, even 'sojourner in your camp' (29:10-11)—to formally 'enter into sworn covenant' (29:12). Profoundly prophetic. Contains stunning theological paradox: despite all they've seen, God 'has not given you a heart to understand, or eyes to see, or ears to hear' (29:4). Implies failure inevitable. Prophesies future rebellion, 'root that bears poisonous and bitter fruit' (29:18), eventual exile (29:28). Yet this bleak prophecy immediately followed by book's greatest promise (30:1-10). Moses prophesies restoration from exile, contingent on repentance but ultimately enabled by future divine grace: 'And the LORD your God will circumcise your heart... so that you will love the LORD your God...' (30:6). Law's demand (love God) revealed as future gift from God. Promise of new heart is theological climax of Pentateuch, reframes entire law. Only after this promise does Moses deliver final, famous appeal. Command not 'in heaven... or beyond sea' (30:11-14) but accessible. Based on promise, sets before them final, stark choice: 'See, I have set before you today life and good, death and evil... therefore choose life' (30:15, 19).",
+      "reference": "29:1-30:20 (or 28:69-30:20 in Hebrew)",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Preamble to the Third Speech",
+          "reference": "29:1-9 (or 28:69-29:8 in Hebrew)",
+          "why_start_end_and_devices": "Start: superscription 'These are the words of the covenant ('Eleh divrei ha-berit)...' (v. 1). End: concluding exhortation 'Therefore keep the words of this covenant...' (v. 9). Preamble and historical prologue for Moab covenant. Moses again reviews history ('You have seen all that the LORD did... in Egypt,' v. 2), but includes 40 years of provision ('your clothes did not wear out,' v. 5). Rhetorical point: God faithful up to this very day. Faithfulness basis for command to 'keep the words of this covenant' (v. 9). Key devices: Historical review, divine faithfulness, covenant motivation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Moab Covenant Ceremony",
+          "reference": "29:10-29",
+          "why_start_end_and_devices": "Start: call to assembly 'You are standing today, all of you, before the LORD...' (v. 10). End: concluding aphorism 'The secret things belong to the LORD...' (v. 29). Formal covenant ceremony. All-inclusive (vv. 10-11) and multi-generational ('not with you alone... but also with those not here,' vv. 14-15). Core is paradox: Moses warns against 'root' of apostasy (vv. 16-21) and prophesies inevitable exile (vv. 22-28). Includes stark admission God 'has not given you a heart to understand' (v. 4). Key devices: Prophetic warning, covenant binding, paradox of grace/judgment."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Promise of Restoration",
+          "reference": "30:1-10",
+          "why_start_end_and_devices": "Start: prophetic transition 'And when all these things come upon you... and you call them to mind...' (v. 1). End: concluding promise of restoration and blessing (v. 10). Theological climax of book. Moses prophesies repentance in exile (v. 1) and subsequent restoration (v. 3). Climax is v. 6: 'And the LORD your God will circumcise your heart...' Divine solution to human problem stated in 29:4. God himself will enable love ('...to love the LORD your God...') that law demands. Key devices: Prophetic promise, heart transformation, divine enablement."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Choice of Life and Death",
+          "reference": "30:11-20",
+          "why_start_end_and_devices": "Start: reassurance 'For this commandment... is not too hard for you' (v. 11). End: final word of speech '...that you... may live' (v. 20). Famous 'Choose Life' peroration. Because God promised to enable obedience (vv. 1-10), command is 'not in heaven' but 'very near you' (vv. 11-14). Moses calls 'heaven and earth' as witnesses (v. 19) and puts stark choice: 'I have set before you life and death, blessing and curse. Therefore, choose life' (v. 19). Key devices: Rhetorical persuasion, cosmic witnesses, binary choice, motivational conclusion."
+        }
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "The Succession and Deposition of the Treaty",
+      "why_start_end_and_literary_glue": "Handles Succession and Deposition portion of covenant treaty. Great speeches are over. Tone shifts definitively from direct-address speech to third-person narrative of Moses's final administrative acts. At 120 years old, Moses performs practical acts necessary for covenant's continuity after his death. Continuity ensured through two-pronged transfer: The Leader (Joshua): Moses publicly commissions Joshua (31:1-8, 14-15, 23) both before people ('Moses summoned Joshua... in sight of all Israel,' 31:7) and in private divine ceremony at tent ('LORD commissioned Joshua,' 31:23). Key refrain, repeated three times, is 'Be strong and courageous' (31:6, 7, 23). The Law (The Book): Moses writes down 'this law' (v. 9)—the book itself—and performs legal deposition, giving to Levitical priests, commanding them to 'put it beside the ark' (31:26) and read it publicly every seven years at Feast of Booths (31:10-13). Critical element is legal concept of 'witness' ('ed). God himself predicts Israel's future apostasy (31:16-18). Therefore, 'book of the law' deposited beside Ark specifically 'that it may be there for a witness against you' (31:26). God commands Moses write Song (Ch. 32) and teach people, 'so that this song may be a witness for me against the people of Israel' (31:19). Chapter not simple, peaceful transition but Moses and God deliberately setting up future covenant lawsuit against people they know will rebel.",
+      "reference": "31:1-31:30",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The First Commission of Joshua",
+          "reference": "31:1-8",
+          "why_start_end_and_devices": "Start: narrative 'So Moses went and spoke these words to all Israel' (v. 1). End: end of speech to Joshua 'He will not leave you or forsake you' (v. 8). Public transfer of leadership. Moses announces his death (v. 2) and formally passes mantle to Joshua (v. 3). Then gives charge to people ('Be strong and courageous,' v. 6) and parallel charge to Joshua ('Be strong and courageous,' v. 7). Key devices: Narrative action, public commissioning, repeated exhortation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Deposition of the Law",
+          "reference": "31:9-13",
+          "why_start_end_and_devices": "Start: narrative action 'Then Moses wrote this law...' (v. 9). End: concluding purpose '...that they may learn to fear the LORD' (v. 13). Legal act of deposition. Moses writes torah and gives to priests with two commands: Keep it (v. 9), and Read it (vv. 10-13). Public reading every seven years at Feast of Booths ensures all future generations, 'who have not known it, may hear' (v. 13). Key devices: Legal deposition, textual authority, cyclical reading practice."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Divine Commission of Joshua and the Song",
+          "reference": "31:14-23",
+          "why_start_end_and_devices": "Start: divine summons 'And the LORD said to Moses...' (v. 14). End: conclusion of ceremony 'Then the LORD commissioned Joshua...' (v. 23). Second, divine commissioning of Joshua. God and Moses meet at tent, God gives Joshua same charge: 'Be strong and courageous' (v. 23). Also contains God's bleak prophecy of Israel's apostasy (vv. 16-18) and commission of Song: 'Now therefore write this song... that [it] may be a witness' (v. 19). Key devices: Divine speech, parallel commissioning, prophetic warning, song commission."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Law and Song as Witnesses",
+          "reference": "31:24-30",
+          "why_start_end_and_devices": "Start: narrative 'When Moses had finished writing...' (v. 24). End: 'quotative frame': 'Then Moses spoke... the words of this song' (v. 30). Final act of deposition. Moses finishes writing and commands Levites: 'Take this Book of the Law and put it beside the ark... that it may be there for a witness against you' (v. 26). Assembles all Israel (v. 28) to 'speak in their hearing all these words' (v. 30), setting stage for Song. Key devices: Narrative climax, legal deposition, witness terminology."
+        }
+      ]
+    },
+    {
+      "story_letter": "G",
+      "story_title": "The Poetic Witnesses (The Lawsuit and the Blessing)",
+      "why_start_end_and_literary_glue": "Contains final poetic utterances of Moses, functioning as formal Witnesses of covenant treaty. Comprised of two distinct, ancient poems. First, the Song of Moses (32:1-47) is song commissioned in Chapter 31, textbook example of rib, or covenant lawsuit. Poetic form used by prophets to 'sue' Israel for breach of contract. Song follows pattern perfectly: summons witnesses ('Give ear, O heavens,' 32:1); praises Suzerain's faithfulness ('The Rock, his work is perfect,' 32:4); indicts vassal for apostasy ('Jeshurun grew fat and kicked... abandoned God,' 32:15-18); pronounces judgment/curses ('I will hide my face,' 32:20ff); concludes with promise of final, saving intervention (32:36-43). Prophetic summary of Israel's entire future. Second, the Blessing of Moses (33:1-29) is completely different poem—valedictory patriarchal blessing, stylistically parallel to Jacob's blessing in Genesis 49. Where Song was lawsuit predicting failure, Blessing is speech of hope, joy, glorious destiny. Frames God's majesty (33:2-5) then moves tribe by tribe (Reuben, Judah, Levi, Joseph, etc.), pronouncing unique positive destiny for each. Literary genius of final editor is juxtaposition: Song (Ch. 32) is ultimate expression of curse (lawsuit); Blessing (Ch. 33) is ultimate expression of blessing (promise). Back-to-back placement is final poetic articulation of 'two ways' in 30:19, leaving reader suspended between judgment and grace.",
+      "reference": "32:1-33:29",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Song of Moses (Indictment)",
+          "reference": "32:1-18",
+          "why_start_end_and_devices": "Start: call to witnesses 'Give ear, O heavens...' (v. 1). End: climax of indictment '...and scoffed at the Rock of his salvation' (v. 18). Indictment phase of lawsuit. Begins by establishing God's character as 'the Rock,' perfect, just, faithful (vv. 1-4). Contrasts with Israel's 'crooked and twisted generation' (v. 5). Recites God's benevolence: 'He found him in desert land... He encircled him... kept him as apple of his eye' (vv. 10-14). Immediately followed by charge: 'But Jeshurun grew fat and kicked... abandoned God' (v. 15). Key devices: Legal indictment, divine character, beneficence-rebellion contrast."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Song of Moses (Judgment)",
+          "reference": "32:19-43",
+          "why_start_end_and_devices": "Start: shift to judgment 'The LORD saw it and spurned them...' (v. 19). End: final call to 'rejoice' at vindication (v. 43). Judgment and restoration phase. God declares will 'hide his face' (v. 20) and send judgment (vv. 21-26). However, judgment not total destruction; God restrains himself 'lest their adversaries... say, Our hand is triumphant' (v. 27). Poem pivots (v. 36) to promise of future restoration: 'The LORD will vindicate his people... when he sees that their power is gone.' God alone will save (v. 39), taking vengeance on enemies and 'making atonement' for land (v. 43). Key devices: Divine judgment, divine self-restraint, restoration promise, salvation language."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Narrative Conclusion to the Song",
+          "reference": "32:44-47",
+          "why_start_end_and_devices": "Start: narrative 'Moses came and recited all the words...' (v. 44). End: Moses's final charge 'it is your very life' (v. 47). Brief narrative epilogue to Song, mirroring introduction in 31:30. Shows Moses and Joshua (v. 44) faithfully delivering Song. Moses gives final brief exhortation to 'take to heart all the words,' 'for it is no empty word for you, but it is your very life' (vv. 46-47). Key devices: Narrative framing, hortatory conclusion, life emphasis."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "God's Command for Moses to Ascend Nebo",
+          "reference": "32:48-52",
+          "why_start_end_and_devices": "Start: new event 'And the LORD spoke to Moses that very same day...' (v. 48). End: reason for command '...you broke faith with me' (v. 52). Narrative interruption between two great poems. God formally commands Moses to 'Go up to this mountain... Mount Nebo... and die' (v. 49). Reason explicitly given: failure at Meribah waters (v. 51). Allowed to see land, not enter it. Key devices: Divine command, narrative interlude, divine judgment (Moses's prohibition)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Blessing of Moses",
+          "reference": "33:1-29",
+          "why_start_end_and_devices": "Start: formal introduction 'This is the blessing... before his death' (v. 1). End: final climactic line of praise (v. 29). Moses's final blessing, speech of pure hope. Begins with majestic theophany describing God shining from Sinai (vv. 2-5). Proceeds tribe by tribe, giving positive destiny for each: Reuben ('Let Reuben live,' v. 6), Judah (v. 7), Levi (praising fidelity, vv. 8-11), Benjamin (v. 12), Joseph (extensive prosperity blessing, vv. 13-17), others. Concludes with powerful celebration of God as Israel's 'refuge' and 'shield' (vv. 26-29). Key devices: Valedictory blessing, tribal enumeration, theophanic opening, hopeful conclusion."
+        }
+      ]
+    },
+    {
+      "story_letter": "H",
+      "story_title": "The Epilogue (The Death of the Mediator)",
+      "why_start_end_and_literary_glue": "Final chapter is narrative conclusion not only to Deuteronomy but to entire five-book Torah. Epilogue, necessarily written by later hand (traditionally Joshua or later editor). Text soberly and respectfully recounts Moses's final acts. Simple, linear narrative in three parts. First, Moses obeys command from 32:48 and ascends Mount Nebo, where God grants vision of entire Promised Land (34:1-4). Second, 'Moses the servant of the LORD died there in the land of Moab' (34:5). Buried by God in secret grave (34:6), people mourn him thirty days (34:8). Third, describes formal transfer of authority: 'Joshua... was full of the spirit of wisdom, for Moses had laid his hands on him' (34:9). Book and entire Torah ends with powerful eulogy for Moses (34:10-12). Eulogy not merely touching tribute but critical canonical endorsement. By declaring 'no prophet has arisen in Israel like Moses, whom the LORD knew face to face' (34:10), post-Mosaic editor seals book with supreme authority. Final statement validates words of book (Ch. 1-33) by validating speaker as greatest and most intimate prophet of YHWH. Final authoritative stamp on 'this law' (the Torah).",
+      "reference": "34:1-34:12",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Vision from Nebo",
+          "reference": "34:1-4",
+          "why_start_end_and_devices": "Start: narrative 'Then Moses went up...' (v. 1). End: God's final speech 'but you shall not go over' (v. 4). Fulfillment of God's promise in 32:52. Moses obeys and ascends mountain. Text emphasizes vision's totality: 'the LORD showed him all the land...' (v. 1). God's final words are both promise (this is land 'I swore to Abraham...') and judgment ('you shall not go over'). Key devices: Obedience narrative, divine vision, promise and judgment."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Death and Burial of Moses",
+          "reference": "34:5-8",
+          "why_start_end_and_devices": "Start: declarative statement 'So Moses the servant of the LORD died...' (v. 5). End: end of mourning period (v. 8). Sober, respectful account. Text honors Moses with title 'servant of the LORD.' His death is 'according to the word of the LORD' (v. 5). Most striking detail: 'he [God] buried him... but no one knows the place of his burial to this day' (v. 6), prevents grave from becoming shrine. Scene concludes with formal 30-day mourning period. Key devices: Honorific language, divine burial, secret grave, mourning ritual."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Joshua's Succession and Moses's Eulogy",
+          "reference": "34:9-12",
+          "why_start_end_and_devices": "Start: transition to new leader 'And Joshua... was full of the spirit of wisdom' (v. 9). End: final verse of book (v. 12). Accomplishes final authority transfer. 'Spirit of wisdom' passes to Joshua because 'Moses had laid his hands on him' (v. 9). People accept transfer: 'people of Israel obeyed him' (v. 9). Final three verses (vv. 10-12) are canonical eulogy, final narrator judgment that Moses was greatest prophet, unparalleled in intimacy with God ('face to face') and 'mighty power' (Exodus signs/wonders). Key devices: Succession narrative, authority transfer, canonical eulogy."
+        }
+      ]
+    }
+  ]
+}
