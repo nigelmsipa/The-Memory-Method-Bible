@@ -1,0 +1,490 @@
+{
+  "book_name": "1 Kings",
+  "hebrew_name": "מְלָכִים א (Melakhim Aleph, 'Kings I')",
+  "canonical_grouping": "Former Prophets (Hebrew Tanakh) / Historical Narrative (Old Testament)",
+  "big_picture_notes": "The Book of 1 Kings (originally unified with 2 Kings) is a foundational work of the Deuteronomistic History (DH). This is not simply a chronicle of events but a theological narrative that selects, arranges, and comments on Israel's history to demonstrate a central thesis: Israel's faithfulness to the covenant laws of Deuteronomy determines its political and spiritual destiny. The book's primary literary framework is the Regnal Formula, a repeating structural device that unifies the disparate reigns of kings. This formula typically includes an accession notice, synchronism with the rival kingdom's monarch, age at accession, length of reign, a theological evaluation (the DH's central judgment, measured against 'David' for Judah or the 'sin of Jeroboam' for Israel), a citation of sources (e.g., 'The Book of the Chronicles of the Kings of Judah'), a death/burial notice, and the name of the successor. This rigid regnal structure is deliberately and brilliantly interrupted by large, detailed narrative cycles focused on prophets (Ahijah, Elijah, Micaiah). This literary tension—the predictable, formulaic history of the kings versus the wild, disruptive interventions of the prophets—is the book's main engine. The narrative of 1 Kings is a contest between the royal throne and the divine word. The book is clearly bisected into two major movements: the glory and decline of the United Kingdom under Solomon (Chapters 1-11) and the fracture and decay of the Divided Kingdom (Chapters 12-22). The 'sin of Jeroboam' (12:25-33) becomes a critical literary refrain, used by the narrator as the benchmark for Israel's apostasy for the remainder of the history. Scene divisions in this narrative are often long (15-25 verses) but represent single, unbroken narrative events (e.g., the contest on Carmel) that would be arbitrary to divide further.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Succession of Solomon",
+      "why_start_end_and_literary_glue": "This narrative forms a perfect literary bridge from 2 Samuel to 1 Kings. It is a self-contained story addressing a single problem: the chaotic transfer of power from the dying David. It begins with David's weakness and the rise of a usurper (Adonijah) and concludes only when all rivals (Adonijah, Joab, Shimei) are eliminated and the kingdom is fully secured. Start (1:1): 'Now King David was old and advanced in years...' This is a classic narrative opening, establishing the setting and the core problem (a power vacuum). End (2:46): '...So the kingdom was established in the hand of Solomon.' This verse is a perfect inclusio and thematic resolution, mirroring the repeated phrase 'establish his kingdom' (2:12, 2:45). Literary Glue: The story is held together by the theme of 'establishing' (kûn) the kingdom, the political maneuvering of two factions (Adonijah/Joab/Abiathar vs. Solomon/Nathan/Bathsheba/Zadok), and the fulfillment of David's final charges.",
+      "reference": "1:1 - 2:46",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "David's Failing Health and the Rise of Adonijah",
+          "reference": "1:1-10",
+          "why_start_end_and_devices": "Starts with narrative opening, 'Now King David was old...' (1:1). Ends with Adonijah's sacrificial feast concluding, having gathered his faction. This scene introduces two problems: David's impotence (v. 1-4) and Adonijah's usurpation (v. 5-10). The narrator explicitly notes Adonijah's faction (Joab, Abiathar) and those he excluded (Nathan, Benaiah, Solomon), setting the stage for the conflict."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Nathan and Bathsheba's Counter-Plot",
+          "reference": "1:11-31",
+          "why_start_end_and_devices": "Starts with Nathan initiating action, 'Then Nathan spoke to Bathsheba...' (1:11). Ends with David making his definitive oath to Bathsheba: 'Solomon your son shall reign after me...' A scene of high political intrigue. It unfolds in two acts: Nathan's instruction (v. 11-14) and Bathsheba's execution of the plan (v. 15-27), reinforced by Nathan's 'surprise' entrance (v. 22). The tension climaxes in David's decision."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "David's Charge and Solomon's Anointing",
+          "reference": "1:32-40",
+          "why_start_end_and_devices": "Starts with David giving a new, public command: 'Call to me Zadok...' (1:32). Ends with the anointing at Gihon complete, and the people shouting, 'Long live King Solomon!' This is the direct answer to Scene A-2. David's private oath becomes a public command. The narrative contrasts Adonijah's feast at En-rogel (v. 9) with Solomon's anointing at Gihon (v. 38), a key geographical and symbolic opposition."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Conspiracy Collapses",
+          "reference": "1:41-53",
+          "why_start_end_and_devices": "Starts with the setting shifting back to Adonijah's feast: 'Adonijah and all the guests... heard it.' (1:41). Ends with Adonijah given a conditional pardon and 'went to his house.' A brilliant narrative device. The 'sound of the trumpet' (v. 41) from Solomon's anointing literally interrupts and shatters Adonijah's feast. Jonathan, son of Abiathar, functions as the messenger of doom. Adonijah's flight to the altar (v. 50) is a desperate plea for sanctuary, which Solomon shrewdly grants, consolidating his power through mercy rather than immediate bloodshed."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "David's Final Charge to Solomon",
+          "reference": "2:1-9",
+          "why_start_end_and_devices": "Starts with a new time-marker and setting: 'When David's time to die drew near...' (2:1). Ends with David's speech to Solomon concluding with the charge concerning Shimei. This is David's last will and testament, structured in four parts: 1) A general charge to keep the covenant (v. 2-4). 2) A specific charge to settle accounts with Joab (v. 5-6). 3) A charge to reward Barzillai (v. 7). 4) A final, complex charge to deal with Shimei (v. 8-9). This sets the agenda for the rest of the chapter."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Kingdom Established and Adonijah's Final Plot",
+          "reference": "2:10-25",
+          "why_start_end_and_devices": "Starts with David's regnal formula (death/burial): 'Then David slept with his fathers...' (2:10). Ends with Adonijah executed by Benaiah. The scene begins with the formal transition of power (v. 10-12). The narrative tension is immediately reintroduced by Adonijah's request for Abishag (v. 13-18). Solomon rightly interprets this (v. 22) as a final, subtle bid for the throne (as taking the previous king's concubine was a claim to succession). Solomon's violent response shows the kingdom is not yet fully 'established.'"
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Consolidation of the Kingdom",
+          "reference": "2:26-46",
+          "why_start_end_and_devices": "Starts with Solomon turning to the next conspirator: 'And to Abiathar the priest...' (2:26). Ends with the final enemy dead, and the inclusio from 1:1 completed: 'So the kingdom was established in the hand of Solomon.' This is a 'cleanup' scene. Solomon fulfills his father's charges from Scene A-5. 1) Abiathar is banished (v. 26-27), fulfilling the prophecy against Eli's house (1 Sam 2:30-36). 2) Joab is executed (v. 28-35), despite clinging to the altar. 3) Shimei is tested, fails, and is executed (v. 36-46a). The final verse (v. 46b) serves as the definitive conclusion to the entire succession narrative."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Solomon's Alliance with Egypt and Worship",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "Starts with 'Solomon made a marriage alliance with Pharaoh...' (3:1). Ends with his worship activities and the people sacrificing at high places. This transitional scene moves from the succession narrative to the wisdom narrative, showing Solomon establishing himself both politically (Egypt) and religiously, though with some compromise (high places)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "David's Death and Burial",
+          "reference": "2:10-12",
+          "why_start_end_and_devices": "Starts with 'Then David slept with his fathers...' (2:10). Ends with 'Solomon sat on the throne of the LORD as king... and his kingdom was firmly established.' This regnal formula closes David's reign and formally opens Solomon's reign as fully authorized and established."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Wisdom and Administration of Solomon",
+      "why_start_end_and_literary_glue": "This section is a thematic unit, distinct from the succession narrative (1-2) and the temple-building narrative (5-8). Its entire focus is establishing Solomon's defining characteristics: his divine gift of wisdom and his glorious, well-ordered administration. Start (3:1): 'Solomon made a marriage alliance with Pharaoh...' This is a new narrative action, marking the beginning of his autonomous reign. End (4:34): 'And people of all nations came to hear the wisdom of Solomon...' This verse is the thematic capstone, completing the theme of wisdom introduced at Gibeon in 3:5-14. Chapter 5:1 begins a new topic: correspondence with Hiram about the temple. Literary Glue: The root for 'wisdom' (chokhmah) appears 15 times in these two chapters, framing the entire story. The narrative is structured as: An imperfect start (3:1-4) -> The Gibeon vision and gift of wisdom (3:5-15) -> The first demonstration of wisdom (3:16-28) -> The full description of his wisdom and administration (Ch. 4).",
+      "reference": "3:1 - 4:34",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Gibeon Vision",
+          "reference": "3:1-15",
+          "why_start_end_and_devices": "Starts with Solomon making an alliance with Egypt and sacrificing at high places (a problematic start) (3:1-4). Ends with Solomon awaking, 'and behold, it was a dream.' He returns to Jerusalem and feasts. This scene is the fountainhead of Solomon's reign. The narrator notes his compromised worship (v. 1-3), which is immediately contrasted with the LORD's gracious appearance (v. 5). The core is a divine-human dialogue: God's open offer ('Ask what I shall give you'), Solomon's humble request for a 'hearing heart' (v. 9), and God's 'more than you asked' reply (wisdom, riches, and honor)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Case of the Two Prostitutes",
+          "reference": "3:16-28",
+          "why_start_end_and_devices": "Starts with 'Then two prostitutes came to the king...' (A new narrative). Ends with 'And all Israel heard... and they stood in awe of the king, because they saw that the wisdom of God was in him...' This is the proof of the gift in Scene B-1. It is a legal test case designed to show, not tell, Solomon's divine wisdom. The narrative tension is extreme (the 'dead child' vs. 'living child' chiasm). Solomon's shocking command (v. 24) is a wisdom-test that reveals the true mother's compassion (v. 26). The scene's conclusion (v. 28) explicitly links this event to the 'wisdom of God' from the Gibeon dream."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Solomon's Administration and Court",
+          "reference": "4:1-19",
+          "why_start_end_and_devices": "Starts with a new, formal list: 'King Solomon was king over all Israel. And these were his high officials...' (4:1). Ends with the list of twelve district governors completed (4:19). This is an administrative archive, not a narrative. It is inserted by the historian to show the scope of Solomon's power. It details the cabinet (v. 1-6) and the 12 administrative districts (v. 7-19) that provisioned the royal house. This scene's purpose is to show the organization of the kingdom."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Glory of the Kingdom",
+          "reference": "4:20-28",
+          "why_start_end_and_devices": "Starts with a summary statement: 'Judah and Israel were as many as the sand...' (4:20). Ends with the summary of his provisions and dominion concluding (4:28). This scene is a thematic summary of the shalom (peace, prosperity) of Solomon's reign. It details his provision ('Solomon's provision for one day...') and his dominion ('He had dominion over all the region...'). The mention of 'peace on every side' (v. 24) is the fulfillment of the ideal covenant blessing."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Wisdom of Solomon",
+          "reference": "4:29-34",
+          "why_start_end_and_devices": "Starts with a summary statement: 'And God gave Solomon wisdom...' (4:29). Ends with the story unit's concluding inclusio: 'And people of all nations came to hear the wisdom of Solomon...' This scene balances Scene B-4. B-4 described his material glory; this describes his intellectual glory. It compares his wisdom (v. 30-31), details its content (proverbs, songs, natural history, v. 32-33), and states its international effect (v. 34). This provides the perfect conclusion to the 'Wisdom' story."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Temple Project: Preparation, Construction, and Dedication",
+      "why_start_end_and_literary_glue": "This is the largest and most central story in the first half of 1 Kings. It is a single, cohesive narrative detailing Solomon's greatest achievement: the building and dedication of the bayit (House) for the LORD. The unit is clearly defined by its singular focus. Start (5:1): 'Now Hiram king of Tyre sent his servants to Solomon...' This action (contacting Hiram) is the first step in the actual preparation for building, distinct from the general descriptions of wisdom in Chapter 4. End (8:66): 'On the eighth day he sent the people away... and they went to their homes joyful and glad of heart...' This is the narrative conclusion of the dedication feast. The next verse (9:1) begins a new story, marked by a new time ('As soon as Solomon had finished...') and a new divine appearance. Literary Glue: The entire story is held together by the single project of the temple. The structure is a clear progression: 1. Preparation and Treaties (Ch 5). 2. Construction (Ch 6-7). 3. Dedication and Celebration (Ch 8).",
+      "reference": "5:1 - 8:66",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Treaty with Hiram",
+          "reference": "5:1-12",
+          "why_start_end_and_devices": "Starts with Hiram's initiative (5:1). Ends with the treaty made, and 'there was peace between Hiram and Solomon.' This scene is a formal diplomatic exchange, presented as a series of messages. Solomon's message (v. 2-6) and Hiram's reply (v. 7-9) are quoted. The scene establishes the international cooperation and shalom (peace) that makes the temple project possible."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Solomon's Labor Force",
+          "reference": "5:13-18",
+          "why_start_end_and_devices": "Starts with 'King Solomon raised a forced levy...' (5:13; new topic). Ends with the summary of the workforce (Israelites, Gebalites) and the preparation of materials. This brief but crucial scene shows the cost of the project. The 'forced levy' (v. 13) is a dark foreshadowing of the discontent that will later split the kingdom (cf. 12:4). It stands in tension with the 'peace' of the previous scene."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Building the Temple Structure",
+          "reference": "6:1-10",
+          "why_start_end_and_devices": "Starts with a major chronological formula: 'In the four hundred and eightieth year after...' (6:1). Ends with the structural framework (walls, beams) complete (6:10). This is an architectural report. The narrator provides the external and internal dimensions (v. 2-3), the window design (v. 4), the side-chamber structure (v. 5-6, 8-10), and the famous detail of its 'silent' construction (v. 7)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Prophetic Interruption",
+          "reference": "6:11-13",
+          "why_start_end_and_devices": "Starts with an oracle formula: 'Now the word of the LORD came to Solomon...' (6:11). Ends with the oracle concluding: 'I... will not forsake my people Israel.' (6:13). This is a classic Deuteronomistic interruption. The narrator pauses the building report to insert a prophetic warning. The physical house (v. 1) is useless without covenant obedience (v. 12). This short, 3-verse scene is the theological hinge for the entire temple story."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Decorating the Temple Interior",
+          "reference": "6:14-38",
+          "why_start_end_and_devices": "Starts with 'So Solomon built the house and finished it.' (Resumes narrative, 6:14). Ends with a final chronological summary: 'In the eleventh year... the house was finished...' (6:38). This scene is a detailed inventory of the temple's interior glory: the gold overlay (v. 20-22), the cherubim (v. 23-28), the carved walls (v. 29-30), and the ornate doors (v. 31-35). The scene concludes with a 7-year summary (v. 38), formally ending the temple construction narrative. This is a long scene (25 verses) but a single, indivisible literary unit—an architectural list."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Solomon's Palace and Other Projects",
+          "reference": "7:1-12",
+          "why_start_end_and_devices": "Starts with 'Solomon was building his own house thirteen years...' (7:1; new topic). Ends with the description of his palace complex (House of the Forest of Lebanon, Hall of Pillars, Hall of Judgment, his own house, Pharaoh's daughter's house) complete (7:12). The narrator juxtaposes the 7-year temple project (6:38) with the 13-year palace project (7:1). This literary placement is a subtle critique, suggesting a shift in priority from God's house to his own."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Work of Hiram the Bronzesmith",
+          "reference": "7:13-47",
+          "why_start_end_and_devices": "Starts with 'And King Solomon sent and brought Hiram from Tyre.' (7:13; new character, new project). Ends with the summary: 'So Hiram finished all the work...' and the materials cataloged (7:47). Another long, list-based scene (35 verses). This is a 'catalog of vessels' detailing the bronze work. The focus is on the two great pillars, Jachin and Boaz (v. 15-22), the 'Sea' (v. 23-26), the 10 stands (v. 27-37), and the smaller items (v. 38-47)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Gold Furnishings and Final Summary",
+          "reference": "7:48-51",
+          "why_start_end_and_devices": "Starts with 'So Solomon made all the vessels...' (7:48; new topic: gold). Ends with 'So was ended all the work... And Solomon brought in the things... dedicated by... David.' (7:51). A brief summary scene that concludes the construction/furnishing narrative. It separates the 'gold' items (altar, table, lampstands) from Hiram's 'bronze' work and formally links the project back to David's original consecrated gifts."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Bringing the Ark into the Temple",
+          "reference": "8:1-13",
+          "why_start_end_and_devices": "Starts with 'Then Solomon assembled the elders...' (8:1; the start of the dedication). Ends with the glory of the LORD filling the house, and Solomon speaking his first dedicatory words (v. 12-13). This is the climactic moment the temple was built for. The narrative shows the priests bringing the Ark into the Most Holy Place, and the Shekinah glory (the cloud) filling the temple, signifying God's acceptance and presence."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Solomon's First Address to the People",
+          "reference": "8:14-21",
+          "why_start_end_and_devices": "Starts with 'Then the king turned his face about and blessed...' (8:14; new action). Ends with his concluding his historical summary of the project (8:21). A formal speech. Solomon blesses the people and recounts the 'Davidic Covenant' (v. 15-21), explaining why he, and not David, built this house. He defines the temple as the place for the 'covenant of the LORD.'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Solomon's Dedicatory Prayer (Part 1: The Foundation)",
+          "reference": "8:22-30",
+          "why_start_end_and_devices": "Starts with 'Then Solomon stood before the altar...' (8:22; the beginning of the great prayer). Ends with the foundational petition: 'hear in heaven Your dwelling place, and when You hear, forgive.' (8:30). This is the first part of the prayer. It establishes God's covenant faithfulness (v. 23-24) and his transcendence (v. 27, 'heaven... cannot contain You'). It sets the theme for the entire prayer: that this temple is a place of prayer (v. 29) directed toward heaven, asking God to 'hear' and 'forgive.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Solomon's Dedicatory Prayer (Part 2: Specific Cases)",
+          "reference": "8:31-53",
+          "why_start_end_and_devices": "Starts with the first specific case: 'If a man sins against his neighbor...' (8:31). Ends with the prayer concluding with a final summary and plea (8:53). This is the body of the prayer, structured as a repeating set of seven petitions for specific crises (oaths, defeat, drought, famine, foreigners, war, and exile), each ending with the refrain 'then hear in heaven.' It is a massive (23-verse) but single, coherent literary unit. The prayer for the foreigner (v. 41-43) is particularly important, showing the temple's intended missionary purpose."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Solomon's Second Address and Blessing",
+          "reference": "8:54-61",
+          "why_start_end_and_devices": "Starts with 'As soon as Solomon finished...' (8:54; new action/speech). Ends with his charge to the people: 'let your heart therefore be wholly true to the LORD...' (8:61). After the prayer (C-11, C-12), Solomon blesses the people, reviewing God's faithfulness ('not one word has failed,' v. 56) and issuing a final charge that echoes the covenant warning of 6:11-13."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Feast of Dedication",
+          "reference": "8:62-66",
+          "why_start_end_and_devices": "Starts with 'Then the king and all Israel... offered sacrifice...' (8:62). Ends with the entire story arc concluding: 'they went to their homes joyful and glad of heart...' (8:66). The narrative resolution. The sacrifices are offered, the feast is kept for 14 days (v. 65), and the people are dismissed. This is the definitive end of the temple-building story."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Glory, Decline, and Judgment of Solomon",
+      "why_start_end_and_literary_glue": "This story follows the classic Deuteronomistic covenant pattern. It opens with God's second appearance to Solomon, which is a conditional promise—a 'blessing and curse' structure (9:1-9). The first half of the story (9:10-10:29) details the glory and blessing (wisdom, wealth, the Queen of Sheba). The second half (11:1-40) details the curse (apostasy, adversaries, and judgment). The story concludes with the standard regnal formula for Solomon's death. Start (9:1): 'As soon as Solomon had finished building...' This time marker links it to the previous story but begins a new divine encounter. End (11:43): 'And Solomon slept with his fathers... and Rehoboam his son reigned in his stead.' This is the non-negotiable, formulaic ending for a king's reign. Literary Glue: The divine warning of 9:1-9, which serves as the 'thesis' for this entire story. The rest of the narrative is the 'evidence' of how Solomon first kept (Ch 9-10) and then broke (Ch 11) this covenant.",
+      "reference": "9:1 - 11:43",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The LORD's Second Appearance to Solomon",
+          "reference": "9:1-9",
+          "why_start_end_and_devices": "Starts with narrative opening: 'As soon as Solomon had finished...' (9:1). Ends with the 'if... then' oracle concluding with the threat of exile (9:9). This scene is the key to the entire story. It is a direct divine response to the dedication prayer (Ch 8). God confirms He has 'consecrated' the temple (v. 3) but immediately gives a severe warning: obedience will 'establish the throne' (v. 5), but disobedience will lead to the temple's destruction and Israel's exile (v. 6-9)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Solomon's Public Works and Administration",
+          "reference": "9:10-28",
+          "why_start_end_and_devices": "Starts with time marker: 'At the end of twenty years...' (9:10). Ends with the summary of his trade/building projects (Hiram, forced labor, Gezer, Ezion-geber) concluding (9:28). This scene is a 'catalog of glory,' showing the blessings of obedience. It details his dealings with Hiram (v. 10-14), his use of forced labor (v. 15-23), and his naval expeditions (v. 26-28). It stands as evidence of the 'riches and honor' promised in 3:13."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Queen of Sheba",
+          "reference": "10:1-13",
+          "why_start_end_and_devices": "Starts with 'Now when the queen of Sheba heard of the fame of Solomon...' (10:1). Ends with 'So she turned and went to her own country...' (10:13). This is the apex of Solomon's wisdom and glory. The queen 'tests' him (v. 1), is overwhelmed ('there was no more spirit in her,' v. 5), and offers her famous benediction (v. 6-9), explicitly praising the wisdom from 4:29-34. This scene is the ultimate fulfillment of the 'blessing' half of the 9:1-9 oracle."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Solomon's Riches and Honor",
+          "reference": "10:14-29",
+          "why_start_end_and_devices": "Starts with a list: 'Now the weight of gold that came to Solomon...' (10:14). Ends with the list of his wealth (gold, shields, ivory, chariots, horses) concluding (10:29). A second 'catalog of glory,' this time focusing on wealth. This 16-verse scene is a single, list-based unit. It details his immense riches, but a dark undercurrent is present: he is multiplying gold (v. 14) and multiplying horses from Egypt (v. 28-29), two things expressly forbidden by the law of the king in Deuteronomy 17:16-17. This scene cleverly serves as both the peak of his glory and the pivot to his fall."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Solomon's Apostasy",
+          "reference": "11:1-13",
+          "why_start_end_and_devices": "Starts with 'Now King Solomon loved many foreign women...' (11:1; the pivot to the curse). Ends with the LORD's judgment oracle concluding: '...I will surely tear the kingdom from you... I will give one tribe to your son...' (11:13). This scene is the tragic reversal. It begins with the cause of his fall: multiplying wives (v. 1-4), the third prohibition from Deut. 17:17. It details the effect: his heart was 'turned away' (v. 4), and he 'built a high place' for heathen gods (v. 7-8). The result is the divine judgment (v. 9-13), which directly references the 'if... then' warning from 9:6-9."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The LORD Stirs Up Adversaries",
+          "reference": "11:14-25",
+          "why_start_end_and_devices": "Starts with 'And the LORD stirred up an adversary...' (11:14; Hadad). Ends with 'And this was the harm that Hadad did...' (NIV/ESV) or 'besides the mischief that Hadad did' (KJV) (11:25). This scene is the execution of the judgment from the previous scene. The narrative introduces two external 'thorns in his side': Hadad the Edomite (v. 14-22) and Rezon of Damascus (v. 23-25). The kingdom's shalom (peace) from 4:24 is now broken."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Prophecy Against Jeroboam",
+          "reference": "11:26-40",
+          "why_start_end_and_devices": "Starts with 'Jeroboam the son of Nebat... also lifted up his hand...' (11:26; new character). Ends with 'Solomon sought therefore to kill Jeroboam. But Jeroboam... fled to Egypt.' (11:40). This is the internal execution of the judgment. The prophet Ahijah delivers the famous 'torn garment' oracle (v. 29-39), explicitly promising 10 tribes to Jeroboam and fulfilling the LORD's warning from 11:11-13. This scene sets up the entire plot for the rest of 1 & 2 Kings."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Death of Solomon",
+          "reference": "11:41-43",
+          "why_start_end_and_devices": "Starts with the regnal formula: 'Now the rest of the acts of Solomon...' (11:41). Ends with the concluding regnal formula: 'And Solomon slept with his fathers... and Rehoboam his son reigned in his stead.' (11:43). This is the standard, non-negotiable regnal formula, closing the story of Solomon and the entire United Kingdom."
+        }
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "The Kingdom Divides: Rehoboam and Jeroboam",
+      "why_start_end_and_literary_glue": "This is a single-chapter, high-stakes narrative. It details the precise moment and cause of the schism. It is a pivotal, self-contained story that acts as the hinge for the entire book, fulfilling the prophecies from Chapter 11. Start (12:1): 'Rehoboam went to Shechem, for all Israel had come... to make him king.' This is a clear narrative start: a new king, a new location (Shechem, the historical heart of the northern tribes), and a new political crisis. End (12:33): '...which he had devised of his own heart.' This verse concludes the description of Jeroboam's establishment of his rival cult. The political and religious split is now complete. Chapter 13 begins a new story, a prophetic attack on this new cult. Literary Glue: The narrative is structured as a chiasm of confrontation: 1) The people's plea (v. 1-5). 2) Rehoboam's foolish counsel (v. 6-15), which fulfills Ahijah's prophecy. 3) The rebellion and split (v. 16-24). 4) Jeroboam's rival cult (v. 25-33).",
+      "reference": "12:1-33",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Assembly at Shechem",
+          "reference": "12:1-15",
+          "why_start_end_and_devices": "Starts with 'Rehoboam went to Shechem...' (12:1). Ends with '...for the turn of events was from the LORD, that He might fulfill His word... to Jeroboam.' (12:15). This is a political drama. The people's reasonable request (v. 4) is met by Rehoboam's foolishness. The scene is structured around the contrast between the old men's wise counsel (v. 7) and the young men's harsh counsel (v. 10-11). The narrator's theological comment in v. 15 provides the divine reason for Rehoboam's folly."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Rebellion of the Ten Tribes",
+          "reference": "12:16-24",
+          "why_start_end_and_devices": "Starts with the people's famous rebellious cry: 'What portion have we in David?' (12:16). Ends with Rehoboam obeying the prophet Shemaiah's oracle and 'returned to their own homes.' (12:24). This scene is the result of Rehoboam's folly. It includes the rebellion (v. 16-17), the stoning of Adoniram (v. 18), and the establishment of the northern kingdom (v. 20). The scene ends with a prophetic intervention by Shemaiah, which prevents a civil war and solidifies the split."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Sin of Jeroboam",
+          "reference": "12:25-33",
+          "why_start_end_and_devices": "Starts with 'Then Jeroboam built Shechem...' (12:25; his political consolidation). Ends with a summary of his new cult: '...ordained a feast... which he had devised of his own heart.' (12:33). This is one of the most important scenes in Kings. It details the religious schism that defines Israel's apostasy. Jeroboam's 'fear' (v. 26-27) leads him to create a new cult: new gods (calves, v. 28), new centers (Bethel/Dan, v. 29), new priesthood (v. 31), and a new festival (v. 32). This becomes the 'sin of Jeroboam' refrain that damns every future king of Israel."
+        }
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "Prophets vs. Kings: The Early Divided Monarchy",
+      "why_start_end_and_literary_glue": "This story establishes the 'new normal' of the divided kingdom. The narrative structure is no longer a single thread but a 'braid,' weaving together the histories of Judah and Israel. The unifying element is the prophetic confrontation with the apostate kings, especially the 'sin of Jeroboam.' This section is a series of prophetic judgment-narratives. Start (13:1): 'And behold, a man of God came out of Judah...' This is a new narrative, a direct prophetic attack on the altar Jeroboam just built in 12:33. End (16:34): 'In his days Hiel of Bethel built Jericho...' This verse, fulfilling Joshua's ancient curse (Josh. 6:26), serves as a dark and fitting end to this era of deepening apostasy and a perfect lead-in to the appearance of Elijah, whose ministry begins in 17:1. Literary Glue: The 'sin of Jeroboam' refrain is the thematic glue (13:33-34, 14:16, 15:26, 15:30, 15:34, 16:2, 16:13, 16:19, 16:26, 16:31). The structure is an interlocking sequence of prophetic judgment (man of God vs. Jeroboam, Ahijah vs. Jeroboam's wife, Jehu vs. Baasha) and the regnal formulas that show the fulfillment of those judgments.",
+      "reference": "13:1 - 16:34",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Man of God from Judah",
+          "reference": "13:1-10",
+          "why_start_end_and_devices": "Starts with 'And behold, a man of God came out of Judah...' (13:1; new character). Ends with 'So he went another way, and did not return by the way he came to Bethel.' (13:10). A powerful prophetic sign-act. The prophet predicts Josiah by name (v. 2), withers Jeroboam's hand, and splits the altar (v. 3-6). He then refuses the king's hospitality, stating his divine command (v. 7-10). The scene shows God's immediate rejection of Jeroboam's cult."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Old Prophet and the Lion",
+          "reference": "13:11-32",
+          "why_start_end_and_devices": "Starts with 'Now an old prophet was living in Bethel...' (13:11; new character). Ends with the old prophet burying him and repeating the prophecy, confirming its truth (13:32). A strange and tragic story. The old prophet lies (v. 18), causing the man of God to disobey. The lion (v. 24) acts as God's executioner, paradoxically guarding the body (v. 28). The scene is a stark lesson on the absolute, unswerving nature of God's command, even against a counter-claim from a 'prophet.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Jeroboam's Unrepentance",
+          "reference": "13:33-34",
+          "why_start_end_and_devices": "Starts with 'After this thing Jeroboam did not return...' (13:33; summary). Ends with the concluding judgment on his house (13:34). A short, 'bridge' scene that serves as the narrator's formal condemnation of Jeroboam, showing that the signs in the previous two scenes had no positive effect on him."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Ahijah's Prophecy Against Jeroboam's House",
+          "reference": "14:1-18",
+          "why_start_end_and_devices": "Starts with 'At that time Abijah the son of Jeroboam fell sick.' (14:1; new crisis). Ends with the prophecy fulfilled: 'when she came... the child died... and all Israel mourned for him.' (14:17). Another prophetic judgment. Jeroboam's wife goes in disguise (v. 2), but the blind prophet Ahijah 'hears' her (v. 6). He delivers a brutal oracle of judgment, dooming Jeroboam's entire dynasty (v. 7-16). The scene's power lies in its immediate, tragic fulfillment (v. 17)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Regnal Summaries of Jeroboam and Rehoboam",
+          "reference": "14:19-31",
+          "why_start_end_and_devices": "Starts with 'Now the rest of the acts of Jeroboam...' (14:19; regnal formula). Ends with '...and Rehoboam slept with his fathers... and Abijam his son reigned...' (14:31). This is the narrator 'catching up' on the history. It is a formal use of the Regnal Formula for both the king of Israel (Jeroboam, v. 19-20) and the king of Judah (Rehoboam, v. 21-31). This parallel summary establishes the 'braided' narrative style for the rest of the book."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Reigns of Abijam (Judah) and Asa (Judah)",
+          "reference": "15:1-24",
+          "why_start_end_and_devices": "Starts with 'Now in the eighteenth year of... Jeroboam... Abijam began to reign...' (15:1). Ends with '...Asa slept with his fathers... and Jehoshaphat his son reigned...' (15:24). Another 'regnal formula' block. It covers two kings of Judah. Abijam (v. 1-8) is evil. Asa (v. 9-24) is 'right in the eyes of the LORD, as David...'. This establishes the 'Davidic' standard of judgment for Judah. The narrative of his war with Baasha (v. 16-22) is included."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Reigns of Nadab (Israel) and Baasha (Israel)",
+          "reference": "15:25-16:7",
+          "why_start_end_and_devices": "Starts with 'Nadab the son of Jeroboam began to reign...' (15:25). Ends with the regnal summary for Baasha concluding with the prophecy of Jehu (16:7). This block covers two kings of Israel. Nadab (v. 25-32) 'did evil... in the sin of Jeroboam.' He is assassinated by Baasha. Baasha (15:33-16:7) also walks in the 'sin of Jeroboam,' and his dynasty is condemned by a new prophet, Jehu son of Hanani (16:1-4). This shows the fulfillment of Ahijah's prophecy against Jeroboam's house and the start of a new cycle of judgment."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Israel's Internal Collapse: Elah, Zimri, Omri",
+          "reference": "16:8-28",
+          "why_start_end_and_devices": "Starts with 'In the twenty-sixth year of Asa... Elah... began to reign.' (16:8). Ends with 'So Omri slept with his fathers... and Ahab his son reigned...' (16:28). This scene shows Israel in total chaos. Elah is assassinated by Zimri (v. 9-10). Zimri reigns 7 days and is besieged by Omri, so he commits suicide (v. 15-20). The people then divide between Omri and Tibni (v. 21-22). Omri wins, founds Samaria (v. 24), and is judged as worse than all before him (v. 25-26). This narrative spiral of apostasy and violence sets the stage for the worst king yet: Ahab."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Reign of Ahab and the Curse of Jericho",
+          "reference": "16:29-34",
+          "why_start_end_and_devices": "Starts with 'In the thirty-eighth year of Asa... Ahab... began to reign.' (16:29). Ends with the curse on Hiel of Bethel fulfilled (16:34). The regnal summary for Ahab. The narrator states he 'did evil in the sight of the LORD, more than all who were before him' (v. 30). The 'sin of Jeroboam' was now a 'light thing' (v. 31); he adds Baal worship via Jezebel. The scene ends with the ominous note of Hiel rebuilding Jericho (v. 34), a sign that God's covenant curses are in full effect. This is the 'darkest before the dawn' and leads directly to the appearance of Elijah."
+        }
+      ]
+    },
+    {
+      "story_letter": "G",
+      "story_title": "The Elijah Cycle: Drought, Contest, and Theophany",
+      "why_start_end_and_literary_glue": "This is a distinct, prophet-centric narrative cycle inserted into the reign of Ahab. Elijah is the protagonist. The story arc is self-contained: it begins with his abrupt appearance and the proclamation of drought, moves through a series of miracles, climaxes at Carmel, and concludes with his flight, theophany at Horeb, and the calling of his successor, Elisha. Start (17:1): 'Now Elijah the Tishbite... said to Ahab...' This is one of the most abrupt and dramatic character introductions in the Bible. End (19:21): '...Then [Elisha] arose and went after Elijah and ministered to him.' The story ends with the prophetic mantle passed. Elisha's new ministry (2 Kings 2) will start its own cycle, but Elijah's primary, independent story arc is complete. Literary Glue: The character of Elijah, his 'word of the LORD' oracles, the conflict with Ahab and Baal, and the theme of fire and water (drought/rain, fire from heaven).",
+      "reference": "17:1 - 19:21",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Drought and the Ravens",
+          "reference": "17:1-7",
+          "why_start_end_and_devices": "Starts with Elijah's oracle of drought (17:1). Ends with 'And the ravens brought him bread... and the brook dried up.' (17:7). This scene establishes Elijah's power (his word stops the rain) and his total dependence on God's miraculous provision (the ravens at Cherith). The 'brook dried up' provides the narrative hook for the next scene."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Widow of Zarephath: The Flour and Oil",
+          "reference": "17:8-16",
+          "why_start_end_and_devices": "Starts with Oracle: 'Arise, go to Zarephath...' (17:8). Ends with the miracle sustained: 'the jar of flour was not spent... according to the word of the LORD...' (17:16). A miracle of provision in gentile territory. The scene is a test of the widow's faith (v. 13, 'make me a little cake first'). Her obedience results in her salvation."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Widow of Zarephath: The Son Raised",
+          "reference": "17:17-24",
+          "why_start_end_and_devices": "Starts with 'After this the son of the woman... fell sick.' (17:17; new crisis). Ends with the woman's full confession of faith: 'Now I know that you are a man of God...' (17:24). A miracle of life. The mother's cry (v. 18) links the death to her sin. Elijah's prayer (v. 20-21) and the 'stretching' act (v. 21) are the center. The scene resolves with the woman's faith moving from simple belief (Scene G-2) to full conviction."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Elijah and Obadiah",
+          "reference": "18:1-16",
+          "why_start_end_and_devices": "Starts with time marker ('After many days, in the third year...') and a new oracle: 'Go, show yourself to Ahab.' (18:1). Ends with 'So Obadiah went to meet Ahab... and Ahab went to meet Elijah.' (18:16). This scene builds tension for the coming climax. It highlights the severity of the famine (v. 2-6) and introduces Obadiah as a foil—a 'God-fearer' (v. 3) serving in Ahab's court. The dialogue between Elijah and Obadiah (v. 7-14) builds suspense for the encounter with Ahab."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Contest on Mount Carmel",
+          "reference": "18:17-40",
+          "why_start_end_and_devices": "Starts with the confrontation: 'Ahab said... \"Are you the troubler of Israel?\"' (18:17). Ends with 'And Elijah brought them [the prophets of Baal] down to the brook Kishon and slaughtered them there.' (18:40). The climax of the story. This is a long (24-verse) but single, indivisible narrative event. The structure is a formal contest: 1) The charge (v. 17-19). 2) The challenge (v. 20-24). 3) Baal's failure (v. 25-29). 4) Elijah's preparation (v. 30-35). 5) Elijah's prayer (v. 36-37). 6) The LORD's fire (v. 38). 7) The people's confession and the execution (v. 39-40)."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Prayer for Rain",
+          "reference": "18:41-46",
+          "why_start_end_and_devices": "Starts with 'And Elijah said to Ahab, \"Go up, eat and drink...\"' (18:41; new action after the contest). Ends with 'And the hand of the LORD was on Elijah... and he ran before Ahab...' (18:46). This is the resolution to the drought oracle from 17:1. The structure is built on the repetition of Elijah's servant going to look seven times (v. 43-44). This contrasts the frantic, hours-long prayers of the Baal prophets with Elijah's persistent, focused faith. The story ends with the supernatural image of Elijah outrunning the king's chariot."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Elijah's Flight and Despair",
+          "reference": "19:1-8",
+          "why_start_end_and_devices": "Starts with Ahab reporting to Jezebel, and she sending a threat (19:1-2). Ends with Elijah traveling 'forty days and forty nights to Horeb, the mount of God.' (19:8). This scene is the great anticlimax and reversal. After the triumph of Carmel, Elijah is terrified by one woman's threat. He flees for his life, enters the wilderness, and falls into deep despair (v. 4). The scene shows his utter humanity. He is miraculously sustained, just as the widow was, by divine provision (v. 5-8)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Theophany at Horeb",
+          "reference": "19:9-18",
+          "why_start_end_and_devices": "Starts with 'He came to a cave and lodged in it...' (19:9). Ends with the LORD giving his final commission (Hazael, Jehu, Elisha) and promise (7,000) (19:18). This is the theological climax of the Elijah cycle. It is a chiasm: 1) God's question (v. 9). 2) Elijah's complaint (v. 10). 3) The anti-theophany: wind, earthquake, fire (God is not in them, v. 11-12). 4) The 'still small voice' (v. 12). 5) God's question repeated (v. 13). 6) Elijah's complaint repeated (v. 14). 7) God's answer: a commission and a comfort (v. 15-18)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Call of Elisha",
+          "reference": "19:19-21",
+          "why_start_end_and_devices": "Starts with 'So he departed from there and found Elisha...' (19:19; executing the commission). Ends with '...Then [Elisha] arose and went after Elijah and ministered to him.' (19:21). The narrative resolution of the Elijah story. Elijah finds his successor. The casting of the mantle (v. 19) is a symbolic act of commissioning. Elisha's response—slaughtering the oxen—is a definitive break from his past. The story arc ends perfectly with the apprentice joining the master."
+        }
+      ]
+    },
+    {
+      "story_letter": "H",
+      "story_title": "Ahab's Aramean Wars",
+      "why_start_end_and_literary_glue": "This chapter is a self-contained narrative, distinct from the Elijah cycle (Ch 17-19) and the Naboth story (Ch 21). It focuses on Ahab's military and political life, but continues the 'prophet vs. king' theme, with anonymous prophets now taking Elijah's role in confronting the king. Start (20:1): 'Now Ben-hadad the king of Syria gathered all his army together...' This is a clear narrative start, introducing a new military conflict. End (20:43): 'And the king of Israel went to his house sullen and displeased, and came to Samaria.' This is a clear narrative conclusion, showing Ahab's reaction to the prophet's final condemnation. Literary Glue: The story is built on a clear 'two-battle' structure (vv. 1-21 and vv. 22-34), with both victories being predicted by a prophet. The story is framed by Ben-hadad's arrogance (20:1-6) and Ahab's foolish mercy (20:31-34), which is then condemned in the final prophetic sign-act (20:35-43).",
+      "reference": "20:1-43",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Ben-hadad's First Siege and Ahab's First Victory",
+          "reference": "20:1-21",
+          "why_start_end_and_devices": "Starts with 'Now Ben-hadad... besieged Samaria.' (20:1). Ends with Ahab and his small force routing the Arameans, who flee (20:21). The scene moves from Ben-hadad's arrogant demand (v. 2-6) to Ahab's desperation. A prophet's oracle ('I will give it into your hand...') gives him courage (v. 13-14). The victory is decisive, and Ben-hadad barely escapes (v. 20-21)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Battle at Aphek and Ahab's Second Victory",
+          "reference": "20:22-34",
+          "why_start_end_and_devices": "Starts with the prophet's warning: 'at the return of the year the king of Syria will come up...' (20:22). Ends with Ahab making a covenant with the defeated Ben-hadad and 'let him go.' (20:34). This scene parallels the first, but on a larger scale. The Arameans' flawed theology ('God of the hills,' v. 23) leads to their second prophetic defeat (v. 28, 'I am the LORD of the valleys also'). The narrative pivot is Ahab's foolish mercy (v. 31-34). Instead of killing the devoted enemy (as God intended), he makes a treaty. This is the 'sin' that the next scene will address."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Prophet's Condemnation of Ahab",
+          "reference": "20:35-43",
+          "why_start_end_and_devices": "Starts with a 'man of the sons of the prophets' devising a plan (20:35). Ends with the king going to his house 'sullen and displeased.' (20:43). A complex prophetic sign-act, similar to 1 Kings 13. The prophet has himself wounded (v. 35-38) to get the king's attention. He presents a parable (v. 39-40), and Ahab, like David, condemns himself with his own judgment (v. 40). The prophet then reveals the oracle: 'Because you have let go... the man I devoted to destruction, therefore your life shall be for his life...' (v. 42). This is the scene's (and story's) powerful conclusion."
+        }
+      ]
+    },
+    {
+      "story_letter": "I",
+      "story_title": "Naboth's Vineyard",
+      "why_start_end_and_literary_glue": "This is a stand-alone, climactic narrative that brings the 'prophet vs. king' theme to its peak. It interrupts the flow of political/military history to provide a close-up, damning portrait of the corruption at the heart of Ahab's kingdom, embodied by Jezebel. Start (21:1): 'Now Naboth the Jezreelite had a vineyard...' This is a classic story opening, introducing a new character and a new object of desire. End (21:29): '...because he has humbled himself before Me, I will not bring the disaster in his days...' This is God's final word on the matter, a temporary mitigation of the sentence, providing a clear narrative resolution. Literary Glue: The vineyard (Heb. kerem) is the central object of the plot. The story flows from Ahab's desire (v. 1-4) to Jezebel's plot (v. 5-16) to Elijah's confrontation (v. 17-26) and the final divine word (v. 27-29).",
+      "reference": "21:1-29",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Ahab's Covetousness",
+          "reference": "21:1-4",
+          "why_start_end_and_devices": "Starts with 'Now Naboth... had a vineyard.' (21:1). Ends with 'And Ahab went into his house sullen and displeased... and he lay down... and would not eat.' (21:4). This scene establishes the conflict. Ahab's 'reasonable' offer (v. 2) clashes with Naboth's covenantal faithfulness (v. 3, 'the LORD forbid... the inheritance of my fathers'). Ahab's childish, 'sullen' response (v. 4) shows his impotence, setting the stage for Jezebel."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Jezebel's Plot",
+          "reference": "21:5-16",
+          "why_start_end_and_devices": "Starts with 'But Jezebel his wife came to him...' (21:5; new action). Ends with 'As soon as Jezebel heard that Naboth was... dead, she said to Ahab, \"Arise, take possession...\"' (21:15). Jezebel takes control. She scorns Ahab's weakness (v. 7) and immediately pens a plot (v. 8-10) using the king's seal and the forms of the law (a fast, two witnesses) to commit judicial murder. The narrative shows the terrifying speed and efficiency of her wickedness."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Elijah's Confrontation and Judgment",
+          "reference": "21:17-29",
+          "why_start_end_and_devices": "Starts with an oracle formula: 'Then the word of the LORD came to Elijah...' (21:17). Ends with the LORD's final word, deferring judgment because of Ahab's (superficial) repentance (21:29). As Ahab goes to take possession, Elijah intercepts him (a direct parallel to 18:17). Ahab: 'Have you found me, O my enemy?' (v. 20). Elijah delivers the most terrible oracle in the book, the 'dogs' and 'birds' curse on Ahab and Jezebel (v. 20-24). Ahab's uncharacteristic repentance (v. 27) leads to a temporary stay of the sentence (v. 29)."
+        }
+      ]
+    },
+    {
+      "story_letter": "J",
+      "story_title": "The Final Battle and the Death of Ahab",
+      "why_start_end_and_literary_glue": "This is the concluding narrative of 1 Kings. It closes the arc of Ahab's reign, which has dominated the second half of the book. It also perfectly illustrates the book's central theme: the conflict between the true prophetic word (Micaiah) and the false, king-pleasing word (the 400 prophets), with the king's fate hanging in the balance. Start (22:1): 'For three years Syria and Israel continued without war.' A clear time marker setting the stage. End (22:53): '[Ahaziah]... provoked the LORD, the God of Israel, to anger in every way that his father had done.' This is the final verse of 1 Kings. It concludes the regnal formula for Ahab's successor, summarizing the entire book's theme of continued apostasy and setting the stage for 2 Kings. Literary Glue: The battle for Ramoth-gilead is the central event. The story is structured around the prophetic debate (Micaiah vs. the 400) which foretells the outcome of the battle. The regnal formulas for Jehoshaphat and Ahaziah are integrated into this final narrative.",
+      "reference": "22:1-53",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Royal Alliance",
+          "reference": "22:1-12",
+          "why_start_end_and_devices": "Starts with 'For three years...' Ahab proposes a new war to Jehoshaphat (22:1-4). Ends with the 400 false prophets, led by Zedekiah, unanimously promising victory (22:12). A political scene that becomes a religious one. Jehoshaphat's pious request ('Inquire first for the word of the LORD,' v. 5) is met by Ahab's state-sponsored 'prophet-mill' (v. 6). The false prophet Zedekiah's sign-act with the 'horns of iron' (v. 11) is a mockery of true prophecy."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Micaiah's True Prophecy",
+          "reference": "22:13-28",
+          "why_start_end_and_devices": "Starts with the messenger's plea to Micaiah: 'speak only good.' (22:13). Ends with 'Then the king of Israel said, \"Seize Micaiah...\"' and Micaiah is imprisoned (22:26-27). The core of the story. Micaiah first mocks Ahab with a 'go up and prosper' oracle (v. 15). When pressed, he reveals the real vision: Israel 'scattered on the hills' (v. 17) and a 'lying spirit' in the mouths of the 400 prophets, sent by the LORD Himself to entice Ahab to his doom (v. 19-23). The scene ends with Micaiah being struck and imprisoned, a martyr for the true word."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Death of Ahab",
+          "reference": "22:29-40",
+          "why_start_end_and_devices": "Starts with 'So the king of Israel and Jehoshaphat... went up to Ramoth-gilead.' (22:29). Ends with the regnal formula: 'So Ahab slept with his fathers...' (22:40). The fulfillment of Micaiah's prophecy. Ahab's disguise (v. 30) fails to save him. A 'random' arrow (v. 34) finds him, a perfect illustration of God's 'random' (to human eyes) but precise judgment. He bleeds out in his chariot. The narrative explicitly links his death back to Elijah's oracle from Story I: 'And the dogs licked up his blood... according to the word of the LORD...' (v. 38)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Concluding Regnal Summaries",
+          "reference": "22:41-53",
+          "why_start_end_and_devices": "Starts with 'Jehoshaphat the son of Asa began to reign...' (22:41). Ends with the final verse of the book, concluding Ahaziah's summary (22:53). This is the narrator's formal conclusion. It provides the full regnal summary for Jehoshaphat of Judah (v. 41-50) and the accession/evaluation for Ahaziah of Israel (v. 51-53). The final verse on Ahaziah (v. 53) serves as the book's dark conclusion, confirming that the 'sin of Jeroboam' and the 'way of Ahab' continue, setting the stage for 2 Kings."
+        }
+      ]
+    }
+  ]
+}
