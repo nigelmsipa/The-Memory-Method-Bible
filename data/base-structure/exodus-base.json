@@ -2,72 +2,682 @@
   "book_name": "Exodus",
   "hebrew_name": "שְׁמוֹת (Shemot)",
   "canonical_grouping": "Torah (Pentateuch)",
-  "big_picture_notes": "Exodus recounts God's deliverance of Israel from Egyptian slavery and the establishment of the Sinai covenant. The narrative arc moves from bondage and oppression through the liberating plagues, the Passover and wilderness journey, to the mountaintop encounter with the divine and the giving of the Law. The repeated refrain 'I will be your God, you will be my people' frames the entire account as a dramatic revelation of YHWH's sovereignty, power, and commitment to covenant renewal.",
+  "big_picture_notes": "Exodus recounts Israel's deliverance from Egyptian slavery through ten plagues and the exodus event, the establishment of the Sinai covenant and God's law, and the construction of the tabernacle as God's dwelling place among His people. The book traces a theological arc from bondage to liberation to covenant community, establishing themes of redemption, law, and God's presence that echo throughout Scripture.",
   "stories": [
     {
       "story_letter": "A",
-      "story_title": "The Deliverer's Genesis: From Bondage to Commission",
-      "why_start_end_and_literary_glue": "Begins with editorial superscription formula ('The words of Jeremiah') transitioning from Genesis patriarch deaths; establishes historical timeframe (627-586 BC) and prophet's Levite pedigree. Ends with Jeremiah's call completion and acceptance, opening narrative mission. Formulaic boundaries: Superscription (1:1-3) signals new genre and era; Call narrative (1:4-19) uses 'word of the LORD came to me' formula marking prophetic authority. Literary glue: Double commissioning (1:1-3 editorial frame + 1:4-19 divine speech) establishes both historical legitimacy and theological calling.",
-      "reference": "1:1-4:31",
+      "story_title": "The Deliverance: From Bondage to Wilderness",
+      "why_start_end_and_literary_glue": "Begins with Israel's oppression under a new Egyptian king (1:1). Ends with Jethro's visit affirming Moses' leadership and God's deliverance (18:27). The entire section is framed by the pattern: bondage→need→God's provision→instruction. Literary devices: generational structure (Joseph's generation fades, Moses' generation rises), multiplication motif (Israel multiplies despite oppression), repeated complaint-provision cycles (water, food, enemy), and the development of Moses from refugee to leader. This story establishes both the problem (slavery) and its resolution (God's deliverance and community formation).",
+      "reference": "1:1-18:27",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Israel in Bondage: A New King Who Forgot Joseph", "reference": "1:1-14", "why_start_end_and_devices": "Starts with 'These are the names of the sons of Israel' establishing continuity with Genesis. Ends with Israel groaning under cruel slavery. Devices: Generational transition; wordplay 'multiplied' (פרה, parah—cf. Genesis 1:28 creation blessing); irony that oppression cannot stop God's promise-multiplication; repetition 'slavery' establishes central problem."},
-        {"scene_number": 2, "scene_name": "Midwives' Defiance: Fear God, Not Pharaoh", "reference": "1:15-2:10", "why_start_end_and_devices": "Starts with Pharaoh's genocidal decree against Hebrew infants. Ends with baby Moses preserved, nursed by mother, raised in Pharaoh's house. Devices: Named midwives (Shiphrah='beauty', Puah='splendor') elevate ordinary women as moral agents; 'feared God' (יִרְאָה אֱלֹהִים) vs. 'feared Pharaoh' shows allegiance hierarchy; irony: Nile meant for death becomes instrument of salvation (prefigures Red Sea); typology (Moses in ark like Noah)."},
-        {"scene_number": 3, "scene_name": "Moses Flees: From Palace to Wilderness", "reference": "2:11-15", "why_start_end_and_devices": "Starts with Moses' firsthand encounter of oppression (killing Egyptian). Ends with flight to Midian and refuge at Jethro's home. Devices: Moses' violent attempt shows he cannot deliver by human strength alone; 'looked this way and that' shows he acts without seeking God; Hebrew recognition ('a prince and a judge over us?') previews his future role but highlights he's not yet ready—failure necessary for genuine calling."},
-        {"scene_number": 4, "scene_name": "The Call at Horeb: I AM WHO I AM", "reference": "2:23-4:31", "why_start_end_and_devices": "Starts with Israel's cry rising to God ('God remembered His covenant'—זָכַר, zakhar, covenantal action). Ends with Moses and Aaron meeting, accepting commission, performing signs. Devices: Burning bush as symbol of Israel's preservation under persecution (bush burns but not consumed); 'I AM' revelation (אֶהְיֶה אֲשֶׁר אֶהְיֶה) establishes eternal, self-existent identity; God's four 'I will' statements (6:6-8) ground entire deliverance; Moses' objections (adequacy, eloquence, people won't believe) met with assurance and Aaron as spokesman; three signs (staff→serpent, hand→leprosy, water→blood) preview plague complexity."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Oppression Intensifies",
+          "reference": "1:1-14",
+          "why_start_end_and_devices": "Starts with genealogical transition ('These are the names') linking to Genesis. Ends with Israel groaning under cruel slavery. Devices: Generational marker (Joseph's generation passes); multiplication of Israel described with blessing language (פָּרָה, parah—'to be fruitful') despite oppression; irony that oppression cannot stop God's promise-fulfillment; repetition of 'slavery' (עָבוֹדָה, avodah) and 'rigor' establishes the central problem."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Hebrew Midwives' Defiance",
+          "reference": "1:15-21",
+          "why_start_end_and_devices": "Starts with Pharaoh's genocidal decree against Hebrew infants. Ends with midwives blessed with families; Israel multiplies anyway. Devices: Named midwives (Shiphrah and Puah) elevate ordinary women as moral agents; 'feared God' (יִרְאָה אֱלֹהִים) vs. implicit fear of Pharaoh shows allegiance hierarchy; strategic deception ('the Hebrew women are vigorous') creates tension and humor; blessing formula ('God dealt well with the midwives') shows divine reward for righteous resistance."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Pharaoh's Cruel Command",
+          "reference": "1:22",
+          "why_start_end_and_devices": "Brief scene establishing Pharaoh's escalation. Ends with command: throw all Hebrew boys into the Nile. Devices: Nile river becomes instrument of death (sets up later reversal where Nile drowns Egypt). Direct command establishes plot tension and introduces baby-in-basket survival motif."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Moses' Birth and Rescue",
+          "reference": "2:1-10",
+          "why_start_end_and_devices": "Starts with Levite couple bearing a son. Ends with Pharaoh's daughter naming the child Moses and raising him in palace. Devices: Ark imagery (basket—תֵּבָה, tevah—used for Noah's ark); water motif continues (Nile as death becomes salvation); Pharaoh's daughter becomes instrument of God's providence; name 'Moses' (משֶׁה, Mosheh) explained as 'drawn out' (משׁ, mash—to draw); irony: enemy protects liberator unknowingly."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Moses Identifies with His People",
+          "reference": "2:11-14",
+          "why_start_end_and_devices": "Starts with Moses as adult observing Hebrew slave being beaten. Ends with Moses killing Egyptian. Devices: 'looked this way and that' shows Moses acts without seeking God; killing represents human attempt at deliverance (fails); 'Hebrew' language choice emphasizes Moses' people-identity despite palace upbringing; Hebrew slave's response ('Who made you judge?') foreshadows Moses' future role but highlights his unreadiness."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Moses Flees to Midian",
+          "reference": "2:15-22",
+          "why_start_end_and_devices": "Starts with Pharaoh seeking Moses' life; Moses flees. Ends with Moses settled at Jethro's home with wife Zipporah and son. Devices: Wilderness becomes place of refuge and formation (prophetic pattern); shepherd motif establishes Moses' future role with Israel; name 'Gershom' ('sojourner there') shows Moses' exile consciousness; Midianite family connection prefigures Jethro's later advice."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Israel's Cry Reaches God",
+          "reference": "2:23-25",
+          "why_start_end_and_devices": "Starts with king's death; Israel groans. Ends with 'God heard...God remembered His covenant.' Devices: Repetition of 'heard' (שָׁמַע, shamah—also implies 'obedience') and 'remembered' (זָכַר, zakhar—covenantal action); establishment of grounds for deliverance: covenant faithfulness not human merit; brief transitional scene setting up divine action."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Burning Bush Theophany",
+          "reference": "3:1-6",
+          "why_start_end_and_devices": "Starts with Moses tending Jethro's flock at Mount Horeb. Ends with 'Remove your sandals, for you stand on holy ground.' Devices: Burning bush (burning without consuming) symbolizes Israel's preservation under persecution; 'I AM' revelation (אֶהְיֶה, ehyeh—self-existent being); holy ground requirement establishes covenant access protocol; theophanic encounter transforms ordinary moment into sacred space."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "God Reveals His Purpose",
+          "reference": "3:7-10",
+          "why_start_end_and_devices": "Starts with God describing His awareness: 'I have indeed seen the misery.' Ends with commission: 'I am sending you.' Devices: 'Come now' (לְכָה, lekha) is gentle imperative; four 'I will' statements ground deliverance (descend, rescue, bring up, lead out); valley description establishes promised land geography; commission is direct and specific—no ambiguity about mission."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Name Revealed: I AM WHO I AM",
+          "reference": "3:11-15",
+          "why_start_end_and_devices": "Starts with Moses' first objection: 'Who am I?' Ends with God's revelation of name יְהוָה (YHWH). Devices: Threefold name disclosure (God of fathers → 'I AM' → 'The LORD, God of Abraham, Isaac, Jacob'); wordplay on יְהוָה/הָיָה (YHWH/hayah—'to be') establishes covenantal identity; God's presence ('I will be with you') answers Moses' inadequacy fear; name proclamation establishes divine authority and continuity with patriarchal covenant."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "God's Sign to Moses",
+          "reference": "3:16-22",
+          "why_start_end_and_devices": "Starts with Moses' commission to gather elders. Ends with promise that 'you will plunder the Egyptians.' Devices: Covenant name יְהוָה repeated to establish authority; elders' gathering creates community structure; promised land covenant language ('land flowing with milk and honey'); plunder promise (already mentioned to Abraham in Genesis context); sign of future validation: assembled at this mountain where deliverance begins."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Moses' Signs of Authority",
+          "reference": "4:1-9",
+          "why_start_end_and_devices": "Starts with Moses' doubt: 'What if they don't believe?' Ends with three validating signs. Devices: Staff→serpent→staff (transformation and restoration); hand→leprosy→healing (affliction and restoration); water→blood (judgment preview); each sign demonstrates God's power over nature and healing, establishing Moses' prophetic authority; portable signs (can be repeated to prove authenticity)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Moses' Eloquence Doubt",
+          "reference": "4:10-13",
+          "why_start_end_and_devices": "Starts with Moses' self-deprecation: 'I am slow of speech.' Ends with God's patience tested. Devices: Speech impediment may reference stammer or Egyptian language barrier; God's response emphasizes divine empowerment ('I will teach you what to say'); honest emotional portrayal of Moses' hesitation and growth toward faith; sets up Aaron's later role as spokesman."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Aaron Appointed as Moses' Spokesman",
+          "reference": "4:14-17",
+          "why_start_end_and_devices": "Starts with God's reassurance about Aaron's arrival. Ends with staff given to Moses ('sign of my power'). Devices: God's slight frustration becomes mercy—Aaron appointed despite (or because of) objection; Aaron described as Levite (establishes priestly line); staff becomes symbol of God's presence and power throughout exodus narrative; partnership model established (prophet + priest)."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Moses' Reunion with Aaron",
+          "reference": "4:27-31",
+          "why_start_end_and_devices": "Starts with Aaron going to meet Moses in wilderness. Ends with community belief and worship. Devices: Aaron and Moses meet at 'God's mountain' (holy ground); 'told him all the words' establishes communication; people's response: they 'bowed and worshiped' showing faith-receptivity; signs performed (serpent/blood/water) validate commission; community unified in belief."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "First Confrontation with Pharaoh",
+          "reference": "5:1-5",
+          "why_start_end_and_devices": "Starts with Moses and Aaron's demand: 'Let my people go.' Ends with Pharaoh's refusal. Devices: Pharaoh's response ('Who is the LORD?') frames entire plague sequence as theodicy—proving God's identity; festival language ('celebrate a festival to the LORD') emphasizes worship as liberation's purpose; Pharaoh sees Moses and Aaron as troublemakers disrupting labor, not spiritual leaders—theological blindness."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Pharaoh's Cruel Response",
+          "reference": "5:6-9",
+          "why_start_end_and_devices": "Starts with Pharaoh ordering taskmasters to increase workload. Ends with straw removed but quota unchanged. Devices: Cruelty intensifies before deliverance (tests faith-community); 'let them not regard lies' shows Pharaoh's contempt; workload increase becomes test of Israel's faith; narrative tension: will Israel trust Moses and God when circumstances worsen?"
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Israel Turns on Moses",
+          "reference": "5:10-23",
+          "why_start_end_and_devices": "Starts with people's struggle under increased workload. Ends with Moses' bitter complaint to God. Devices: Community's anger at Moses shows faith-community's fragility ('May the LORD judge you'); taskmasters become intermediaries (foreshadows later golden calf crisis); Moses' prayer contains both complaint and faith: 'You have not rescued your people'; God permits suffering as faith-formation process."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "God Renews His Commitment",
+          "reference": "6:1-8",
+          "why_start_end_and_devices": "Starts with God's reassurance: 'Now you will see.' Ends with covenant formula repeated. Devices: Four 'I will' statements (bring out, rescue, redeem, take as people) parallel initial commission; covenantal name אֲנִי יְהוָה (ani YHWH—'I am the LORD') established with power; promises to Abraham (land possession) integrated with new revelation; God establishes credibility through word despite circumstantial evidence."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Israel's Unbelief and Despair",
+          "reference": "6:9-13",
+          "why_start_end_and_devices": "Starts with Moses announcing covenant renewal. Ends with Israel's refusal to listen. Devices: 'Spirits crushed by cruel slavery' captures existential despair; unbelief prevents reception (contrast with earlier belief response); establishes pattern: deliverance requires faith-surrender, not mere circumstance; sets up need for visible signs/plagues rather than word alone."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Moses and Aaron Before Pharaoh (First Plague Setup)",
+          "reference": "6:28-7:7",
+          "why_start_end_and_devices": "Starts with genealogical summary establishing Moses and Aaron's Levite credentials. Ends with 'you shall be as God to Pharaoh, and Aaron shall be your prophet.' Devices: Genealogy legitimizes prophetic authority; Moses as 'god' (אֱלֹהִים, elohim—intermediary authority) and Aaron as 'prophet' (נָבִיא, navi—spokesman) establishes hierarchy; 'Aaron's age' (83) shows divine empowerment of aged; setup for plague sequence: human inadequacy, divine authority."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Staff Before Pharaoh",
+          "reference": "7:8-13",
+          "why_start_end_and_devices": "Starts with God's instruction to perform staff-serpent sign. Ends with Pharaoh's wise men duplicating the sign. Devices: Staff becomes serpent, then consumed by Moses' serpent (symbolizing God's supremacy over Egyptian magic); Egyptian magicians' duplication (uses their 'secret arts') shows challenge-contest structure; Pharaoh's heart hardens despite witness—first hardening formula introduced; establishes that signs alone insufficient without faith."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Plague 1: Water Turns to Blood",
+          "reference": "7:14-25",
+          "why_start_end_and_devices": "Starts with God directing Moses to confront Pharaoh early morning (catches him at river). Ends with all water throughout Egypt turning to blood. Devices: Plague targets Nile (חַי חַיִים, hayei hayim—'source of life') showing power over Egypt's lifeline; blood imagery (דָּם, dam) connects to covenant blood later; Egyptian magicians replicate (suggest plague's natural origin in Egyptian eyes); Pharaoh's heart hardens; fish die, water stinks—ecological devastation; seven-day duration establishes plague length."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Plague 2: Frogs Cover the Land",
+          "reference": "8:1-15",
+          "why_start_end_and_devices": "Starts with plague announced in advance ('tomorrow the frogs will'). Ends with Pharaoh promising release but heart hardening once relief comes. Devices: Frogs (צְפַרְדְּעִים, tsefardeim—many frogs, covering all surfaces) symbolize fertility invasion (ironic plague hitting fertility god); Egyptian magicians can produce but not remove (shows God's unique power to withdraw); Pharaoh's pattern established: promises under pressure, hardens when relieved; 'hardening' language shifts."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Plague 3: Gnats/Lice Cover All Beings",
+          "reference": "8:16-19",
+          "why_start_end_and_devices": "Starts with Moses instructed to bring plague without warning. Ends with Egyptian magicians unable to replicate. Devices: First plague without advance warning (escalation in God's approach); gnats/lice (כִּנִּים, kinim—small, pervasive) become inescapable; magicians' failure marks shift ('This is the finger of God'—acknowledging divine power); despite recognition, Pharaoh's heart still hardens (willful rejection of evident truth)."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Plague 4: Swarms of Flies",
+          "reference": "8:20-32",
+          "why_start_end_and_devices": "Starts with early morning warning to Pharaoh. Ends with Pharaoh promising release but hardening again. Devices: Fly swarms (עָרוֹב, arov—mixing, confusion) target livestock and people (escalation); first mention of 'distinction' (בְדֵל, bedel)—Goshen spared from plague (establishes covenant protection); Pharaoh's offers to release within Egypt, then within sight of border, showing incremental compromise (reveals he knows Israel's worth); each promise broken shows hardened will."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Plague 5: Disease on Livestock",
+          "reference": "9:1-7",
+          "why_start_end_and_devices": "Starts with God's warning 'Tomorrow the LORD will do this.' Ends with all Egyptian livestock dead but Israel's spared. Devices: Plague targets wealth and power (livestock = economic base); distinction between Egyptian and Israel's animals explicitly noted (fulfills Goshen protection); livestock plague prefigures human plagues (escalation of target); Pharaoh inspects and finds Israeli livestock alive—undeniable evidence of God's partiality toward Israel; yet 'his heart remained hard' despite investigation."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Plague 6: Boils on People and Animals",
+          "reference": "9:8-12",
+          "why_start_end_and_devices": "Starts with Moses taking soot from furnace and throwing it toward heaven. Ends with Egyptian magicians unable to stand before Moses due to boils. Devices: Boils (שְׁחִין, shihin—painful, festering sores) affect the magicians themselves—personal affliction prevents further duplication attempts; soot from furnace (where Israelites make bricks—7:19 context) becomes judgment tool; human suffering escalates plague intensity; 'the LORD hardened Pharaoh's heart' shifts from Pharaoh hardening himself to God's active hardening (divine confirmation)."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Plague 7: Hail Destroys Crops",
+          "reference": "9:13-35",
+          "why_start_end_and_devices": "Starts with extended warning (Pharaoh has opportunity to shelter livestock). Ends with hail destroyed vegetation and Pharaoh promising to release. Devices: Hail (בָּרָד, barad—severe, destructive) destroys flax and barley (economic devastation); God's 'name will be declared throughout the earth' (9:16—deliverance's theological purpose: God's fame, not merely Israel's rescue); some Egyptians believe and take warning (shows faith-response possible even during plagues); Pharaoh says 'I am in the wrong; the LORD is righteous' but returns to hardness when hail stops; servants rebel ('stop this!')—pressure from within Egypt."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Plague 8: Locusts Consume Remaining Crops",
+          "reference": "10:1-20",
+          "why_start_end_and_devices": "Starts with God directing plague but including explanation of hardening's purpose. Ends with locusts removed and Pharaoh hardening again. Devices: Locust swarm (עָרְבֶה, arbeh—consuming cloud) leaves nothing green—total agricultural destruction; God's explicit statement: 'I have hardened his heart...that I may perform these signs' (10:1) reveals theodicy purpose—demonstration of God's power; servants ask Pharaoh ('how long will this man be a snare to us?')—political pressure mounting; brief faith-response: 'I have sinned against the LORD' but insincere (returns to hardness)."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Plague 9: Darkness Covers the Land",
+          "reference": "10:21-29",
+          "why_start_end_and_devices": "Starts with Moses stretching hand toward heaven. Ends with Pharaoh forbidding Moses to appear again. Devices: Darkness (חֹשֶׁךְ, hoshek—thick, palpable darkness for three days) targets Ra (sun god); Israelites have light in Goshen (light/darkness distinction establishes covenant), but Egyptians in complete darkness (terror); Pharaoh's offer: 'Go, but leave your flocks behind' shows final resistance (partial obedience); Moses' refusal ('Not a hoof will be left behind') and departure—intimacy broken, warnings ended; escalation to final, ultimate plague."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Tenth Plague Announced: Death of Firstborn",
+          "reference": "11:1-10",
+          "why_start_end_and_devices": "Starts with God saying 'one more plague' and directing plunder. Ends with Moses' angry departure. Devices: God's direct instruction to plunder Egypt (שַׁל, shal—spoil/plunder) legitimizes later 'borrowing' of silver/gold (gift from departing masters); plague will target firstborn (בְכוֹר, bekhor—inheritance rights, succession, power); God will 'harden Pharaoh's heart' one final time; Pharaoh's officials plead for Israel's release; announcement creates pause before final judgment (Passover preparation gap); Moses delivers message with 'hot anger'—righteous indignation."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Passover Institution: God's Protection Plan",
+          "reference": "12:1-14",
+          "why_start_end_and_devices": "Starts with 'This month is to be for you the first of months.' Ends with perpetual remembrance ritual established. Devices: Calendar reset (new year begins with liberation, not creation)—theological reorientation; lamb selection criteria (unblemished, one year old—preparation for sacrifice); Passover ritual combines meal + sacrifice + protection; blood on doorposts (מְזוּזוֹת, mezuzot) creates boundary of covenant protection; haste clothing + readiness posture shows salvation-readiness; 'sign' of covenant (אוֹת, ot) parallels Abraham's covenant sign; perpetual feast formula establishes memorial for all generations."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Additional Passover Instructions: Unleavened Bread",
+          "reference": "12:15-28",
+          "why_start_end_and_devices": "Starts with unleavened bread festival instructions. Ends with Moses communicating instructions to Israel's elders. Devices: Seven-day unleavened bread (חַמִּץ, hamets—leaven removed) symbolizes haste departure and removal of corruption; covenant community participation in instructions shows collective obedience; blood anointing (doorposts + lintel creating 'tent' marking) protects dwellers within; 'It is the LORD's Passover' emphasizes God's redemptive action; community transmission (Moses→elders→people) establishes covenant-knowledge chain."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Tenth Plague: Death of Egyptian Firstborn",
+          "reference": "12:29-32",
+          "why_start_end_and_devices": "Starts with 'At midnight the LORD struck down all firstborn.' Ends with 'Pharaoh summoned Moses and Aaron and said, Go!' Devices: Midnight strikes (נֶשֶׁךְ, neeshek—sting, sudden blow) shows divine precision; universal death ('from the firstborn of Pharaoh to the firstborn of the prisoner'—11:5) demonstrates comprehensive judgment; no resistance possible—power's finality; 'great cry' (צְעָקָה, tzeakah—wailing, anguish) captures national mourning; Pharaoh's command combines authority (summoning), desperation (urgent language), and surrender ('Go, worship the LORD')."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Exodus: Israel Departs Egypt",
+          "reference": "12:33-39",
+          "why_start_end_and_devices": "Starts with Egyptians urging Israel to leave quickly. Ends with Israel's departure carrying both Passover provisions and plunder. Devices: Egyptian 'urging' (גָּרַשׁ, garash—driving out, forcing departure) creates ironic reversal (oppressor becomes expeller); 'hurried out' emphasizes haste (no time for leavening); mixed multitude (עֵרֶב, erev—mixture) joins Israel (shows conversion of some Egyptians); plunder fulfilled (jewelry, silver, gold given—11:2, 3:21 promises actualized); journey structured ('from Rameses to Sukkoth') marks beginning of wilderness route; 'about six hundred thousand men on foot' establishes community scale."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Generation Transition: From Egypt to Covenant",
+          "reference": "12:40-51",
+          "why_start_end_and_devices": "Starts with time summary: 'The Israelites had lived in Egypt 430 years.' Ends with Passover regulations codified. Devices: Time notation anchors salvation in history; sojourning language (גָּר, gar—to live as stranger) emphasizes Egypt as temporary dwelling; God's deliverance timeline emphasizes divine control of history; covenant meal regulations prevent ritual dilution; 'on this very day' emphasizes divine punctuality; circumcision requirement establishes covenant-mark participation (no foreigners allowed without circumcision—covenant community boundary)."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Consecration of Firstborn and Unleavened Bread Laws",
+          "reference": "13:1-16",
+          "why_start_end_and_devices": "Starts with God instructing Moses about firstborn consecration. Ends with phylactery wearing ('as a sign on your hand...as frontlets between your eyes'). Devices: Firstborn redemption (בְכוֹר, bekhor—belonging to God after He claimed Egypt's firstborn) establishes covenant mark; unleavened bread memorial (perpetual reminder—לְדוֹרֹתַיִךָ, l'dorotayik—generations); teaching responsibility ('when your son asks...') establishes covenant transmission obligation; 'sign on your hand, frontlets on your forehead' foreshadows phylactery practice (תְּפִלִּין, tefillin)."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Route Changes: God Leads by Pillar",
+          "reference": "13:17-22",
+          "why_start_end_and_devices": "Starts with 'When Pharaoh let the people go, God did not lead them by the way of the land of the Philistines.' Ends with pillar of cloud/fire guidance. Devices: Divine routing avoids immediate conflict (practical wisdom—not yet militarily prepared for Philistine resistance); Red Sea route chosen (miraculous path); God goes before (אַיִם, ayim—leads directly); pillar of cloud (יוֹם, yom—day), fire (לַיְלָה, laylah—night) provides divine presence-constant; rest provision ('did not move'—shows community needed restoration); journey structure established (cloud-fire guidance, no shortcuts, divine leading)."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Israel Trapped at Red Sea: Egyptian Pursuit",
+          "reference": "14:1-14",
+          "why_start_end_and_devices": "Starts with 'Tell the Israelites to turn back and encamp before Pi-hahiroth.' Ends with 'Do not be afraid...the LORD will fight for you.' Devices: Strategic positioning (appears trapped—geographical vulnerability); Pharaoh's regret ('What have we done?') shows delayed repentance; Egyptian pursuit (all chariots, horsemen—military power) recreates oppression context; Israel's fear and complaint shows continued faith-weakness ('we told you to leave us alone'); Moses' reassurance message establishes worship-of-God paradigm ('be silent, the LORD will fight')."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Red Sea Crossing: Deliverance Completed",
+          "reference": "14:15-31",
+          "why_start_end_and_devices": "Starts with God's command: 'Lift your staff, stretch out your hand over the sea.' Ends with Egyptians drowned, Israel saved, faith firmly established. Devices: Staff becomes instrument of divine will (וַד, vad—staff shows authority); water splitting (וַיַּבְקַע, vayavka—divides, separates—mirrors creation language Day 2); dry ground (יַבָּשָׁה, yabashah—earth emerges) mirrors Day 3 creation; walls of water (חוֹמָה, homah—wall/rampart—protection); Egyptian pursuit ends with water returning ('the LORD swept them into the sea'); salvation established: 'Israel saw the great power the LORD displayed, and they feared the LORD and put their trust in Moses' (14:31—transition to Moses as trusted leader)."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Song of Moses and Miriam's Celebratory Dance",
+          "reference": "15:1-21",
+          "why_start_end_and_devices": "Starts with 'I will sing to the LORD, for he is highly exalted.' Ends with Miriam's response and women's celebration with tambourines. Devices: Victory hymn (shirah—song of triumph) celebrates deliverance poetically; horse-chariot imagery (destruction completeness); theophanic language ('right hand majestic in power') emphasizes God's warring might; mythological echoes ('Who among the gods is like you?') assert YHWH's unparalleled power; women's participation (Miriam as prophet-musician) validates female prophetic leadership; community celebration (singing, dancing, celebration) marks collective relief and joy; transition from deliverance narratives to wilderness journey."
+        }
       ]
     },
     {
       "story_letter": "B",
-      "story_title": "The Divine Contest: Pharaoh Hardens His Heart",
-      "why_start_end_and_literary_glue": "Begins with confrontation demand: 'Let my people go' establishing central conflict. Ends with Pharaoh hardened, God's judgment about to commence. Oracle formula structure: Each plague preceded by 'Thus says the LORD' establishes prophetic authenticity. Repetition of hardening pattern (human will + divine confirmation) shows interplay of agency and sovereignty throughout. Literary glue: Intensifying pattern (water→frogs→gnats→flies→livestock→boils→hail→locusts→darkness→death) creates escalating tension toward climax; separation formula (4:22-23) between divine contest and liberation begins.",
-      "reference": "5:1-11:10",
+      "story_title": "The Sinai Covenant: Law, Instruction, and Community Formation",
+      "why_start_end_and_literary_glue": "Begins with Israel arriving at Sinai (19:1). Ends with covenant ratified through blood sacrifice and Moses entering God's presence on mountain (24:18). The entire section establishes God's covenantal relationship with Israel through law. Literary structure: Theophany (God's awesome descent) → Law (God's instruction and expectations) → Covenant ratification (community's commitment and God's sealed promise). This story moves Israel from freed slaves to covenanted community with defined identity and obligations. Central motif: 'I will be your God, you will be my people' (19:5-6).",
+      "reference": "19:1-24:18",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Let My People Go: Pharaoh's Defiance", "reference": "5:1-23", "why_start_end_and_devices": "Starts with Moses and Aaron's demand before Pharaoh ('Let my people go'). Ends with Moses' bitter prayer: 'Why have you brought trouble on this people?' Devices: Pharaoh's response 'Who is YHWH? I don't know him' frames entire plague sequence as revelation of God's identity; increased workload (straw removed, quota unchanged) shows oppression intensifies before deliverance—tests faith; Israel turns on Moses showing faith-community's fragility."},
-        {"scene_number": 2, "scene_name": "The Ten Plagues: Signs of YHWH's Supremacy", "reference": "6:1-11:10", "why_start_end_and_devices": "Starts with reassurance formula 'I am YHWH' (God reveals covenant name in response to despair). Ends with death of firstborn threatened, redemption price established. Devices: Plague pattern (warning→execution→consequence→Pharaoh's response→hardening) repeats to demonstrate God's control over nature and Egypt's false gods; plagues target Egyptian deities (Nile=Hapi, frogs=Heqet, livestock=Apis, darkness=Ra) showing YHWH's supremacy; separation motif ('I will make distinction...Goshen untouched') establishes covenant protection; hardening language shifts from Pharaoh-active (7:13, 8:15) to YHWH-active (9:12, 10:20) showing God confirming Pharaoh's choice for demonstrative purposes."}
+        {
+          "scene_number": 1,
+          "scene_name": "Arrival at Sinai and Covenant Proposal",
+          "reference": "19:1-6",
+          "why_start_end_and_devices": "Starts with 'In the third month after the Israelites left Egypt.' Ends with covenant proposal ('if you obey fully and keep my covenant'). Devices: Time notation (three months—shows deliberate divine timing); mountain terminology (הַר, har—establishes holy place for covenant); God's self-identification through deliverance ('I carried you on eagles' wings')—relational basis for covenant; conditional language (אִם, im—'if'—establishes covenant reciprocity); 'treasure/possession' (סְגֻלָּה, segulah—unique treasured people) shows Israel's special status; 'kingdom of priests' establishes mediatorial role."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Preparation and Sanctification Protocol",
+          "reference": "19:7-15",
+          "why_start_end_and_devices": "Starts with Moses gathering elders and presenting covenant terms. Ends with '(on the third day) he will come down...sanctify yourselves.' Devices: Community consent structure (elders gather, people respond 'We will do everything')—shows corporate covenant commitment; purification rituals (washing clothes, sexual abstinence—19:10, 14-15) establish holiness requirements; boundary establishment (marker at mountain base—19:12)—separation of holy from common; time framework (preparation 'in three days') establishes divine timing pattern; 'touch the mountain...be put to death' shows covenant holiness demands—casual approach forbidden."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Theophanic Descent: God's Awesome Presence",
+          "reference": "19:16-25",
+          "why_start_end_and_devices": "Starts with 'On the morning of the third day.' Ends with 'No one may come up with you...Moses alone.' Devices: Sensory theophany (thunder—קוֹלוֹת קוֹלוֹת, qolot qolot—overwhelming sound; lightning—בְרָקִים, barakim—blazing light; trumpet—שׁוֹפָר, shofar—piercing blast; smoke—עָשָׁן, ashan—obscuring cloud; mountain shaking—תְּנוּעָה, tenua—trembling) creates overwhelming experience; God's voice (קוֹל יְהוָה, qol YHWH) dominates narrative (foreshadows Law-giving); Moses-alone relationship established (uniqueness of his covenant role); repetition of boundary enforcement ('do not let anyone approach')—emphasizes holiness protection."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Ten Commandments: Covenant Foundation",
+          "reference": "20:1-17",
+          "why_start_end_and_devices": "Starts with 'And God spoke all these words.' Ends with tenth commandment (coveting prohibition). Devices: First-person divine address ('I am the LORD...') establishes God's direct authority; vertical structure (commandments 1-4: God-focused; commandments 5-10: neighbor-focused) showing relationship hierarchy; 'Ten Words' (עֲשֶׁרֶת הַדְּבָרִים, aseret ha-devarim—later 'decalogue') become canonical; name repetition (יְהוָה, YHWH—four times in intro and prohibitions) emphasizes God's sovereignty; memory formula ('Remember the Sabbath,' 'Honor your father and mother') establishes life-application ethics; progression from worship to social covenant; poetic parallelism ('shall not kill, shall not commit adultery') creates memorable pattern."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The People's Fear and Request for Mediation",
+          "reference": "20:18-21",
+          "why_start_end_and_devices": "Starts with 'When the people saw the thunder and lightning.' Ends with 'the people remained at a distance.' Devices: Terror response (people's fearful reaction to direct divine presence—'trembled'); distance-seeking ('stand far away'—maintains covenant holiness but creates need for mediation); request for Moses as intermediary establishes priestly mediation role; God's approval ('Moses will mediate')—validates mediation structure; repeated boundary: 'people at a distance, Moses alone approaches'; fear-worship connection established."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Case Law: Religious and Personal Ethics",
+          "reference": "20:22-23:33",
+          "why_start_end_and_devices": "Starts with 'These are the laws you are to set before them.' Ends with 'and surely I will listen to their cry.' Devices: Introductory formula ('Thus says the LORD') establishes legal authority; case-law structure (if-then formulations—אִם, im) provides practical application; laws ordered: altar/worship → servants/property rights → violence/bodily harm → theft/restitution → social justice (widows, orphans, aliens); covenant conditionals ('if you listen...I will bless; if you turn away...') establish reciprocal relationship; Sabbath emphasis (three separate mentions—cosmic and social rhythms); festival calendar (מוֹעֵד, moed—appointed times) establishes liturgical rhythm; 'angel mediating' (20:20) shows post-Sinai guidance structure."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Book of the Covenant Read and Accepted",
+          "reference": "24:1-8",
+          "why_start_end_and_devices": "Starts with 'Moses is told: Come up to the LORD.' Ends with 'the blood of the covenant that the LORD has made.' Devices: Hierarchical approach (Moses alone, then Aaron/Nadab/Abihu/70 elders—levels of access); covenant meal eaten before God (symbolizing covenant fellowship/communion); 'book of the covenant' (סֵפֶר הַבְּרִית, sefer ha-berit) written document establishes binding legal status; blood ritual (half sprinkled on altar, half on people) creates sacrifice-mediated relationship; blood covenant language (דַּם הַבְּרִית, dam ha-berit) becomes foundational (quoted in Matthew 26:28 at Last Supper); community response ('everything the LORD has said, we will do') shows voluntary commitment; covenant ratification complete."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Moses Enters God's Presence on Mountain",
+          "reference": "24:9-18",
+          "why_start_end_and_devices": "Starts with Moses approaching God's presence ('Come up to me on the mountain'). Ends with Moses entering 'cloud of God's glory.' Devices: Moses' unique access (alone can approach—confirmed pattern); cloud descent (כָּבוֹד יְהוָה, kavod YHWH—'the glory of the LORD') dwells on mountain; 40-day period established (40 days receiving stone tablets—foreshadows 40 years wilderness, 40-day fast-resurrection parallels); tablets described as 'written with God's finger' (אֶצְבַּע אֱלֹהִים, etzba elohim—direct divine writing, not intermediary); cloud covering mountain ('like a consuming fire'—אֵשׁ אֹכֶלֶת, esh okhelet) shows divine presence intensity; transition to instruction period (next section will detail dwelling place, priesthood, sacrifices)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "God's Character Revealed: Compassion and Justice",
+          "reference": "34:6-7",
+          "why_start_end_and_devices": "Though appearing later in narrative, this scene captures covenant theology revealed at Sinai's renewal. God's self-description becomes foundational covenant confession: 'The LORD, the LORD, the compassionate and gracious God, slow to anger, abounding in love and faithfulness.' Devices: Divine character formula (repeatedly quoted throughout OT) becomes community's theology; 'compassion' (רַחוּם, rachum—womb-love), 'grace' (חַנּוּן, hanun—unmerited favor), 'slow to anger' (אֶרֶךְ אַפַּיִם, erek appayim—patient, long-suffering) balance justice aspects ('does not leave the guilty unpunished'); establishes God as morally coherent, emotionally invested in covenant relationship; formula grounds all future covenant-keeping."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Covenant Renewal Instructions",
+          "reference": "34:10-27",
+          "why_start_end_and_devices": "Though chronologically later (after Golden Calf breach), this scene establishes covenantal continuity beyond breach. God establishes new covenant ('I am making a covenant before all your people'—לְפָנֵי כָל־עַמְּךָ, lefanei kol ammeka). Devices: Covenantal instructions renewed (wonders, relationship, warnings); festival cycle reestablished (Passover, Weeks, Ingathering); 'no one shall appear before me empty-handed' (religious-economic fusion); boiling goat in mother's milk prohibition (הִשְׁמַר־לְךָ מִן־הַשָּׁפוֹלִים, hishmor lecha min ha-shafolim—avoid pagan customs); God's presence reaffirmed despite breach ('My Name will go with you'); renewed stone tablets written by God's hand—confirmation of covenant re-establishment."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Moses' Radiant Face: Evidence of God's Presence",
+          "reference": "34:29-35",
+          "why_start_end_and_devices": "Starts with Moses descending from mountain with renewed tablets. Ends with Moses veiling his face when not speaking God's words. Devices: Face-shining (קָרַן, karan—radiating horns of light) becomes permanent mark of covenant encounter; Israelites' fear at Moses' transformed appearance shows continued holiness-awe; veil (מַסְוָה, masva) covers radiance except during God's instruction—physical symbol of God's presence intensity; transformation becomes sign of prophetic authority; foreshadows Paul's theology of veiled glory (2 Corinthians 3:12-18)."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "God's Authority Over Egypt's Plagues Confirmed",
+          "reference": "34:1-5",
+          "why_start_end_and_devices": "Part of renewal account showing God's continued power. Starts with God meeting Moses in cloud. Devices: Divine name proclamation (יְהוָה, YHWH—proclaimed before all Israel through Moses); plague authority reaffirmed (God brought plagues); covenant-renewal confirmation shows divine consistency despite breach; 'terrible wonders' language emphasizes God's demonstrated power; establishes God's trustworthiness despite Israel's failure."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Land Conquest Promises Reaffirmed",
+          "reference": "33:1-3",
+          "why_start_end_and_devices": "Occurs during Golden Calf crisis but establishes post-covenant trust language. God promises land ('to the Promised Land'—land flowing with milk and honey—ה׳ הנשבע, 'the oath to Abraham'). Devices: Land promise continuity (unbroken from Genesis covenant); angel mediation ('My angel will go before you'); covenant people assured despite current unfaithfulness; foreshadows Joshua conquest accounts; demonstrates God's patience with covenant-breaking."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Covenant Establishment: Binding and Blessing Formula",
+          "reference": "24:4-8",
+          "why_start_end_and_devices": "Moses writes covenant words, erects altar, performs blood ritual. Final scene of first covenant establishment. Devices: Written covenant (establishes legal binding—unlike oral tradition); twelve pillars (שְׁנֵים עָשָׂר, shneim asar—twelve tribes represented); young men offering sacrifices (וַיִּשְׁלַח נַעֲרֵי בְנֵי יִשְׂרָאֵל, vayishlach naare bni yisrael—community participation); covenant meal consummation; blood ratification formula establishes permanent binding; community promise ('All the words the LORD has said, we will do') completes covenant structure."
+        }
       ]
     },
     {
       "story_letter": "C",
-      "story_title": "Liberation to Liturgy: The Passover Redemption",
-      "why_start_end_and_literary_glue": "Begins with Passover institution ('This month shall be the beginning of months'—new calendar marking liberation). Ends with Israel crossing Red Sea safely, enemy destroyed, Song of Moses proclaiming YHWH's victory. Central chiasm: Bondage (Egypt) → Deliverance (Passover) → Wilderness crossing (Red Sea) → Liturgical commemoration (Song). Formula markers: Passover covenant formula ('I am the LORD...I will redeem you'—6:6) reappears in liberation narrative establishing continuity; blood/protection motif (doorpost blood→Red Sea crossing→Song) unifies entire section theologically.",
-      "reference": "12:1-15:21",
+      "story_title": "The Dwelling Instructions: God's House Among His People",
+      "why_start_end_and_literary_glue": "Begins with 'The LORD said to Moses: Tell the Israelites to bring me an offering' (25:1). Ends with God's specifications complete and priesthood consecration detailed (31:18). This story provides detailed architectural and liturgical instructions for the tabernacle—God's portable dwelling place. Literary structure: Freewill offering (community participation) → Sacred structure details (ark, table, lampstand, altar) → Priestly garments and consecration → Observance instructions (Sabbath, incense). Central theme: 'I will dwell among you' (29:45-46)—God's presence moves from mountain-distant to community-centered.",
+      "reference": "25:1-31:18",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Passover: Death of the Firstborn and Redemption", "reference": "12:1-14:31", "why_start_end_and_devices": "Starts with detailed Passover instructions (lamb selection, preparation, eating, haste). Ends with Egyptian pursuit into Red Sea. Devices: Passover as counter-creation (darkness 12:30 vs. light 12:37, death of firstborn vs. generation birth); blood on doorposts creates theological space of protection; Pharaoh finally concedes ('You and your flocks will die'); eating ritual while fully clothed (readiness for journey) establishes perpetual memorial; Egyptian plunder fulfills God's promise (3:21-22, 11:2-3) that Israel leaves with provisions; Red Sea crossing (14:21-29) is re-creation parallel (waters divide like Day 2, dry land emerges like Day 3) with YHWH's ruach hovering (1:2 parallel)."},
-        {"scene_number": 2, "scene_name": "The Song of Triumph: God's Eternal Victory", "reference": "15:1-21", "why_start_end_and_devices": "Starts with Moses' song ('I will sing to the LORD...') proclaiming deliverance. Ends with Miriam's refrain ('Sing to the LORD!') and the women's celebratory dancing. Devices: Poetic victory hymn (qinah meter parallels lament reversed to triumph); repetition of 'horse and rider thrown into the sea' creates rhythmic hammer; theological theme: YHWH's 'right hand' (arm imagery) saves Israel just as it struck Egypt (2x); mythological language ('Who is like you among the gods?') asserts YHWH's unparalleled power; women's participation (Miriam as prophet-musician) validates female prophetic leadership established by midwives."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Offering for the Sanctuary",
+          "reference": "25:1-9",
+          "why_start_end_and_devices": "Starts with 'The LORD said to Moses: Tell the Israelites to bring me an offering.' Ends with 'construct the sanctuary.' Devices: Freewill offering (נְדָבָה, nedavah—willing gift, not coerced) establishes voluntary participation; materials list (gold, silver, bronze, dyes, wood, stones) shows craftsmanship diversity; 'sanctuary' (מִשְׁכָּן, mishkan—dwelling place) emphasizes relational theology; tabernacle purpose ('so I may dwell among them') grounds all specifications in presence-theology; materials reflect community wealth and resources—shows redemptive economy transformation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Ark of the Covenant",
+          "reference": "25:10-16",
+          "why_start_end_and_devices": "Starts with ark specifications. Ends with stone tablets placed within. Devices: Dimensions and materials (acacia wood—אֵץ שִׁטִּים, etz shittim, durable desert wood; gold overlay—צִפָּה, tzippa—covering/protection); two cherubim cover (כְּרוּבִים, kerubim—divine beings); ring-and-pole design for carrying; 'mercy seat' (כַּפֹּרֶת, kapporet—atonement cover, lid); God's presence between cherubim—'I will speak to you from above the mercy seat'—establishes ark as covenant communication point; tables of testimony stored within (foundation of relationship)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Table for the Bread of the Presence",
+          "reference": "25:23-30",
+          "why_start_end_and_devices": "Starts with table specifications. Ends with bread of the Presence constantly on table. Devices: Table dimensions and acacia wood construction; gold overlay and frame design; bread of the Presence (לֶחֶם הַפָּנִים, lechem ha-panim—'face bread,' covenant meal sustenance); twelve loaves (twelve tribes represented—community identity); frankincense alongside (sweet aroma—עלה, olah—offering aspect); perpetual bread ('ever before me') symbolizes covenant community sustenance provided by God's presence."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Golden Lampstand",
+          "reference": "25:31-39",
+          "why_start_end_and_devices": "Starts with lampstand specifications. Ends with 'You will be given a talent of pure gold.' Devices: Central stand with seven branches (הַמְּנוֹרָה, ha-menorah—Jewish symbol); almond-flower design (שׁוֹקְלִים וּפְרָחִים, shoklaim u-prachim—bud and flower motif, suggesting life/growth); lamps fueled with pure olive oil, kept burning perpetually; light symbolizes God's presence and guidance ('light to the world'—foreshadows Jesus in John 8:12); seven-fold symbolism (perfection, completion)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Tabernacle Structure: Coverings and Curtains",
+          "reference": "26:1-14",
+          "why_start_end_and_devices": "Starts with innermost curtain specifications. Ends with external leather covering. Devices: Curtains create inner sanctuary (הַפָּרֹכֶת, ha-paroket—veil) separating holy place from holy of holies; cherubim woven into innermost curtain (artistic beauty—אַמְנוּן, amnun—skilled craftsmanship); linen and dyed thread (artistic quality); covering layers provide protection and sacredness (fine linen inside, goat hair, ram skin, dolphin skin outside); structure allows portable assembly/disassembly; describes sanctuary as layered—exterior protection conceals interior holiness."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Frame Structure and Assembly",
+          "reference": "26:15-30",
+          "why_start_end_and_devices": "Starts with wooden frame specifications. Ends with assembly instructions for tent. Devices: Acacia wood frames (אָדְנִים, adonim—bases, foundations); silver sockets provide structural base; two frames form back wall (west side—inner sanctum); frames create enclosed structure (portable building); assembly complexity shows craftsmanship requirement; portable design allows movement with covenant community; tent-structure emphasizes temporary dwelling nature (foreshadows eschaton portability)."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Dividing Veil and Outer Curtain",
+          "reference": "26:31-37",
+          "why_start_end_and_devices": "Starts with veil specifications. Ends with outer curtain entrance. Devices: Inner veil (חֻמוּשַׁל, separator) between holy place and holy of holies—only high priest enters on Day of Atonement; cherubim woven (divine presence visible in design); outer curtain (סַך, sak—screen, entrance covering) creates distinct threshold; veil becomes critical in passion narrative ('the veil of the temple was torn in two'—Matthew 27:51, showing Christ's sacrifice opening access); threshold structure emphasizes holy approach sequence."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Altar of Burnt Offering",
+          "reference": "27:1-8",
+          "why_start_end_and_devices": "Starts with altar specifications. Ends with altar construction details. Devices: Acacia wood overlay with bronze (דוּ, dud—pots for ashes); four horns (corners—קַרְנוֹת, karnot—power/strength symbols); grating below (captures ashes); rings for carrying poles; altar faces east (direction of sunrise, divine coming); centrality in courtyard shows sacrifice prominence; bronze overlay symbolizes judgment/purification."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Courtyard and Outer Gate",
+          "reference": "27:9-19",
+          "why_start_end_and_devices": "Starts with courtyard enclosure specifications. Ends with gate entrance. Devices: Linen curtains (וְשֵׁשׁ, veshet—fine linen) enclose outer space; dimensions (100 cubits length, 50 cubits width) establish sacred geometry; copper sockets and silver hooks; north, south, east (three walls) with west showing tabernacle opening; gate entrance (מִדְחַן שַׁעַר, midhtan shaar—opening); courtyard becomes sacred space separating holy sanctuary from common community; gradations of holiness (outer court → holy place → holy of holies)."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Consecration Oil and Sacred Incense",
+          "reference": "30:22-38",
+          "why_start_end_and_devices": "Starts with holy anointing oil specifications. Ends with exclusive incense formula. Devices: Myrrh, cinnamon, cane, cassia, olive oil (חֵיל רוּחַ, proportional mixing); anointing oil separates sacred from common (cannot be imitated); incense formula (frankincense, myrrh, galbanum, stacte—קְטֹרֶת, keteret) exclusively for tabernacle; 'it is most holy' (קוֹדֶשׁ קָדָשִׁים, kodesh kodashim) emphasizes exclusivity; anointing confers holiness status (priests, vessels, furniture); aroma symbolizes prayer rising to heaven (Psalm 141:2)."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Basin for Priestly Washing",
+          "reference": "30:17-21",
+          "why_start_end_and_devices": "Starts with basin specifications. Ends with washing requirement for priest survival. Devices: Bronze basin (נְחֹשֶׁת, nechoshet—bronze symbolizing judgment/purification); between tent and altar placement; water washing (ritual purification—טָהֳרָה, tahura); 'so that they will not die' (emphasizes holiness requirement's seriousness); hand and foot washing before entering sanctuary; washing establishes spiritual readiness protocol; prefigures John 13 foot-washing teaching."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Tabernacle Census Tax",
+          "reference": "30:11-16",
+          "why_start_end_and_devices": "Starts with census requirement. Ends with half-shekel tax for all males. Devices: Atonement money (כֹּפֶר, kofer—ransom, redemption payment) purchased at half-shekel standard; rich and poor pay equally (economic egalitarianism—לֹא יָרְבּוּ וְלֹא יִמְעִטּוּ, lo yarbiu ve-lo yimitu—neither more nor less); tabernacle maintenance fund; establishes principle: covenant community participation is universal, valued equally regardless of wealth; foreshadows tithing concept."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Craftsmen Appointed: Bezalel and Oholiab",
+          "reference": "31:1-11",
+          "why_start_end_and_devices": "Starts with 'The LORD said to Moses: See, I have chosen Bezalel.' Ends with comprehensive craftsmen instruction. Devices: Divine gifting and skill (חָכְמָה וּתְבוּנָה, chokhma u-tevuna—wisdom and understanding); artistic mastery (בְדִמְיוֹן הַדִּמְיוֹן, be-dimyon ha-dimyon—imaginative design); Bezalel (אֱלֹהִים בִּי, Elohim bi—'God in me') and Oholiab named (authority and creativity combined); craftsmen inclusion shows Holy Spirit's gifting extends beyond priestly/prophetic roles to artisans; cooperation model (multiple craftspeople working together); establishes principle: God empowers skill for kingdom work."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Priestly Garments: Holiness Visible",
+          "reference": "28:1-43",
+          "why_start_end_and_devices": "Starts with 'Have Aaron your brother brought to you from among the Israelites to serve me as priest.' Ends with priestly regalia specifications. Devices: Ephod (אֵפוֹד, efod—priestly garment); breastpiece (חֹשֶׁן, choshen—judgment pouch containing Urim and Thummim—divine decision stones); twelve tribes engraved on shoulder stones and breastpiece (priestly intercession represents all tribes); fine linen, dyes, gold; bells and pomegranates on robe hem (sound signifies movement); turban with 'Holy to the LORD' engraved (holiness marks); garments establish visual theology—priests embody covenant community's approach to God; priestly dress sanctifies work."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Priestly Consecration Ceremony",
+          "reference": "29:1-46",
+          "why_start_end_and_devices": "Starts with 'This is what you are to do to consecrate them.' Ends with 'I will dwell among the Israelites and be their God.' Devices: Seven-day consecration (שִׁבְעַת יָמִים, shivat yamim); washing, anointing, vestments; sin offering, burnt offering, ordination offering (waves/elevations); blood on altar, ears, thumbs, big toes (complete sanctification—ear=hearing/obedience, thumb=work, toe=walk/path); God's presence promise reaffirmed; priests become God's representatives to community; covenant presence-goal restated; ceremony establishes priest's mediatorial role."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Daily Sacrificial Routine: Morning and Evening",
+          "reference": "29:38-42",
+          "why_start_end_and_devices": "Starts with 'This is what you are to offer on the altar.' Ends with 'a regular burnt offering throughout your generations.' Devices: Two lambs daily (morning and evening—perpetual rhythm); burnt offering (עֹלָה, olah—ascending smoke symbolizing ascent to God); grain offering (מִנְחָה, minha—gift offering); drink offering (נָסוֹךְ, nasok—libation—wine poured out); daily rhythm establishes covenant renewal cycle; morning-evening bookends each day with sacrifice; perpetual nature ('throughout your generations') makes sacrifice continuous covenant relationship; foreshadows Hebrews' emphasis on Christ's perpetual priesthood."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Most Holy Place Entrance and Atonement",
+          "reference": "30:1-10",
+          "why_start_end_and_devices": "Starts with altar of incense specifications. Ends with annual atonement on its horns. Devices: Golden altar (כְּתֹרֶת, keteret—incense altar) placed before veil (inner sanctuary approach); incense burned morning and evening; 'a perpetual incense before the LORD'; annual atonement (Yom Kippur—יוֹם הַכִּפֻּרִים, Yom ha-Kippurim) with blood on horns; Aaron's atonement ('once a year')—even priests need cleansing; altar's location (threshold to holy of holies) shows incense's role in heavenly access; foreshadows Revelation's heavenly altar."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Sabbath Observance and Covenant Sign",
+          "reference": "31:12-17",
+          "why_start_end_and_devices": "Starts with 'The LORD said to Moses: Say to the Israelites...' Ends with 'it is a sign between me and you forever.' Devices: Sabbath rest required (לֹא תַעֲשׂוּ בוֹ כִּל־מְלָאכָה, lo ta-asu bo kil-melachah—no work permitted); violation brings death penalty (death desecration); Sabbath as covenant sign (אוֹת, ot—sign); holy convocation (מִקְרָא־קֹדֶשׁ, mikra kodesh—sacred assembly); work prohibition includes craftspeople building tabernacle—sanctity supersedes construction; Sabbath establishes rhythm where God's presence rests (שָׁבָת, shabbat—ceases from activity)."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Stone Tablets and Law Completion",
+          "reference": "31:18",
+          "why_start_end_and_devices": "Final scene: God gives Moses stone tablets written with His finger. Devices: 'Written by the finger of God' (בְאֶצְבַּע אֱלֹהִים, be-etzba elohim)—direct divine authorship, not intermediary; tabernacle instruction complete; transition to covenant breach (Golden Calf) happening while Moses on mountain; dual revelation (covenant law on tablets + dwelling place instructions in words) shows God's dual concern: right relationship (law) and God's presence (sanctuary); stone permanence contrasts with subsequent narrative breach; foundational text transition point."
+        }
       ]
     },
     {
       "story_letter": "D",
-      "story_title": "Liminal Space: Testing and Provision in the Wilderness",
-      "why_start_end_and_literary_glue": "Begins with wilderness journey ('three days in the desert without water'). Ends with Jethro's visit affirming God's deliverance and Moses' leadership. Liminal theology: Space between Egypt (past bondage) and Sinai (future covenant), physically designated 'wilderness' (מִדְבָּר, midbar—a place of divine testing and providence). Pattern: Need (thirst/hunger) → complaint → YHWH's provision (spring/manna/quail) → instruction. Narrative movement: Marah (bitter water), Elim (oasis), Wilderness of Sin (manna), Rephidim (water again, Amalek battle), Sinai arrival. Theological glue: Each provision miracle answered with torah-instruction (Sabbath law 16:4-5, cultic regulations 16:31-35, covenant law 18:20) preparing community for formal covenant at Sinai.",
-      "reference": "15:22-18:27",
+      "story_title": "The Breach and Renewal: Covenant Broken and Restored",
+      "why_start_end_and_literary_glue": "Begins with 'When the people saw that Moses delayed coming down from the mountain' (32:1). Ends with covenant renewal and God's presence reaffirmed on mountain with renewed tablets (34:35). This story narrates Israel's covenant violation (Golden Calf idolatry) and God's merciful restoration. Literary structure: Breach (Israel's rebellion, gods created) → Judgment (God's wrath, Levite execution) → Intercession (Moses' prayer preserves remnant) → Renewal (covenant remade, God's character revealed). Central irony: While Moses receives law on high, Israel violates it below; yet God's grace exceeds wrath, and covenant continues despite breach.",
+      "reference": "32:1-34:35",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Water from Stone: Murmuring and Faith Tests", "reference": "15:22-17:7", "why_start_end_and_devices": "Starts with wilderness travel and thirst complaint. Ends with water from Horeb rock and people's question 'Is the LORD with us or not?' Devices: Repetition of pattern (need→murmuring→provision→praise) establishes learning cycle; bitter water (מרה, Marah) becomes sweet with wood (tree foreshadows cross in later tradition), etiology explains location name; manna (מָן, man='what is it?') and quail provision are supernatural bread and meat paralleling future Eucharistic imagery; Sabbath law (double manna on sixth day) establishes commandment within provision (foreshadows Sinai); water from rock (17:1-7) at Massah/Meribah (testing/strife) establishes place-name etiology; narrative emphasis 'Is the LORD with us?' shows deepening faith-community relationship."},
-        {"scene_number": 2, "scene_name": "Amalek's Attack: Spiritual Warfare and Intercession", "reference": "17:8-16", "why_start_end_and_devices": "Starts with Amalek military assault. Ends with Moses' altar 'YHWH is my Banner' and declaration of perpetual war. Devices: Joshua (יְהוֹשוּעַ, Yehoshua='YHWH saves'—first mention) leads military; Moses' intercession on hilltop with Aaron/Hur supporting (prefigures priestly role) shows prayer as spiritual warfare parallel; raised hands (עַל־הַנְשִׁי, al-hanishi='upon the banner') wordplay on banner-God (cf. v.15); Amalek becomes perpetual enemy (Deut 25:17-18) representing recurring resistance to God's people."},
-        {"scene_number": 3, "scene_name": "Jethro's Counsel: Wise Administration of Justice", "reference": "18:1-27", "why_start_end_and_devices": "Starts with Jethro's arrival with Zipporah and Moses' sons. Ends with administrative restructuring into judges/officers. Devices: Zipporah's return (from 4:25 circumcision context) symbolizes family reconciliation before covenant; Jethro's Midianite blessing ('Blessed is YHWH...') shows pagan priest's faith conversion; observation of Moses judging all disputes shows leadership breakdown; administrative wisdom (appoint rulers of thousands/hundreds/fifties/tens) prefigures later 70-elder structure (Num 11:16-25); this section establishes communal governance structure necessary before formal Sinai covenant—shows leadership structure supporting individual relationship with God."}
+        {
+          "scene_number": 1,
+          "scene_name": "The People's Impatience and Desire for a Visible God",
+          "reference": "32:1",
+          "why_start_end_and_devices": "Starts with 'When the people saw that Moses delayed coming down.' Ends with request: 'Make us gods who will go before us.' Devices: Temporal anxiety ('delayed'—בּוֹשֶׁש, bosesh—lingered too long in people's perception) triggers faithlessness; community addresses Aaron (not Moses—leadership transfer attempted); 'gods' plural (אֱלֹהִים, elohim) suggests plurality; 'go before us' echoes pillar language (seeking visible leadership); forty-day absence becomes test of faith—community fails."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Aaron's Golden Calf Construction",
+          "reference": "32:2-6",
+          "why_start_end_and_devices": "Starts with people removing gold earrings. Ends with 'feast before the LORD.' Devices: Community participation (all bring gold—shows covenant wealth misapplication); Aaron's complicity (questions his priestly role); calf made ('young bull'—עֵגֶל, eigel—Egyptian Apis imagery); 'these are your gods' (plural despite singular object—theological confusion); altar built (עַלְתָּה, alta—altar construction); 'feast to the LORD' shows misidentified worship (right form, wrong object); Exodus 4:20 contextual irony (Aaron earlier as faithful spokesman, now enables idolatry)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "God's Wrath and Moses' Intercession",
+          "reference": "32:7-14",
+          "why_start_end_and_devices": "Starts with God's command: 'Go down, because your people...have corrupted themselves.' Ends with God relenting from judgment. Devices: God's wrath language (הִשָּׁמְדוּ, hishshomdu—destroyed themselves through idolatry); 'your people' (Aaron's failure makes them Moses' responsibility through leadership); God's plan: destroy Israel, make Moses' descendants great nation; Moses' intercession employs three arguments: (1) Egypt's observation ('Egyptians will mock'), (2) covenant promise to Abraham ('remember your oath'), (3) God's character consistency ('turn from your fierce anger'); God 'relents'—intercession changes divine response; prayer's power demonstrated."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Tablets Broken and Covenant Rupture",
+          "reference": "32:15-24",
+          "why_start_end_and_devices": "Starts with Moses descending mountain. Ends with tablets broken (thrown from hands). Devices: Tablets broken before people's sight—physical covenant rupture; 'They were written on both sides' (וְטוּ, ve-tu—completely written—indicates completeness); Moses' anger burning (like God's); tablets' destruction parallels hearts' corruption; community's sin becomes observable—visible covenant violation; Aaron's excuse ('don't be angry...gold came out and this calf emerged'—deflects responsibility); Moses burns calf, grinds it, makes community drink (punishment through consumption)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Levites' Zeal and Judicial Execution",
+          "reference": "32:25-29",
+          "why_start_end_and_devices": "Starts with 'Moses saw that the people were running wild.' Ends with 'Consecrate yourselves to the LORD today...receiving a blessing.' Devices: Moses' call to Levites (לִי, li—'to me') for judgment; 'each man put on his sword' (judgmental action); three thousand executed (אִישׁ אֶת־בְנוֹ וְאִישׁ אֶת־אָחִיו, ish et-bno ve-ish et-achiv—kin slaying shows covenant priority over kinship); Levites' loyalty establishes tribe's priestly role (covenant zealousness = priestly qualification); blood atonement through judgment; God's blessing on Levites for covenant enforcement; priests' future role grounded in breach-response zeal."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "God's Plague and Moses' Second Intercession",
+          "reference": "32:30-35",
+          "why_start_end_and_devices": "Starts with Moses telling people about their sin. Ends with 'The LORD struck the people with a plague.' Devices: Moses' repeated intercession ('perhaps I can make atonement'); covenantal language ('sin of gold idolatry'); Moses willing to be blotted from God's book (נִמְחַת מִן־הַסֵּפֶר, nimchat min ha-sefer—erased from written record) shows intercessor's ultimate sacrifice; God's response: plague occurs anyway—judgment cannot be fully averted by intercession alone; consequences remain despite forgiveness (sin's real harm acknowledged); God promises presence-guidance despite breach ('angel will go before you')."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "God's Character Revelation: Compassion Over Wrath",
+          "reference": "33:12-34:9",
+          "why_start_end_and_devices": "Starts with Moses' continued intercession and plea for God's presence. Ends with 'the LORD's mercy endures forever.' Devices: Moses seeks deeper knowledge ('know your ways'—עַם־הַדַּרְכֶיךָ, im ha-darcheyka—intimate relationship); God reveals name/character (שׁוֹמְרִים, shomrim—guarding/keeping); self-description becomes foundational confession: 'The LORD, the LORD, the compassionate and gracious God, slow to anger, abounding in love and faithfulness' (יְהוָה יְהוָה אֵל רַחוּם וְחַנּוּן, YHWH YHWH El rachum ve-chanun); character formula reestablishes covenantal foundation; God's willingness to renew despite breach shows covenant's resilience; mercy explicitly stated as exceeding judgment."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Renewed Covenant and Second Tablets",
+          "reference": "34:1-4",
+          "why_start_end_and_devices": "Starts with 'The LORD said to Moses: Chisel out two stone tablets like the first ones.' Ends with tablets newly written by God's hand. Devices: Covenant renewal formula ('I am making a covenant'—כְרִית, kerit—establishing anew); second tablets signal grace over judgment; God's hand writes again (not intermediary—divine commitment reaffirmed); 'like the first ones' shows original covenant continues (not replaced, renewed); forty-day wait (prayer-fasting period); dawn summit appointment (theophanic structure); restoration complete—broken tablets restored, community given second chance."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "God's Warnings and Land Promise Reiterated",
+          "reference": "34:10-28",
+          "why_start_end_and_devices": "Starts with 'Do not make a covenant with the people of that land.' Ends with 'Write these words, for in accordance with these words I have made a covenant.' Devices: Idolatry warning explicitly (עֲבוֹדַת־אֱלֹהִים אַחֵרִים, avodat elohim acherim—worship of other gods forbidden); festival calendar reestablished (Passover, Weeks, Ingathering); Sabbath emphasis ('Even during plowing season and harvest you must rest'); covenant conditionality reaffirmed ('if you listen...blessings; if you turn away...curses'); land conquest promised (land flowing with milk and honey—promise from Genesis repeated); priestly responsibility returned (God's covenant with them despite breach); written covenant (second time written—legal binding)."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Moses' Transformed Face: Glory's Sign",
+          "reference": "34:29-33",
+          "why_start_end_and_devices": "Starts with Moses descending with renewed tablets. Ends with veil placed over Moses' face. Devices: Face shining (קָרַן, karan—radiating, with 'horns' imagery in older translations—שְׁנֵי־קַרְנֵי אוֹר, shnei-karnei or—two horns of light); radiance becomes permanent transformation (after covenant encounter); Israelites' fear ('were afraid to come near')—holiness inspires awe; Moses' veil covers radiance ('when Moses finished speaking, he put a veil over his face'); veil symbolizes covenant mystery and mediation; Paul references this veil (2 Corinthians 3:12-18) showing ongoing interpretive significance."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Covenant Renewal Complete: Presence Restored",
+          "reference": "34:34-35",
+          "why_start_end_and_devices": "Final scene: whenever Moses speaks God's word, veil removed; when speaking to people, veil replaced. Devices: Unveiled Moses represents direct God-word transmission (no intermediary); veiled Moses in people's presence respects their fear and covenant distance; pattern established: God's word is direct, people's access mediated; Moses' ongoing role as prophet-mediator confirmed; radiance becomes perpetual sign of covenant's continuation; breach resolved through grace, covenant restored for journey's duration."
+        }
       ]
     },
     {
       "story_letter": "E",
-      "story_title": "Sinai Covenant: God Dwells with His People",
-      "why_start_end_and_literary_glue": "Begins with YHWH's covenant formula 'Now therefore, if you obey...you will be my treasured possession' establishing conditional relationship. Ends with covenant written on stone by God's finger and placed in ark, sealing YHWH's presence. Theophanic structure: Preparation (19:1-15)→Theophany (19:16-20:21)→Law (20:22-23:33)→Covenant ratification (24:1-18). Formula markers: 'These are the words' (דברים, devarim—cf. Deuteronomy name) frames law collection; 'the voice of YHWH' (קוֹל יְהוָה, qol YHWH) repeated throughout theophany establishes God's word as central; 'blood of covenant' (דַּם הַבְּרִית, dam habberit—24:8) seals relationship through sacrifice. Chiastic structure: A: Theophanic descent (19:16-20)→B: Law (20-23)→A': Covenant confirmation with God's written word (24:1-18).",
-      "reference": "19:1-24:18",
+      "story_title": "The Dwelling Construction: Covenant Community Builds",
+      "why_start_end_and_literary_glue": "Begins with 'Moses assembled the whole Israelite community' (35:1). Ends with 'the glory of the LORD filled the tabernacle' (40:34). This story narrates the actual construction and assembly of the tabernacle according to specifications. Literary structure: Sabbath rest reminder and offering call → Community's freewill contribution → Craftspeople's construction of components (coverings, frames, furniture, vessels) → Assembly in proper sequence → Glory's descent (God's presence visible). Central theme: covenant community participates in God's dwelling place through unified effort. Inclusio: 'I will dwell among you' (29:45) → 'the glory of the LORD filled the tabernacle' (40:34).",
+      "reference": "35:1-40:38",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Theophany: God Descends Upon Sinai", "reference": "19:1-25", "why_start_end_and_devices": "Starts with 'In the third month...' (two-month transition from Egypt) establishing covenantal timing. Ends with people at mountain base trembling, Moses alone ascending. Devices: Mountain preparation (abstinence, sanctification, boundary-setting) establishes holiness protocol; theophanic signs (thunder, lightning, thick cloud, trumpet blast, mountain shaking) create overwhelming sensory experience showing God's transcendence; three-day preparation (19:10-15) parallels death/resurrection pattern; 'I will come to you in a thick cloud' emphasizes divine accessibility within transcendence."},
-        {"scene_number": 2, "scene_name": "The Decalogue: Ten Commandments as Covenant Foundation", "reference": "20:1-21", "why_start_end_and_devices": "Starts with 'And God spoke all these words' (direct divine speech, no mediation at this point). Ends with people's fear and request that Moses mediate. Devices: Ten-word structure (מִצְוָה, mitzvah='commandment') becomes canonical; first four commandments (God-focused) precede last six (neighbor-focused) showing vertical relationship foundation; repetition of name YHWH (יְהוָה) in first person throughout emphasizes God's identity and authority; Golden Calf interruption (22:30-23:33) provides legal elaboration and conditional covenant language ('if you listen...you will be my people')."},
-        {"scene_number": 3, "scene_name": "Case Laws and Covenantal Statutes", "reference": "20:22-23:33", "why_start_end_and_devices": "Starts with God's instruction 'You have seen...I have spoken' establishing legal authority. Ends with angel-promise of Promised Land conquest. Devices: Case law structure (אִם־תִשְׁמְרוּ, im-tishm'ru='if you hear/obey') links obedience to blessing; laws cover ethics (masters/servants, violence, theft), religious practice (Sabbath, feasts, firstfruits), and social justice (widows, aliens, poor) showing covenant comprehensiveness; angel-mediation (23:20) prefigures post-Sinai guidance; wilderness-to-land trajectory established."},
-        {"scene_number": 4, "scene_name": "Covenant Ratification: Blood Seal and Glory", "reference": "24:1-18", "why_start_end_and_devices": "Starts with 'Come up to the LORD, you and Aaron, Nadab and Abihu' (hierarchical approach). Ends with Moses entering cloud for 40 days receiving stone tablets. Devices: Covenant meal (eating/drinking before God—24:11) symbolizes fellowship; 'blood of covenant' (כְּפֵי הַבְּרִית, kepi habberit—v.8) seals commitment—Moses sprinkles half on altar/half on people creating sacrifice-mediated relationship; 'written with God's finger' (24:12, וּכְתִיבִים בְּאֶצְבַּע, akh'tebuim be-etsba) connects to plague language ('finger of God'—8:19) showing revelation continuity; 40-day period establishes extended prayer/instruction time (prefigures 40 days wilderness testing, 40-year wandering)."}
-      ]
-    },
-    {
-      "story_letter": "F",
-      "story_title": "Pivotal Breach and Presence: Idolatry, Forgiveness, and Tabernacle",
-      "why_start_end_and_literary_glue": "Begins with 'When the people saw that Moses delayed coming down from the mountain' establishing breach-moment. Ends with 'And the glory of the LORD filled the tabernacle' establishing restoration. Central irony: While Moses receives law on high, Israel violates it below (golden calf). Narrative arc: Breach (32:1-6)→Judgment (32:7-35)→Intercession (32:11-14, 33:12-34:9)→Restoration (34:29-35:39). Theological resolution: God's presence (שְׁכִינָה, shekhinah) returns not through perfect obedience but through forgiveness and covenant renewal (34:10, 'I am making a covenant'—renewed after breach). Tabernacle construction (35-40) transforms tent-of-meeting into portable Sinai, bringing holy presence to community's center. Inclusio: 'I will dwell among you' (25:8, 29:45-46)→'The glory of the LORD filled the tabernacle' (40:34-38).",
-      "reference": "25:1-40:38",
-      "scenes": [
-        {"scene_number": 1, "scene_name": "The Golden Calf: The People's Rebellion", "reference": "32:1-6", "why_start_end_and_devices": "Starts with impatience ('Moses delayed coming down'). Ends with feast celebration before calf. Devices: Aaron's enablement (collecting gold without resistance) raises priestly complicity questions; calf described as עֵגֶל, eigel (young bull—Egyptian Apis imagery) connecting to plague-judgment themes; 'These are your gods' (plural despite singular object) shows covenant-law violation within 40 days of ratification; 'feast to the LORD' (24:5-level language misapplied to idols) demonstrates theological confusion—shows people creating manageable deity."},
-        {"scene_number": 2, "scene_name": "Moses' Intercession: Covenant Renewal and Forgiveness", "reference": "32:7-34:9", "why_start_end_and_devices": "Starts with God's threat 'I have seen this people...I will consume them' (comparable to Sodom destruction language). Ends with covenant renewal ('I am making a covenant before all your people'—34:10). Devices: Moses' intercession (תְּפִלָּה, tefillah—prayer as bridge) appeals to God's name-reputation and promise to Abraham ('Remember your servants'); destroyed tablets (32:19) show covenant-rupture physicality; second tablets (34:1) written by God again showing grace; 34:6-7 revelation of God's character ('compassionate and gracious, slow to anger, abounding in loyal love...') becomes foundational confession (quoted throughout OT); Moses' radiant face (קָרַן, karan—'horns/rays') becomes permanent sign of encounters with glory."},
-        {"scene_number": 3, "scene_name": "Tabernacle Construction: God's Portable Dwelling", "reference": "35:1-40:38", "why_start_end_and_devices": "Starts with Sabbath law reminder (35:1-3) establishing order-restoration. Ends with cloud/glory filling tabernacle and pillar of fire guiding journeys. Devices: Detailed specifications (ark, table, lampstand, altar, courtyard) allow community participation (freewill offerings—35:21-29) making tabernacle collective creation; construction completion (40:33-37) literally fulfills covenant promise 'I will dwell among you'; God's glory manifests physically (cloud by day, fire by night) providing divine guidance and presence comfort; portable sanctuary design allows presence to accompany wilderness pilgrimage—Sinai experience becomes traveling revelation. Final imagery: Moses cannot enter tabernacle because glory fills it—shows divine holiness even after breach/forgiveness, maintaining transcendence within immanence."}
+        {
+          "scene_number": 1,
+          "scene_name": "Sabbath Rest Requirement Reaffirmed",
+          "reference": "35:1-3",
+          "why_start_end_and_devices": "Starts with 'Moses assembled the whole Israelite community.' Ends with 'You shall kindle no fire throughout your settlements on the Sabbath day.' Devices: Sabbath sanctity reaffirmed despite construction urgency; 'gather the community' (הַקָּהָל, ha-qahal—assembly/congregation); work prohibition explicit ('anyone who does any work on the Sabbath day must be put to death'—covenant seriousness); Sabbath supersedes building schedule; fire prohibition (even for warmth—indicates Sabbath's ultimate priority); sanctity framework reestablishes order after breach chaos."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Offering Campaign and Freewill Giving",
+          "reference": "35:4-29",
+          "why_start_end_and_devices": "Starts with 'Take from among you an offering to the LORD.' Ends with 'the Israelites brought a freewill offering.' Devices: Offering is freewill (נְדָבָה, nedavah—not coerced), showing renewed community commitment post-breach; materials list repeated (gold, silver, bronze, dyes, linens, wood, stones, oils); 'everyone whose heart was willing' (כָּל־אִישׁ אֲשֶׁר נְדָבוֹ אֶת־לִבּוֹ, kol-ish asher nedavo et-libo) shows internal motivation; women's participation ('the women who were skilled spinners brought...') includes female laborers; community's eager response shows covenant restoration acceptance; material abundance exceeds needs ('they have more than enough')."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Craftsmen Called and Gifted",
+          "reference": "35:30-36:7",
+          "why_start_end_and_devices": "Starts with Bezalel and Oholiab named as master craftsmen. Ends with 'Moses summoned Bezalel...and gave them charge.' Devices: Divine gifting (מִלְּאוּ אֹתָם חָכְמַת־לֵב, mill'um otam chokhmat lev—filled with heart-wisdom); artisan skill as Holy Spirit's blessing; Bezalel's name (בְצַלְאֵל אֱלֹהִים בִּי, Betzalel Elohim bi—'God in me'); assistants and other skilled workers included (cooperative craftsmanship); specific skill descriptions (engraving, designing, weaving, dyeing, carving); giftedness hierarchy established (Bezalel leads, others support); all materials generously provided by community."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Construction of Coverings and Curtains",
+          "reference": "36:8-19",
+          "why_start_end_and_devices": "Starts with construction of innermost linen curtain. Ends with outer leather covering. Devices: Cherubim woven into curtains (artistic and theological—angelic design); fine linen and dyes show quality craftsmanship; curtain loops and clasps create assembly mechanism (portable design); goat hair covering, ram skin, dolphin skin layers add protection (waterproofing for desert travel); layered beauty—exterior protection conceals interior holiness; construction follows divine specification exactly ('just as the LORD commanded')."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Ark Constructed and Furnished",
+          "reference": "37:1-9",
+          "why_start_end_and_devices": "Starts with Bezalel making the ark. Ends with cherubim made 'in one piece with the atonement cover.' Devices: Acacia wood construction with gold overlay; mercy seat (כַּפֹּרֶת, kapporet) with faces of cherubim ('looking toward each other'); gold rings for carrying poles (portability); specification-exact construction ('just as the LORD commanded Moses'—attention to detail); two stone tablets placed inside; ark becomes covenant's physical center (presence and law united)."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Table and Bread of the Presence",
+          "reference": "37:10-16",
+          "why_start_end_and_devices": "Starts with table construction. Ends with 'utensils for serving were made of pure gold.' Devices: Acacia wood with gold overlay; proper dimensions and frame; rings for carrying; plates, cups, bowls, pitchers of pure gold (quality and sanctity); perpetual bread provision becomes covenant meal symbol; table's placement (right side of tabernacle—spatial ordering); construction precision maintained throughout."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Golden Lampstand Constructed",
+          "reference": "37:17-24",
+          "why_start_end_and_devices": "Starts with lampstand made from pure gold. Ends with 'one talent of pure gold was used.' Devices: Hammered gold construction (solid precious metal—not overlay); seven branches with almond-flower design; lamps and trimmers provided; light-giving purpose emphasized; singular construction (one lampstand for all seven branches—unity in multiplicity); monetary value noted (emphasis on costly dedication)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Altars and Incense Vessels",
+          "reference": "37:25-29",
+          "why_start_end_and_devices": "Starts with altar of incense made. Ends with 'sacred anointing oil and the pure, fragrant incense.' Devices: Acacia wood with gold overlay; gold crown edge (sacred boundary); rings for carrying; altar placement before inner veil (threshold to holiness); specific incense formula created (frankincense, myrrh, galbanum, stacte—proportional mixing); anointing oil prepared (myrrh, cinnamon, cane, cassia, olive oil); both prepared to divine specification; anointing and incense become permanent tabernacle functions."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Altar of Burnt Offering",
+          "reference": "38:1-7",
+          "why_start_end_and_devices": "Starts with altar of burnt offering construction. Ends with 'bronze grating network.' Devices: Acacia wood with bronze overlay; four horns at corners; bronze grating below for ashes collection; carrying rings (portability maintained); proper dimensions; altar's prominence in courtyard shows sacrifice's centrality; bronze symbolizes judgment/purification; sacrificial function primary (not decorative like golden furniture)."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Bronze Basin for Washing",
+          "reference": "38:8",
+          "why_start_end_and_devices": "Brief scene establishing priestly washing vessel. Starts with basin made from bronze mirrors. Ends with basin placement between tent and altar. Devices: Women's mirrors recycled (transformation of private to public sacred use); bronze basin (purification metal); strategic placement (priestly approach pathway—hand/foot washing before entering); functional theology—purity prerequisite for holiness service."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Courtyard Structure Completed",
+          "reference": "38:9-20",
+          "why_start_end_and_devices": "Starts with courtyard enclosure specifications. Ends with 'all the pegs of the tabernacle...were bronze.' Devices: Linen curtains form boundary (וְשֵׁשׁ, fine linen—white purity); proper dimensions (100 cubits length, 50 cubits width); west side open (tabernacle entry); north, south, east walls; gate entrance with woven screen; copper posts and silver hooks (materials specification); all pegs bronze (structural completeness); courtyard becomes sacred precinct separated from common community space."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Calculation of Materials Used",
+          "reference": "38:21-31",
+          "why_start_end_and_devices": "Starts with 'These are the amounts of the materials used.' Ends with precise accounting of gold, silver, bronze. Devices: Levitical accounting responsibility (Ithamar son of Aaron oversees accounting); specific quantities: gold (1,665 shekels), silver (100,100 shekels), bronze (2,450 shekels); all materials accounted for showing transparency and order; financial accountability establishes community trust; wastage prevented—efficient resource stewardship; accounting shows God's people operate with integrity."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Priestly Garments Made",
+          "reference": "39:1-31",
+          "why_start_end_and_devices": "Starts with 'From the blue, purple and scarlet yarn they made the priestly garments.' Ends with 'as the LORD commanded Moses.' Devices: Ephod made (priestly garment with breast-piece); woven design with gold, blue, purple, scarlet, fine linen; breastpiece with twelve tribes engraved (Urim and Thummim stones inside—divine decision mechanism); Anointing done with name 'holy to the LORD' engraved (sanctity mark); bells and pomegranates on hem; turban with forehead plate; artisan precision throughout ('just as the LORD commanded'); priestly dress embodies covenant theology—visible holiness."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Inspection and Moses' Approval",
+          "reference": "39:32-43",
+          "why_start_end_and_devices": "Starts with 'All the work on the tabernacle...was completed.' Ends with 'Moses inspected the work and...blessed them.' Devices: Work completed (כָּלוּ, kalu—finished, perfected); community presents all completed items to Moses; inspection verifies specification compliance; 'just as the LORD had commanded' repeated (exact obedience); Moses blesses the workers ('May the LORD fill you with the Spirit'); community celebration of completion; blessing establishes priestly role—leaders affirm workers."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Tabernacle Assembly: Setting Up",
+          "reference": "40:1-15",
+          "why_start_end_and_devices": "Starts with 'The LORD said to Moses: Set up the tabernacle, the tent of meeting.' Ends with 'Anoint Aaron and his sons to serve me as priests.' Devices: Divine instruction for assembly sequence (not arbitrary); 'on the first day of the first month' (calendar significance); assembly steps ordered (ark, curtain, table, lampstand, altars, basin); specific placement directions (east-west orientation); anointing oil for furniture sanctification (makes objects holy); priestly anointing (makes persons holy); assembly creates functioning covenant community structure."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Component Placement and Positioning",
+          "reference": "40:16-33",
+          "why_start_end_and_devices": "Starts with Moses following God's instructions. Ends with 'Moses finished the work.' Devices: Step-by-step placement (ark first—covenant center), then table (sustenance), lampstand (light), altars (sacrifice and prayer), basin (purification); outer courtyard assembly; all furniture positioned precisely ('Moses put the table...lampstand...altar of incense...'); 'just as the LORD commanded' (obedience emphasis); careful placement shows architectural purpose—each item serves covenant theology; Moses' completion note marks transition to divine action."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Priestly Consecration and Washing",
+          "reference": "40:31-33",
+          "why_start_end_and_devices": "Embedded in assembly: Aaron and sons wash at basin. Ends with furniture in proper place. Devices: Hand and foot washing (טָהֳרָה, purification ritual); priestly preparation (קָדַשׁ, kaddash—sanctification); basin placement emphasized (communal access); 'Moses...finished the work' signals readiness for divine presence."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Glory of the Lord Fills the Tabernacle",
+          "reference": "40:34-35",
+          "why_start_end_and_devices": "Starts with 'Then the cloud covered the tent of meeting.' Ends with 'Moses could not enter the tent of meeting.' Devices: Cloud descent (אָנָן, annan—covering cloud); God's presence fills tabernacle (שָׁכַן, shakan—dwell, establish presence); glory visible (כָּבוֹד יְהוָה, kavod YHWH—God's manifest presence); cloud so dense Moses cannot enter—holiness intensity; transition from human work to divine presence; covenant promise 'I will dwell among you' (25:8) now actualized; tabernacle becomes functioning as God's earthly address."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Divine Guidance: Cloud and Fire Pillars",
+          "reference": "40:36-37",
+          "why_start_end_and_devices": "Starts with 'In all the travels of the Israelites.' Ends with 'the cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night.' Devices: Perpetual guidance (travel patterns dependent on cloud/fire positioning); cloud day, fire night (constant divine orientation); tabernacle centered in camp (God at community's center); movement follows divine leading (not autonomous decision-making); cloud lifting signals departure readiness; fire assures night protection; visible presence comforts covenant community."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Covenant Completion: God's Dwelling Established",
+          "reference": "40:38",
+          "why_start_end_and_devices": "Final scene: 'So the cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel during all their travels.' Devices: Visible presence described as 'in the sight of all the house of Israel'—collective witness; 'during all their travels'—perpetual presence throughout journey; cloud and fire combination provides guidance (visibility) and protection (divine power); book closes with covenant people organized around God's dwelling; tabernacle journey begins (prefigures wilderness wandering); presence-promise realization: God 'dwells among you' becomes observable reality; Exodus story achieves completion—deliverance leads to covenant leads to dwelling, establishing Israel as God's people with God's presence."
+        }
       ]
     }
   ]
