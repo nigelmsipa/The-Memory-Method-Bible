@@ -1,0 +1,222 @@
+{
+  "book_name": "Daniel",
+  "hebrew_name": "דָּנִיֵּאל (Daniyye'l)",
+  "canonical_grouping": "Major Prophets (Hebrew Bible: Ketuvim/Writings)",
+  "big_picture_notes": "The Book of Daniel is defined by its striking bipartite structure and trilingual nature (Hebrew in 1:1-2:4a and 8:1-12:13; Aramaic in 2:4b-7:28). This shift in language and genre acts as the primary literary framework. The first half (Ch 1-6) presents a series of six self-contained, court-setting narratives detailing the steadfast faith and ultimate exaltation of Jewish exiles. The second half (Ch 7-12) consists of four interconnected apocalyptic visions given directly to Daniel. A crucial structural feature is the proposed chiasm spanning the Aramaic section (2-7), which centers the book's theological message on God's sovereignty and the future kingdom of God. Repetition is a primary literary device, evident in the recurring theme of Gentile kings being forced to acknowledge the 'God of Heaven,' and the overlapping nature of the visions (Ch 2, 7, 8, 10-12) which re-narrate the succession of world empires.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Court Narratives of Trial and Testimony",
+      "why_start_end_and_literary_glue": "This unit comprises six discrete, self-contained narratives that follow Daniel and his three friends within the Babylonian and Medo-Persian courts. It is united by a consistent historical narrative genre (Ch 1-6) and the theme of fidelity under pressure (diet, furnace, lions' den). The unit serves to establish Daniel's character and prophetic authority before the visions begin. The narratives are linked by chronological markers and the repeated narrative arc of conflict (decree) → crisis (trial) → resolution (deliverance/exaltation). Start (1:1): 'In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.' A clear historical/chronological marker setting the context for the entire book. End (6:28): 'So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian.' A formal narrative summary and biographical conclusion, marking the end of the court stories before the major genre shift. Literary Glue: The repeated use of the phrase 'God of Heaven' in the Gentile kings' decrees/doxologies (2:44, 4:37, 6:26) binds these stories together, emphasizing God's universal sovereignty. The motif of testing (diet, fire, law) and subsequent promotion is repeated across the episodes.",
+      "reference": "1:1 - 6:28",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Exile and the Test of Dedication",
+          "reference": "1:1-7",
+          "why_start_end_and_devices": "Starts with historical/chronological marker: 'In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it' (1:1). Ends with formal naming/renaming of the four youths (1:7), completing the selection process decreed by the king. The scene establishes the setting, introduces the main characters (Daniel, Hananiah, Mishael, Azariah), and the initial conflict of exile."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Request for a Different Diet",
+          "reference": "1:8-14",
+          "why_start_end_and_devices": "Starts with narrative turn, Daniel's internal decision: 'But Daniel resolved that he would not defile himself...' (1:8). Ends with conclusion of the 'ten-day trial' agreement (1:14), establishing a new covenant/test. The scene focuses on Daniel's personal integrity through dialogue/request-plea structure between Daniel and the steward. The outcome is conditional on the ten-day experiment."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "God's Blessing and the Youths' Exaltation",
+          "reference": "1:15-21",
+          "why_start_end_and_devices": "Starts with result of the test: 'At the end of ten days it was seen that they were better in appearance...' (1:15). Ends with final chronological and biographical summary: 'He continued until the first year of King Cyrus' (1:21), a structural inclusio on the idea of long-term faithfulness. The hyperbole that the youths were 'ten times better' (1:20) serves as the literary climax. The scene resolves the initial conflict and establishes Daniel's wisdom."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The King's Demand and the Wise Men's Failure",
+          "reference": "2:1-13",
+          "why_start_end_and_devices": "Starts with narrative shift: 'In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar had dreams...' (2:1). Ends with execution decree issued: 'The decree went out, and the wise men were about to be killed' (2:13), completing the conflict/tension build-up. The repetition of the demand ('tell me the dream and its interpretation') and the magi's protest drives the confrontation."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Daniel's Intervention and Prayer",
+          "reference": "2:14-23",
+          "why_start_end_and_devices": "Starts with narrative turn: 'Then Daniel replied with prudence and discretion to Arioch...' (2:14), marking the point of intervention. Ends with Daniel's hymn of praise and doxology after receiving the revelation (2:23), completing the prayer unit. The exchange with Arioch is followed by the private prayer circle. The prayer/hymn structure (2:20-23) serves as a complete rhetorical thought."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Daniel's Audience and God's Great Image Revealed",
+          "reference": "2:24-35",
+          "why_start_end_and_devices": "Starts with narrative shift to the court: 'Therefore Daniel went in to Arioch...' (2:24). Ends with the rock striking the image, and the resulting debris scattered (2:35), completing the physical description of the entire dream. Clear dialogue between Daniel and the King. The detailed description of the image (metals) and the rock/mountain introduces the major prophetic motif of successive kingdoms."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Interpretation of the Kingdoms and Daniel's Reward",
+          "reference": "2:36-49",
+          "why_start_end_and_devices": "Starts with transition to interpretation: 'This was the dream; now we will tell the king its interpretation' (2:36). Ends with King's final proclamation and Daniel's promotion, resolving the threat (2:49). Interpretive discourse followed by narrative conclusion. The King's confession of God's greatness (2:47) is a narrative climax reflecting the exaltation/reward motif."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Golden Image and the Decree of Worship",
+          "reference": "3:1-7",
+          "why_start_end_and_devices": "Starts with setting the scene: 'King Nebuchadnezzar made an image of gold...' (3:1). Ends with immediate execution of the decree: '...and they fell down and worshiped the golden image' (3:7), completing the establishment of the conflict. Focuses on the central conflict (idolatry vs. monotheism). The repetition of the musical instruments and the groups gathered (3:4-7) emphasizes the universality of the decree."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Accusation and the Faithful Refusal",
+          "reference": "3:8-18",
+          "why_start_end_and_devices": "Starts with new speakers (Chaldeans): 'Therefore, at that time certain Chaldeans came forward and maliciously accused the Jews' (3:8). Ends with friends' final, resolved statement of faith: 'But even if he does not, let it be known to you, O king, that we will not serve your gods...' (3:18), a rhetorical climax. Clear shift in speaker drives the tension. The friends' speech is a rhetorically perfect, self-contained thought."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The King's Fury and the Preservation in the Fire",
+          "reference": "3:19-27",
+          "why_start_end_and_devices": "Starts with King's emotional shift: 'Then Nebuchadnezzar was full of fury...' (3:19), marking the action shift. Ends with King's officials seeing the men emerge unharmed (3:27), completing the miraculous action/deliverance. Action-oriented scene with the hyperbole of heating the furnace seven times hotter. The dialogue between the king and the fourth figure in the fire is the centerpiece of divine intervention."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Nebuchadnezzar's Decree and Promotion",
+          "reference": "3:28-30",
+          "why_start_end_and_devices": "Starts with King's oracle/proclamation: 'Nebuchadnezzar answered and said, Blessed be the God of Shadrach, Meshach, and Abednego...' (3:28). Ends with narrative resolution/promotion: 'Then the king promoted Shadrach, Meshach, and Abednego...' (3:30), a definitive conclusion. Defined by the King's formal oracle formula (doxology) and the final narrative conclusion/reward."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The King's Testimony and the Dream Described",
+          "reference": "4:1-18",
+          "why_start_end_and_devices": "Starts with King's opening decree/epistolary formula: 'Nebuchadnezzar the king, to all peoples, nations, and languages...' (4:1). Ends with Daniel's response to the dream description (4:18), completing the description unit. The entire chapter is framed as a royal decree (epistolary formula). The scene is unified by the King's voice narrating the dream of the Great Tree."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Daniel's Interpretation and Warning",
+          "reference": "4:19-27",
+          "why_start_end_and_devices": "Starts with speaker change and emotional marker: 'Then Daniel... was dismayed for a while...' (4:19). Ends with Daniel's final counsel: '...that perhaps there may be a lengthening of your prosperity' (4:27), completing the warning and advice. Dialogue/Interpretation scene with clear speaker change (Daniel). The warning is a clear rhetorical unit before the event occurs."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The King's Humiliation and Restoration",
+          "reference": "4:28-37",
+          "why_start_end_and_devices": "Starts with time shift/narrative turn: 'All this happened to King Nebuchadnezzar' (4:28). Ends with Nebuchadnezzar's final doxology and statement of restoration (4:37), which acts as the chapter's rhetorical inclusio with 4:1-3. Action and resolution scene. The King's final hymn of praise and acknowledgment of God's eternal dominion (4:34-37) provides a clear, strong endpoint for this narrative arc."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Profane Feast and the Mysterious Hand",
+          "reference": "5:1-9",
+          "why_start_end_and_devices": "Starts with setting the scene: 'Belshazzar the king made a great feast...' (5:1). Ends with King's panic and the inability of the wise men (5:9), completing the conflict/tension build-up. Scene of dramatic action with contrast between the profane use of sacred vessels and the frightening manifestation of God's power."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Queen Mother's Intervention and Daniel's Arrival",
+          "reference": "5:10-16",
+          "why_start_end_and_devices": "Starts with speaker change: 'The queen, because of the words of the king and his lords, came into the banqueting hall' (5:10). Ends with Belshazzar's final plea to Daniel (5:16), setting the stage for the interpretation. Scene of intervention/dialogue where the Queen's speech functions as the catalyst for the introduction of Daniel into this new royal context."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Daniel's Rebuke and the Interpretation",
+          "reference": "5:17-28",
+          "why_start_end_and_devices": "Starts with speaker change: 'Then Daniel answered and said before the king, Let your gifts be for yourself...' (5:17). Ends with final declaration of the verdict: 'Your kingdom is divided and given to the Medes and Persians' (5:28), completing the entire interpretation of the words. Dense rhetorical scene with Daniel's long historical recapitulation/rebuke (5:18-24) preceding the interpretation. The interpretation itself is a complete thought unit."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Belshazzar's Death and the Narrative Conclusion",
+          "reference": "5:29 - 6:1",
+          "why_start_end_and_devices": "Starts with narrative resolution/reward: 'Then Belshazzar gave the command, and Daniel was clothed...' (5:29). Ends with narrative shift/chronological marker: 'That very night... Darius the Mede received the kingdom' (6:1), setting up the next story and providing a final, abrupt transition. Brief scene of climax and immediate political transition. Note that 6:1 is often 5:31 in other translations (KJV, ESV, etc.), demonstrating a minor translation boundary difference."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Plot Against Daniel and the New Decree",
+          "reference": "6:2-9",
+          "why_start_end_and_devices": "Starts with narrative turn/new king/new protagonists (plotters): 'It pleased Darius to set over the kingdom 120 satraps...' (6:2). Ends with King Darius signing the document (6:9), legalizing the conflict and completing the conspiracy stage. Focuses on the conspiracy/jealousy motif. The repetition of 'no ground for complaint... except in connection with the law of his God' (6:5) is the core conflict."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Daniel's Faith and the Execution of the Law",
+          "reference": "6:10-18",
+          "why_start_end_and_devices": "Starts with Daniel's deliberate action: 'When Daniel knew that the document had been signed, he went to his house...' (6:10). Ends with King's final, sorrowful statement before the stone is sealed (6:18), completing the execution and legal action. Scene of action/resolution of the legal conflict with parallelism noted in Daniel's three-times-daily prayer in contrast to the single decree."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Miracle of Deliverance and Darius's Doxology",
+          "reference": "6:19-28",
+          "why_start_end_and_devices": "Starts with time shift/action shift: 'Then, at the break of dawn, the king arose...' (6:19). Ends with narrative summary/bookend conclusion of the court narratives: 'So this Daniel prospered...' (6:28), which is the unit's final summary. Scene of divine reversal and doxology. The King's formal oracle/decree (6:25-27) is the center of the scene, mirroring Nebuchadnezzar's similar proclamations."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Apocalyptic Visions of God's Enduring Kingdom",
+      "why_start_end_and_literary_glue": "This unit is defined by a radical genre and narrative shift to first-person prophetic visions (starting in Aramaic, shifting to Hebrew from 8:1). It is a collection of four major, interlinked apocalyptic visions (Ch 7, 8, 9, 10-12) that collectively reveal God's plan for the future. The material is unified by the consistent motif of vision → interpretation → Daniel's reaction. Start (7:1): 'In the first year of Belshazzar king of Babylon, Daniel saw a dream and visions...' A definitive time/genre/speaker shift marker, marking the transition from courtier to prophet/visionary. End (12:13): 'But as for you, go your way till the end. And you shall rest and shall stand up to your allotted inheritance at the end of the days.' A definitive oracle/speaker change (The Angel) and final personal conclusion to Daniel, ending the prophetic cycle and the book. Literary Glue: The consistent focus on four successive kingdoms (Ch 2, 7, 8) and the repetition of chronological markers ('first year of Belshazzar,' 'third year of Cyrus') and the motif of the 'time of the end' bind the revelations into a single eschatological story.",
+      "reference": "7:1 - 12:13",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Vision of the Four Beasts",
+          "reference": "7:1-8",
+          "why_start_end_and_devices": "Starts with chronological and genre shift: 'In the first year of Belshazzar...' (7:1). Ends with Daniel's focus on the terrifying small horn (7:8), completing the description of the four beasts. Descriptive prophecy scene where the sequence of four beasts (symbolic parallelism with the image of Ch 2) is the central unifying element."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Court of the Ancient of Days and the Son of Man",
+          "reference": "7:9-14",
+          "why_start_end_and_devices": "Starts with shift in focus from earthly beasts to the heavenly court: 'As I looked, thrones were placed...' (7:9). Ends with Son of Man receiving everlasting dominion (7:14), completing the heavenly judgment and transfer of power. The heavenly court scene is a self-contained vision unit, shifting time/place. The contrast between the beastly kingdom and the eternal one is stark."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Daniel's Disturbance and the Initial Inquiry",
+          "reference": "7:15-18",
+          "why_start_end_and_devices": "Starts with speaker change (Daniel) and emotional marker: 'As for me, Daniel, my spirit was distressed...' (7:15). Ends with Angel's brief, summary interpretation: '...and the saints of the Most High shall receive the kingdom...' (7:18), completing the initial question/answer. Short transitional scene, moving from vision to interpretation. The focus shifts to Daniel's internal state."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Detailed Interpretation of the Fourth Beast",
+          "reference": "7:19-28",
+          "why_start_end_and_devices": "Starts with Daniel's deeper inquiry: 'Then I desired to know the truth concerning the fourth beast...' (7:19). Ends with Daniel's personal emotional/narrative conclusion: '...and I was greatly troubled by my thoughts, and my color changed...' (7:28), concluding the Ch 7 vision. Detailed interpretive discourse with repetition of the 'Little Horn' description/action. The closing verses revert to a narrative style (first-person reflection)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Vision of the Ram and the Goat",
+          "reference": "8:1-14",
+          "why_start_end_and_devices": "Starts with chronological and location marker: 'In the third year of the reign of King Belshazzar... I was in Susa...' (8:1-2). Ends with rhetorical question and answer about the duration of the sanctuary defilement (8:14), completing the core prophetic vision. Descriptive prophecy scene with contrast/conflict (Ram vs. Goat, Persia vs. Greece). The phrase '2,300 evenings and mornings' is a structural hinge around which the vision is built."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Gabriel's Command and the Interpretation of the Vision",
+          "reference": "8:15-27",
+          "why_start_end_and_devices": "Starts with divine voice/speaker change: 'I heard a human voice... which called out, Gabriel, make this man understand the vision' (8:16). Ends with Daniel's final summary of his reaction: '...and was appalled by the vision, and did not understand it' (8:27), concluding the interpretive session. Interpretation scene with clear oracle formula/command (8:16). The final personal reflection is a narrative inclusio for the chapter."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Daniel's Prayer of Confession and Petition",
+          "reference": "9:1-19",
+          "why_start_end_and_devices": "Starts with chronological marker: 'In the first year of Darius...' (9:1). Ends with prayer's rhetorical conclusion/plea: '...for your own sake, O my God, for your city and your people are called by your name' (9:19), completing the petition. A liturgical scene unified by Daniel's continuous voice and the structure of confession/petition. The repetition of national sin and God's righteousness creates a single, cohesive rhetorical unit."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Gabriel's Arrival and the Oracle of the Seventy Weeks",
+          "reference": "9:20-27",
+          "why_start_end_and_devices": "Starts with divine messenger interruption/arrival: 'While I was speaking and praying...' (9:20), a clear transition from human to divine speech. Ends with final statement on the decreed desolation (9:27), completing the specific numerical prophecy (70 weeks). Oracle/Interpretation scene where the entire unit is governed by the specific numerical structure of the seventy weeks, creating a self-contained prophetic message delivered by the angel."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Daniel's Vision by the Tigris and the Divine Messenger's Arrival",
+          "reference": "10:1 - 11:1",
+          "why_start_end_and_devices": "Starts with chronological marker: 'In the third year of Cyrus...' (10:1). Ends with messenger's final concluding statement about the 'Prince of Persia': '...I have been standing as a support and a defense to him' (11:1), concluding the introductory dialogue before the main oracle begins. Scene of extended vision and dialogue with heavy use of emotional markers ('no strength was left in me,' 10:8) and a detailed description of the divine figure. This section serves as an extended dramatic prelude to the final oracle."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Prophecy of the Kings of the South and North",
+          "reference": "11:2-35",
+          "why_start_end_and_devices": "Starts with main oracle: 'Now I will tell you the truth...' (11:2). Ends with temporary fall of the wise: '...so that they may be refined, purified, and made white, until the time of the end; for it is yet for the time appointed' (11:35), marking a natural pause before the ultimate Antichrist figure. Detailed historical prophecy that is a single, uninterrupted, tightly organized oracle unified by the repetition of 'king of the South' and 'king of the North.'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The King Who Does His Will and the Time of Trouble",
+          "reference": "11:36 - 12:4",
+          "why_start_end_and_devices": "Starts with narrative shift: 'Then the king shall do according to his will...' (11:36), introducing the final, ultimate opposing figure. Ends with Daniel's command to seal the book: 'But as for you, Daniel, conceal these words and seal up the book until the time of the end' (12:4), completing the prophetic message. Focuses on the culmination of the conflict with contrast between the boastful king and the resurrection of God's people. The sealing command provides the structural endpoint."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Final Oaths and Daniel's Personal Conclusion",
+          "reference": "12:5-13",
+          "why_start_end_and_devices": "Starts with scene shift: 'Then I, Daniel, looked, and behold, two others were standing...' (12:5), beginning a new dialogue/exchange between heavenly figures. Ends with final, definitive personal command to Daniel: '...go your way till the end. And you shall rest and shall stand up to your allotted inheritance at the end of the days' (12:13), the book's ultimate narrative conclusion. Scene of concluding dialogue and oath/assurance. Uses numerical figures (1,290 days, 1,335 days) as key structural elements. The final, comforting command to Daniel is a perfect literary closing."
+        }
+      ]
+    }
+  ]
+}
