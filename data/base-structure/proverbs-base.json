@@ -1,0 +1,108 @@
+{
+  "book_name": "Proverbs",
+  "hebrew_name": "מִשְׁלֵי (Mishlei)",
+  "canonical_grouping": "Writings (Ketuvim), Wisdom Literature",
+  "big_picture_notes": "Proverbs is a divinely inspired anthology—multiple curated collections whose superscriptions provide the text‑driven framework. Its governing poetic device is parallelism (antithetical, synonymous, and synthetic), and its thematic center is 1:7: 'The fear of the LORD is the beginning of knowledge.' The book moves from extended, thematic discourses (chs. 1–9) to dense couplets (10:1–22:16), to 'sayings of the wise' akin to ANE instruction (22:17–24:34), to a Hezekian Solomonic appendix (25–29), and concludes with Agur (30) and Lemuel (31). For memorization, treat each discrete discourse or themed proverb cluster as a scene; do not arbitrarily split complete poems.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Father's Call to Wisdom",
+      "why_start_end_and_literary_glue": "Chs. 1–9 form an extended prologue of longer poems/discourses, contrasting Lady Wisdom and Folly. Start (1:1) titles the anthology; the section begins with 1:8 ('My son...') and ends at 9:18 with Folly's fatal feast, parallel to Wisdom's invitation (9:1–6). Literary Glue: repeated 'My son' addresses and the personifications of Wisdom and Folly.",
+      "reference": "1:1 - 9:18",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Title, Purpose, and Theme", "reference": "1:1-7", "why_start_end_and_devices": "Title (1:1) + purpose (1:2-6) conclude with the thematic key (1:7): 'The fear of the LORD...'—a complete thesis for the book." },
+        { "scene_number": 2, "scene_name": "A Father's Warning: The Call of Sinners", "reference": "1:8-19", "why_start_end_and_devices": "Begins 'My son' (1:8); ends with summary (1:19). A single narrative warning against violent greed, juxtaposing enticement and self‑destruction." },
+        { "scene_number": 3, "scene_name": "Wisdom's Public Plea", "reference": "1:20-33", "why_start_end_and_devices": "New speaker/location (1:20). Prophetic‑style monologue: confrontation, warning, threat of abandonment, and a closing promise of security (v. 33)." },
+        { "scene_number": 4, "scene_name": "The Quest for Wisdom and its Protection", "reference": "2:1-22", "why_start_end_and_devices": "One long 'if... then...' poem: seeking (1–4) → understanding from the LORD (5–8) → moral formation (9–11) → deliverance from evil man/woman (12–22)." },
+        { "scene_number": 5, "scene_name": "Trust and Honor the LORD", "reference": "3:1-12", "why_start_end_and_devices": "'My son' imperatives (do not forget, trust, honor, accept discipline) each paired with a promise, concluding with the rationale for discipline (v. 12)." },
+        { "scene_number": 6, "scene_name": "The Surpassing Value of Wisdom", "reference": "3:13-20", "why_start_end_and_devices": "Beatitude on finding wisdom (13–15), her life‑giving benefits (16–18), and her cosmic role with God in creation (19–20)." },
+        { "scene_number": 7, "scene_name": "The Security of the Wise", "reference": "3:21-35", "why_start_end_and_devices": "Practical results: personal safety (21–26) and social righteousness (27–32), closing with destinies of wise vs. wicked (33–35)." },
+        { "scene_number": 8, "scene_name": "Get Wisdom: The Father's Story", "reference": "4:1-9", "why_start_end_and_devices": "Nested voice: father cites his father's instruction—'Get wisdom' (vv. 5,7)—closing with rewards (v. 9)." },
+        { "scene_number": 9, "scene_name": "Two Paths: Light and Darkness", "reference": "4:10-19", "why_start_end_and_devices": "Path metaphor contrasts righteous dawn (11–13,18) vs. wicked darkness (14–17,19), forming balanced inclusio." },
+        { "scene_number": 10, "scene_name": "Guard Your Heart: The Fount of Life", "reference": "4:20-27", "why_start_end_and_devices": "Body‑part integrity poem—ear, eyes, heart, mouth/lips, feet—with v. 23 as hinge: 'Keep your heart with all vigilance.'" },
+        { "scene_number": 11, "scene_name": "Warning Against the Adulteress", "reference": "5:1-14", "why_start_end_and_devices": "'My son' warning contrasts honeyed lips of the stranger with bitter end; concludes with ruin cry (v. 14)." },
+        { "scene_number": 12, "scene_name": "Fountain and Cistern: Marital Fidelity", "reference": "5:15-23", "why_start_end_and_devices": "Positive counter‑poem: drink from your own cistern; public/private springs; the LORD's omniscience (v. 21) and the sinner's cords (v. 22)." },
+        { "scene_number": 13, "scene_name": "Four Practical Warnings", "reference": "6:1-19", "why_start_end_and_devices": "Composite scene of four complete units: surety (1–5), sluggard (6–11), worthless man (12–15), and the 'seven abominations' list (16–19)." },
+        { "scene_number": 14, "scene_name": "The High Cost of Adultery", "reference": "6:20-35", "why_start_end_and_devices": "Parents' commands guard (20–23); vivid fire/wounds imagery warns of inescapable consequences and jealous vengeance (27–35)." },
+        { "scene_number": 15, "scene_name": "The Seduction of the Simple Youth", "reference": "7:1-27", "why_start_end_and_devices": "Unified narrative: setup (1–9), woman's appearance/speech (10–21), youth's fall (22–23), global warning (24–27)." },
+        { "scene_number": 16, "scene_name": "Wisdom's Call and Reward", "reference": "8:1-21", "why_start_end_and_devices": "Counter‑speech to ch. 7: public summons to all (1–11); wisdom's character and riches/righteousness rewards (12–21)." },
+        { "scene_number": 17, "scene_name": "Wisdom from Everlasting and in Creation", "reference": "8:22-36", "why_start_end_and_devices": "Wisdom before (22–26) and during creation (27–31) leading to appeal and life/death choice (32–36)." },
+        { "scene_number": 18, "scene_name": "The Feasts of Wisdom and Folly", "reference": "9:1-18", "why_start_end_and_devices": "Balanced finale: Wisdom's feast (1–6), hinge proverbs on scoffer/wise (7–12), Folly's counterfeit feast leading to Sheol (13–18)." }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Proverbs of Solomon",
+      "why_start_end_and_literary_glue": "Primary Solomonic couplets collection marked by 10:1 ('The proverbs of Solomon') and ending at 22:16 before a new heading (22:17). Literary Glue: pervasive antithetical parallelism and thematic contrasts (wise/foolish, righteous/wicked, diligent/slothful, wealth/poverty).",
+      "reference": "10:1 - 22:16",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Righteous vs. Wicked (Prologue Cluster)", "reference": "10:1-7", "why_start_end_and_devices": "Introduces son motif and outcomes of righteousness/wickedness, concluding with 'memory of the righteous' vs. 'name of the wicked' (v. 7)." },
+        { "scene_number": 2, "scene_name": "Speech and Integrity", "reference": "10:8-14", "why_start_end_and_devices": "Wise of heart vs. babbling fool; walking secure vs. perverse ways; lips of the wise store knowledge vs. mouth of the foolish is ruin." },
+        { "scene_number": 3, "scene_name": "Wealth, Labor, and the LORD's Blessing", "reference": "10:15-22", "why_start_end_and_devices": "Contrasts wealth/poverty alongside righteousness/path of life; resolves with 'The blessing of the LORD makes rich' (v. 22)." },
+        { "scene_number": 4, "scene_name": "The Fool, the Wise, and the Fear of the LORD", "reference": "10:23-32", "why_start_end_and_devices": "Fool's sport vs. wisdom, whirlwind vs. foundation, with hinge 'The fear of the LORD prolongs life' (v. 27), closing with speech summary (v. 32)." },
+        { "scene_number": 5, "scene_name": "Honesty, Humility, and Their Fruits", "reference": "11:1-8", "why_start_end_and_devices": "False balances vs. just weights; pride vs. humility; integrity vs. crookedness, culminating in righteous deliverance (v. 8)." },
+        { "scene_number": 6, "scene_name": "The Righteous City vs. The Wicked City", "reference": "11:9-15", "why_start_end_and_devices": "City rejoices at righteous welfare and falls under wicked rule (vv. 10–11); warnings on talebearing and surety bind the social theme." },
+        { "scene_number": 7, "scene_name": "Character and Consequence", "reference": "11:16-23", "why_start_end_and_devices": "Gracious vs. ruthless, merciful vs. cruel, deceitful vs. sure reward; caps with desires of righteous vs. wicked (v. 23)." }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Thirty Sayings of the Wise",
+      "why_start_end_and_literary_glue": "New headings at 22:17 ('Incline your ear to the words of the wise') and 24:23 ('These also are sayings of the wise') mark a distinct curated collection. Style shifts from couplets to multi‑line sayings akin to ANE instruction (cf. Amenemope).",
+      "reference": "22:17 - 24:34",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Preamble to the Sayings", "reference": "22:17-21", "why_start_end_and_devices": "Introduction stating purpose: to make you know 'words of truth' for right answers (v. 21)." },
+        { "scene_number": 2, "scene_name": "Saying 1: Do Not Rob the Poor", "reference": "22:22-23", "why_start_end_and_devices": "Two‑verse admonition with divine advocacy: the LORD will plead the poor's cause." },
+        { "scene_number": 3, "scene_name": "Saying 2: The Angry Man", "reference": "22:24-25", "why_start_end_and_devices": "Avoid the hot‑tempered lest you learn his ways and ensnare your soul." },
+        { "scene_number": 4, "scene_name": "Saying 3: Do Not Be Surety", "reference": "22:26-27", "why_start_end_and_devices": "Warning against pledges: why should your bed be taken from under you?" },
+        { "scene_number": 5, "scene_name": "Saying 4: Do Not Move the Landmark", "reference": "22:28", "why_start_end_and_devices": "Single‑verse protection of ancestral boundaries—social stability and justice." },
+        { "scene_number": 6, "scene_name": "Saying 5: The Diligent in the Presence of Kings", "reference": "22:29", "why_start_end_and_devices": "A single‑verse observation—skill brings one before rulers." },
+        { "scene_number": 7, "scene_name": "Saying 6: Dining with a Ruler", "reference": "23:1-3", "why_start_end_and_devices": "Etiquette and caution—discern appetite and deceitful delicacies." },
+        { "scene_number": 8, "scene_name": "Saying 7: Do Not Wear Yourself to Get Rich", "reference": "23:4-5", "why_start_end_and_devices": "Wealth's fleeting wings; set not your eyes on it." },
+        { "scene_number": 9, "scene_name": "Saying 8: The Stingy Host", "reference": "23:6-8", "why_start_end_and_devices": "Do not eat the bread of a miser; his heart is not with you—your pleasant words return to you." },
+        { "scene_number": 10, "scene_name": "Saying 9: Do Not Speak in the Hearing of a Fool", "reference": "23:9", "why_start_end_and_devices": "Single verse—he will despise the wisdom of your words." },
+        { "scene_number": 11, "scene_name": "Saying 10: Landmark and Orphans", "reference": "23:10-11", "why_start_end_and_devices": "Move not the ancient landmark; Redeemer is strong and will plead their cause." },
+        { "scene_number": 12, "scene_name": "Further Sayings: Impartial Judgment", "reference": "24:23-26", "why_start_end_and_devices": "Supplemental heading (24:23). Approve the right, rebuke the wicked—'right answer' wins a kiss (v. 26)." },
+        { "scene_number": 13, "scene_name": "Further Sayings: The Sluggard's Field", "reference": "24:30-34", "why_start_end_and_devices": "Observation (30–31) → reflection (32) → conclusion (33–34): poverty comes like a robber." }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Hezekiah's Collection of Solomonic Proverbs",
+      "why_start_end_and_literary_glue": "Explicit editorial title at 25:1; style returns to clustered couplets with many similes/comparisons and court‑wisdom. Concludes the fourth major collection at 29:27.",
+      "reference": "25:1 - 29:27",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "On Kings and Courts", "reference": "25:1-7", "why_start_end_and_devices": "God's glory to conceal, kings' to search; remove dross/wicked; counsel on presence before rulers." },
+        { "scene_number": 2, "scene_name": "Neighbors, Strife, and Timely Words", "reference": "25:8-15", "why_start_end_and_devices": "Do not hasten to court; a word fitly spoken as apples of gold; persuasion by patience." },
+        { "scene_number": 3, "scene_name": "Portraits of Fools and Sluggards", "reference": "26:1-16", "why_start_end_and_devices": "Twelve similes on the fool (1–12) followed by four on the sluggard (13–16)—two vivid character studies." },
+        { "scene_number": 4, "scene_name": "On Strife and Slander", "reference": "26:17-28", "why_start_end_and_devices": "Contentious meddler, talebearer fuel, burning lips and wicked heart—coherent warning against quarrel and deceit." }
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "The Words of Agur",
+      "why_start_end_and_literary_glue": "Ch. 30 stands as a self‑contained appendix by Agur son of Jakeh, featuring confessional humility, prayer for moderation, and a series of numerical proverbs.",
+      "reference": "30:1 - 30:33",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Agur's Confession and Prayer", "reference": "30:1-9", "why_start_end_and_devices": "Title (30:1); confession of limited wisdom (2–4) and twofold prayer—keep falsehood far, give neither poverty nor riches (7–9)." },
+        { "scene_number": 2, "scene_name": "Four Cursed Generations", "reference": "30:10-14", "why_start_end_and_devices": "Brief warning (v. 10) followed by 'There is a generation...' catalogue of four wicked types." },
+        { "scene_number": 3, "scene_name": "Four Insatiable Things", "reference": "30:15-17", "why_start_end_and_devices": "Horseleech preface; 'three... four...' list of the insatiable; eye that mocks parents meets judgment." },
+        { "scene_number": 4, "scene_name": "Four Wonderful and Four Unbearable Things", "reference": "30:18-23", "why_start_end_and_devices": "Two numerical units: wondrous ways (18–19) and intolerable inversions (21–23), with v. 20 framing the adulterous woman." },
+        { "scene_number": 5, "scene_name": "Four Small but Wise, and Four Stately Things", "reference": "30:24-33", "why_start_end_and_devices": "Four wise small creatures (24–28), four stately ones (29–31), concluding counsel against stirring anger (32–33)." }
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "The Words of Lemuel and The Excellent Wife",
+      "why_start_end_and_literary_glue": "Ch. 31 is the closing appendix attributed to King Lemuel: his mother's oracle on kingship (31:1–9) followed by the acrostic 'excellent wife' (31:10–31). Literary Glue: alphabetic acrostic binding the final poem and thematic fear‑of‑the‑LORD center.",
+      "reference": "31:1 - 31:31",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "The Oracle for King Lemuel", "reference": "31:1-9", "why_start_end_and_devices": "Maternal counsel: avoid women and strong drink (3–7); open your mouth for the mute and needy (8–9)." },
+        { "scene_number": 2, "scene_name": "The Excellent Wife: Value and Work (Aleph–Kaph)", "reference": "31:10-15", "why_start_end_and_devices": "Acrostic begins—her worth above jewels (10–12) and diligent domestic industry (13–15)." },
+        { "scene_number": 3, "scene_name": "The Excellent Wife: Enterprise and Strength (Lamedh–Pe)", "reference": "31:16-22", "why_start_end_and_devices": "Field purchase, profitable lamp, girded strength; clothing and household provisioning (16–22)." },
+        { "scene_number": 4, "scene_name": "The Excellent Wife: Character and Praise (Tsadhe–Taw)", "reference": "31:23-31", "why_start_end_and_devices": "Husband's honor, wise speech, kindness; children and husband praise; beauty fades but fear of the LORD endures; works praised in the gates." }
+      ]
+    }
+  ]
+}
+
