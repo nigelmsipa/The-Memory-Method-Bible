@@ -1,0 +1,232 @@
+{
+  "book_name": "Ezekiel",
+  "hebrew_name": "יְחֶזְקֵאל (Yekhezkel)",
+  "canonical_grouping": "Major Prophets (Apocalyptic/Oracle Collection)",
+  "big_picture_notes": "The Book of Ezekiel is structurally one of the most meticulously organized books in the Old Testament, characterized by precise dating formulas and a chiastic literary framework. The book's overall structure is tripartite: (I) Oracles of Judgment against Judah and Jerusalem (Chapters 1-24), (II) Oracles of Judgment against Foreign Nations (Chapters 25-32), and (III) Oracles of Salvation and Restoration for Israel (Chapters 33-48). This structure is held together by the central theme of the kavod (glory) of Yahweh, which is seen departing from the Temple in the first section (Chapters 8-11) and returning to the new Temple in the final vision (Chapters 43-44), forming a massive inclusio. Major literary devices include highly detailed visionary descriptions, symbolic actions (mophetim) performed by the prophet, and the constant repetition of the recognition formula: 'Then they will know that I am the LORD.' The narrative moves with relentless chronological precision, marked by dates that place the oracles in the context of the Babylonian exile. The book's literary movement is a dramatic arc from divine abandonment and catastrophic judgment to national revival and eschatological perfection, all based on the covenantal principle of divine justice and restoration.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Prophet's Commission and Initial Judgment Oracles",
+      "why_start_end_and_literary_glue": "This section establishes the prophet's identity, his divine commission, and delivers the immediate, pre-siege pronouncements of doom upon Jerusalem. The unit is defined by the narrative boundary of the prophet's call vision (Chapter 1) and culminates in a final, comprehensive oracle proclaiming 'The End' upon the land (Chapter 7), marking the conclusion of Ezekiel's initial prophetic phase before the city's fall. The coherence is achieved through the repeated action of God preparing and sending the prophet to the 'rebellious house' of Israel and the subsequent articulation of that rebellion's deserved end. Start (1:1): 'Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar...' (precise opening dating and narrative marker). End (7:27): 'The king shall mourn, the prince shall be clothed with dismay, and the hands of the people of the land shall tremble. I will deal with them according to their way, and according to their own judgments I will judge them, and they shall know that I am the LORD.' (thematic resolution with recognition formula). Literary glue: The constant use of the Recognition Formula ('they shall know that I am the LORD') and the persistent title 'Son of Man' (used over 90 times in the book, first in 2:1) serve as literary connectors.",
+      "reference": "1:1 - 7:27",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Visionary Setting and Theophany's Appearance",
+          "reference": "1:1-14",
+          "why_start_end_and_devices": "Starts with precise dating formula: 'Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar...' (1:1). Ends with the movement of the living creatures described: '...they ran and returned as the appearance of a flash of lightning' (1:14). This scene is a complete description of the first part of the vision (the creatures), characterized by highly sensory, symbolic language and repetition of key terms like 'four' and 'living creature.' The narrative tension is the overwhelming spectacle of the divine."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Wheels and the Firmament",
+          "reference": "1:15-28",
+          "why_start_end_and_devices": "Starts with narrative shift from creatures to the next element: 'Now as I looked at the living creatures, behold, there was a wheel on the earth...' (1:15). Ends with the sight of the Glory of the LORD and Ezekiel's response: '...and when I saw it, I fell on my face, and I heard the voice of one speaking' (1:28). This action marks completion of the visual description and transition to speech. The scene focuses on the Wheels (Ophannim) and the Firmament, using parallelism and climactic structure. The repetition of 'like the appearance of...' emphasizes the prophet's struggle to describe the indescribable."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Commission and the Scroll of Woe",
+          "reference": "2:1-3:3",
+          "why_start_end_and_devices": "Starts with speaker change and narrative turn: 'And he said to me, 'Son of Man, stand on your feet, and I will speak with you'' (2:1). Ends with action completion: 'Then I ate it, and it was in my mouth as sweet as honey' (3:3). This scene details the direct call, characterized by the Oracle Formula 'Thus says the Lord GOD' (2:4) and the Symbolic Action of eating the scroll. Contrast is key: the hardness of the people versus the sweetness of the divine message."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Watchman's Isolation and Task",
+          "reference": "3:4-15",
+          "why_start_end_and_devices": "Starts with continuation and elaboration of the charge: 'And he said to me, 'Son of Man, go to the house of Israel and speak with my words to them'' (3:4). Ends with shift in location/action: 'and I sat where they sat, astonished among them seven days' (3:15). The scene uses repetition of the people's hardened nature and dialogue structure to define the prophet's role as distinct from the people. The narrative turn in verse 15 marks the end of the commissioning phase and the beginning of the ministry setting."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Prophetic Responsibility",
+          "reference": "3:16-27",
+          "why_start_end_and_devices": "Starts with oracle formula/shift in time: 'At the end of seven days, the word of the LORD came to me...' (3:16). Ends with action/command completion: 'But when I speak with you, I will open your mouth... and you shall say to them, Thus says the Lord GOD. Whoever will hear, let him hear...' (3:27). This scene is a thematic unit on the Watchman Metaphor (3:17-21), framed by two distinct commands: the initial charge to be a watchman and the second command to remain mute until God speaks again. The use of conditional clauses defines the ethical burden of the prophet."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Siege of the Brick and Side-Lying",
+          "reference": "4:1-8",
+          "why_start_end_and_devices": "Starts with new command/symbolic action: 'And you, Son of Man, take a brick...' (4:1). Ends with resolution of the symbolic act's duration: 'You shall bear their punishment. When you have completed these, you shall lie on your right side, and bear the punishment of the house of Judah. Forty days I have assigned to you, a day for each year' (4:6-8). The time limit provides a clear end to this segment. A symbolic narrative unit detailing the first two parts of a three-part sign (the siege and the duration of punishment). Parallelism is evident in the two side-lying periods: 390 days (Israel) and 40 days (Judah)."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Rationed and Defiled Bread",
+          "reference": "4:9-17",
+          "why_start_end_and_devices": "Starts with shift in command/new symbolic act: 'And you take wheat and barley...' (4:9). Ends with oracle/judgment conclusion: 'for they shall eat their bread by weight and with anxiety... that they may lack bread and water, and mourn one with another for their iniquity' (4:16-17). This scene describes the third symbolic act, focusing on famine and impurity. The dialogue between Ezekiel and God regarding the defiled bread is the literary hinge, providing a narrative pause and establishing the severity of the coming siege's conditions."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Hair and the Threefold Judgment",
+          "reference": "5:1-12",
+          "why_start_end_and_devices": "Starts with shift in command/new symbolic act: 'And you, Son of Man, take a sharp sword...' (5:1). Ends with resolution of judgment method: 'Therefore I will execute judgments upon you and perform among you what I have not done before, and what I will never do again...' (5:10). This is a symbolic act followed by the oracle it represents. The core structure is a threefold division/destruction: one-third by fire/siege, one-third by sword/battle, one-third by scattering. Repetition of 'one-third' and 'sword' provides the structural backbone."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Recognition Formula and Final Doom",
+          "reference": "5:13-17",
+          "why_start_end_and_devices": "Starts with oracle formula/emotional shift: 'Thus shall my anger spend itself... and I shall be satisfied and comforted' (5:13). Ends with resolution statement: 'when I send upon them the deadly arrows of famine... I am the LORD; I have spoken' (5:16-17). The shift from satisfaction to declaration marks a clear endpoint. A concluding oracle that summarizes the purpose of the preceding judgment. It uses hyperbole (a spectacle to the nations) and concludes with the emphatic Oracle Formula and the Recognition Formula."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Oracle Against the Mountains of Israel",
+          "reference": "6:1-10",
+          "why_start_end_and_devices": "Starts with oracle formula/topic shift: 'The word of the LORD came to me: 'Son of Man, set your face toward the mountains of Israel, and prophesy against them...'' (6:1-2). Ends with thematic conclusion: 'and they shall know that I am the LORD, and that I have not said in vain that I would do this evil to them' (6:10). A direct address to a new audience/location (the high places). It employs a chiasm structure (Judgment → Remnant/Scattering → Recognition → Judgment) and repetition of abominations to justify the destruction of idolatrous sites."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Instruments of Punishment",
+          "reference": "6:11-14",
+          "why_start_end_and_devices": "Starts with shift in tone/command for action: 'Thus says the Lord GOD: 'Clap your hands and stamp your foot...'' (6:11). Ends with final place-based declaration: 'from the wilderness to Riblah, for I have spoken' (6:14). This closes the oracle against the mountains with a geographical boundary. A short, instructional oracle containing a symbolic gesture (clapping/stamping) and a summary of judgment (famine, sword, pestilence). It serves as a brief, emphatic epilogue to the mountain oracle."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The End Has Come",
+          "reference": "7:1-13",
+          "why_start_end_and_devices": "Starts with oracle formula/topic shift: 'Moreover, the word of the LORD came to me: 'And you, Son of Man, thus says the Lord GOD to the land of Israel: An end! The end has come...'' (7:1-2). Ends with financial/property conclusion: 'for he who buys will not return to what was sold, because the vision concerns all its multitude. For the buyer will not return, and the seller will not be restored' (7:13). This property-based statement closes a thematic section on the irrelevance of wealth/possessions. An intense, self-contained 'Doom-Oracle' defined by repetition of 'The end has come.' Parallelism describes the timing: 'The time has come; the day is near.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Shame and Worthlessness of Wealth",
+          "reference": "7:14-22",
+          "why_start_end_and_devices": "Starts with narrative shift/action focus: 'They have blown the trumpet, and made everything ready, but no one goes out to battle...' (7:14). Ends with shift to the Temple/Sanctuary: 'I will deliver it into the hands of foreigners as plunder, and to the wicked of the earth as spoil, and they shall profane it' (7:21-22). This sets up the climax of judgment. The scene focuses on the futility of preparation and the abomination of idolatry. Anaphora and repetition of terms for metal/wealth emphasize their worthlessness in the day of judgment."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Finality of Judgment",
+          "reference": "7:23-27",
+          "why_start_end_and_devices": "Starts with new command/focus on justice: 'Make a chain, for the land is full of bloody crimes and the city is full of violence' (7:23). Ends with triple leadership mourning: 'The king shall mourn, the prince shall be clothed with dismay... I will deal with them according to their way... and they shall know that I am the LORD' (7:27). This summarizes and concludes the entire initial phase of judgment. It uses a threefold pattern of mourning (prophets fail, law fails, counsel fails, 7:26) to demonstrate the complete collapse of Israelite society and governance."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "Visions of God's Departure and Jerusalem's Fate",
+      "why_start_end_and_literary_glue": "This section details a major prophetic experience marked by a singular narrative arc: Ezekiel is transported in a vision to Jerusalem (8:1) to witness the abominations that provoke God's wrath (Chapters 8-11). The story ends with the execution of the final symbolic act—the death of Ezekiel's wife (24:15-27)—which serves as the sign of Jerusalem's fall, closing the oracles before the fall. This entire section explains why the judgment (Story A) is necessary. Start (8:1): 'In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house, with the elders of Judah sitting before me, the hand of the Lord GOD fell upon me there.' (new precise dating formula and major visionary transport marker). End (24:27): 'On that day your mouth will be opened to him, and you will speak and no longer be mute. So you will be a sign to them, and they will know that I am the LORD.' (resolution of the prophet's muteness, tied directly to the fall of Jerusalem). Literary glue: The Vision Sequence (Chapters 8-11) is a unified narrative. The Proverb Refutation and the persistent theme of blood guilt connect the middle oracles.",
+      "reference": "8:1 - 24:27",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Visionary Transport and Abominations at the Temple Gate",
+          "reference": "8:1-12",
+          "why_start_end_and_devices": "Starts with new dating formula: 'In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house, with the elders of Judah sitting before me, the hand of the Lord GOD fell upon me there' (8:1). Ends with end of description of the first abomination—elders worshipping idols in the dark: 'for they say, The LORD does not see us; the LORD has forsaken the land' (8:12). This marks the transition to the next abomination."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Lamentation for Tammuz and Sun Worship",
+          "reference": "8:13-18",
+          "why_start_end_and_devices": "Starts with shift in location/new abomination: 'He brought me to the entrance of the north gate of the house of the LORD...' (8:14). Ends with divine judgment: 'and my eye will not spare, nor will I have pity; and though they cry in my ears with a loud voice, I will not listen to them' (8:18). Each location presents a distinct abomination (Tammuz lamentation and sun worship), completing a circuit of temple violations."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Departure of the Glory (Part 1)",
+          "reference": "9:1-11",
+          "why_start_end_and_devices": "Starts with action shift/new vision: 'Then he cried in my ears with a loud voice, saying, Draw near, you executioners of the city...' (9:1). Ends with action completion: 'saying, I have done as you commanded me' (9:11). The slaughter is finished and the man with the writing case reports back, marking completion of this phase of judgment."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The False Prophets and the Wall of Untempered Mortar",
+          "reference": "13:1-16",
+          "why_start_end_and_devices": "Starts with oracle formula/topic shift: 'The word of the LORD came to me: 'Son of Man, prophesy against the prophets of Israel...'' (13:1-2). Ends with thematic resolution: 'when there is no prophet to them' (13:16). An extended, unbroken oracle against false prophets and their whitewashed walls. The continuous condemnation of vain visions and lying divinations forms a coherent unit."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Parable of the Useless Vine",
+          "reference": "15:1-8",
+          "why_start_end_and_devices": "Starts with oracle formula/new parable: 'The word of the LORD came to me: 'Son of Man, how does the wood of the vine surpass any wood...'' (15:1-2). Ends with thematic conclusion: 'they shall know that I am the LORD, when I set my face against them' (15:7-8). A complete parable-oracle using the metaphor of the vine's wood as useless for any purpose except burning."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Death of Ezekiel's Wife as a Sign",
+          "reference": "24:15-27",
+          "why_start_end_and_devices": "Starts with oracle formula/personal command: 'The word of the LORD came to me: 'Son of Man, behold, I am about to take the delight of your eyes away from you by a stroke...'' (24:15-16). Ends with narrative resolution: 'you will speak and no longer be mute. So you will be a sign to them, and they will know that I am the LORD' (24:27). The prophet's mouth is opened and the reason is explained. This final symbolic act marks the completion of the pre-fall oracles."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Oracles Against Foreign Nations",
+      "why_start_end_and_literary_glue": "This section constitutes a well-defined Oracular Collection—a common literary feature in Prophetic Books—where the focus shifts entirely from Israel to the surrounding nations (Ammon, Moab, Edom, Philistia, Tyre, Sidon, and Egypt). The collection is arranged geographically and thematically around divine retribution for the nations' historical hostility toward God's people. The unit begins with a general oracle against all nations (25:1) and concludes with the final, lengthy oracle against Egypt (Chapters 29-32). Start (25:1): 'The word of the LORD came to me: 'Son of Man, set your face against the Ammonites, and prophesy against them...'' (formal oracle formula and topic shift from Israel's doom to foreign nations' judgment). End (32:32): 'For I spread terror in the land of the living; and he was laid to rest among the uncircumcised, with those who were slain by the sword: Pharaoh and all his multitude,' declares the Lord GOD' (concluding declaration of doom for Egypt, the longest section). Literary glue: The Recognition Formula ('they shall know that I am the LORD') is used repeatedly after each nation's judgment, creating structural cohesion. The sustained use of taunts, laments, and metaphor ties the pieces together.",
+      "reference": "25:1 - 32:32",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Oracle Against Ammon",
+          "reference": "25:1-7",
+          "why_start_end_and_devices": "Starts with oracle formula/new nation: 'The word of the LORD came to me: 'Son of Man, set your face against the Ammonites...'' (25:1). Ends with final declaration of judgment: 'you shall know that I am the LORD' (25:7). A complete, self-contained oracle against Ammon for its gloating over Israel's judgment."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Oracle Against Moab and Seir (Edom)",
+          "reference": "25:8-14",
+          "why_start_end_and_devices": "Starts with new oracle formula/new nation: 'Thus says the Lord GOD: Because Moab and Seir said...'' (25:8). Ends with final statement on Edom's punishment: 'and they shall know my vengeance,' declares the Lord GOD' (25:14). Two related nations (Moab and Edom) are addressed in sequence, united by their attitude toward Israel."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Lament Over Tyre (Part 1)",
+          "reference": "26:1-14",
+          "why_start_end_and_devices": "Starts with dating formula/new nation: 'In the eleventh year, on the first day of the month, the word of the LORD came to me: 'Son of Man, because Tyre said concerning Jerusalem...'' (26:1-2). Ends with conclusion that Tyre will be a bare rock: 'you shall be no more, declares the Lord GOD' (26:14). The longest oracle against a single nation (Tyre), focusing on its destruction as punishment for gloating over Jerusalem."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Crocodile Pharaoh and the Fishhooks",
+          "reference": "29:1-16",
+          "why_start_end_and_devices": "Starts with dating formula/new nation (Egypt): 'In the tenth year, in the tenth month, on the twelfth day of the month, the word of the LORD came to me...' (29:1). Ends with conclusion of the oracle detailing the 40-year desolation: 'and they shall know that I am the Lord GOD' (29:16). The longest dated oracle against Egypt, using the metaphor of Pharaoh as a great crocodile to be captured by fishhooks and dragged out."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Restoration and the New Community",
+      "why_start_end_and_literary_glue": "This massive section marks the pivotal turning point in the book, signaled by the news of Jerusalem's fall (33:21). The Oracles of Judgment are finished, and the prophet now delivers Oracles of Salvation and Restoration. This unit moves chronologically and thematically from the role of the new Watchman (33), through prophecies of national revival (34-37), the final battle with Gog of Magog (38-39), and culminates in the exhaustive, highly-structured Vision of the New Temple and Land Division (40-48). The unity is based on the single theme: the complete renewal of Israel and the establishment of God's permanent, glorious dwelling place. Start (33:1): 'The word of the LORD came to me: 'Son of Man, speak to your people and say to them, If I bring the sword upon a land...'' (formal oracle formula that re-commissions Ezekiel as the Watchman after judgment has been executed). End (48:35): 'The circumference of the city shall be 18,000 cubits. And the name of the city from that day shall be: THE LORD IS THERE' (ultimate thematic resolution and climax confirming permanent indwelling of God's glory, forming grand inclusio with departure of glory in Chapter 10). Literary glue: Consistent use of the Restoration Formula ('I will... I will...') and Covenant Renewal Language. The Vision Framework is the most significant structural glue, framing nearly half the book (Chapters 40-48).",
+      "reference": "33:1 - 48:35",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Re-commissioning of the Watchman",
+          "reference": "33:1-20",
+          "why_start_end_and_devices": "Starts with oracle formula/new watchman charge: 'The word of the LORD came to me: 'Son of Man, speak to your people...'' (33:1). Ends with thematic conclusion on individual responsibility: 'I will judge each of you according to his ways' (33:20). A longer scene that repeats and elaborates the individual responsibility theme from Chapter 18, acting as a crucial foundation for the restoration oracles that follow."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Arrival of the News and the Prophet's Speech",
+          "reference": "33:21-33",
+          "why_start_end_and_devices": "Starts with dating formula/narrative confirmation: 'In the twelfth year of our exile, in the tenth month, on the fifth day of the month, a fugitive from Jerusalem came to me and said, 'The city has been struck down'' (33:21). Ends with prophet's final summary of the people's insincerity: 'and they shall know that a prophet has been among them' (33:33). The arrival of news confirms the judgment and marks the turning point toward restoration oracles."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Oracle Against the Worthless Shepherds",
+          "reference": "34:1-16",
+          "why_start_end_and_devices": "Starts with oracle formula/topic shift: 'The word of the LORD came to me: 'Son of Man, prophesy against the shepherds of Israel...'' (34:1-2). Ends with God's promise to be the true shepherd: 'I myself will feed my sheep, and I myself will make them lie down, declares the Lord GOD' (34:15-16). A continuous oracle condemning Israel's leadership and promising God's personal care for the people."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Vision of the Dry Bones",
+          "reference": "37:1-14",
+          "why_start_end_and_devices": "Starts with visionary marker: 'The hand of the LORD was upon me, and he brought me out in the Spirit of the LORD...' (37:1). Ends with interpretation resolution: 'and you shall know that I am the LORD; I have spoken, and I will do it, declares the LORD' (37:14). A complete visionary unit from transport through interpretation, symbolizing national resurrection and the promise of the Spirit."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Vision of the New Temple: The Outer Court Measurement",
+          "reference": "40:1-24",
+          "why_start_end_and_devices": "Starts with visionary marker/dating formula: 'In the twenty-fifth year of our exile... the hand of the LORD was upon me, and brought me there' (40:1). Ends with measurement of the outer court gates: 'and he measured the length and breadth of the court all around' (40:24). This is an exceptionally long but single, uninterrupted, sequential measurement of the outer court architecture (gate, inner gate, court). Breaking it would violate the principle of self-contained narrative flow—it must be memorized as one structural sequence."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Glory Returns to the New Temple",
+          "reference": "43:1-12",
+          "why_start_end_and_devices": "Starts with visionary climax/narrative turn: 'Then he brought me to the gate, the gate facing east. And behold, the glory of the God of Israel was coming from the east...' (43:1-2). Ends with God's promise to dwell permanently: 'and the house of Israel shall no more defile my holy name' (43:10-12). The climactic moment of the entire book: the return of the divine glory to the restored temple, forming perfect inclusio with its departure in Chapter 10."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Division of the Land (Introduction)",
+          "reference": "47:13-48:7",
+          "why_start_end_and_devices": "Starts with topic shift/instruction: 'Thus says the Lord GOD: 'This is the boundary by which you shall divide the land for inheritance among the twelve tribes of Israel...'' (47:13). Ends with description of the first few tribal lots: 'the portion for Dan, the portion for Asher, the portion for Naphtali, the portion for Manasseh, the portion for Ephraim, and the portion for Reuben' (48:1-7). The land division is a continuous legal-geographical unit. This section covers the general instruction and the northern tribes, establishing the pattern of tribal allocation."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Holy District and the Final Names",
+          "reference": "48:8-35",
+          "why_start_end_and_devices": "Starts with shift in focus to the holy area: 'Adjoining the territory of Reuben, shall be the portion that you shall set apart, 25,000 cubits...' (48:8). Ends with book conclusion: 'THE LORD IS THERE' (48:35). This is the irreversible literary boundary and the ultimate affirmation of divine presence. The section describes the sacred precincts, the levitical lands, the southern tribes, and concludes with the renaming of the city, confirming the restoration's permanence."
+        }
+      ]
+    }
+  ]
+}
