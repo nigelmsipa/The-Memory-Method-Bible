@@ -72,7 +72,7 @@ A **scene** is identified by:
 
 ## Current Status
 
-### Converted Books (17 total)
+### Converted Books (18 total)
 
 The following books are available in `data/base-structure` with story and scene breakdowns. Counts reflect current JSON files.
 
@@ -93,12 +93,13 @@ The following books are available in `data/base-structure` with story and scene 
 - Ezra — 2 stories, 45 scenes
 - Nehemiah — 4 stories, 39 scenes
 - Esther — 2 stories, 28 scenes
+- Job — 7 stories, 89 scenes
 
 Note: Formal compliance audits are ongoing. See “Known Issues & Revisions Required” for current high‑priority fixes (especially in 1 Kings architectural/catalog units).
 
 ### Overall Project Metrics
-- Books converted: 17
-- Total scenes: 1,244
+- Books converted: 18
+- Total scenes: 1,333
 
 ## Using This Framework
 
