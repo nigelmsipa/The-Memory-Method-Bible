@@ -1,0 +1,271 @@
+{
+  "book_name": "Psalms",
+  "hebrew_name": "תְּהִלִּים (Tehillim, 'Praises')",
+  "canonical_grouping": "Writings (Ketuvim)",
+  "big_picture_notes": "The Psalter is a curated anthology of 150 distinct poems, songs, and prayers organized into five Books (Pss 1–41; 42–72; 73–89; 90–106; 107–150). Each of the first four Books ends with an explicit doxology and the whole concludes with Psalm 150 as a grand doxology. Within this five‑book structure, smaller editorially placed collections appear (e.g., Davidic psalms, Sons of Korah, Asaph, Songs of Ascents). For memorization, each psalm is a complete literary unit (scene). Longer psalms should not be arbitrarily split, though internal strophes (often marked by Selah, speaker/audience shifts, or thematic turns) can serve as day‑by‑day chunks. Books I–V trace a theological arc from the struggle of the righteous king (I), through the Elohistic collection (II), the national crisis (III), the answer 'YHWH reigns' (IV), to the climactic Hallelujah and pilgrim ascent (V).",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "Book I – The Struggle of the Righteous King",
+      "why_start_end_and_literary_glue": "Textually defined 'Book I' framed by gateway Psalms 1–2 (Torah joy and Messianic kingship) and closed by the explicit doxology at 41:13. Predominantly Davidic, dominated by individual laments and trust, the righteous one surrounded by the wicked. Start (1:1): thematic prologue 'Blessed is the man...' End (41:13): 'Blessed be the LORD... Amen and Amen.' Literary Glue: Davidic superscriptions, lament→trust trajectories, righteous vs wicked motif.",
+      "reference": "1:1 - 41:13",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Psalm 1 – The Two Ways",
+          "reference": "1:1-6",
+          "why_start_end_and_devices": "Complete Wisdom Psalm (6 vv). Antithetical parallelism contrasts righteous (tree by streams) and wicked (chaff), resolved by v. 6 summary."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Psalm 2 – The LORD's Anointed King",
+          "reference": "2:1-12",
+          "why_start_end_and_devices": "Royal Psalm in four movements with distinct speakers: nations rebel (1–3), LORD responds (4–6), Son declares decree (7–9), narrator exhorts (10–12)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Psalm 3 – Morning Prayer for Deliverance",
+          "reference": "3:1-8",
+          "why_start_end_and_devices": "Individual lament with Selah strophes. Complaint (1–2) → confidence (3–4) → remembrance (5–6) → petition (7–8). Superscription situates in Absalom crisis."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Psalm 4 – Evening Prayer for Refuge",
+          "reference": "4:1-8",
+          "why_start_end_and_devices": "Companion to Ps 3; address to God (1), to men (2–5), to many (6), to self (7–8). Selah marks strophes; closes in peace."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Psalm 5 – A Plea for Guidance",
+          "reference": "5:1-12",
+          "why_start_end_and_devices": "Morning prayer (v. 3) structured as access plea (1–3), theology (4–7), petition (8–10), and blessing (11–12)."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Psalm 6 – Depart from Me, You Workers of Evil",
+          "reference": "6:1-10",
+          "why_start_end_and_devices": "Penitential lament pivoting at v. 8: lament/mercy (1–7) → confident dismissal of enemies (8–10)."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Psalm 7 – Appeal of the Slandered Saint",
+          "reference": "7:1-17",
+          "why_start_end_and_devices": "Shiggaion structure: refuge (1–2), oath of innocence (3–5), petition for judgment (6–9), confidence (10–13), wicked's self‑destruction (14–16), vow of praise (17)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Psalm 8 – The Majesty of Man",
+          "reference": "8:1-9",
+          "why_start_end_and_devices": "Inclusio 'O LORD, our Lord...' frames meditation on humanity's crowned place under God's name‑glory."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Psalm 9 – A Liturgy of Thanksgiving",
+          "reference": "9:1-20",
+          "why_start_end_and_devices": "Partial acrostic (Aleph–Kaph) mixing thanksgiving for past deliverance (1–12) with plea for future help (13–20). Selah at 16, 20."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Psalm 10 – The Problem of the Wicked",
+          "reference": "10:1-18",
+          "why_start_end_and_devices": "Pair with Ps 9; lament over arrogant oppressor (1–11) pivots to petition (12–15) and kingship trust (16–18)."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Psalm 41 – A Plea from the Pit",
+          "reference": "41:1-13",
+          "why_start_end_and_devices": "Sickness and betrayal lament (5–9) culminating in the explicit doxology (v. 13) that closes Book I."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "Book II – The Elohistic Collection",
+      "why_start_end_and_literary_glue": "Defined by the doxology at 72:18–20 (with colophon v. 20). Opens with Sons of Korah cluster (42–49) and shows preference for Elohim over YHWH. Start (42:1): 'As a deer pants...' End (72:18–20): double doxology + 'The prayers of David... are ended.' Literary Glue: Korahite/Asaph collections; Elohistic diction.",
+      "reference": "42:1 - 72:20",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Psalms 42–43 – The Soul's Thirst for God",
+          "reference": "42:1-11",
+          "why_start_end_and_devices": "Three‑strophe poem unified by refrain (42:5, 11; 43:5). Memorization sub‑chunks: 42:1–5 (thirst), 42:6–11 (exile prayer), 43:1–5 (vindication and light)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Psalm 43 – Plea for Vindication",
+          "reference": "43:1-5",
+          "why_start_end_and_devices": "Continuation and conclusion of the 42–43 refrain structure; plea for light and truth leading to God's altar."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Psalm 50 – God as Judge",
+          "reference": "50:1-23",
+          "why_start_end_and_devices": "Covenant lawsuit: narrator (1), theophany (2–6), case against 'saints' (7–15), case against 'wicked' (16–21), concluding warning (22–23). Selah at 6, 15."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Psalm 51 – The Great Penitential",
+          "reference": "51:1-19",
+          "why_start_end_and_devices": "Model repentance: mercy (1–2), confession (3–6), cleansing (7–12), vow (13–17), plea for Zion (18–19)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Psalm 72 – The King's Prayer and Doxology",
+          "reference": "72:1-20",
+          "why_start_end_and_devices": "Royal prayer (1–17) followed by editorial doxology (18–20) concluding Book II with 'Amen and Amen' and colophon (v. 20)."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Book III – The Crisis of Faith",
+      "why_start_end_and_literary_glue": "Psalms 73–89 constitute the darkest section—Asaphite laments (73–83) and national crises (74, 79, 89) wrestling with covenant and theodicy. Start (73:1): 'Truly God is good...' End (89:52): doxology 'Amen and Amen.' Literary Glue: national lament and questioning within curated collections.",
+      "reference": "73:1 - 89:52",
+      "scenes": [
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Book IV – The LORD Reigns",
+      "why_start_end_and_literary_glue": "Psalms 90–106 answer Book III's crisis with the proclamation 'YHWH reigns!' (93, 96, 97, 99). Opens with Moses' psalm (90) contrasting God's eternality and human frailty; ends with explicit doxology at 106:48. Literary Glue: the Enthronement Psalms form the theological core.",
+      "reference": "90:1 - 106:48",
+      "scenes": [
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "Book V – The Hallelujah and Ascent",
+      "why_start_end_and_literary_glue": "Psalms 107–150 gather diverse sub‑collections: thanksgiving for restoration (107), Davidic cluster (108–110), Egyptian Hallel (113–118), the Great Acrostic (119), Songs of Ascents (120–134), and final Hallelujahs (146–150). Ends with Psalm 150 as the doxology for Book V and the entire Psalter. Literary Glue: named sub‑collections and climactic Hallelujah inclusios.",
+      "reference": "107:1 - 150:6",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Psalm 119 – The Great Acrostic on God's Law",
+          "reference": "119:1-176",
+          "why_start_end_and_devices": "A single poem of 22 strophes (8 lines each) forming an alphabetic acrostic. Memorization by sub‑scenes (Aleph... Tav)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Psalm 120 – Song of Ascents: Prayer in Exile",
+          "reference": "120:1-7",
+          "why_start_end_and_devices": "Begins the 15 'Songs of Ascents' (120–134). Brief pilgrim lament contrasting peace with lying tongues."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Psalm 121 – Song of Ascents: The LORD My Keeper",
+          "reference": "121:1-8",
+          "why_start_end_and_devices": "Guardian psalm of trust—help from the Maker, keeper who neither slumbers nor sleeps; day/night protection."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Psalm 122 – Song of Ascents: Joy in Jerusalem",
+          "reference": "122:1-9",
+          "why_start_end_and_devices": "Pilgrim joy on entering Jerusalem; prayer for the city's peace and the house of the LORD."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Psalm 123 – Song of Ascents: Eyes Lifted for Mercy",
+          "reference": "123:1-4",
+          "why_start_end_and_devices": "Eyes to the enthroned One; plea for mercy amid contempt from the proud."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Psalm 124 – Song of Ascents: Our Help is the LORD",
+          "reference": "124:1-8",
+          "why_start_end_and_devices": "If not for the LORD... waters would have swept us away; help in the name of the LORD, Maker of heaven and earth."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Psalm 125 – Song of Ascents: Those Who Trust are Like Mount Zion",
+          "reference": "125:1-5",
+          "why_start_end_and_devices": "Immovable trust; rod of the wicked will not rest on the land allotted to the righteous; prayer for peace on Israel."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Psalm 126 – Song of Ascents: Restore Our Fortunes",
+          "reference": "126:1-6",
+          "why_start_end_and_devices": "Laughter at restoration; sowing in tears reaping with shouts of joy."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Psalm 127 – Song of Ascents: Unless the LORD Builds the House",
+          "reference": "127:1-5",
+          "why_start_end_and_devices": "Wisdom on dependence and family blessing; arrows in the hand of a warrior."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Psalm 128 – Song of Ascents: Blessed is Everyone Who Fears the LORD",
+          "reference": "128:1-6",
+          "why_start_end_and_devices": "Domestic flourishing and Zion's peace for the God‑fearing."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Psalm 129 – Song of Ascents: Greatly Have They Afflicted Me",
+          "reference": "129:1-8",
+          "why_start_end_and_devices": "From youth afflicted, but not prevailed; imprecatory wish against Zion's haters."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Psalm 130 – Song of Ascents: Out of the Depths",
+          "reference": "130:1-8",
+          "why_start_end_and_devices": "De profundis—confession, forgiveness with God, waiting more than watchmen."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Psalm 131 – Song of Ascents: A Weaned Soul",
+          "reference": "131:1-3",
+          "why_start_end_and_devices": "Humility and quiet trust; weaned child metaphor; hope in the LORD."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Psalm 132 – Song of Ascents: Remember David",
+          "reference": "132:1-18",
+          "why_start_end_and_devices": "Davidic oath and Zion's choice; priestly garments, lamp for the anointed; long form ascent psalm."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Psalm 133 – Song of Ascents: Unity's Anointing",
+          "reference": "133:1-3",
+          "why_start_end_and_devices": "Unity like precious oil and Hermon's dew; blessing of life forevermore."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Psalm 134 – Song of Ascents: Bless the LORD, All Servants",
+          "reference": "134:1-3",
+          "why_start_end_and_devices": "Night‑watch benediction in the house of the LORD; reciprocal blessing from Zion's Maker."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Psalm 146 – Final Hallel: Blessed is He Whose Help is the God of Jacob",
+          "reference": "146:1-10",
+          "why_start_end_and_devices": "Hallelujah inclusio; do not trust princes, but the Creator who executes justice and keeps faith forever."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Psalm 147 – Final Hallel: He Heals the Brokenhearted",
+          "reference": "147:1-20",
+          "why_start_end_and_devices": "Praise for rebuilding Jerusalem and cosmic providence; delight in those who fear Him; declaration to Jacob."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Psalm 148 – Final Hallel: Praise from All Creation",
+          "reference": "148:1-14",
+          "why_start_end_and_devices": "Cosmic summons—heavenly hosts, celestial bodies, earth, kings and peoples—praise the exalted name."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Psalm 149 – Final Hallel: The High Praises in Their Throats",
+          "reference": "149:1-9",
+          "why_start_end_and_devices": "New song for saints; double‑edged sword image—praise and judgment executed."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Psalm 150 – Final Hallel: Let Everything That Has Breath Praise the LORD",
+          "reference": "150:1-6",
+          "why_start_end_and_devices": "Universal doxology—praise in sanctuary and mighty heavens, with every instrument; inclusio of Hallelujah closes Psalter."
+        }
+      ]
+    }
+  ]
+}
+
