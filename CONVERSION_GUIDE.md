@@ -6,6 +6,156 @@ This document outlines the exact process used to convert your comprehensive lite
 
 ---
 
+## ⭐ MASTER SPECIFICATION: Memory-Compliant Scene Definition
+
+### CRITICAL PRINCIPLE
+
+**A SCENE MUST BE:**
+- A complete, standalone thought that can be understood in isolation
+- Bounded by text-driven markers, not arbitrary divisions
+- Named with a memorable, evocative title
+
+### WHAT IS A "COMPLETE THOUGHT"?
+
+A complete thought in biblical narrative is a unit that:
+1. **Begins at a clear narrative/textual boundary** (oracle formula, speaker change, location shift, narrative turn, time marker)
+2. **Develops a single central action or idea** (one confrontation, one conversation, one revelation, one event)
+3. **Ends at a natural conclusion** of that action/idea (speaker finishes, location changes, event concludes, question is answered)
+4. **Is self-contained enough that a reader could understand it without the surrounding context** (though context enriches it)
+5. **Advances the story forward** in a meaningful way
+
+**When you identify complete thoughts correctly, they naturally tend to be small—typically a few verses.** This is not an imposed constraint; it's a natural outcome of the analysis. If you're regularly finding 25-30+ verse scenes, you're likely bundling multiple complete thoughts together. Each complete thought is one pericopy for memorization.
+
+**⚠️ RED FLAGS for non-compliant scenes:**
+- Scenes without clear textual boundary markers (boundaries justified by intuition, not text)
+- Scenes bundling multiple distinct events that have separate completions
+- Scenes that cannot be titled with a specific, memorable action (vague titles = divided incorrectly)
+- Scenes requiring extensive prior context to understand a single isolated sentence
+- Scene boundaries placed at chapter breaks or verse numbers instead of text markers
+
+### TEXT-DRIVEN BOUNDARY MARKERS
+
+Boundaries MUST be justified by the TEXT, not by convention. Valid boundary markers:
+
+#### Start Boundaries
+- **Oracle formula** ("The word of the LORD came...", "Thus says the LORD...")
+- **Speaker introduction** ("Then Elijah said...", "Jesus replied...")
+- **Location/time shift** ("When they came to...", "In those days...")
+- **Narrative turn marker** ("Now it came to pass...", "So the man rose and...")
+- **Section opening** (Chapter beginnings, subsection headers in some books)
+- **Character introduction** (New protagonist appears)
+
+#### End Boundaries
+- **Speaker completion** (Speech ends, marked by narrative resume: "And he said...", "Then he left...")
+- **Location change** ("So they went/came to...")
+- **Time shift** ("The next day...", "At evening...")
+- **Event conclusion** ("So X was accomplished", "Thus the matter was settled")
+- **Question answered** (Dialogue resolved, decision made)
+- **Thematic completion** (Narrative arc of thought ends)
+- **Character departure** (Principal actor leaves the scene)
+
+### LITERARY DEVICE IDENTIFICATION
+
+When identifying literary devices that hold a scene together, use precise naming:
+
+- **Repetition**: Word or phrase repeated exactly (note how many times)
+- **Parallelism**: Paired phrases/clauses with similar structure
+- **Wordplay**: Pun, etymology, sound similarity (include the words)
+- **Metaphor**: Implied comparison (identify what is compared to what)
+- **Irony**: Contradiction between expectation and reality (explain the irony)
+- **Inclusio**: Opening and closing with same/similar phrase (bracket the unit)
+- **Chiasm**: Inverted parallelism (outline the pattern: A-B-C-B'-A')
+- **Antithesis**: Contrasted pairs (identify the opposition)
+- **Hyperbole**: Exaggerated statement (note effect)
+- **Understatement**: Muted expression for effect
+- **Foreshadowing**: Earlier hint of later event
+- **Callback/Echo**: Reference to earlier scene or phrase
+
+### ZERO ARBITRARY DIVISIONS
+
+❌ **DO NOT divide scenes based on:**
+- Chapter breaks (unless chapter breaks ARE narrative boundaries)
+- Verse number patterns ("every 7 verses")
+- "Feels natural" intuition without text justification
+- Theological themes imposed on the text
+- Subheadings in study Bible editions
+- Word count targets (forcing scenes to fit a length)
+
+✅ **DO divide scenes based on:**
+- Changes of speaker or address
+- Location/time shifts marked in the text
+- Completion of a narrative event or exchange
+- Natural paragraph/stanza breaks in the original structure
+- Oracle formulas or structural markers
+- Character entry/exit
+
+### TRANSLATION AGNOSTIC
+
+The analysis must work across Bible translations. Identify:
+- Verse numbers (not dependent on specific translation's phrasing)
+- Narrative structure (same across all translations)
+- Literary devices (identifiable in any competent translation)
+
+Avoid:
+- Wordplay dependent on specific English translation
+- Verb tense observations that differ by translation
+- Word choice patterns that vary across versions
+
+Use KJV, ESV, NIV, NASB verse references interchangeably—the structure is what matters.
+
+### VALIDATION CHECKLIST BEFORE CONVERSION
+
+Before a literary analysis is converted to JSON, it MUST meet these criteria:
+
+**Structure:**
+- [ ] Each story has a clear start verse and end verse
+- [ ] Each story has 3-8 scenes (fewer is better if scenes are complete)
+- [ ] Each scene has a single, memorable action/idea at its center
+
+**Scenes:**
+- [ ] Each scene fits target verse range for the book's genre (or justified deviation)
+- [ ] Each scene has explicit boundary markers cited from text (not paraphrased)
+- [ ] Each scene title describes ONE memorable action
+- [ ] Scene titles are evocative and memorable (not generic)
+- [ ] No scene exceeds 25 verses without justification
+- [ ] Every boundary is text-justified (not assumed or intuited)
+
+**Literary Analysis:**
+- [ ] All literary devices are named with precision (not vague: "good flow," "strong narrative")
+- [ ] Devices are tied to specific text (not generalized observations)
+- [ ] Analysis explains WHY this is a complete unit (not just WHAT happens)
+- [ ] No theology imposed; analysis is structural/literary
+
+**Completeness:**
+- [ ] Scenes within a story are sequential and adjacent (no gaps)
+- [ ] Final scene of story ends exactly where story reference ends
+- [ ] All scenes combined equal the story's verse range
+
+**Red Flags:**
+- [ ] ⚠️ Scene exceeds 20 verses: needs review of boundaries
+- [ ] ⚠️ Scene is titled vaguely ("Part 1", "Events Continue"): needs specific action title
+- [ ] ⚠️ Boundary is cited as "implied" or "contextual": needs explicit text marker
+- [ ] ⚠️ Scene requires extensive prior scene context to understand: may be mis-divided
+- [ ] ⚠️ Literary devices section uses phrases like "feels", "seems", "appears to": needs specific identification
+
+### WHEN TO ASK CLAUDE/GEMINI TO REVISE
+
+If a literary analysis arrives with non-compliant scenes:
+
+1. **Identify the problematic scene** (too long, vague boundaries, unclear devices)
+2. **Return the analysis with specific guidance:**
+   ```
+   Scene [X]: "[Title]" (verses X:Y-Z)
+
+   Issue: [Boundary is not text-justified / Too many distinct events / Exceeds verse target]
+
+   Revision needed: [Specific instruction, e.g., "Split this into two scenes: one ending at X:Y (event 1 concludes), one starting at X:(Y+1) (new event begins)"]
+   ```
+3. **Re-run validation** after revision
+4. **Only convert to JSON** when checklist is fully passed
+
+---
+
 ## Part 1: Markdown Analysis → JSON Conversion Process
 
 ### Input Format: Your Literary Analysis Structure
