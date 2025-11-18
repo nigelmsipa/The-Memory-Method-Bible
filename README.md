@@ -13,18 +13,35 @@ The Memory Method Bible divides Scripture into **scenes**—complete thoughts id
 
 This framework rejects arbitrary verse count targets and theological imposition, instead deriving all structure from **what the text itself shows**.
 
+## Books Completed (24 total)
+
+**OLD TESTAMENT**
+
+*LAW (Torah)*: Genesis, Exodus, Leviticus, Numbers, Deuteronomy (5)
+
+*HISTORY*: Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther (12)
+
+*POETRY*: Job, Psalms, Proverbs, Ecclesiastes, Song of Songs (5)
+
+*MAJOR PROPHETS*: Isaiah, Jeremiah (2)
+
+**NEW TESTAMENT**
+
+(In progress)
+
+---
+
 ## Project Structure
 
 ```
 memory-method-bible/
-├── data/
-│   └── base-structure/
-│       ├── 01_genesis-base.json        # See directory for all books
-│       ├── 02_exodus-base.json         # (example names; actual files are lower‑case)
-│       ├── …
-│       └── esther-base.json            # Full set in this folder
-├── CONVERSION_GUIDE.md                 # Master Specification & JSON conversion process
-└── README.md                           # This file
+├── data/base-structure/
+│   ├── genesis-base.json
+│   ├── exodus-base.json
+│   ├── [22 additional books - see list above]
+│   └── jeremiah-base.json
+├── CONVERSION_GUIDE.md          # Master Specification & JSON conversion process
+└── README.md                    # This file
 ```
 
 **Base structure JSON format:**
@@ -32,12 +49,12 @@ memory-method-bible/
 - `hebrew_name` - Original Hebrew/Aramaic name
 - `canonical_grouping` - Position in Hebrew Tanakh or Christian canon
 - `big_picture_notes` - Literary and structural overview
-- `stories` - Array of narrative/literary units, each containing:
+- `stories` - Array of narrative/literary units with:
   - `story_letter` - A, B, C, etc.
   - `story_title` - Name of the unit
-  - `why_start_end_and_literary_glue` - Justification and devices holding it together
-  - `reference` - Verse range (e.g., story: "1:1 - 4:22"; scene: "1:1-10")
-  - `scenes` - Array of scenes within the story
+  - `why_start_end_and_literary_glue` - Justification and literary devices
+  - `reference` - Verse range (e.g., "1:1 - 4:22")
+  - `scenes` - Array of scenes (each scene = complete thought with text-driven boundaries)
 
 ## How It Works
 
