@@ -13,7 +13,7 @@ The Memory Method Bible divides Scripture into **scenes**—complete thoughts id
 
 This framework rejects arbitrary verse count targets and theological imposition, instead deriving all structure from **what the text itself shows**.
 
-## Books Completed (24 total)
+## Books Completed (27 total)
 
 **OLD TESTAMENT**
 
@@ -21,9 +21,9 @@ This framework rejects arbitrary verse count targets and theological imposition,
 
 *HISTORY*: Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther (12)
 
-*POETRY*: Job, Psalms, Proverbs, Ecclesiastes, Song of Songs (5)
+*POETRY*: Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, Lamentations (6)
 
-*MAJOR PROPHETS*: Isaiah, Jeremiah (2)
+*MAJOR PROPHETS*: Isaiah (in progress), Jeremiah, Ezekiel, Daniel (4)
 
 **NEW TESTAMENT**
 
@@ -115,14 +115,17 @@ The following books are available in `data/base-structure` with story and scene 
 - Proverbs — 6 stories, 51 scenes
 - Ecclesiastes — 5 stories, 32 scenes
 - Song of Songs — 5 stories, 40 scenes
+- Lamentations — 5 stories, 24 scenes
 - Isaiah — 4 stories, 29 scenes (in progress)
 - Jeremiah — 7 stories, 59 scenes
+- Ezekiel — 4 stories, 32 scenes
+- Daniel — 2 stories, 33 scenes
 
 Note: Formal compliance audits are ongoing. See “Known Issues & Revisions Required” for current high‑priority fixes (especially in 1 Kings architectural/catalog units).
 
 ### Overall Project Metrics
-- Books converted: 24
-- Total scenes: 1,581
+- Books converted: 27
+- Total scenes: 1,670
 
 ## Using This Framework
 
