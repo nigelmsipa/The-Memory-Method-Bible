@@ -1,0 +1,275 @@
+{
+  "book_name": "Nehemiah",
+  "hebrew_name": "נְחֶמְיָה (Nehemyah, \"Yahweh Has Comforted\")",
+  "canonical_grouping": "Writings (Kethuvim) / Historical Books",
+  "big_picture_notes": "The Book of Nehemiah is an ancient first-person memoir (the \"Nehemiah Memoir\"). Its journal-like voice binds the book together around one aim: restoring Jerusalem's physical and spiritual integrity. The narrative runs on a work-and-opposition framework: every advance (commission, wall, reforms) meets mockery, conspiracy, or internal corruption. A recurring literary device is Nehemiah's signature, ejaculatory prayers (2:4; 4:4-5; 5:19; 6:9; 6:14), culminating in the book's final plea, \"Remember me, O my God, for good\" (13:31). Structurally, Nehemiah alternates narrative with administrative lists (action: chs. 1-2, 4-6, 8-9, 13; lists/reports: chs. 3, 7, 10, 11-12). The movement proceeds from physical restoration (wall, chs. 1-7) to spiritual restoration (covenant, chs. 8-10) to social restoration (community order, chs. 11-13).",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "Rebuilding the Wall",
+      "why_start_end_and_literary_glue": "This arc (1:1-7:73) opens with Nehemiah learning Jerusalem's reproach (1:3) and follows his prayer, royal commission, inspection, and the building work amid external and internal opposition. It climaxes with the wall's completion (6:15) and securing the city (7:1-4), ending with a census (7:5-73) that resolves the \"empty city\" tension and sets up the next assembly. Start (1:1): \"The words of Nehemiah the son of Hachaliah\"—a classic memoir opening. End (7:73): \"So the priests... and all Israel, dwelt in their cities; and when the seventh month came...\"—a hinge into the next story. Literary Glue: repetitions of \"the wall\" (chomah), \"the work\" (mela'kah), and \"reproach\" (cherpah), the conflict with Sanballat and Tobiah, and Nehemiah's prayer signatures throughout.",
+      "reference": "1:1 - 7:73",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Report from Jerusalem",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts with the formal opening, \"The words of Nehemiah...\" (1:1). Ends when the report is given and Nehemiah's response (weeping, fasting, praying) is complete (1:4). Inciting incident: the wall is broken and gates burned (1:3), launching the plot through an emotional-spiritual response."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Nehemiah's Prayer of Confession",
+          "reference": "1:5-11",
+          "why_start_end_and_devices": "Starts with direct address, \"I beseech thee, O LORD God of heaven...\" (1:5). Ends with a specific petition for favor before the king and the note, \"For I was the king's cupbearer\" (1:11). A chiastic prayer: praise → confession → plea on promise → mercy on Israel → specific request."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The King's Commission",
+          "reference": "2:1-8",
+          "why_start_end_and_devices": "Starts with the court setting in Nisan (2:1). Ends with the grant of permission and provisions \"according to the good hand of my God upon me\" (2:8). A court narrative with tension resolved after Nehemiah's silent, ejaculatory prayer (2:4)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Journey and First Opposition",
+          "reference": "2:9-11",
+          "why_start_end_and_devices": "Starts with the journey to the governors beyond the River (2:9). Ends with arrival and a three-days pause in Jerusalem (2:11). Introduces Sanballat and Tobiah as aggrieved antagonists (2:10), foreshadowing conflict."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Secret Night Inspection",
+          "reference": "2:12-16",
+          "why_start_end_and_devices": "Starts with the night rising and secrecy (2:12). Ends with reiterated secrecy (2:16). A suspenseful reconnaissance: Nehemiah personally surveys the ruined wall and gates, establishing authority for the call to rebuild."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Call to Rebuild",
+          "reference": "2:17-20",
+          "why_start_end_and_devices": "Starts when Nehemiah addresses the leaders (2:17). Ends with his faith-filled rebuke to mockers, \"ye have no portion... in Jerusalem\" (2:20). Three beats: call to action (2:17), people's resolve (2:18), opponents' mockery and Nehemiah's reply (2:19-20)."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Builders of the Wall (The List)",
+          "reference": "3:1-32",
+          "why_start_end_and_devices": "Starts with Eliashib at the Sheep Gate (3:1). Ends completing the circuit \"unto the sheep gate\" (3:32). A single administrative list organized geographically—an inclusio marking unified effort around the city."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Mockery and a Prayer for Justice",
+          "reference": "4:1-6",
+          "why_start_end_and_devices": "Starts when Sanballat hears and mocks (4:1). Ends with, \"So built we the wall... for the people had a mind to work\" (4:6). Conflict (mockery) meets imprecatory prayer (4:4-5); resolution is renewed labor."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Conspiracy and the Guard",
+          "reference": "4:7-14",
+          "why_start_end_and_devices": "Starts as enemies conspire to fight (4:7-8). Ends after Nehemiah arms the people and exhorts, \"Remember the Lord...\" (4:14). Problem-solution flow: plot → prayer + watch → fear → armed defense + speech."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Sword and the Trowel",
+          "reference": "4:15-23",
+          "why_start_end_and_devices": "Starts when the plot is exposed and work resumes (4:15). Ends with total readiness summary (4:23). Descriptive method: half work, half guard; builders carry burdens with one hand and hold a weapon with the other."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The People's Cry of Usury",
+          "reference": "5:1-5",
+          "why_start_end_and_devices": "Starts with a great cry against Jewish brethren (5:1). Ends when the threefold complaint is fully stated (5:5). An internal justice crisis interrupts building: food, mortgage, and debt slavery grievances."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Nehemiah's Rebuke and the Oath",
+          "reference": "5:6-13",
+          "why_start_end_and_devices": "Starts with Nehemiah's anger (5:6). Ends with the oath sealed and the congregation's \"Amen\" (5:13). A public assembly rebuke leads nobles to repent; symbolic shaking enforces the promise."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Nehemiah's Integrity as Governor",
+          "reference": "5:14-19",
+          "why_start_end_and_devices": "Starts with his appointment summary (5:14). Ends with the signature prayer, \"Think upon me, my God, for good\" (5:19). Memoir insert contrasting his restraint with former governors—moral authority undergirding reforms."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Plot of Ono",
+          "reference": "6:1-4",
+          "why_start_end_and_devices": "Starts as enemies seek a meeting at Ono (6:2). Ends noting four repeated invitations and refusals (6:4). Personal-threat opposition; Nehemiah perceives mischief and refuses distraction."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Slanderous Open Letter",
+          "reference": "6:5-9",
+          "why_start_end_and_devices": "Starts with the fifth approach bearing an open letter (6:5). Ends with, \"Now therefore, O God, strengthen my hands\" (6:9). Public slander (rebellion claim) is directly denied and answered with a prayer for strength."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Treacherous Prophet",
+          "reference": "6:10-14",
+          "why_start_end_and_devices": "Starts at Shemaiah's house (6:10). Ends with the prayer, \"My God, think thou upon Tobiah and Sanballat...\" (6:14). A false prophetic trap (hiding in the temple) is discerned and refused; prayer serves as colophon."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Wall is Finished",
+          "reference": "6:15-19",
+          "why_start_end_and_devices": "Starts with the climax: \"So the wall was finished... in fifty and two days\" (6:15). Ends with notes on Tobiah's lingering ties (6:19). Enemy fear confirms God's work (6:16); coda exposes internal compromise."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Securing the New City",
+          "reference": "7:1-4",
+          "why_start_end_and_devices": "Starts when the wall is built and gatekeepers, singers, Levites are appointed (7:1). Ends stating the problem: a large city with few people and unbuilt houses (7:4). Transition from wall to population-security challenge."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Discovery of the Register",
+          "reference": "7:5-6",
+          "why_start_end_and_devices": "Starts with God putting it in Nehemiah's heart to gather leaders (7:5). Ends with the discovery and introduction of the register (7:5-6). Narrative frame for the census that follows—the divinely prompted solution."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Register of the First Return",
+          "reference": "7:7-73",
+          "why_start_end_and_devices": "Starts as the list begins (7:7). Ends with the list's totals, gifts, and the transition to the seventh month with people in their cities (7:73). A lengthy administrative census (parallel to Ezra 2) comprising laity, clergy, totals, and offerings."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "Renewing the Covenant",
+      "why_start_end_and_literary_glue": "A distinct unit (8:1-10:39) marked by the seventh month, Ezra's leadership, and the theme of spiritual restoration: the Law is read (ch. 8), the people confess (ch. 9), and a covenant is sealed (ch. 10). Start (8:1): the people gather as one and call for Ezra to bring the Law. End (10:39): \"we will not forsake the house of our God\"—the final pledge. Literary Glue: the book of the Law drives hearing (8:8), understanding (8:12), obedience (8:17), confession (9:2), and commitment (10:29).",
+      "reference": "8:1 - 10:39",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Ezra Reads the Law",
+          "reference": "8:1-8",
+          "why_start_end_and_devices": "Starts when all the people gather and ask Ezra to bring the Law (8:1). Ends with the teaching method summarized: reading, giving the sense, and causing understanding (8:8). A complete public reading-teaching event at the water gate."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Joy is Your Strength",
+          "reference": "8:9-12",
+          "why_start_end_and_devices": "Starts with the people's weeping upon hearing the Law (8:9). Ends when they go away to rejoice \"because they had understood\" (8:12). Problem-solution: grief at conviction countered by the command to celebrate the holy day—\"the joy of the LORD is your strength\" (8:10)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Feast of Booths",
+          "reference": "8:13-18",
+          "why_start_end_and_devices": "Starts on the second day as heads of fathers' houses gather to study (8:13). Ends with the feast completed per the Law (8:18). They find the command (8:14-15), obey (8:16-17), and conclude with solemn assembly (8:18)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Assembly of Confession",
+          "reference": "9:1-5",
+          "why_start_end_and_devices": "Starts on the twenty-fourth day with a gathered, repentant assembly (9:1-2). Ends as the formal service begins: \"Stand up and bless the LORD your God...\" (9:5). Preparation for the great prayer: posture, separation, reading, and confession."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Levites' Prayer (Part 1): Creation to Sinai",
+          "reference": "9:5-15",
+          "why_start_end_and_devices": "Starts with \"Blessed be thy glorious name...\" (9:5b). Ends after recounting creation, Abrahamic covenant, exodus, and wilderness provision up to Sinai and Sabbath (9:15). A historical recital of God's faithfulness."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Levites' Prayer (Part 2): Rebellion and Mercy",
+          "reference": "9:16-31",
+          "why_start_end_and_devices": "Starts with the pivot, \"But they and our fathers dealt proudly...\" (9:16). Ends summarizing divine forbearance over many years and consequent judgments (9:31). One sustained theme: the cycle of sin, mercy, and deliverance."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Levites' Prayer (Part 3): The Plea and the Covenant",
+          "reference": "9:32-38",
+          "why_start_end_and_devices": "Starts with \"Now therefore, our God, the great, the mighty...\" (9:32). Ends with the resolution to make a sure covenant, written and sealed (9:38). Application of history into a plea and a concrete commitment."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Sealers of the Covenant (The List)",
+          "reference": "10:1-27",
+          "why_start_end_and_devices": "Starts with, \"Now those that sealed were, Nehemiah...\" (10:1). Ends when the list of leaders, priests, and Levites concludes (10:27). A formal administrative roll of signatories."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Vows of the Covenant",
+          "reference": "10:28-39",
+          "why_start_end_and_devices": "Starts with \"And the rest of the people...\" (10:28). Ends with the summary pledge, \"we will not forsake the house of our God\" (10:39). Lists actionable promises: separation, Sabbath, temple tax, wood offering, firstfruits, and tithes."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Repopulating and Dedicating the City",
+      "why_start_end_and_literary_glue": "With the covenant sealed, the community is organized to solve the \"empty city\" problem (7:4). This unit (11:1-12:47) moves from repopulation to culminating dedication of the wall. Start (11:1): rulers dwell in Jerusalem and lots are cast to bring 1-in-10; some offer willingly. End (12:47): a concluding summary of ongoing provision and sanctification—showing a functioning, restored community. Literary Glue: residency lists build toward the dedication narrative (12:27-43), the climactic celebration of Story A's work.",
+      "reference": "11:1 - 12:47",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Casting Lots for Jerusalem",
+          "reference": "11:1-2",
+          "why_start_end_and_devices": "Starts with rulers in Jerusalem and lots cast for 1-in-10 residents (11:1). Ends with people's blessing on willing volunteers (11:2). A concise method-and-spirit explanation for repopulation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The New Residents of Jerusalem (The List)",
+          "reference": "11:3-24",
+          "why_start_end_and_devices": "Starts with, \"Now these are the chief of the province that dwelt in Jerusalem...\" (11:3). Ends with administrative oversight noted (11:24). A formal list of Jerusalem residents: Judah, Benjamin, priests, Levites, and overseers."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Residents of the Other Towns (The List)",
+          "reference": "11:25-36",
+          "why_start_end_and_devices": "Starts with, \"And for the villages... some of the children of Judah dwelt...\" (11:25). Ends with Levite divisions in Judah and Benjamin (11:36). Parallel list detailing those outside Jerusalem."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Priestly and Levitical Lineage (The List)",
+          "reference": "12:1-26",
+          "why_start_end_and_devices": "Starts with those who went up with Zerubbabel (12:1). Ends with the timeframe noted \"in the days of Nehemiah... and of Ezra\" (12:26). A historical-genealogical \"pedigree\" validating current temple leadership."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Dedication of the Wall",
+          "reference": "12:27-43",
+          "why_start_end_and_devices": "Starts with gathering Levites for dedication (12:27-29). Ends with sacrifices and great joy heard afar (12:43). One continuous event: purification, two great choirs on the wall, and climactic celebration."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Appointing the Temple Treasuries",
+          "reference": "12:44-47",
+          "why_start_end_and_devices": "Starts with \"at that time\" appointments to oversee contributions (12:44). Ends with ongoing provision and sanctification (12:47). A brief coda showing sustained temple operations after dedication."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Nehemiah's Final Reforms",
+      "why_start_end_and_literary_glue": "A distinct epilogue (ch. 13) with a time jump: Nehemiah's absence and return reveal failures of prior reforms. He discovers problems, contends with offenders, enacts decisive corrections, and punctuates each with prayer. Start (13:1): reading in the Law triggers the first reform. End (13:31): \"Remember me, O my God, for good\"—the final signature prayer that closes the memoir. Literary Glue: a repeated cycle—discovery, contention, decisive action, remembrance prayer.",
+      "reference": "13:1 - 13:31",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Cleansing of the Temple",
+          "reference": "13:1-9",
+          "why_start_end_and_devices": "Starts with reading \"in the book of Moses\" (13:1-3). Ends when the chambers are cleansed and vessels restored (13:9). Reading exposes Tobiah's chamber; Nehemiah returns, throws out his goods, and purifies the rooms."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Restoring the Tithes for the Levites",
+          "reference": "13:10-14",
+          "why_start_end_and_devices": "Starts when Nehemiah perceives Levite portions neglected (13:10). Ends with his prayer, \"Remember me, O my God, concerning this\" (13:14). He contends with rulers, restores tithes, appoints faithful overseers, and prays."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Hallowing the Sabbath",
+          "reference": "13:15-22",
+          "why_start_end_and_devices": "Starts as Sabbath profanation is observed (13:15). Ends with a prayer for mercy, \"Remember me...\" (13:22). He rebukes nobles, shuts gates, warns merchants, appoints Levites to guard, and sanctifies the day."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Controversy over Mixed Marriages",
+          "reference": "13:23-31",
+          "why_start_end_and_devices": "Starts with discovery of mixed marriages and language loss (13:23-24). Ends with the book's final sentence, \"Remember me, O my God, for good\" (13:31). Nehemiah contends fiercely, recalls Solomon's fall, purifies the priesthood, orders duties, and closes with his signature prayer."
+        }
+      ]
+    }
+  ]
+}
+

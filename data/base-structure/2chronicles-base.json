@@ -1,0 +1,763 @@
+{
+  "book_name": "2 Chronicles",
+  "hebrew_name": "דִּבְרֵי הַיָּמִים ב (Divrei Hayamim Bet) - \"The Words of the Days B\"",
+  "canonical_grouping": "Writings (Ketuvim)",
+  "big_picture_notes": "The Book of 2 Chronicles is the second part of a larger literary work (1 & 2 Chronicles) that presents a theological history of Israel from Adam to the Babylonian exile. Unlike the Book of Kings, which it parallels, 2 Chronicles focuses exclusively on the Southern Kingdom of Judah, the line of David, and the temple in Jerusalem. The Northern Kingdom (Israel) is omitted, appearing only when it interacts (usually negatively) with Judah. The book's literary framework is built on a series of highly structured regnal formulas used to introduce, describe, and conclude the reign of each Davidic king, typically including an accession notice, the king's age, length of reign, mother's name, and a concluding death/burial/succession notice. The primary literary and theological engine of the book is the Chronicler's doctrine of immediate retribution. The narrative is carefully structured to demonstrate a direct, causal link between a king's cultic faithfulness (proper temple worship, destroying high places) and his immediate national prosperity (military victory, wealth, peace), while apostasy leads to immediate disaster. The temple, the priesthood, and the Davidic covenant are the central pillars around which the entire narrative is constructed.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Reign of Solomon: The Temple Built and Dedicated",
+      "why_start_end_and_literary_glue": "This large, self-contained narrative directly continues from 1 Chronicles, opening with Solomon's accession and culminating in his death. The entire story (chapters 1-9) is unified by Solomon's divinely granted wisdom and wealth enabling the construction and dedication of the House of the LORD: wisdom as prerequisite (ch. 1), construction (chs. 2-4), dedication (chs. 5-7), and the resulting glory and blessing (chs. 8-9). Start (1:1): \"And Solomon the son of David was established in his kingdom, and the LORD his God was with him, and magnified him exceedingly\"—a clear accession formula. End (9:31): \"And Solomon slept with his fathers... and Rehoboam his son reigned in his stead\"—the standard regnal conclusion closing his reign. Literary Glue: The central Temple theme binds the narrative from preparation to dedication and divine acceptance, then to the outcomes of obedience.",
+      "reference": "1:1 - 9:31",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Solomon's Sacrifice and Divine Mandate",
+          "reference": "1:1-6",
+          "why_start_end_and_devices": "Starts with the accession and establishment of Solomon (1:1). Ends with the completion of the sacrificial act at Gibeon (1:6). Establishes Solomon's initial piety and leadership over all Israel; the vast offering displays royal magnanimity and sets the stage for God's appearance."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "God's Offer and Solomon's Request",
+          "reference": "1:7-10",
+          "why_start_end_and_devices": "Starts with the time and speaker shift: \"In that night God appeared...\" (1:7). Ends when Solomon's request is completed (1:10). A classic divine-human dialogue: God's open-ended offer (\"Ask what I shall give thee\") is answered by Solomon's selfless request for wisdom."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Divine Answer and Blessing",
+          "reference": "1:11-13",
+          "why_start_end_and_devices": "Starts with \"And God said to Solomon...\" (1:11). Ends as the encounter is resolved and Solomon returns to Jerusalem (1:13). God's response employs a \"because... therefore\" structure (vv. 11-12), aligning with the Chronicler's theology."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Summary of Solomon's Wealth",
+          "reference": "1:14-17",
+          "why_start_end_and_devices": "Starts with a new topic: \"And Solomon gathered chariots...\" (1:14). Ends with the concluding summary of his trade (1:17). A narrative summary serving as immediate fulfillment of God's promised riches (1:12)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Solomon's Command to Hiram",
+          "reference": "2:1-10",
+          "why_start_end_and_devices": "Starts with the narrative move: \"And Solomon determined to build...\" (2:1). Ends when Solomon's message to Hiram is completed (2:10). Details purpose (v. 1), logistics (v. 2), and the formal request (vv. 3-10); Solomon's speech is also a theological statement defining the temple's purpose (v. 6)."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Hiram's Reply and Agreement",
+          "reference": "2:11-16",
+          "why_start_end_and_devices": "Starts with \"Then Hiram the king of Tyre answered...\" (2:11). Ends as Hiram's letter concludes with specific terms (2:16). A formal response in which Hiram blesses \"the LORD God of Israel\" (v. 12), showing God's name honored among the nations."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Labor Force Assembled",
+          "reference": "2:17-18",
+          "why_start_end_and_devices": "Starts with \"And Solomon numbered all the strangers...\" (2:17). Ends with the workforce summary (2:18). A brief narrative bridge concluding preparations (ch. 2) and setting the stage for construction (ch. 3)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Temple Construction Begins",
+          "reference": "3:1-7",
+          "why_start_end_and_devices": "Starts with \"Then Solomon began to build...\" (3:1). Ends with description of the main house and gold overlay (3:7). Defined by location (Mount Moriah, v. 1) and dimensions (v. 3), focusing on the foundation and building."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Most Holy Place and the Cherubim",
+          "reference": "3:8-14",
+          "why_start_end_and_devices": "Starts with \"And he made the most holy house...\" (3:8). Ends with the making of the veil (3:14). Describes the inner sanctum with emphasis on materials (gold) and the cherubim (vv. 10-13)."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Two Pillars: Jachin and Boaz",
+          "reference": "3:15-17",
+          "why_start_end_and_devices": "Starts with \"Also he made before the house two pillars...\" (3:15). Ends when the pillars are named (3:17). A short, self-contained descriptive unit."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Altar, Sea, and Lavers",
+          "reference": "4:1-6",
+          "why_start_end_and_devices": "Starts with \"Moreover he made an altar of bronze...\" (4:1). Ends when the purpose of the lavers and the sea is explained (4:6). Details bronze courtyard furnishings: altar (v. 1), sea (vv. 2-5), and lavers (v. 6)."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Golden Furnishings of the Holy Place",
+          "reference": "4:7-10",
+          "why_start_end_and_devices": "Starts with \"And he made ten candlesticks of gold...\" (4:7). Ends as the description of the court is completed (4:10). Lists gold furnishings inside the temple (candlesticks, tables) and concludes with the priests' court."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Work of Hiram Completed",
+          "reference": "4:11-5:1",
+          "why_start_end_and_devices": "Starts with the summary \"And Hiram made the pots...\" (4:11). Ends when the work is finished and the treasures are brought in (5:1). A concluding summary (an inclusio with 2:13-14) listing the artisans' completed items; 5:1 caps the construction: \"Thus all the work... was finished.\""
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Ark Brought to the Temple",
+          "reference": "5:2-10",
+          "why_start_end_and_devices": "Starts with \"Then Solomon assembled...\" (5:2). Ends when the ark is placed and the staves are noted (5:10). A solemn procession completes when the ark rests in the Most Holy Place; \"unto this day\" (v. 9) is a historical marker."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Glory of the LORD Fills the Temple",
+          "reference": "5:11-14",
+          "why_start_end_and_devices": "Starts with \"And it came to pass...\" (5:11). Ends when priests cannot minister \"by reason of the cloud\" (5:14). The climax of construction: worship begins and the Shekinah fills the house, signifying divine acceptance."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Solomon's Address to the People",
+          "reference": "6:1-11",
+          "why_start_end_and_devices": "Starts with \"Then said Solomon...\" (6:1). Ends when his speech to the congregation ends (6:11). A formal royal address recounting Davidic history and the fulfillment of God's promise."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Solomon's Dedication Prayer: The Preamble",
+          "reference": "6:12-21",
+          "why_start_end_and_devices": "Starts with the posture/audience change: \"And he stood before the altar... and spread forth his hands\" (6:12). Ends after establishing the basis for prayer: Davidic covenant (6:17) and God's nature (6:18-21). The first part of the great prayer, setting theme and invoking covenant loyalty."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Prayer: For Oaths and Defeat",
+          "reference": "6:22-25",
+          "why_start_end_and_devices": "Starts with \"If a man sin against his neighbour...\" (6:22). Ends with the plea for restoration after defeat (6:25). Presents the first two if/then petitions."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Prayer: For Drought and Famine",
+          "reference": "6:26-31",
+          "why_start_end_and_devices": "Starts with \"When the heaven is shut up...\" (6:26). Ends with the plea concerning \"whatsoever sore or whatsoever sickness\" (6:31). The third and fourth petitions, dealing with divine judgment via natural disaster."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Prayer: For Foreigners and in War",
+          "reference": "6:32-35",
+          "why_start_end_and_devices": "Starts with \"Moreover concerning the stranger...\" (6:32). Ends with the plea for victory in battle (6:35). The fifth and sixth petitions extend the temple's scope to foreigners and warfare."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Prayer: For Sin and Captivity",
+          "reference": "6:36-39",
+          "why_start_end_and_devices": "Starts with \"If they sin against thee...\" (6:36). Ends with the final plea for forgiveness from captivity (6:39). The final petition anticipates exile and offers the theological remedy of repentance toward the temple."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Prayer's Conclusion",
+          "reference": "6:40-42",
+          "why_start_end_and_devices": "Starts with the conclusion: \"Now, my God, let...\" (6:40). Ends with a psalmic quotation concluding the prayer (6:42). A final appeal for God's presence, completing the speech."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Fire from Heaven: The Divine Acceptance",
+          "reference": "7:1-3",
+          "why_start_end_and_devices": "Starts with \"Now when Solomon had made an end of praying, the fire came down...\" (7:1). Ends with the people's worshipful response (7:3). The divine answer by fire mirrors 5:13-14; the people's response forms an inclusio with 5:14."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Great Feast of Dedication",
+          "reference": "7:4-10",
+          "why_start_end_and_devices": "Starts with \"Then the king and all the people offered sacrifices...\" (7:4). Ends when the people are sent home \"glad and merry in heart\" (7:10). Describes national celebration and sacrifices; the extended feast shows the event's scale."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "God's Second Appearance to Solomon",
+          "reference": "7:11-22",
+          "why_start_end_and_devices": "Starts with \"Thus Solomon finished... And the LORD appeared to Solomon by night...\" (7:11-12). Ends with the completion of God's covenantal speech (7:22). A crucial epilogue laying out \"two ways\": obedience/blessing vs. disobedience/curse that govern the remainder of the book."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Solomon's Other Building Projects",
+          "reference": "8:1-11",
+          "why_start_end_and_devices": "Starts with the time marker: \"And it came to pass at the end of twenty years...\" (8:1). Ends with completion of the building and labor force summary (8:11). A narrative summary of secular achievements demonstrating the blessing promised."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Solomon's Religious Organization",
+          "reference": "8:12-16",
+          "why_start_end_and_devices": "Starts with \"Then Solomon offered burnt offerings...\" (8:12). Ends with the summary, \"So was the house of the LORD perfected\" (8:16). Confirms Solomon as organizer of temple worship, fulfilling commands of Moses and David."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Solomon's Naval Commerce",
+          "reference": "8:17-18",
+          "why_start_end_and_devices": "Starts with \"Then went Solomon to Ezion-geber...\" (8:17). Ends with the bringing of gold from Ophir (8:18). A brief demonstration of wisdom and wealth, setting up subsequent glory."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Visit of the Queen of Sheba",
+          "reference": "9:1-9",
+          "why_start_end_and_devices": "Starts with \"And when the queen of Sheba heard...\" (9:1). Ends when the queen's blessing speech is completed (9:9). Illustrates 1:12: honor granted to Solomon; her test, astonishment, and blessing form a complete narrative."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Summary of Solomon's Riches",
+          "reference": "9:10-28",
+          "why_start_end_and_devices": "Starts with \"And the servants also of Hiram...\" (9:10). Ends with the final summary of wealth and horse trade (9:28). A long catalogue of glory: targets, ivory throne, vessels, and trade, proving the blessings of obedience."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Death of Solomon",
+          "reference": "9:29-31",
+          "why_start_end_and_devices": "Starts with the concluding regnal formula: \"Now the rest of the acts of Solomon...\" (9:29). Ends with death and succession: \"And Solomon slept... and Rehoboam his son reigned...\" (9:31). Standard conclusion formally ending Story A."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Kingdom Divided: Rehoboam to Asa",
+      "why_start_end_and_literary_glue": "This story block details the immediate consequences after Solomon: the schism under Rehoboam (ch. 10) through the reigns of Rehoboam, Abijah, and Asa. It forms a coherent unit showing establishment, struggles, and initial reforms in the divided kingdom, setting patterns for the rest of the book. Start (10:1): \"And Rehoboam went to Shechem...\"—a clear shift immediately after Solomon's death with a significant location. End (16:14): Asa's death and succession formula concludes this initial period. Literary Glue: The kingdom's vulnerability after division—attacks by Shishak (ch. 12), war with Jeroboam (ch. 13), and Ethiopian invasion (ch. 14). The Chronicler's theology is explicit: obedience brings victory (Abijah, early Asa), disobedience brings judgment (Rehoboam, Asa's end).",
+      "reference": "10:1 - 16:14",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The People's Demand",
+          "reference": "10:1-5",
+          "why_start_end_and_devices": "Starts with new king and location (10:1). Ends with Rehoboam dismissing the people for three days (10:5). Establishes the central tension via dialogue."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The King's Fateful Counsel",
+          "reference": "10:6-11",
+          "why_start_end_and_devices": "Starts with \"And king Rehoboam took counsel...\" (10:6). Ends with his harsh decision quoted (10:11). A \"two paths\" scene contrasting wise elders and foolish youths."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Kingdom Is Torn",
+          "reference": "10:12-19",
+          "why_start_end_and_devices": "Starts with the third day return (10:12). Ends with the narrative summary of rebellion (10:19). Climax of the tension: Hadoram is stoned and prophecy fulfilled (v. 15)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Shemaiah Forbids Civil War",
+          "reference": "11:1-4",
+          "why_start_end_and_devices": "Starts with Rehoboam's war preparations (11:1). Ends when the people obey the prophet and desist (11:4). Establishes prophetic authority preventing immediate war."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Rehoboam's Fortifications and Family",
+          "reference": "11:5-23",
+          "why_start_end_and_devices": "Starts with \"And Rehoboam dwelt in Jerusalem, and built cities...\" (11:5). Ends with the family and succession summary (11:23). Narrative summary: fortified cities and family lists; Levites come to Judah (vv. 13-17) reinforcing legitimacy."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Apostasy and Shishak's Invasion",
+          "reference": "12:1-4",
+          "why_start_end_and_devices": "Starts with the turn: \"When Rehoboam had established the kingdom... he forsook the law...\" (12:1). Ends with Shishak's army at Jerusalem (12:4). Perfect demonstration of immediate retribution: apostasy followed by invasion."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Repentance and Deliverance",
+          "reference": "12:5-12",
+          "why_start_end_and_devices": "Starts with \"Then came Shemaiah the prophet...\" (12:5). Ends with the summary of repentance and mitigated judgment (12:12). Theological pivot: prophet speaks, leaders humble, and God relents."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Reign and Death of Rehoboam",
+          "reference": "12:13-16",
+          "why_start_end_and_devices": "Starts with the concluding regnal summary (12:13). Ends with death/succession formula (12:16). Standard conclusion with negative evaluation."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Reign of Abijah and War with Jeroboam",
+          "reference": "13:1-12",
+          "why_start_end_and_devices": "Starts with accession (13:1). Ends when Abijah's theological speech concludes (13:12). Features the Mount Zemaraim sermon (vv. 4-12) arguing for Judah's legitimacy against Israel's apostasy."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Divine Victory for Abijah",
+          "reference": "13:13-22",
+          "why_start_end_and_devices": "Starts with Jeroboam's ambush (13:13). Ends with Abijah's regnal conclusion (13:22). Military fulfillment of the sermon: Judah cries to the LORD (v. 14), and God smites Jeroboam (v. 15)."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Asa's Pious Accession",
+          "reference": "14:1-7",
+          "why_start_end_and_devices": "Starts with accession (14:1). Ends with Asa's exhortation and prosperity summary (14:7). Establishes Asa as good: destroys altars (v. 3) and rallies people (v. 7); result is peace."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Asa's Victory over Zerah the Ethiopian",
+          "reference": "14:8-15",
+          "why_start_end_and_devices": "Starts with the new conflict: Zerah's approach (14:9). Ends when the army returns with spoil (14:15). Classic pattern: threat, prayer (v. 11), and divine deliverance (v. 12)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Prophecy of Azariah",
+          "reference": "15:1-7",
+          "why_start_end_and_devices": "Starts with \"And the Spirit of God came upon Azariah...\" (15:1). Ends when the charge is completed (15:7). Interprets the prior victory: \"The LORD is with you, while ye be with him...\" (v. 2)."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Asa's Great Reform and Covenant",
+          "reference": "15:8-19",
+          "why_start_end_and_devices": "Starts with Asa's response to the prophecy (15:8). Ends with the summary of reform and resulting peace (15:19). Details reforms culminating in a national covenant (vv. 12-15), the high point of Asa's reign."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Asa's Failure, Rebuke, and Disease",
+          "reference": "16:1-11",
+          "why_start_end_and_devices": "Starts with the time marker/new conflict: Baasha's aggression (16:1). Ends with the summary of Asa's sin and reaction (16:10-11). Reversal arc: reliance on Syria, rebuke by Hanani (v. 7), and rejection of the prophet (v. 10)."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Death of Asa",
+          "reference": "16:12-14",
+          "why_start_end_and_devices": "Starts with \"And Asa in the thirty and ninth year...\" (16:12). Ends with the death/burial/succession formula (16:13-14). Standard conclusion noting his failure: \"in his disease he sought not to the LORD\" (v. 12)."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Reign of Jehoshaphat: Reform and Perilous Alliance",
+      "why_start_end_and_literary_glue": "Jehoshaphat's reign (chs. 17-20) forms a long, detailed, self-contained arc: pious reform (ch. 17), disastrous alliance (ch. 18), repentance and renewed reform (ch. 19), and a test of faith with miraculous deliverance (ch. 20). Start (17:1): the standard accession formula. End (20:37): the account of his failed ship venture concludes his reign's narrative; 21:1 begins the next king. Literary Glue: The character of Jehoshaphat struggles between genuine piety and a recurring unholy alliance with Ahab's house, bringing rebuke and peril.",
+      "reference": "17:1 - 20:37",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Jehoshaphat's Pious Accession and First Reforms",
+          "reference": "17:1-6",
+          "why_start_end_and_devices": "Starts with accession (17:1). Ends with a theological summary of piety and prosperity (17:6). Establishes the king as good: he sought the LORD and avoided Israel's ways."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Teaching Levites",
+          "reference": "17:7-11",
+          "why_start_end_and_devices": "Starts with the third-year marker (17:7). Ends with the result: fear of the LORD on surrounding kingdoms (17:10-11). A specific reform unique to Chronicles, emphasizing teaching the law."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Summary of Jehoshaphat's Military Strength",
+          "reference": "17:12-19",
+          "why_start_end_and_devices": "Starts with \"And Jehoshaphat waxed great...\" (17:12). Ends when the list of captains is completed (17:19). A catalogue of strength as direct result of piety."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Alliance with Ahab",
+          "reference": "18:1-3",
+          "why_start_end_and_devices": "Starts with \"Now Jehoshaphat had riches... and joined affinity with Ahab\" (18:1). Ends with the pledge: \"I am as thou art... we will be with thee in the war\" (18:3). Introduces the central conflict linking wealth with a dangerous alliance."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Lying Prophets",
+          "reference": "18:4-11",
+          "why_start_end_and_devices": "Starts with Jehoshaphat's pious request to inquire of the LORD (18:4). Ends with unanimous false prophecy (18:11). Rising tension: his unease (v. 6) contrasts with Ahab's false prophets."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Micaiah's True Prophecy",
+          "reference": "18:12-27",
+          "why_start_end_and_devices": "Starts with the messenger's charge to Micaiah (18:12). Ends with Micaiah imprisoned (18:27). Climax of the prophetic subplot structured chiastically: ironic prophecy, adjuration, true vision, rejection, final warning."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Battle at Ramoth-gilead and Ahab's Death",
+          "reference": "18:28-34",
+          "why_start_end_and_devices": "Starts with the march to battle (18:28). Ends when Ahab dies at sundown (18:34). Fulfillment of Micaiah's word; dramatic irony in Ahab's disguise and Jehoshaphat's rescue (v. 31)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Rebuke of Jehu the Seer",
+          "reference": "19:1-3",
+          "why_start_end_and_devices": "Starts with Jehoshaphat's return (19:1). Ends when the prophet's speech is complete (19:3). Interprets the alliance theologically: helping the wicked brings wrath (v. 2) yet good is found in him (v. 3)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Jehoshaphat's Judicial Reforms",
+          "reference": "19:4-11",
+          "why_start_end_and_devices": "Starts with his response: he went out again among the people (19:4). Ends with his charge to the judges (19:11). Penitent response instituting judicial reform centered on the fear of the LORD."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Great Invasion",
+          "reference": "20:1-4",
+          "why_start_end_and_devices": "Starts with new crisis: Moab/Ammon approach (20:1). Ends as Judah gathers to seek the LORD (20:4). Sets the stage for the greatest test of faith; \"a great multitude\" creates the problem."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Jehoshaphat's National Prayer",
+          "reference": "20:5-13",
+          "why_start_end_and_devices": "Starts with the king standing in the congregation (20:5). Ends when the prayer concludes and the nation stands before the LORD (20:13). The theological heart: covenant, power, helplessness, and \"our eyes are upon thee\" (v. 12)."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Prophecy of Jahaziel",
+          "reference": "20:14-19",
+          "why_start_end_and_devices": "Starts with the Spirit coming upon Jahaziel (20:14). Ends with the people's worship response (20:18-19). Divine answer: \"the battle is not yours, but God's\" (v. 15)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Miraculous Victory",
+          "reference": "20:20-25",
+          "why_start_end_and_devices": "Starts with \"they rose early in the morning\" (20:20). Ends when the gathering of spoil is complete (20:25). Fulfillment of the prophecy: victory is won by singing as the LORD sets ambushments."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Return to Jerusalem",
+          "reference": "20:26-30",
+          "why_start_end_and_devices": "Starts with \"on the fourth day\" (20:26). Ends with the result: quiet realm by God's gift of rest (20:30). Concludes the victory narrative with joy and peace."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Reign and Death of Jehoshaphat",
+          "reference": "20:31-37",
+          "why_start_end_and_devices": "Starts with the concluding regnal formula (20:31). Ends with the failed ship venture and its prophetic interpretation (20:37). Standard conclusion: positive evaluation tempered by the renewed alliance failing under prophetic rebuke."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Corrupting Influence: Jehoram to Ahaz",
+      "why_start_end_and_literary_glue": "A long, dark period forming a coherent narrative of apostasy, judgment, and decline, beginning with Athaliah's influence and culminating in Ahaz's wicked reign. Start (21:1): standard accession for Jehoram. End (28:27): Ahaz's death and succession, also introducing the hopeful next section (Hezekiah). Literary Glue: Repeated pattern of walking \"in the ways of the kings of Israel\" (21:6; 22:3; 28:2), prophetic warnings (Elijah's letter; Zechariah son of Jehoiada; Oded), and escalating judgments.",
+      "reference": "21:1 - 28:27",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Wicked Reign of Jehoram",
+          "reference": "21:1-7",
+          "why_start_end_and_devices": "Starts with accession (21:1). Ends with theological evaluation and preservation of David's house (21:7). Links his wickedness to Ahab's house (v. 6), causing ensuing disasters."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Elijah's Prophecy and Jehoram's Death",
+          "reference": "21:8-20",
+          "why_start_end_and_devices": "Starts with \"In his days the Edomites revolted...\" (21:8). Ends with his ignoble death and burial (21:20). Political disaster explained by Elijah's prophetic letter (vv. 12-15); fulfilled through disease and death (vv. 16-20)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Ahaziah and the Counsel of Athaliah",
+          "reference": "22:1-6",
+          "why_start_end_and_devices": "Starts with accession (22:1). Ends with the campaign with Joram (22:6). Establishes identical sin: his mother counseled him to wickedness; he walked in Ahab's ways."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Purge of Jehu",
+          "reference": "22:7-9",
+          "why_start_end_and_devices": "Starts with the theological note: \"the destruction of Ahaziah was of God\" (22:7). Ends with Ahaziah's death and burial (22:9). Chronicles briefly shows Jehu's northern purge executing judgment on Judah's king."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Athaliah's Usurpation and Joash's Rescue",
+          "reference": "22:10-12",
+          "why_start_end_and_devices": "Starts with crisis: Athaliah seeks to destroy the royal seed (22:10). Ends with the six-year concealment complete (22:12). Tense narrative where the Davidic line is preserved in the temple by Jehoshabeath."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Jehoiada's Coup: The Plan",
+          "reference": "23:1-7",
+          "why_start_end_and_devices": "Starts with \"in the seventh year Jehoiada...\" (23:1). Ends with specific orders to Levites (23:7). A detailed plan highlighting the Levites' temple-guard role."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Coronation of Joash",
+          "reference": "23:8-11",
+          "why_start_end_and_devices": "Starts with the Levites and Judah executing the plan (23:8). Ends with the anointing and cry, \"God save the king\" (23:11). Swift execution culminating in rightful coronation."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Execution of Athaliah",
+          "reference": "23:12-15",
+          "why_start_end_and_devices": "Starts with Athaliah hearing the noise (23:12). Ends with her execution outside the temple (23:15). Climax of the rebellion; her cry of \"Treason!\" is ironic."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Jehoiada's Covenant and Reforms",
+          "reference": "23:16-21",
+          "why_start_end_and_devices": "Starts with \"Jehoiada made a covenant...\" (23:16). Ends with the king seated and city quiet (23:21). Denouement restoring right worship and purging Baal."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Joash's Temple Repair",
+          "reference": "24:1-14",
+          "why_start_end_and_devices": "Starts with accession summary (24:1). Ends when temple repair is finished (24:14). Narrates piety under Jehoiada's influence: organized restoration of the temple."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Joash's Apostasy and the Stoning of Zechariah",
+          "reference": "24:15-22",
+          "why_start_end_and_devices": "Starts with the turn after Jehoiada's death (24:15-17). Ends with Zechariah's dying words (24:22). Tragic pivot from dependent piety to idolatry; prophetic warning is met with murder."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Judgment and Death of Joash",
+          "reference": "24:23-27",
+          "why_start_end_and_devices": "Starts with \"at the end of the year\" Syrian incursion (24:23). Ends with death/burial formula (24:25-27). Immediate retribution: small army defeats Judah because they forsook the LORD; assassination and denial of royal burial follow."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Reign of Amaziah and Victory over Edom",
+          "reference": "25:1-13",
+          "why_start_end_and_devices": "Starts with accession (25:1). Ends with the plundering summary (25:13). Partial obedience: he does right (v. 2), obeys the prophet (vv. 8-10), and gains victory (vv. 11-12), though the dismissed army's raid creates trouble (v. 13)."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Amaziah's Apostasy and Rebuke",
+          "reference": "25:14-16",
+          "why_start_end_and_devices": "Starts with his post-victory idolatry (25:14). Ends when he rejects the prophet's warning (25:16). He worships the conquered gods; pride and rejection seal his doom."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Amaziah's Defeat and Death",
+          "reference": "25:17-28",
+          "why_start_end_and_devices": "Starts with his challenge to Israel (25:17). Ends with death/burial formula (25:28). Judgment for apostasy: humiliating defeat and assassination, as the prophet foretold."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Uzziah's Pious Reign and Prosperity",
+          "reference": "26:1-15",
+          "why_start_end_and_devices": "Starts with accession (26:1). Ends with the summary of strength and fame (26:15). Blessing summary: \"as long as he sought the LORD, God made him to prosper\" (v. 5), followed by lists of prosperities."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Uzziah's Pride, Transgression, and Leprosy",
+          "reference": "26:16-23",
+          "why_start_end_and_devices": "Starts with the turn: \"when he was strong, his heart was lifted up\" (26:16). Ends with death/burial formula (26:23). Classic fall: presumption in usurping priestly role (v. 16); judgment is immediate (leprosy, v. 19)."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Reign of Jotham",
+          "reference": "27:1-9",
+          "why_start_end_and_devices": "Starts with accession (27:1). Ends with death/burial formula (27:9). Brief positive summary: success (vv. 5-6) tied to piety (v. 6) though people remain corrupt (v. 2)."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Wicked Reign of Ahaz",
+          "reference": "28:1-8",
+          "why_start_end_and_devices": "Starts with accession (28:1). Ends with defeat by Syria and Israel (28:8). Opposite of Jotham: list of sins (vv. 2-4) immediately followed by judgment (vv. 5-8)."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Prophecy of Oded",
+          "reference": "28:9-15",
+          "why_start_end_and_devices": "Starts with \"a prophet of the LORD... Oded\" (28:9). Ends when the captives are clothed, fed, and returned (28:15). Unique grace narrative: the victors are rebuked and they repent, showing mercy."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Ahaz's Continued Apostasy and Death",
+          "reference": "28:16-27",
+          "why_start_end_and_devices": "Starts with \"At that time did king Ahaz send...\" (28:16). Ends with death/burial formula (28:27). Ahaz remains unrepentant, turns to Assyria, escalates sin by shutting the temple (v. 24), the nadir of Judah's apostasy."
+        }
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "The Reign of Hezekiah: The Great Revival",
+      "why_start_end_and_literary_glue": "A tightly unified four-chapter narrative of national restoration: cleansing the temple (ch. 29), celebrating Passover (ch. 30), reorganizing priesthood and tithes (ch. 31), and the faith test against Sennacherib (ch. 32). Start (29:1): standard accession formula. End (32:33): death/succession formula. Literary Glue: Overarching restoration theme; Hezekiah as a \"new David\" (29:2). Structure is chiastic: reforms (29-31), test/deliverance (32:1-23), personal failure and repentance (32:24-33).",
+      "reference": "29:1 - 32:33",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Hezekiah's Accession and Charge to the Levites",
+          "reference": "29:1-11",
+          "why_start_end_and_devices": "Starts with accession (29:1). Ends when his charge to the Levites is completed (29:11). Establishes priority: reversing Ahaz's apostasy; speech (vv. 4-11) sets the revival agenda."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Levites Consecrate Themselves and the Temple",
+          "reference": "29:12-19",
+          "why_start_end_and_devices": "Starts with \"Then the Levites arose...\" (29:12). Ends when cleansing is complete and reported (29:19). Fulfillment of the prior charge; emphasizes Levites' role over priests."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The National Atonement Sacrifice",
+          "reference": "29:20-26",
+          "why_start_end_and_devices": "Starts with \"Then Hezekiah the king rose early...\" (29:20). Ends when the order of service is established by the LORD's command (29:26). Details sin offering for \"all Israel\" (v. 24), healing the schism."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Joyful Burnt Offering",
+          "reference": "29:27-30",
+          "why_start_end_and_devices": "Starts with the burnt offering command (29:27). Ends with completion of song and worship (29:30). A scene of worship featuring Davidic instruments and song."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The People's Offerings",
+          "reference": "29:31-36",
+          "why_start_end_and_devices": "Starts with Hezekiah's invitation to bring offerings (29:31). Ends with the joyful, rapid summary of revival (29:36). People's response is abundant; Levites help priests (v. 34)."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Proclamation of the Great Passover",
+          "reference": "30:1-12",
+          "why_start_end_and_devices": "Starts with invitations sent to all Israel and Judah (30:1). Ends with Judah's positive response and some from Israel (30:12). Major theological move: inviting the northern remnant; contrast between mockers and the humbled."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Celebration of the Passover",
+          "reference": "30:13-20",
+          "why_start_end_and_devices": "Starts with assembly at Jerusalem (30:13). Ends when Hezekiah's prayer for the ritually unclean is heard and they are healed (30:20). Tension around impurity resolved by prayerful grace and divine acceptance."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Joyful Second Week",
+          "reference": "30:21-27",
+          "why_start_end_and_devices": "Starts with \"the children of Israel... kept the feast\" (30:21). Ends with priestly blessing and prayer ascending to God's holy dwelling (30:27). Joy so great they extend the feast another week (v. 23)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Destruction of Idols",
+          "reference": "31:1",
+          "why_start_end_and_devices": "Starts with \"Now when all this was finished...\" (31:1). Ends when the action is complete and people return home (31:1). Brief but crucial outward result: idols destroyed across Judah and Ephraim."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Reorganization of Priests and Tithes",
+          "reference": "31:2-10",
+          "why_start_end_and_devices": "Starts with \"And Hezekiah appointed the courses...\" (31:2). Ends with the high priest's report of abundant tithes (31:10). Structural reform restoring Davidic courses and tithes yields blessing."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Administration of the Tithes",
+          "reference": "31:11-21",
+          "why_start_end_and_devices": "Starts with \"Then Hezekiah commanded to prepare chambers...\" (31:11). Ends with the summary of Hezekiah's good reign (31:21). Administrative detail proves piety through just and true organization (v. 20)."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Assyrian Crisis: Sennacherib's Threat",
+          "reference": "32:1-8",
+          "why_start_end_and_devices": "Starts with \"After these things... Sennacherib came\" (32:1). Ends with Hezekiah's encouragement speech (32:8). The test begins: practical defenses (vv. 3-5) and spiritual courage (vv. 6-8)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Rabshakeh's Blasphemous Taunts",
+          "reference": "32:9-19",
+          "why_start_end_and_devices": "Starts with Sennacherib sending servants (32:9). Ends with the summary of blasphemies (32:19). Defined by reported speech equating the LORD with other gods, challenging faith."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Miraculous Deliverance",
+          "reference": "32:20-23",
+          "why_start_end_and_devices": "Starts with Hezekiah and Isaiah praying (32:20). Ends with the deliverance summary and ensuing honor (32:23). Climax: divine intervention by an angel (v. 21) proving the Chronicler's theology."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Hezekiah's Sickness, Pride, and Repentance",
+          "reference": "32:24-26",
+          "why_start_end_and_devices": "Starts with \"In those days Hezekiah was sick...\" (32:24). Ends when his repentance averts wrath (32:26). Brief summary of personal failure (pride) and repentance."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Babylonian Envoys and Hezekiah's Death",
+          "reference": "32:27-33",
+          "why_start_end_and_devices": "Starts with a wealth summary (32:27). Ends with death/burial formula (32:33). Concluding regnal summary noting the envoys only to show God left him to test him (v. 31)."
+        }
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "The Great Apostasy: Manasseh and Amon",
+      "why_start_end_and_literary_glue": "A theological turning point: Manasseh's long, wicked reign undoes Hezekiah's reforms, yet uniquely in Chronicles includes his capture, repentance, and restoration—a miniature of sin, judgment, repentance, restoration. Start (33:1): standard accession. End (33:25): succession to Josiah. Literary Glue: A chiastic arc—extreme sin (vv. 1-9), judgment (vv. 10-11), repentance (vv. 12-13), restoration (vv. 14-17), followed by Amon's repetition of sin without repentance.",
+      "reference": "33:1 - 33:25",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Great Sin of Manasseh",
+          "reference": "33:1-9",
+          "why_start_end_and_devices": "Starts with accession (33:1). Ends with the summary that he made Judah do worse than the nations (33:9). Lists cultic sins reversing Hezekiah's reforms: altars, high places, and child sacrifice."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Manasseh's Repentance and Restoration",
+          "reference": "33:10-17",
+          "why_start_end_and_devices": "Starts with judgment: \"The LORD spake... so the LORD brought...\" (33:10-11). Ends with restoration and partial reform summary (33:17). Unique to Chronicles: captivity leads to deep humility, prayer, and restoration to Jerusalem."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Reign of Amon and Death of Manasseh",
+          "reference": "33:18-25",
+          "why_start_end_and_devices": "Starts with Manasseh's concluding regnal formula (33:18). Ends with Amon's death/burial/succession (33:25). Transitions to Amon: he did not humble himself as Manasseh did, but trespassed more and more."
+        }
+      ]
+    },
+    {
+      "story_letter": "G",
+      "story_title": "The Reign of Josiah: The Final Revival",
+      "why_start_end_and_literary_glue": "The final positive story parallels Hezekiah's revival. Unified by the discovery of the Book of the Law precipitating covenant renewal, reforms, and a great Passover. Start (34:1): standard accession. End (35:27): regnal conclusion. Literary Glue: The Book of the Law drives the sequence—early piety (34:3-7) leads to temple repair (34:8-13), discovery (34:14-21), prophecy and covenant (34:22-33), and Passover (35:1-19).",
+      "reference": "34:1 - 35:27",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Josiah's Early Piety and Reforms",
+          "reference": "34:1-7",
+          "why_start_end_and_devices": "Starts with accession (34:1). Ends with the summary of his purge of idolatry (34:7). Establishes him as a good king seeking the God of David even before the law is found."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Temple Repair and Discovery of the Law",
+          "reference": "34:8-18",
+          "why_start_end_and_devices": "Starts with the eighteenth-year repair commission (34:8). Ends when Shaphan reports, \"Hilkiah... hath given me a book\" (34:18). Details logistics (vv. 9-13) culminating in the pivotal discovery (v. 14)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Josiah's Reaction and Huldah's Prophecy",
+          "reference": "34:19-28",
+          "why_start_end_and_devices": "Starts with the king's reaction upon hearing the words (34:19). Ends when Huldah's oracle is completed (34:28). Prophetic consultation: immediate repentance and a two-part prophecy—judgment on Judah, peace for Josiah due to his tender heart."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Covenant Renewed",
+          "reference": "34:29-33",
+          "why_start_end_and_devices": "Starts with gathering the people (34:29). Ends with the summary of his lifelong faithfulness (34:33). National response: covenant made and people caused to stand to it."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Great Passover: Preparations",
+          "reference": "35:1-11",
+          "why_start_end_and_devices": "Starts with \"Moreover Josiah kept a passover...\" (35:1). Ends when priests sprinkle blood and Levites flay offerings (35:11). Liturgical narrative restoring proper order: ark placement and Davidic organization of Levites."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Passover: The Offering",
+          "reference": "35:12-19",
+          "why_start_end_and_devices": "Starts with removing burnt offerings (35:12). Ends with the summary, \"So was the passover kept...\" (35:19). Completes the feast description, emphasizing adherence to the law and historical greatness."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Tragic Death of Josiah",
+          "reference": "35:20-27",
+          "why_start_end_and_devices": "Starts with \"After all this, when Josiah had prepared...\" (35:20). Ends with the concluding regnal formula (35:27). A tragic end explained: he did not heed God's words via Necho; one misjudgment cost him his life."
+        }
+      ]
+    },
+    {
+      "story_letter": "H",
+      "story_title": "The Fall of Judah and the Edict of Cyrus",
+      "why_start_end_and_literary_glue": "A distinct epilogue detailing the rapid collapse of Judah: the last four kings fall in formulaic succession, culminating in the temple's destruction and exile, then sudden hope in Cyrus's edict. Start (36:1): Jehoahaz is set up immediately after Josiah. End (36:23): Cyrus's proclamation inviting return to build the house, a hopeful cliffhanger leading into Ezra. Literary Glue: Accelerating cyclical formula—king installed, does evil, deposed by foreign power—culminating in destruction and exile (vv. 17-21).",
+      "reference": "36:1 - 36:23",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Reign and Deposing of Jehoahaz",
+          "reference": "36:1-4",
+          "why_start_end_and_devices": "Starts with accession (36:1). Ends when he is deposed and carried to Egypt (36:4). Brief, tragic reign: evil (v. 2) judged by Egypt (v. 3)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Reign and Fall of Jehoiakim",
+          "reference": "36:5-8",
+          "why_start_end_and_devices": "Starts with accession (36:5). Ends with concluding formula (36:8). Defined by evil (v. 5) and binding by Nebuchadnezzar (v. 6)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Reign and Fall of Jehoiachin",
+          "reference": "36:9-10",
+          "why_start_end_and_devices": "Starts with accession (36:9). Ends when he is deposed and exiled to Babylon (36:10). Rapid fall in three months; temple vessels taken."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Reign of Zedekiah and the Final Apostasy",
+          "reference": "36:11-16",
+          "why_start_end_and_devices": "Starts with accession (36:11). Ends with final summary of rejecting prophets \"till there was no remedy\" (36:16). Theological cause of the destruction: sins of king, priests, and people despite God's persistent compassion."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Destruction of Jerusalem",
+          "reference": "36:17-21",
+          "why_start_end_and_devices": "Starts with judgment: \"Therefore he brought upon them the king of the Chaldees...\" (36:17). Ends with fulfillment of Jeremiah's seventy years (36:21). Horrifying fulfillment of covenant curses: slaying, plundering, burning, and exile."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Edict of Cyrus",
+          "reference": "36:22-23",
+          "why_start_end_and_devices": "Starts with \"Now in the first year of Cyrus...\" (36:22). Ends with the final words, \"let him go up\" (36:23). Sudden, hopeful reversal: divine charge to build the house, ending on commission rather than despair."
+        }
+      ]
+    }
+  ]
+}
+

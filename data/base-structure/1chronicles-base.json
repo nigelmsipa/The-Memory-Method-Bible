@@ -1,0 +1,377 @@
+{
+  "book_name": "1 Chronicles",
+  "hebrew_name": "דִּבְרֵי הַיָּמִים א (Divrei Hayamim Aleph) — \"The Words of the Days [Annals], One\"",
+  "canonical_grouping": "Writings (Ketuvim)",
+  "big_picture_notes": "The Book of 1 Chronicles, while covering historical periods detailed in Samuel and Kings, is a distinct literary and theological work crafted for a post-exilic community. Its structure is its primary argument, intended to re-establish the identity of the returning exiles as the true, continuous people of God. The book is dominated by two massive, unequal sections: the Genealogies (Chapters 1-9) and the Reign of David (Chapters 10-29). The genealogies (Story A) are not a dry appendix; they are the book's foundation. They intentionally trace the community's lineage from Adam, creating a universal context, and then systematically narrow the focus to the tribes of Judah (the royal line) and Levi (the priestly line). This act of \"narrative-by-genealogy\" roots the post-exilic community, primarily composed of these two tribes, directly in the covenantal promises of God. The second section (Stories B, C, D) presents a highly curated and idealized portrait of David. The Chronicler intentionally omits David's fugitive years, his struggles with Saul, and, most notably, his sin with Bathsheba and the subsequent rebellion of Absalom. This is not historical whitewashing but a deliberate literary choice. The David of 1 Chronicles is presented as the ideal king, not because he was flawless, but because he was the founder of the Temple. His entire reign is structured around one central theme: the preparation for and establishment of true worship in Jerusalem. The book's structure argues that Israel's identity is not found in a political kingdom (which was lost) but in its role as a worshiping community centered on the Temple and the Law, established by God's chosen king.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Identity of Israel: From Adam to the Returning Exiles",
+      "why_start_end_and_literary_glue": "This section is a distinct literary genre (genealogy and register) that functions as the book's prologue, establishing the identity of the post-exilic community by tracing their lineage from the dawn of humanity. It begins with the universal (Adam) and thematically narrows its focus to Judah (the royal line) and Levi (the priestly line), the primary groups that returned from Babylon. Start (1:1): \"Adam, Seth, Enosh,\" beginning at the universal origin point of all humanity. End (9:44): \"...and Ahaz begot Jarah;\" the final genealogy of the house of Saul (repeated from chapter 8) serving as a deliberate narrative hinge pointing to the death of Saul that opens the next story. Literary Glue: Repetitive genealogical formulae (\"the sons of...\", Hebrew: \"beney\"; \"begot\", Hebrew: \"yalad\") and structured lists of names, families, and geographic allotments bind the whole.",
+      "reference": "1:1 - 9:44",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "From Adam to the Sons of Noah",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts with \"Adam,\" the first man (1:1). Ends with the completion of the first ten-generation list with \"Shem, Ham, and Japheth\" (1:4). This scene provides the foundational link from all humanity to the post-flood world; a rapid, bare-bones list whose complete thought is the unbroken chain from Creation to the new beginning after the Flood."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Table of Nations: Japheth and Ham",
+          "reference": "1:5-16",
+          "why_start_end_and_devices": "Starts with \"The sons of Japheth...\" (1:5). Ends when the list of Ham's descendants concludes with the Canaanite families (1:16). This scene outlines the non-covenantal lines, setting them aside to prepare the focus on Shem: a single thought answering, \"Who are the other nations?\" The Chronicler quickly dispenses with Japheth (vv. 5-7) and Ham with emphasis on Canaan (vv. 8-16)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Line of Shem to Abraham",
+          "reference": "1:17-27",
+          "why_start_end_and_devices": "Starts with \"The sons of Shem...\" (1:17). Ends when the line culminates in \"...Abram; the same is Abraham\" (1:27). This first key narrowing shifts from the nations to the covenant line, connecting the universal story of Adam and Noah directly to the father of the Hebrew people."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Sons of Abraham (Ishmael and Keturah)",
+          "reference": "1:28-33",
+          "why_start_end_and_devices": "Starts with \"The sons of Abraham; Isaac, and Ishmael\" (1:28). Ends with the conclusion, \"...all these are the sons of Keturah\" (1:33). This unit sets aside the non-covenantal lines of Abraham (Ishmael and the sons of Keturah) to clear the path for the line of promise through Isaac."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Line of Esau (Edom)",
+          "reference": "1:34-54",
+          "why_start_end_and_devices": "Starts with \"And the sons of Isaac; Esau, and Israel\" (1:34). Ends when the list of Edomite kings concludes with \"...Hadad died\" (1:50-54). This final setting aside details Esau's line, including his sons (vv. 34-37) and the subsequent kings and dukes of Edom (vv. 38-54), a long but single genealogical unit preceding the focus on Jacob/Israel."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Sons of Israel (Judah)",
+          "reference": "2:1-17",
+          "why_start_end_and_devices": "Starts with \"These are the sons of Israel...\" (2:1). Ends with the close of David's immediate family list, \"...Zeruiah, and Abigail\" (2:17). The primary focus begins: the scene lists Israel's twelve sons (vv. 1-2) then pivots to the line of Judah (from Perez to Jesse and David, vv. 3-15) and David's family (vv. 16-17), making a single genealogical argument—from Israel to Judah to David."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Descendants of Caleb",
+          "reference": "2:18-24",
+          "why_start_end_and_devices": "Starts with \"And Caleb the son of Hezron begot...\" (2:18). Ends with the marker \"...Ephratah\" (2:24). A sub-unit within Judah, this complete family register focuses on the prominent family of Caleb son of Hezron and concludes with the note of Hezron's death."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Descendants of Jerahmeel",
+          "reference": "2:25-41",
+          "why_start_end_and_devices": "Starts with \"And the sons of Jerahmeel the firstborn of Hezron...\" (2:25). Ends with \"...Zabad begot Ephlal...\" (2:41). This second major sub-unit of Judah traces the line of Jerahmeel, a single, detailed thought notably including Sheshan's line through his daughter due to having no sons (vv. 34-35)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Remaining Lines of Judah and Caleb",
+          "reference": "2:42-55",
+          "why_start_end_and_devices": "Starts with \"Now the sons of Caleb the brother of Jerahmeel...\" (2:42). Ends with \"...the Kenites that came of Hemath, the father of the house of Rechab\" (2:55). This \"cleanup\" gathers remaining lines of Caleb and associated families and concludes with the Kenites, completing the Judah focus."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Royal Line of David",
+          "reference": "3:1-9",
+          "why_start_end_and_devices": "Starts with \"Now these were the sons of David, which were born unto him in Hebron...\" (3:1). Ends with the summary, \"...all these were the sons of David, beside the sons of the concubines, and Tamar their sister\" (3:9). A crucial, perfectly structured scene listing sons born in Hebron (vv. 1-4) and in Jerusalem (vv. 5-8), then summarizing (v. 9)."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Kings of Judah After David",
+          "reference": "3:10-24",
+          "why_start_end_and_devices": "Starts with \"And Solomon's son was Rehoboam...\" (3:10). Ends with \"...and the sons of Elioenai...\" (3:24). This scene completes the royal line, tracing Judah's kings from Solomon to the generation of the exile (vv. 17-24) and demonstrating continuity of the monarchy—a key Chronicler theme."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Descendants of Judah (Revisited) and Simeon",
+          "reference": "4:1-23",
+          "why_start_end_and_devices": "Starts with \"The sons of Judah; Pharez, Hezron...\" (4:1). Ends with \"...they dwelt with the king for his work\" (4:23). Returning to Judah, the Chronicler provides details on families and allotments, highlighting craftsmen and those who dwelt with the king—emphasizing loyalty; a topical and genealogical list."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Tribe of Simeon",
+          "reference": "4:24-43",
+          "why_start_end_and_devices": "Starts with \"The sons of Simeon were...\" (4:24). Ends with \"...and they dwelt there unto this day\" (4:43). A complete unit listing families (vv. 24-27), cities (vv. 28-33), and princes (vv. 34-38), concluding with a brief conquest narrative (vv. 39-43) as one cohesive story."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Transjordan Tribes (Reuben, Gad, Manasseh)",
+          "reference": "5:1-26",
+          "why_start_end_and_devices": "Starts with \"Now the sons of Reuben the firstborn of Israel...\" (5:1). Ends with \"...and carried them away, and brought them unto Halah...\" (5:26). Covering Reuben, Gad, and the half-tribe of Manasseh, the unit explains Reuben's loss of birthright (vv. 1-2), lists descendants (Reuben vv. 3-10; Gad vv. 11-17; Manasseh vv. 23-24), and unifies with narrative conclusion: victories by God's help and exile for sin (vv. 18-22, 25-26)."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Priestly Line of Levi",
+          "reference": "6:1-15",
+          "why_start_end_and_devices": "Starts with \"The sons of Levi; Gershon, Kohath, and Merari\" (6:1). Ends with \"...and Jehozadak went into captivity...\" (6:15). Establishing the high priestly line from Levi through Aaron and Eleazar to Jehozadak, this scene proves the continuity of the priesthood, parallel to the royal continuity in chapter 3."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Levitical Musicians",
+          "reference": "6:16-53",
+          "why_start_end_and_devices": "Starts anew with \"The sons of Levi; Gershom, Kohath, and Merari\" (6:16). Ends with \"...all their service for the tabernacle...\" (6:49-53). A long, detailed list of other Levitical families broken down by function: chief musicians Heman, Asaph, Ethan (vv. 31-48) and the duties of the Aaronic priests (vv. 49-53); a single complex thought—families and duties in worship."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Levitical Cities",
+          "reference": "6:54-81",
+          "why_start_end_and_devices": "Starts with \"Now these are their dwelling places...\" (6:54). Ends with the final allocation \"...out of the tribe of the half of Manasseh\" (6:81). A complete list of cities allotted to Levites organized by family (Kohathites, Gershonites, Merarites), establishing their right to the land alongside other tribes—critical for a post-exilic audience."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Northern Tribes (Issachar, Benjamin, Naphtali, Manasseh, Ephraim)",
+          "reference": "7:1-29",
+          "why_start_end_and_devices": "Starts with \"Now the sons of Issachar...\" (7:1). Ends with \"...and the towns thereof\" (7:29). A composite of briefer genealogies for northern tribes largely lost after the Assyrian exile; included to reinforce \"all Israel\"—a single scene organized by individual tribes."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Tribe of Asher",
+          "reference": "7:30-40",
+          "why_start_end_and_devices": "Starts with \"The sons of Asher...\" (7:30). Ends with \"...twenty and six thousand men\" (7:40). A final, self-contained genealogical unit concluding with a census of mighty men."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Line of Benjamin and Saul",
+          "reference": "8:1-40",
+          "why_start_end_and_devices": "Starts with \"Now Benjamin begat Bela his firstborn...\" (8:1). Ends with the summary of Ulam's sons as mighty men of valor (8:40). A second, more detailed genealogy of Benjamin with strong focus on Saul's family (vv. 29-40), serving as the immediate precursor to Saul's death narrative in chapter 10."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Dwellers in Jerusalem (The Remnant)",
+          "reference": "9:1-9",
+          "why_start_end_and_devices": "Starts with \"So all Israel were reckoned by genealogies...\" (9:1). Ends with \"...their possessions in their cities\" (9:9). The climax of the genealogies: v. 1 summarizes the section; v. 2 pivots to the post-exilic reality (\"Now the first inhabitants that dwelt...\"). Identifies the returning remnant (Israel, priests, Levites, Nethinims) and lists the first families of Judah."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Priests in Jerusalem",
+          "reference": "9:10-13",
+          "why_start_end_and_devices": "Starts with \"And of the priests; Jedaiah, and Jehoiarib...\" (9:10). Ends with \"...for the work of the service of the house of God\" (9:13). A complete list of key priestly families who returned, emphasizing they were able men for the Temple's service."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Levites and Gatekeepers in Jerusalem",
+          "reference": "9:14-34",
+          "why_start_end_and_devices": "Starts with \"And of the Levites; Shemaiah...\" (9:14). Ends with \"...these dwelt at Jerusalem\" (9:34). A long but unified unit detailing Levites (vv. 14-16), gatekeepers (vv. 17-27), and their specific duties (vv. 28-32), concluded by a summary statement (vv. 33-34)."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Family of Saul (Final Hinge)",
+          "reference": "9:35-44",
+          "why_start_end_and_devices": "Starts with \"And in Gibeon dwelt the father of Gibeon...\" (9:35). Ends with \"...and Ahaz begot Jarah\" (9:44). A deliberate repetition of the genealogy in chapter 8 forming an inclusio that signals the close of the genealogies and links directly to the death of Saul in the next story."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Kingdom Established: The Ark Comes to Jerusalem",
+      "why_start_end_and_literary_glue": "This narrative section details the transfer of power from the failed house of Saul to the divinely chosen David and the consolidation of David's kingdom, moving toward the single climax of installing the Ark of the Covenant in Jerusalem. Start (10:1): \"Now the Philistines fought against Israel...\"—beginning with Saul's failure and death, which the Chronicler interprets as the reason the kingdom was turned to David (10:13-14). End (16:43): \"Then all the people departed every man to his house: and David returned to bless his house.\" A classic narrative conclusion after the Ark's installation and worship. Literary Glue: The Ark's journey is the central thread (failed attempt ch. 13; successful attempt chs. 15-16), bracketed by Saul's fall (ch. 10) and David's establishment (chs. 11-12, 14).",
+      "reference": "10:1 - 16:43",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Fall of Saul's House",
+          "reference": "10:1-14",
+          "why_start_end_and_devices": "Starts with the battle report, \"Now the Philistines fought...\" (10:1). Ends with the Chronicler's theological summary, \"...and turned the kingdom unto David the son of Jesse\" (10:14). A complete narrative: Saul's final battle and death (vv. 1-12) followed by a two-verse moral explaining why Saul failed (transgression, consulting a medium) and why David was chosen—Chronicler's distinctive stamp."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "David Anointed King Over All Israel",
+          "reference": "11:1-9",
+          "why_start_end_and_devices": "Starts with \"Then all Israel gathered themselves to David...\" (11:1). Ends with \"...for the LORD of hosts was with him\" (11:9). A single thought of consolidation: the people's pledge (vv. 1-3) and the capture of Jerusalem (vv. 4-9). The long civil war of 2 Samuel is omitted to highlight immediate unification."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "David's Mighty Men (The Three and the Thirty)",
+          "reference": "11:10-47",
+          "why_start_end_and_devices": "Starts with \"These also are the chief of the mighty men...\" (11:10). Ends with \"...Jaasiel the Mesobaite\" (11:47). A long, unified list scene showing God's power and support to David: introduction (v. 10), Jashobeam (v. 11), Eleazar (vv. 12-14), the three at Adullam (vv. 15-19), Abishai (vv. 20-21), Benaiah (vv. 22-25), and the Thirty (vv. 26-47)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Armies That Came to David at Ziklag and Hebron",
+          "reference": "12:1-40",
+          "why_start_end_and_devices": "Starts with \"Now these are they that came to David to Ziklag...\" (12:1). Ends with the joyful feast, \"...and drank: for their brethren had prepared for them\" (12:40). A long, list-based yet unified topic: supporters of David—warriors at Ziklag (vv. 1-22) and vast armies at Hebron to make him king (vv. 23-38), concluding with a narrative flourish (vv. 39-40)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The First Attempt to Move the Ark (Uzza's Death)",
+          "reference": "13:1-14",
+          "why_start_end_and_devices": "Starts with \"And David consulted with the captains...\" (13:1). Ends with the pause in fear and the ark staying at Obed-edom's house, \"...the house of Obed-edom three months\" (13:14). A complete and tragic narrative: the plan (vv. 1-4), joyful procession (vv. 5-8), Uzza's death (vv. 9-10), and David's fearful response that halts the effort (vv. 11-14)."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "God Blesses David in Jerusalem",
+          "reference": "14:1-17",
+          "why_start_end_and_devices": "Starts with \"Now Hiram king of Tyre sent messengers...\" (14:1). Ends with \"...and the LORD brought the fear of him upon all nations\" (14:17). A narrative interlude between Ark attempts showing ongoing divine favor: Hiram's alliance (vv. 1-2), David's growing family (vv. 3-7), and two victories over the Philistines (vv. 8-17)."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Sacred Preparation to Move the Ark",
+          "reference": "15:1-24",
+          "why_start_end_and_devices": "Starts with \"And David made him houses in the city of David...\" (15:1). Ends with the appointment summary of doorkeepers, \"...were doorkeepers for the ark\" (15:24). The correction of the prior failure: David prepares a place and commands Levites to sanctify themselves and carry the ark properly (vv. 2-15); then appoints musicians and doorkeepers (vv. 16-24)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Ark is Brought to Jerusalem",
+          "reference": "15:25 - 16:6",
+          "why_start_end_and_devices": "Starts with \"So David, and the elders of Israel...\" (15:25). Ends with the establishment of continual worship, \"...before the ark of God\" (16:6). The narrative climax: joyful procession (15:25-28), Michal's scorn (15:29), the ark's installation (16:1-3), and appointment of priests and Levites for regular worship (16:4-6)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "David's Psalm of Thanksgiving",
+          "reference": "16:7-36",
+          "why_start_end_and_devices": "Starts with \"Then on that day David delivered first this psalm...\" (16:7). Ends with \"...And all the people said, Amen, and praised the LORD\" (16:36). A single complete literary unit—a composite psalm (cf. Ps 105, 96, 106)—functioning as the great theological statement of the event; must be treated as one scene."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Concluding Worship and Celebration",
+          "reference": "16:37-43",
+          "why_start_end_and_devices": "Starts with \"So he left there before the ark...\" (16:37). Ends with \"...and David returned to bless his house\" (16:43). The denouement: two permanent worship structures established (ark in Jerusalem, vv. 37-38; tabernacle in Gibeon, vv. 39-42), concluding with people and king returning home."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Covenant of the Temple and the Securing of the Kingdom",
+      "why_start_end_and_literary_glue": "This section forms the theological core of 1 Chronicles. It begins with David's desire to build the Temple and God's response as the Davidic Covenant (ch. 17), followed by results of that covenant: God secures David's kingdom through victories (chs. 18-20), and David secures the Temple site through the census and altar at Ornan's threshing floor (ch. 21). Start (17:1): \"Now it came to pass, as David sat in his house...\"—a clear narrative break to David reflecting on the ark in a tent. End (22:1): \"Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel.\" A perfect concluding summary resolving the quest for the Temple site, with 22:2 beginning the next story's preparations. Literary Glue: The \"house\" theme (David's dynasty and the LORD's Temple) is the central wordplay and theological thread.",
+      "reference": "17:1 - 22:1",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Davidic Covenant",
+          "reference": "17:1-15",
+          "why_start_end_and_devices": "Starts with \"Now it came to pass...\" as David proposes building a house (17:1-2). Ends with \"...so did Nathan speak unto David\" (17:15). The pivotal scene: God plays on \"house\"—David will not build God a house; God will build David a \"house\" (dynasty) (vv. 3-15)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "David's Prayer of Response",
+          "reference": "17:16-27",
+          "why_start_end_and_devices": "Starts with \"And David the king came and sat before the LORD...\" (17:16). Ends with \"...that it may be before thee for ever\" (17:27). David's complete, single-thought response: humility, gratitude, and acceptance of the promise—forming a perfect pair with the prior scene."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "David's Victories Summarized",
+          "reference": "18:1-17",
+          "why_start_end_and_devices": "Starts with \"Now after this it came to pass...\" (18:1). Ends with the administrative summary, \"...was scribe\" (18:17). A list scene summarizing covenantal fulfillment as God gives victories over Philistines, Moab, Zobah, and Edom (vv. 1-13) and establishes just rule with chief officers (vv. 14-17)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The War with Ammon and Syria",
+          "reference": "19:1-19",
+          "why_start_end_and_devices": "Starts with \"Now it came to pass after this...\" (19:1). Ends with \"...neither would the Syrians help the children of Ammon any more\" (19:19). A full narrative: Hanun's insult (vv. 1-5), Joab's first battle (vv. 6-15), Syrian reinforcement, and David's decisive victory (vv. 16-19)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The End of the Ammonite War and Battles with Giants",
+          "reference": "20:1-8",
+          "why_start_end_and_devices": "Starts with \"And it came to pass, that after the year was expired...\" (20:1). Ends with \"...and they fell by the hand of David, and by the hand of his servants\" (20:8). A mop-up unit: the capture of Rabbah (vv. 1-3) appended with three giant-slaying victories over the Philistines (vv. 4-8), notably omitting the Bathsheba narrative from 2 Samuel 11-12."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "David's Sinful Census and the Plague",
+          "reference": "21:1-17",
+          "why_start_end_and_devices": "Starts with \"And Satan stood up against Israel, and provoked David...\" (21:1). Ends with David's plea, \"...but not on thy people, that they should be plagued\" (21:17). A complete crisis narrative: satanic provocation (vv. 1-2), Joab's protest (vv. 3-6), divine displeasure (v. 7), confession (v. 8), three options via Gad (vv. 9-13), and the chosen plague that begins to destroy the people (vv. 14-17)."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Altar at Ornan's Threshing Floor",
+          "reference": "21:18 - 22:1",
+          "why_start_end_and_devices": "Starts with \"Then the angel of the LORD commanded Gad to say to David...\" (21:18). Ends with David's climactic declaration, \"Then David said, This is the house of the LORD God...\" (22:1). The resolution: command to build an altar (v. 18), purchase of the threshing floor (vv. 19-27), fire from heaven and the stopping of the plague (vv. 26-27), identifying the exact Temple site and concluding the story's central question."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Great Transition: David Prepares the Kingdom for Solomon",
+      "why_start_end_and_literary_glue": "This final section focuses on the transition of power and the preparation for the Temple. David, now old, acts as organizer through massive lists of Levites, priests, musicians, gatekeepers, and military/civil officers, concluding with his public assembly, charge, and death. Start (22:2): \"And David commanded to gather together the strangers...\"—direct fulfillment of the prior climax: having identified the place (22:1), David immediately prepares materials (22:2). End (29:30): \"With all his reign and his might...\"—a standard final summary for a king's reign, concluding David's story and the book. Literary Glue: Repeated themes of preparing for the Temple, charges to Solomon, and detailed organizational lists structure the kingdom for the future.",
+      "reference": "22:2 - 29:30",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "David's First Charge to Solomon and the Princes",
+          "reference": "22:2-19",
+          "why_start_end_and_devices": "Starts with \"And David commanded to gather...\" (22:2). Ends with \"...to the name of the LORD\" (22:19). A complete thought: David prepares materials (vv. 2-5), privately charges Solomon (vv. 6-16), and charges Israel's princes to help (vv. 17-19)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Solomon Made King; Levites Numbered and Grouped",
+          "reference": "23:1-13",
+          "why_start_end_and_devices": "Starts with \"So when David was old and full of days...\" (23:1). Ends with \"...Rehabiah was the chief\" (23:13). The organizational lists begin: transfer of the crown (v. 1), numbering the Levites (vv. 2-6), Gershonites (vv. 7-11), and the first Kohathite family (vv. 12-13)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Other Levitical Families",
+          "reference": "23:14-23",
+          "why_start_end_and_devices": "Starts with \"Now concerning Moses the man of God...\" (23:14). Ends with \"...These were the sons of Mushi\" (23:23). Completes the Levitical genealogy: sons of Moses (vv. 14-17), the rest of the Kohathites (vv. 18-20), and sons of Merari (vv. 21-23)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Office and Duties of the Levites",
+          "reference": "23:24-32",
+          "why_start_end_and_devices": "Starts with \"These were the sons of Levi...\" (23:24). Ends with \"...in the house of the LORD\" (23:32). The purpose of the lists: describes duties—no longer carrying the ark (v. 26) but assisting the sons of Aaron and overseeing courts, bread, flour, and singing (vv. 28-32); a complete job description."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Twenty-Four Courses of the Priests",
+          "reference": "24:1-19",
+          "why_start_end_and_devices": "Starts with \"Now these are the divisions of the sons of Aaron\" (24:1). Ends with \"...under Aaron their father, as the LORD God of Israel had commanded him\" (24:19). A complete list detailing the 24 priestly courses established by lot for orderly Temple service."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Remaining Levitical Leaders",
+          "reference": "24:20-31",
+          "why_start_end_and_devices": "Starts with \"And the rest of the sons of Levi were these...\" (24:20). Ends with \"...even the principal fathers over against their younger brethren\" (24:31). A concluding list organizing the rest of the Levites by chief houses, parallel to the priestly divisions."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Keepers of the Song (Musicians)",
+          "reference": "25:1-31",
+          "why_start_end_and_devices": "Starts with \"Moreover David and the captains of the host separated...the sons of Asaph...\" (25:1). Ends with \"...and his sons, and his brethren, were twelve\" (25:31). A long but structured and unified list of musicians organized under Asaph, Jeduthun, and Heman, divided by lot into 24 courses—emphasizing worship's importance."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Gatekeepers (Porters)",
+          "reference": "26:1-19",
+          "why_start_end_and_devices": "Starts with \"Concerning the divisions of the porters...\" (26:1). Ends with \"...the house of Asuppim\" (26:19). A complete thought listing families of gatekeepers (Korahites, Merarites) and their assigned stations determined by lot."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Treasurers and Officers",
+          "reference": "26:20-32",
+          "why_start_end_and_devices": "Starts with \"And of the Levites, Ahijah was over the treasures...\" (26:20). Ends with \"...for every matter pertaining to God, and affairs of the king\" (26:32). Details administrators among Levites: those over the Temple treasures (vv. 20-28) and those serving as officers and judges for Israel's outward business (vv. 29-32)."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Military and Civil Captains",
+          "reference": "27:1-34",
+          "why_start_end_and_devices": "Starts with \"Now the children of Israel after their number...\" (27:1). Ends with \"...was the king's friend\" (27:33-34). The final great list: the 12 military courses (vv. 1-15), princes of the 12 tribes (vv. 16-24), and the king's civil officers (vv. 25-34)—the secular organization of the kingdom."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Final Assembly: David's Public Charge",
+          "reference": "28:1-10",
+          "why_start_end_and_devices": "Starts with \"And David assembled all the princes of Israel...\" (28:1). Ends with \"...Be strong, and of good courage, and do it\" (28:10). The book's climax begins: David gathers leadership, explains why he did not build the Temple and why Solomon will (vv. 2-7), then gives a solemn public charge to Solomon (vv. 8-10)."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Pattern of the Temple Delivered",
+          "reference": "28:11-21",
+          "why_start_end_and_devices": "Starts with \"Then David gave to Solomon his son the pattern...\" (28:11). Ends with \"...all the work for the service of the house of the LORD\" (28:21). A single action: formal transfer of the Temple blueprints (vv. 11-19) and a second charge to be strong and do the work (vv. 20-21)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Freewill Offerings for the Temple",
+          "reference": "29:1-9",
+          "why_start_end_and_devices": "Starts with \"Furthermore David the king said unto all the congregation...\" (29:1). Ends with \"...because with perfect heart they offered willingly to the LORD\" (29:9). The leaders' response: David reveals his own massive donation (vv. 1-5), then calls, \"Who then is willing...?\" (v. 5), and the leaders and people respond with joyful offerings (vv. 6-9)."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "David's Final Prayer and Blessing",
+          "reference": "29:10-20",
+          "why_start_end_and_devices": "Starts with \"Wherefore David blessed the LORD before all the congregation...\" (29:10). Ends with \"...and worshiped the LORD, and the king\" (29:20). David's final public prayer: blessing God as the source of all (vv. 10-16) and praying for the people and Solomon (vv. 17-19), ending with a charge and corporate worship."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Solomon Enthroned; David's Reign and Death",
+          "reference": "29:21-30",
+          "why_start_end_and_devices": "Starts with \"And they sacrificed sacrifices unto the LORD...\" (29:21). Ends with \"...and over all the kingdoms of the countries\" (29:30). The final scene: the feast (v. 21), Solomon's second anointing and enthronement (v. 22-25), and the Chronicler's summary of David's reign with source citation (vv. 26-30), closing the book."
+        }
+      ]
+    }
+  ]
+}
+

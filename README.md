@@ -19,18 +19,10 @@ This framework rejects arbitrary verse count targets and theological imposition,
 memory-method-bible/
 ├── data/
 │   └── base-structure/
-│       ├── genesis-base.json           # Scene/story breakdown (13 stories, 49 scenes)
-│       ├── exodus-base.json            # (in development)
-│       ├── leviticus-base.json         # (in development)
-│       ├── numbers-base.json           # (in development)
-│       ├── deuteronomy-base.json       # (in development)
-│       ├── joshua-base.json            # (in development)
-│       ├── judges-base.json            # (in development)
-│       ├── ruth-base.json              # ✅ Complete & compliant (1 story, 4 scenes)
-│       ├── 1samuel-base.json           # ✅ Complete, 96.8% compliant (6 stories, 62 scenes)
-│       ├── 2samuel-base.json           # ✅ Complete, 96.7% compliant (4 stories, 30 scenes)
-│       ├── 1kings-base.json            # ✅ Complete, 90.6% compliant (10 stories, 53 scenes)
-│       └── 2kings-base.json            # ✅ Complete, 97.9% compliant (5 stories, 47 scenes)
+│       ├── 01_genesis-base.json        # See directory for all books
+│       ├── 02_exodus-base.json         # (example names; actual files are lower‑case)
+│       ├── …
+│       └── esther-base.json            # Full set in this folder
 ├── CONVERSION_GUIDE.md                 # Master Specification & JSON conversion process
 └── README.md                           # This file
 ```
@@ -44,7 +36,7 @@ memory-method-bible/
   - `story_letter` - A, B, C, etc.
   - `story_title` - Name of the unit
   - `why_start_end_and_literary_glue` - Justification and devices holding it together
-  - `reference` - Verse range (e.g., "1:1 - 4:22")
+  - `reference` - Verse range (e.g., story: "1:1 - 4:22"; scene: "1:1-10")
   - `scenes` - Array of scenes within the story
 
 ## How It Works
@@ -68,7 +60,7 @@ A **scene** is identified by:
 {
   "scene_number": 2,
   "scene_name": "The Debate on the Road",
-  "reference": "1:6-1:14",
+  "reference": "1:6-14",
   "why_start_end_and_devices": "Starts with new action: 'Then she arose with her daughters-in-law to return...' (1:6). Ends with Orpah's decision: 'And Orpah kissed her mother-in-law, but Ruth clung to her' (1:14). Driven by Naomi's threefold speech urging her daughters-in-law to 'return' (shuv). Her logic is based on her emptiness and old age (1:11-13). The scene builds tension around the decision, resolved by Orpah's departure, isolating Ruth's loyalty."
 }
 ```
@@ -80,33 +72,33 @@ A **scene** is identified by:
 
 ## Current Status
 
-### Completed Books (12 total)
+### Converted Books (17 total)
 
-**Fully Compliant:**
-- **Ruth** - 100% compliant ✅
-  - 1 story, 4 scenes
-  - Exemplary scene boundaries with explicit text markers
+The following books are available in `data/base-structure` with story and scene breakdowns. Counts reflect current JSON files.
 
-**High Compliance (96%+):**
-- **2 Kings** - 97.9% compliant
-  - 5 stories, 47 scenes; 1 violation requiring revision
-- **2 Samuel** - 96.7% compliant
-  - 4 stories, 30 scenes; 1 violation requiring revision
-- **1 Samuel** - 96.8% compliant
-  - 6 stories, 62 scenes; 2 violations requiring revision
+- Genesis — 8 stories, 103 scenes
+- Exodus — 5 stories, 106 scenes
+- Leviticus — 6 stories, 129 scenes
+- Numbers — 3 stories, 86 scenes
+- Deuteronomy — 5 stories, 70 scenes
+- Joshua — 3 stories, 52 scenes
+- Judges — 10 stories, 63 scenes
+- Ruth — 4 stories, 13 scenes
+- 1 Samuel — 6 stories, 110 scenes
+- 2 Samuel — 5 stories, 100 scenes
+- 1 Kings — 10 stories, 67 scenes
+- 2 Kings — 5 stories, 62 scenes
+- 1 Chronicles — 4 stories, 56 scenes
+- 2 Chronicles — 8 stories, 115 scenes
+- Ezra — 2 stories, 45 scenes
+- Nehemiah — 4 stories, 39 scenes
+- Esther — 2 stories, 28 scenes
 
-**Good Compliance (90%+):**
-- **1 Kings** - 90.6% compliant ⚠️
-  - 10 stories, 53 scenes; 5 violations requiring revision (architectural/catalog scenes)
-
-**In Development (7 books, ~325 scenes):**
-- Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges
-- All showing 98%+ compliance in spot checks
+Note: Formal compliance audits are ongoing. See “Known Issues & Revisions Required” for current high‑priority fixes (especially in 1 Kings architectural/catalog units).
 
 ### Overall Project Metrics
-- **Total Scenes**: 521 (across 12 books)
-- **Overall Compliance**: 97.3%
-- **Scenes Needing Revision**: 14 total (concentrated in 1 Kings)
+- Books converted: 17
+- Total scenes: 1,244
 
 ## Using This Framework
 
