@@ -1,0 +1,124 @@
+{
+  "book_name": "Jeremiah",
+  "hebrew_name": "יִרְמְיָהוּ (Yirmiyahu)",
+  "canonical_grouping": "Major Prophets",
+  "big_picture_notes": "Jeremiah is a non‑linear anthology of oracles, laments, sign‑acts, and narratives compiled across the prophet’s long ministry. The macro‑structure is modular: large narrative superscriptions mark major collections, while oracle formulas ('The word of the LORD came…', 'Thus says the LORD') are the key scene markers—each scene a single, complete divine speech or report ideal for memorization. The MT places the Oracles Against the Nations at 46–51 (LXX relocates after 25:13), underscoring the book’s editorial history. Thematic glue: relentless covenant lawsuit against Judah, the 'enemy from the north' motif, the prophet’s confessions, and a hope‑center in the Book of Consolation (30–33). Memorize by literary units (oracles), not chronology.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Prophet's Commission",
+      "why_start_end_and_literary_glue": "Jeremiah 1 is a distinct proem: formal superscription, first call‑oracle, two commissioning visions (almond branch, boiling pot), and the fortified‑prophet metaphors. Start (1:1): superscription. End (1:19): promise 'I am with you… to deliver you'—inclusio with 1:8. Literary Glue: call dialogue and paired visions leading to charge/promise.",
+      "reference": "1:1 - 1:19",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Superscription", "reference": "1:1-3", "why_start_end_and_devices": "Third‑person editorial frame from Josiah to exile—complete historical title page." },
+        { "scene_number": 2, "scene_name": "Call and Commission", "reference": "1:4-10", "why_start_end_and_devices": "Classic call pattern: divine commission → objection → reassurance → symbolic touch → charge (to pluck up/plant)." },
+        { "scene_number": 3, "scene_name": "Vision 1: Almond Branch", "reference": "1:11-12", "why_start_end_and_devices": "Q&A vision with wordplay (shaqed/shoqed: almond/watching) sealing God’s vigilant word." },
+        { "scene_number": 4, "scene_name": "Vision 2: Boiling Pot and Final Charge", "reference": "1:13-19", "why_start_end_and_devices": "Vision → interpretation ('from the north') → prophet‑as‑fortress metaphors → closing promise to deliver." }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Great Arraignment of Judah",
+      "why_start_end_and_literary_glue": "Jeremiah 2–25 is the core pre‑exilic oracle collection: covenant lawsuit, unfaithful wife/vine/cistern metaphors, 'enemy from the north,' temple sermon, confessions, sign‑acts, and the cup of wrath climax. Start (2:1): 'The word of the LORD came…' End (25:38): desolation after the universal cup. Literary Glue: repeated oracle markers and motifs; 25:1–14 functions as hinge/summary of 23 years.",
+      "reference": "2:1 - 25:38",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Arraignment: Forsaken Love", "reference": "2:1-8", "why_start_end_and_devices": "Opening rîb—memory of bridal devotion vs present apostasy; rhetorical close ('Where are they?')." },
+        { "scene_number": 2, "scene_name": "Two Evils: Broken Cisterns", "reference": "2:9-13", "why_start_end_and_devices": "Compact charge ending in the famed summary: forsaken fountain; hewn broken cisterns." },
+        { "scene_number": 3, "scene_name": "Apostasy’s Consequences", "reference": "2:14-19", "why_start_end_and_devices": "Cause‑effect oracle: foreign ravagers; 'your evil will discipline you'—complete thought." },
+        { "scene_number": 4, "scene_name": "Stained Harlot", "reference": "2:20-28", "why_start_end_and_devices": "Sustained harlotry metaphor climaxing in ironic plea to idols: 'Arise and save us!'" },
+        { "scene_number": 5, "scene_name": "Denial of Guilt", "reference": "2:29-37", "why_start_end_and_devices": "Legal disputation—Israel’s protest contra divine verdict; resolves with shaming outcome." },
+        { "scene_number": 6, "scene_name": "Call to Repentance and Circumcised Hearts", "reference": "3:12-18; 4:1-4", "why_start_end_and_devices": "Twin appeals: return faithless Israel; plough fallow ground; circumcise hearts—paired summons." },
+        { "scene_number": 7, "scene_name": "Alarm: Enemy from the North", "reference": "4:5-9", "why_start_end_and_devices": "Imperatives to sound the trumpet, flee; lion from thicket advances—panic oracle." },
+        { "scene_number": 8, "scene_name": "Prophet’s Anguish Vision", "reference": "4:19-26", "why_start_end_and_devices": "Jeremiah’s heart pains; vision of de‑creation chaos—return to tohu va‑bohu motif." },
+        { "scene_number": 9, "scene_name": "Siege on Zion", "reference": "6:1-8", "why_start_end_and_devices": "Besiegement instructions; testing/assaying metaphors; complete siege oracle." },
+        { "scene_number": 10, "scene_name": "Temple Sermon", "reference": "7:1-15", "why_start_end_and_devices": "Gate speech against false temple confidence—Shiloh precedent—site‑specific sermon unit." },
+        { "scene_number": 11, "scene_name": "Obedience over Sacrifice", "reference": "7:21-28", "why_start_end_and_devices": "Covenant voice—day I brought them out; stiff neck; truth perished—complete indictment of ritualism." },
+        { "scene_number": 12, "scene_name": "The Worthlessness of Idols", "reference": "10:1-16", "why_start_end_and_devices": "Crafted idols vs living Creator—mocking taunt; tightly framed polemic." },
+        { "scene_number": 13, "scene_name": "Broken Covenant", "reference": "11:1-8", "why_start_end_and_devices": "Oracle recalling Sinai stipulations; 'they did not obey'—root problem stated." },
+        { "scene_number": 14, "scene_name": "Confession I", "reference": "11:18-23", "why_start_end_and_devices": "Prophet laments assassination plot; YHWH’s judicial reply—lament‑response unit." },
+        { "scene_number": 15, "scene_name": "Sign‑Act: Linen Loincloth", "reference": "13:1-11", "why_start_end_and_devices": "Symbolic act and interpretation—ruined sash equals ruined pride of Judah/Israel." },
+        { "scene_number": 16, "scene_name": "Sign‑Act: Potter’s House", "reference": "18:1-12", "why_start_end_and_devices": "Clay remade in the potter’s hand—divine sovereignty call to repent—complete sign oracle." },
+        { "scene_number": 17, "scene_name": "Summary: 23 Years & 70 Years Prophecy", "reference": "25:1-14", "why_start_end_and_devices": "Prose colophon of ministry; nations serve Babylon 70 years; hinge to wider judgment." },
+        { "scene_number": 18, "scene_name": "Cup of Wrath to the Nations", "reference": "25:15-38", "why_start_end_and_devices": "Symbolic cup; list of nations; universal desolation—climactic judgment scene." }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Prophetic Conflict & Resistance (Narratives)",
+      "why_start_end_and_literary_glue": "Jeremiah 26–29 shifts to prose biography: court trial, symbolic yokes, conflict with Hananiah, letters with exiles and Shemaiah. Start (26:1): historical superscription. End (29:32): verdict against Shemaiah. Literary Glue: prose style, dated formulas, true vs false prophecy theme.",
+      "reference": "26:1 - 29:32",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Temple Sermon Trial", "reference": "26:1-19", "why_start_end_and_devices": "Charge → defense → elders’ precedent—single court case narrative." },
+        { "scene_number": 2, "scene_name": "Uriah’s Precedent", "reference": "26:20-24", "why_start_end_and_devices": "Sidebar execution of Uriah; Jeremiah protected—compact counterpoint." },
+        { "scene_number": 3, "scene_name": "Yoke of Babylon", "reference": "27:1-22", "why_start_end_and_devices": "Sign‑act yokes; message to kings, priests, people—complete symbolic commission." },
+        { "scene_number": 4, "scene_name": "Jeremiah vs Hananiah", "reference": "28:1-17", "why_start_end_and_devices": "Conflict, rebuttal, death oracle, and fulfillment—closed controversy unit." },
+        { "scene_number": 5, "scene_name": "Letter to the Exiles", "reference": "29:1-23", "why_start_end_and_devices": "Epistolary oracle: build, seek shalom; 70 years; warning against false prophets." },
+        { "scene_number": 6, "scene_name": "The Shemaiah Letters", "reference": "29:24-32", "why_start_end_and_devices": "Counter‑letter, divine response, and verdict—resolves the letter episode." }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Book of Consolation",
+      "why_start_end_and_literary_glue": "Jeremiah 30–33 is a 'book within the book'—explicitly commanded to be written—uniting restoration themes: healing, rebuilding, new covenant, and sign‑act purchase. Start (30:1–2): write in a book. End (33:26): restoration promise. Literary Glue: 'restore the fortunes,' 'my people Israel/Judah,' physical to spiritual renewal arc.",
+      "reference": "30:1 - 33:26",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Write All These Words", "reference": "30:1-4", "why_start_end_and_devices": "Superscription to the Consolation collection; scope named—Israel and Judah." },
+        { "scene_number": 2, "scene_name": "Jacob’s Trouble and Salvation", "reference": "30:5-11", "why_start_end_and_devices": "Fear oracle resolving in deliverance; restrained judgment ('I will correct you in justice')." },
+        { "scene_number": 3, "scene_name": "Incurable Wound Healed", "reference": "30:12-17", "why_start_end_and_devices": "Diagnosis → healing promise; Zion called 'outcast' but restored by the Healer." },
+        { "scene_number": 4, "scene_name": "City Rebuilt; Covenant People", "reference": "30:18-22", "why_start_end_and_devices": "Restored city and nobility; 'you shall be my people, and I will be your God' refrain." },
+        { "scene_number": 5, "scene_name": "Rachel Weeping; Hope for Children", "reference": "31:15-17", "why_start_end_and_devices": "Lament from Ramah answered by promise of return from enemy land—hope oracle." },
+        { "scene_number": 6, "scene_name": "The New Covenant", "reference": "31:31-34", "why_start_end_and_devices": "Law on hearts, all know the LORD, sins remembered no more—spiritual heart of Consolation." },
+        { "scene_number": 7, "scene_name": "Purchase of the Field", "reference": "32:6-15", "why_start_end_and_devices": "Narrative sign‑act during siege—pledge that 'houses and fields… shall again be bought.'" }
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "Narratives of the Fall",
+      "why_start_end_and_literary_glue": "Jeremiah 34–45 resumes prose, tracing final siege, fall, and aftermath in Judah and Egypt, concluding with Baruch’s oracle. Start (34:1): precise siege setting. End (45:5): life as prize of war promise to Baruch. Literary Glue: chronological thread through collapse and remnant’s disobedience.",
+      "reference": "34:1 - 45:5",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Oracle for Zedekiah", "reference": "34:1-7", "why_start_end_and_devices": "Word during siege; personal fate of Zedekiah—complete oracle unit." },
+        { "scene_number": 2, "scene_name": "Broken Slave Covenant", "reference": "34:8-22", "why_start_end_and_devices": "Manumission made and revoked; covenant broken; judgment announced—narrative oracle." },
+        { "scene_number": 3, "scene_name": "The Rechabites Example", "reference": "35:1-19", "why_start_end_and_devices": "Obedient clan contrasts Judah’s disobedience; perpetual promise to Rechab’s line." },
+        { "scene_number": 4, "scene_name": "Scroll Read and Burned", "reference": "36:1-32", "why_start_end_and_devices": "Baruch writes/reads; king burns; new scroll dictated—complete scroll cycle narrative." },
+        { "scene_number": 5, "scene_name": "Jeremiah in the Cistern", "reference": "38:1-13", "why_start_end_and_devices": "Prophet cast into the pit; Ebed‑melech’s rescue—compact deliverance scene." },
+        { "scene_number": 6, "scene_name": "Fall of Jerusalem", "reference": "39:1-18", "why_start_end_and_devices": "Capture and aftermath; Ebed‑melech promised life—wraps siege narrative." },
+        { "scene_number": 7, "scene_name": "Gedaliah and Flight to Egypt", "reference": "40:1 - 42:22", "why_start_end_and_devices": "Governor installed → assassination → remnant’s inquiry and disobedience—multi‑part narrative unit." },
+        { "scene_number": 8, "scene_name": "Oracles in Egypt", "reference": "43:1 - 44:30", "why_start_end_and_devices": "Sign‑act bricks at Tahpanhes; indictment of queen of heaven worship—judgment on remnant in Egypt." },
+        { "scene_number": 9, "scene_name": "Word to Baruch", "reference": "45:1-5", "why_start_end_and_devices": "Personal word—seek not great things; life given as booty—narrative colophon." }
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "Oracles Against the Nations",
+      "why_start_end_and_literary_glue": "Jeremiah 46–51 comprises the international judgment block (Egypt, Philistia, Moab, Ammon, Edom, Damascus, Kedar/Hazor, Elam, and culminates with Babylon). Start (46:1): collection superscription. End (51:64): 'Thus far the words of Jeremiah'—editorial colophon. Literary Glue: nation‑by‑nation judgment sequence with oracle formulas and refrain motifs.",
+      "reference": "46:1 - 51:64",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Against Egypt I", "reference": "46:2-12", "why_start_end_and_devices": "Defeat at the Euphrates; flee, O mighty ones—complete battle oracle." },
+        { "scene_number": 2, "scene_name": "Against Egypt II", "reference": "46:13-28", "why_start_end_and_devices": "Nebuchadnezzar strikes Egypt; Israel reassured—paired oracle unit." },
+        { "scene_number": 3, "scene_name": "Against Philistia", "reference": "47:1-7", "why_start_end_and_devices": "Waters rising from the north; sword of the LORD—short nation oracle." },
+        { "scene_number": 4, "scene_name": "Against Moab", "reference": "48:1-47", "why_start_end_and_devices": "Extensive dirge and taunt with restoration note—long composite oracle." },
+        { "scene_number": 5, "scene_name": "Against Ammon", "reference": "49:1-6", "why_start_end_and_devices": "Rhetorical questions about Milcom; restoration in latter days—compact unit." },
+        { "scene_number": 6, "scene_name": "Against Edom", "reference": "49:7-22", "why_start_end_and_devices": "Wisdom failed in Teman; eagle soars—complete oracle." },
+        { "scene_number": 7, "scene_name": "Against Damascus", "reference": "49:23-27", "why_start_end_and_devices": "Hamath and Arpad dismayed; palace consumed by fire—short unit." },
+        { "scene_number": 8, "scene_name": "Against Kedar and Hazor", "reference": "49:28-33", "why_start_end_and_devices": "Plundered nomads; dwell in the deep—brief oracle." },
+        { "scene_number": 9, "scene_name": "Against Elam", "reference": "49:34-39", "why_start_end_and_devices": "Bow of Elam broken; latter‑day restoration—compact verdict." },
+        { "scene_number": 10, "scene_name": "Against Babylon + Sign‑Act", "reference": "50:1 - 51:64", "why_start_end_and_devices": "Massive anti‑Babylon corpus culminating with scroll sinking at Euphrates—collection capstone with colophon." }
+      ]
+    },
+    {
+      "story_letter": "G",
+      "story_title": "Historical Appendix",
+      "why_start_end_and_literary_glue": "Jeremiah 52 is a third‑person historical chronicle paralleling 2 Kings 24:18–25:30, separated by the colophon (51:64). Purpose: confirm fulfillment historically. Start (52:1): regnal formula. End (52:34): Jehoiachin’s daily allowance. Literary Glue: continuous prose narrative of fall, exile, and minor grace note.",
+      "reference": "52:1 - 52:34",
+      "scenes": [
+        { "scene_number": 1, "scene_name": "Zedekiah’s Reign and Rebellion", "reference": "52:1-3", "why_start_end_and_devices": "Standard regnal rubric ending in rebellion—introductory summary." },
+        { "scene_number": 2, "scene_name": "Siege and Fall of Jerusalem", "reference": "52:4-16", "why_start_end_and_devices": "Siege account through deportation and remnant—single fall narrative." },
+        { "scene_number": 3, "scene_name": "Plundering the Temple", "reference": "52:17-23", "why_start_end_and_devices": "Inventory of bronze pillars and vessels—loss catalog scene." },
+        { "scene_number": 4, "scene_name": "The Exiles Counted", "reference": "52:24-30", "why_start_end_and_devices": "Captives taken and tallied—human cost registry." },
+        { "scene_number": 5, "scene_name": "Jehoiachin’s Release", "reference": "52:31-34", "why_start_end_and_devices": "Elevation in Babylon—final glimmer closing the book." }
+      ]
+    }
+  ]
+}
+
