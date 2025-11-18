@@ -72,7 +72,7 @@ A **scene** is identified by:
 
 ## Current Status
 
-### Converted Books (21 total)
+### Converted Books (22 total)
 
 The following books are available in `data/base-structure` with story and scene breakdowns. Counts reflect current JSON files.
 
@@ -97,12 +97,13 @@ The following books are available in `data/base-structure` with story and scene 
 - Psalms — 5 stories, 37 scenes (in progress)
 - Proverbs — 6 stories, 51 scenes
 - Ecclesiastes — 5 stories, 32 scenes
+- Song of Songs — 5 stories, 40 scenes
 
 Note: Formal compliance audits are ongoing. See “Known Issues & Revisions Required” for current high‑priority fixes (especially in 1 Kings architectural/catalog units).
 
 ### Overall Project Metrics
-- Books converted: 21
-- Total scenes: 1,453
+- Books converted: 22
+- Total scenes: 1,493
 
 ## Using This Framework
 
