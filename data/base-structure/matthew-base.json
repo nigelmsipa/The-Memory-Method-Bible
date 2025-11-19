@@ -1,0 +1,201 @@
+{
+  "book_name": "Matthew",
+  "hebrew_name": "מַתָּי (Mattay)",
+  "canonical_grouping": "Gospels",
+  "big_picture_notes": "Matthew frames Jesus’ messianic ministry with five major teaching blocks, each closed by the formula 'when Jesus finished these sayings' (7:28; 11:1; 13:53; 19:1; 26:1). Literary glue includes the Kingdom of Heaven theme, pervasive fulfillment formulae linking to the Hebrew Scriptures, mountain‑theophany moments (5–7; 17; 24–25; 28), and patterned triads/dualities. The Gospel opens with royal genealogy and ends with the Great Commission (28:18–20), forming an inclusio of universal authority. The first units below follow the prologue (1–4), the first discourse (5–7), and the ensuing authority‑demonstration block (8–10).",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Origin and Authorization of the King",
+      "why_start_end_and_literary_glue": "Prologue establishing Jesus’ identity/authority via royal lineage, miraculous birth, prophetic fulfillments, baptismal theophany, and victorious temptation; closes as public ministry commences and crowds gather. Start (1:1): genealogy title. End (4:25): summary crowd‑scope before the Sermon. Glue: clustered fulfillment formulae (2:15, 17, 23; 4:14), angelic oracles, and the Father’s voice at baptism (3:17).",
+      "reference": "1:1 - 4:25",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Royal Genealogy of Jesus",
+          "reference": "1:1-1:17",
+          "why_start_end_and_devices": "Formal toldot opens; structured 14‑14‑14 generations close. Devices: numerological parallelism (David=14), royal pedigree emphasis."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Conception and Birth of the King",
+          "reference": "1:18-1:25",
+          "why_start_end_and_devices": "Birth 'in this way' → Joseph’s obedient naming; Immanuel fulfillment. Devices: angelic oracle, fulfillment formula, naming motif."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Adoration of the Magi",
+          "reference": "2:1-2:12",
+          "why_start_end_and_devices": "After birth, Gentile sages seek the King; depart another way. Devices: royal/Gentile contrast with Herod, guided dream."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Flight to Egypt and Return",
+          "reference": "2:13-2:23",
+          "why_start_end_and_devices": "Three dream oracles drive flight, return, and Nazareth settlement; closes with 'spoken by the prophets' fulfillment. Devices: tripled fulfillment formulae, commanded moves."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "John the Baptist's Forerunner Ministry",
+          "reference": "3:1-3:12",
+          "why_start_end_and_devices": "Wilderness preacher fulfills Isa 40:3; concludes with Spirit/Fire contrast. Devices: prophetic citation, judgment imagery (axe, chaff)."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Baptism of Jesus",
+          "reference": "3:13-3:17",
+          "why_start_end_and_devices": "Jesus‑John dialogue resolved; heavens open and Father’s voice affirms Son. Devices: theophany, Spirit descent, sonship oracle."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Temptation of the King",
+          "reference": "4:1-4:11",
+          "why_start_end_and_devices": "Spirit leads to wilderness; triad of tests ends with devil’s departure and angelic ministry. Devices: Deuteronomy quotations, patterned triad."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Start of the Galilean Ministry",
+          "reference": "4:12-4:25",
+          "why_start_end_and_devices": "After John’s arrest Jesus moves to Capernaum (Isa 9 fulfillment), calls first disciples, and heals/teaches; crowd‑summary closes prologue. Devices: fulfillment formula, call narratives, summary inclusio."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The King's Sermon and Call to Obedience",
+      "why_start_end_and_literary_glue": "First major discourse (Sermon on the Mount) framed by mountain setting and the formulaic close (7:28–29). Start (5:1): Jesus sits to teach. End (7:29): authority noted. Glue: Beatitudes, six antitheses, piety triad, paired contrasts (two ways/trees/builders), and interwoven 'Father in heaven' motif.",
+      "reference": "5:1 - 7:29",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "The Blessings of the Kingdom (Beatitudes)", "reference": "5:1-5:12", "why_start_end_and_devices": "Teaching setting; nine 'Blessed' lines end with heavenly reward. Devices: anaphora, parallelism."},
+        {"scene_number": 2, "scene_name": "Kingdom Influence: Salt and Light", "reference": "5:13-5:16", "why_start_end_and_devices": "Identity → vocation metaphors; ends in doxology. Devices: metaphor pair, imperative telos."},
+        {"scene_number": 3, "scene_name": "Jesus and the Fulfillment of the Law", "reference": "5:17-5:20", "why_start_end_and_devices": "Thesis denies abolition; warns on exceeding righteousness. Devices: hyperbole (iota), thesis for antitheses."},
+        {"scene_number": 4, "scene_name": "Antitheses I: Anger and Reconciliation", "reference": "5:21-5:26", "why_start_end_and_devices": "'You heard… but I say' expands murder to anger; urgency to reconcile. Devices: antithesis, legal consequence image."},
+        {"scene_number": 5, "scene_name": "Antitheses II: Lust and Purity", "reference": "5:27-5:30", "why_start_end_and_devices": "Adultery extended to the heart; radical hyperbole. Devices: hyperbolic amputation, internalization."},
+        {"scene_number": 6, "scene_name": "Antitheses III: Divorce", "reference": "5:31-5:32", "why_start_end_and_devices": "Concise ruling on divorce/porneia; adultery implication. Devices: compressed legal pronouncement."},
+        {"scene_number": 7, "scene_name": "Antitheses IV: Oaths and Integrity", "reference": "5:33-5:37", "why_start_end_and_devices": "Prohibits oath‑games; simple yes/no. Devices: litany of forbidden swears, integrity ethic."},
+        {"scene_number": 8, "scene_name": "Antitheses V: Retaliation", "reference": "5:38-5:42", "why_start_end_and_devices": "Set aside lex talionis with generous non‑resistance. Devices: counter‑examples, double positive imperatives."},
+        {"scene_number": 9, "scene_name": "Antitheses VI: Love of Enemies", "reference": "5:43-5:48", "why_start_end_and_devices": "Culminates ethic: be perfect as Father. Devices: contrastive model (sons of Father), telic perfection."},
+        {"scene_number": 10, "scene_name": "Piety: Almsgiving", "reference": "6:1-6:4", "why_start_end_and_devices": "Secret piety vs public display; reward formula. Devices: secrecy refrain, Father who sees."},
+        {"scene_number": 11, "scene_name": "Piety: Prayer (The Lord's Prayer)", "reference": "6:5-6:15", "why_start_end_and_devices": "Model prayer embedded; forgiveness epilogue. Devices: anaphora, chiastic petitions, explanatory conclusion."},
+        {"scene_number": 12, "scene_name": "Piety: Fasting", "reference": "6:16-6:18", "why_start_end_and_devices": "Completes piety triad with secrecy/reward refrain. Devices: parallel instruction, Father who sees."},
+        {"scene_number": 13, "scene_name": "The Danger of Materialism", "reference": "6:19-6:24", "why_start_end_and_devices": "Treasure contrast, eye‑lamp, two masters; ends with 'cannot serve God and mammon.' Devices: paired metaphors, antithesis."},
+        {"scene_number": 14, "scene_name": "The Prohibition of Anxiety", "reference": "6:25-6:34", "why_start_end_and_devices": "Lesser‑to‑greater (birds/lilies); seek kingdom first; day’s trouble ends unit. Devices: refrain 'do not be anxious.'"},
+        {"scene_number": 15, "scene_name": "Judging Others", "reference": "7:1-7:6", "why_start_end_and_devices": "Measure‑for‑measure; speck/log; pearls before pigs closes. Devices: metaphor triad, prudential proverb."},
+        {"scene_number": 16, "scene_name": "Asking, Seeking, Knocking (ASK)", "reference": "7:7-7:12", "why_start_end_and_devices": "ASK triad; fatherly gifts; Golden Rule summarizes Law/Prophets. Devices: anaphora, lesser‑to‑greater, summary axiom."},
+        {"scene_number": 17, "scene_name": "The Two Ways and The Two Trees", "reference": "7:13-7:20", "why_start_end_and_devices": "Narrow/wide gates; fruit test for prophets. Devices: dualities, evaluative metaphor."},
+        {"scene_number": 18, "scene_name": "True Discipleship and The Two Builders", "reference": "7:21-7:27", "why_start_end_and_devices": "'Lord, Lord' vs doing; rock/sand parable closes content. Devices: judgment preview, parabolic contrast."},
+        {"scene_number": 19, "scene_name": "Structural Conclusion", "reference": "7:28-7:29", "why_start_end_and_devices": "Formulaic close notes audience astonishment and Jesus’ authority. Devices: discourse colophon, authority theme."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The King's Authority Demonstrated",
+      "why_start_end_and_literary_glue": "Ten miracle/sign episodes (often in triads) and discipleship scenes display authority over disease, nature, demons, sin, and death, culminating in mission authorization of the Twelve. Start (8:1): descent from the mountain. End (10:42): mission instructions complete (11:1 serves as narrative colophon beyond this unit). Glue: miracle summaries, fulfillment citation (8:17), and escalating authority claims ('Son of Man has authority to forgive').",
+      "reference": "8:1 - 10:42",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "The Cleansing of the Leper", "reference": "8:1-8:4", "why_start_end_and_devices": "From mountain to healing; priestly proof closes. Devices: touch/purity reversal, Mosaic testimony."},
+        {"scene_number": 2, "scene_name": "The Centurion's Servant Healed", "reference": "8:5-8:13", "why_start_end_and_devices": "Capernaum request and faith dialogue; 'at that hour' healing. Devices: authority analogy, eschatological table saying."},
+        {"scene_number": 3, "scene_name": "Peter's House: Healings and Fulfillment", "reference": "8:14-8:17", "why_start_end_and_devices": "Mother‑in‑law and many healed; Isa 53:4 fulfillment seals summary. Devices: fulfillment formula, summary vignette."},
+        {"scene_number": 4, "scene_name": "The Radical Cost of Discipleship", "reference": "8:18-8:22", "why_start_end_and_devices": "Two brief dialogues on following; 'let the dead bury their dead' ends unit. Devices: hyperbolic sayings, immediate call."},
+        {"scene_number": 5, "scene_name": "Calming the Storm", "reference": "8:23-8:27", "why_start_end_and_devices": "Boat peril to great calm; 'What sort of man…?' awe closes. Devices: nature authority, fear/faith contrast."},
+        {"scene_number": 6, "scene_name": "Gadarenes: Demons into Swine", "reference": "8:28-8:34", "why_start_end_and_devices": "Demoniacs delivered; town begs departure. Devices: demonic recognition, territorial reaction."},
+        {"scene_number": 7, "scene_name": "Paralytic Forgiven and Healed", "reference": "9:1-9:8", "why_start_end_and_devices": "'Your sins are forgiven' provokes scribes; healing validates authority. Devices: controversy dialogue, Son of Man claim."},
+        {"scene_number": 8, "scene_name": "Call of Matthew and Mercy Saying", "reference": "9:9-9:13", "why_start_end_and_devices": "Levi’s call and table fellowship; 'I desire mercy' axiom concludes. Devices: vocation scene, prophetic citation (Hos 6:6)."},
+        {"scene_number": 9, "scene_name": "Fasting Question: Patch and Wineskins", "reference": "9:14-9:17", "why_start_end_and_devices": "Bridegroom rationale; twin mini‑parables resolve. Devices: newness metaphors, controversy response."},
+        {"scene_number": 10, "scene_name": "Daughter Restored and Woman Healed", "reference": "9:18-9:26", "why_start_end_and_devices": "Intercalated miracles end in life and cleansing. Devices: sandwiching, touch/faith motifs."},
+        {"scene_number": 11, "scene_name": "Two Blind Men See", "reference": "9:27-9:31", "why_start_end_and_devices": "'According to your faith'; secrecy command closes. Devices: messianic title 'Son of David,' faith theme."},
+        {"scene_number": 12, "scene_name": "Mute Demoniac and Pharisaic Charge", "reference": "9:32-9:34", "why_start_end_and_devices": "Opposition note: 'By the prince of demons.' Devices: conflict marker, summary closure."},
+        {"scene_number": 13, "scene_name": "Compassion and the Harvest", "reference": "9:35-9:38", "why_start_end_and_devices": "Summary of ministry; pray for laborers. Devices: compassion motif, transition to mission."},
+        {"scene_number": 14, "scene_name": "The Twelve Named and Authorized", "reference": "10:1-10:4", "why_start_end_and_devices": "Authority over unclean spirits and diseases; list of Twelve. Devices: commissioning preface, catalog list."},
+        {"scene_number": 15, "scene_name": "Mission Instructions: Israel First", "reference": "10:5-10:15", "why_start_end_and_devices": "Go to lost sheep of Israel; worthy reception and judgment warnings. Devices: instruction schema, Sodom comparison."},
+        {"scene_number": 16, "scene_name": "Persecution Discourse", "reference": "10:16-10:25", "why_start_end_and_devices": "Sheep among wolves; family betrayal; student like teacher. Devices: apothegm chain, endurance theme."},
+        {"scene_number": 17, "scene_name": "Fear Not: Confess Me", "reference": "10:26-10:33", "why_start_end_and_devices": "Hidden revealed; value of sparrows; confess/deny Son of Man. Devices: encouragement triad, chiastic assurance."},
+        {"scene_number": 18, "scene_name": "Not Peace but a Sword", "reference": "10:34-10:39", "why_start_end_and_devices": "Division within households; take up cross; lose/find life. Devices: paradox sayings, cost‑discipleship climax."},
+        {"scene_number": 19, "scene_name": "Rewards for Receiving", "reference": "10:40-10:42", "why_start_end_and_devices": "Receiving apostles equals receiving Christ; cup of cold water promise. Devices: identification motif, reward aphorism."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Opposition and Parables of the Kingdom",
+      "why_start_end_and_literary_glue": "Narrative reactions to Jesus (John’s question, cities’ woes, Sabbath controversies) flow into the third major discourse—the Parables of the Kingdom—closed by the formula at 13:53. Start (11:1): discourse 2 colophon and transition to responses. End (13:53): 'when Jesus finished these parables' discursive close. Glue: escalating opposition, 'this generation' critique, Jonah/Son of Man motifs, and parabolic discourse framed by explanation sections.",
+      "reference": "11:1 - 13:53",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Mission Colophon and John's Question", "reference": "11:1-11:6", "why_start_end_and_devices": "11:1 wraps mission; John in prison inquires; signs list answers. Devices: Isaianic catalog, beatitude for the unoffended."},
+        {"scene_number": 2, "scene_name": "Jesus' Testimony about John and This Generation", "reference": "11:7-11:19", "why_start_end_and_devices": "John’s role (more than a prophet); children in the marketplace critique. Devices: rhetorical comparison, wisdom vindication aphorism."},
+        {"scene_number": 3, "scene_name": "Woes to Unrepentant Cities", "reference": "11:20-11:24", "why_start_end_and_devices": "Chorazin/Bethsaida/Capernaum judged; Tyre/Sidon/Sodom contrast. Devices: comparative judgment, exaltation‑to‑Hades reversal."},
+        {"scene_number": 4, "scene_name": "The Son's Invitation to Rest", "reference": "11:25-11:30", "why_start_end_and_devices": "Prayer of praise and gentle yoke invitation. Devices: revelatory Sonship, wisdom to little ones."},
+        {"scene_number": 5, "scene_name": "Sabbath Controversies: Grain and Hand", "reference": "12:1-12:14", "why_start_end_and_devices": "Mercy over sacrifice and Lord of Sabbath; healing prompts plotting. Devices: David/priest precedents, mercy axiom."},
+        {"scene_number": 6, "scene_name": "Servant Prophecy and Crowd Healings", "reference": "12:15-12:21", "why_start_end_and_devices": "Withdrawal, healings, silence charge; Isa 42 fulfillment. Devices: servant citation, gentle mission."},
+        {"scene_number": 7, "scene_name": "Beelzebul Accusation and Unforgivable Sin", "reference": "12:22-12:37", "why_start_end_and_devices": "Kingdom against itself logic; strong man; tree/fruit test; idle words warning. Devices: controversy dialogue, axiomatic judgments."},
+        {"scene_number": 8, "scene_name": "The Sign of Jonah and Returning Spirit", "reference": "12:38-12:45", "why_start_end_and_devices": "No sign but Jonah; Nineveh/Queen condemn this generation; unclean spirit returns. Devices: typology, parabolic warning."},
+        {"scene_number": 9, "scene_name": "True Family of Jesus", "reference": "12:46-12:50", "why_start_end_and_devices": "Whoever does Father’s will is kin. Devices: redefinition of kinship, obedience criterion."},
+        {"scene_number": 10, "scene_name": "Sower, Purpose of Parables, and Explanation", "reference": "13:1-13:23", "why_start_end_and_devices": "Beach setting; Sower told; Isaiah 6 rationale; interpretation given. Devices: parable→explanation bracket, hearing motif."},
+        {"scene_number": 11, "scene_name": "Weeds, Mustard Seed, and Leaven", "reference": "13:24-13:35", "why_start_end_and_devices": "Three kingdom parables; scripture fulfillment of parables. Devices: everyday metaphors, hidden growth, fulfillment citation."},
+        {"scene_number": 12, "scene_name": "Explanation of the Weeds", "reference": "13:36-13:43", "why_start_end_and_devices": "Private explanation to disciples; end‑time separation. Devices: apocalyptic interpretation, righteous shining."},
+        {"scene_number": 13, "scene_name": "Treasure, Pearl, Net, and Householder", "reference": "13:44-13:53", "why_start_end_and_devices": "Four brief parables conclude; scribe householder saying; formula close at 13:53. Devices: value/joy, sorting net, treasury image."}
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "Identity Clarified and the Community Discourse",
+      "why_start_end_and_literary_glue": "From Nazareth rejection through signs and confessions to the Transfiguration, culminating in the fourth discourse on community life (ch. 18) closed by 19:1. Start (13:54): prophet in hometown rejected. End (19:1): 'When Jesus finished these sayings' transition. Glue: confessions/misunderstandings, passion predictions, and kingdom community ethics.",
+      "reference": "13:54 - 19:1",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Rejection at Nazareth", "reference": "13:54-13:58", "why_start_end_and_devices": "Amazement turns to offense; few mighty works. Devices: prophet without honor aphorism."},
+        {"scene_number": 2, "scene_name": "Herod and the Death of John", "reference": "14:1-14:12", "why_start_end_and_devices": "Flashback of arrest and execution; disciples bury John. Devices: narrative inset, foreshadowing."},
+        {"scene_number": 3, "scene_name": "Feeding the Five Thousand; Walking on Water", "reference": "14:13-14:33", "why_start_end_and_devices": "Compassionate feeding and sea theophany; 'Truly you are the Son of God.' Devices: abundance, epiphany, confession."},
+        {"scene_number": 4, "scene_name": "Healings at Gennesaret", "reference": "14:34-14:36", "why_start_end_and_devices": "Touch fringe; many healed. Devices: contact‑healing summary."},
+        {"scene_number": 5, "scene_name": "Tradition and True Defilement", "reference": "15:1-15:20", "why_start_end_and_devices": "Hand‑washing dispute; what proceeds from heart defiles. Devices: controversy, parabolic teaching explained."},
+        {"scene_number": 6, "scene_name": "Canaanite Woman’s Faith", "reference": "15:21-15:28", "why_start_end_and_devices": "Persistent plea; 'great is your faith' verdict. Devices: boundary crossing, dialogue test."},
+        {"scene_number": 7, "scene_name": "Healings and Feeding Four Thousand", "reference": "15:29-15:39", "why_start_end_and_devices": "Mountain healings and second feeding. Devices: repetition with variation, Gentile resonance."},
+        {"scene_number": 8, "scene_name": "Sign Demand and Leaven Warning", "reference": "16:1-16:12", "why_start_end_and_devices": "No sign but Jonah; beware leaven of Pharisees/Sadducees. Devices: misunderstanding→clarification sequence."},
+        {"scene_number": 9, "scene_name": "Peter’s Confession and First Passion Prediction", "reference": "16:13-16:23", "why_start_end_and_devices": "'You are the Christ'; keys/rock saying; rebuke of Peter. Devices: confession/contradiction, binding/loosing."},
+        {"scene_number": 10, "scene_name": "Discipleship Cost and Glory to Come", "reference": "16:24-16:28", "why_start_end_and_devices": "Cross‑bearing call; Son of Man coming preview. Devices: paradox sayings, eschatological promise."},
+        {"scene_number": 11, "scene_name": "Transfiguration and Epileptic Boy", "reference": "17:1-17:21", "why_start_end_and_devices": "Mountain glory; Elijah/Moses; failed exorcism cured. Devices: theophany, faith/authority teaching."},
+        {"scene_number": 12, "scene_name": "Second Passion Prediction and Temple Tax", "reference": "17:22-17:27", "why_start_end_and_devices": "Delivered/raised; coin in fish’s mouth narrative. Devices: passion schema, miracle provision."},
+        {"scene_number": 13, "scene_name": "Community Discourse (Greatest, Lost, Discipline, Mercy)", "reference": "18:1-18:35", "why_start_end_and_devices": "Childlike greatness, stumbling blocks, lost sheep, church discipline, unlimited forgiveness parable; ends with discourse closure at 19:1. Devices: discourse cluster, parable of unforgiving servant."}
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "Journey to Jerusalem, Conflict, and the Olivet Discourse",
+      "why_start_end_and_literary_glue": "From Judea teaching to triumphal entry, escalating temple controversies and woes, ending with the fifth discourse (Olivet) and formula at 26:1. Start (19:1): transition after discourse 4. End (26:1): 'when Jesus had finished all these sayings.' Glue: travel narrative, royal entry, judgment parables, and apocalyptic discourse.",
+      "reference": "19:1 - 26:1",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Marriage, Eunuchs, and Children", "reference": "19:1-19:15", "why_start_end_and_devices": "Divorce teaching, eunuchs for kingdom, blessing children. Devices: casuistic response, inclusio of little ones."},
+        {"scene_number": 2, "scene_name": "Rich Young Man and Reward", "reference": "19:16-19:30", "why_start_end_and_devices": "Call to perfection; first/last reversal. Devices: treasure exchange, eschatological reversal."},
+        {"scene_number": 3, "scene_name": "Workers in the Vineyard", "reference": "20:1-20:16", "why_start_end_and_devices": "Parable enacts last/first maxim. Devices: generosity justice paradox, refrain."},
+        {"scene_number": 4, "scene_name": "Third Passion Prediction and Ambition", "reference": "20:17-20:28", "why_start_end_and_devices": "Cup/baptism teaching; servant leadership axiom. Devices: passion outline, ransom saying."},
+        {"scene_number": 5, "scene_name": "Two Blind Men Healed", "reference": "20:29-20:34", "why_start_end_and_devices": "'Lord, Son of David' plea; immediate sight. Devices: messianic address, compassion."},
+        {"scene_number": 6, "scene_name": "Triumphal Entry and Temple Action", "reference": "21:1-21:17", "why_start_end_and_devices": "Entry fulfills prophecy; cleansing and praise of children. Devices: fulfillment, royal sign‑act."},
+        {"scene_number": 7, "scene_name": "Fig Tree and Faith", "reference": "21:18-21:22", "why_start_end_and_devices": "Cursing/withering sandwich with faith instruction. Devices: enacted parable, prayer/faith link."},
+        {"scene_number": 8, "scene_name": "Authority Questioned and Two Sons", "reference": "21:23-21:32", "why_start_end_and_devices": "Baptism of John riddle; parable indicts leaders. Devices: counter‑question, repentance contrast."},
+        {"scene_number": 9, "scene_name": "Wicked Tenants", "reference": "21:33-21:46", "why_start_end_and_devices": "Rejected son cornerstone citation; leaders perceive judgment. Devices: vineyard imagery, scripture fulfillment."},
+        {"scene_number": 10, "scene_name": "Wedding Banquet", "reference": "22:1-22:14", "why_start_end_and_devices": "Invitation rejected; garment guest cast out. Devices: banquet allegory, outer darkness refrain."},
+        {"scene_number": 11, "scene_name": "Render to Caesar", "reference": "22:15-22:22", "why_start_end_and_devices": "Trap answered with image logic. Devices: coin image, domain distinction."},
+        {"scene_number": 12, "scene_name": "Resurrection and the Greatest Commandment", "reference": "22:23-22:40", "why_start_end_and_devices": "Sadducee dilemma resolved; love God/neighbor summary. Devices: scripture argument, summary law."},
+        {"scene_number": 13, "scene_name": "David's Lord Question", "reference": "22:41-22:46", "why_start_end_and_devices": "Psalm 110 riddle silences opponents. Devices: Christological question, silence motif."},
+        {"scene_number": 14, "scene_name": "Woes and Lament over Jerusalem", "reference": "23:1-23:39", "why_start_end_and_devices": "Seven woes expose hypocrisy; hen lament. Devices: invective litany, prophetic lament."},
+        {"scene_number": 15, "scene_name": "Olivet Discourse: Birth Pains to Vigilance", "reference": "24:1-24:51", "why_start_end_and_devices": "Temple prediction, signs, and vigilance parables. Devices: apocalyptic discourse, thief/servant parallels."},
+        {"scene_number": 16, "scene_name": "Olivet Discourse: Virgins, Talents, and Judgment", "reference": "25:1-25:46", "why_start_end_and_devices": "Three judgment parables culminate in Son of Man’s nations judgment; closes 'all these sayings' (26:1). Devices: eschatological parables, royal judgment scene."}
+      ]
+    },
+    {
+      "story_letter": "G",
+      "story_title": "Passion, Resurrection, and the Great Commission",
+      "why_start_end_and_literary_glue": "From the plotted arrest through crucifixion and burial to resurrection appearances and universal commission. Start (26:1): discourse close transitions to plot. End (28:20): 'I am with you always' seals Gospel inclusio. Glue: Passover/new covenant, passion predictions realized, and mountain commission echoing royal authority.",
+      "reference": "26:1 - 28:20",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Plot and Anointing at Bethany", "reference": "26:1-26:16", "why_start_end_and_devices": "Leaders plot; woman anoints; Judas arranges betrayal. Devices: passion timeline, burial anointing interpretation."},
+        {"scene_number": 2, "scene_name": "Last Supper and Prediction", "reference": "26:17-26:30", "why_start_end_and_devices": "Passover meal, institution words, Peter’s denial foretold. Devices: covenant in blood, hymn departure."},
+        {"scene_number": 3, "scene_name": "Gethsemane and Arrest", "reference": "26:31-26:56", "why_start_end_and_devices": "Prayer/vigil; betrayal kiss; Scripture fulfilled. Devices: cup motif, fulfillment language."},
+        {"scene_number": 4, "scene_name": "Trial Before Sanhedrin and Denial", "reference": "26:57-26:75", "why_start_end_and_devices": "False testimony; confession of Son of Man; Peter weeps. Devices: Danielic confession, irony of denial."},
+        {"scene_number": 5, "scene_name": "Remorse of Judas and Jesus Before Pilate", "reference": "27:1-27:10", "why_start_end_and_devices": "Judas returns silver; potter’s field citation. Devices: Zechariah/Jeremiah fulfillment weave."},
+        {"scene_number": 6, "scene_name": "Trial, Mockery, and Way to Golgotha", "reference": "27:11-27:31", "why_start_end_and_devices": "Barabbas released; soldiers mock King. Devices: royal parody, silent lamb."},
+        {"scene_number": 7, "scene_name": "Crucifixion and Death", "reference": "27:32-27:56", "why_start_end_and_devices": "Darkness, veil torn, centurion confession. Devices: psalmic quotations, apocalyptic signs."},
+        {"scene_number": 8, "scene_name": "Burial and Guard", "reference": "27:57-27:66", "why_start_end_and_devices": "Joseph’s tomb; seal/guard posted. Devices: honorable burial, prevention of theft claim."},
+        {"scene_number": 9, "scene_name": "Resurrection, Report, and Commission", "reference": "28:1-28:20", "why_start_end_and_devices": "Women encounter angel/Jesus; guards’ story; Galilean mountain commission. Devices: worship/doubt juxtaposition, universal authority, abiding presence inclusio."}
+      ]
+    }
+  ]
+}

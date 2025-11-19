@@ -1,0 +1,103 @@
+{
+  "book_name": "Mark",
+  "hebrew_name": "Κατὰ Μᾶρκον (Kata Markon)",
+  "canonical_grouping": "Gospels",
+  "big_picture_notes": "Mark’s fast‑paced Gospel (driven by euthys/‘immediately’) unfolds in two movements: Galilean power and revelation (1:1–8:26) and the way to the cross (8:27–16:8). Literary glue includes the Messianic Secret, intercalation (‘sandwiches’), and escalating conflict leading to the Passion. The hinge is Peter’s confession (8:27–30).",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Son of God Revealed in Power (Galilee)",
+      "why_start_end_and_literary_glue": "Opens with title (1:1) and preparatory ministry, then rapid deeds/authority, reactions, and secrecy; closes with Bethsaida’s two‑stage sight (8:26) just before the hinge. Glue: ‘immediately’, secrecy, deed→reaction→instruction pattern.",
+      "reference": "1:1 - 8:26",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Gospel Opening and Preparation", "reference": "1:1-1:8", "why_start_end_and_devices": "Title + prophetic citation; John’s lesser/greater baptism contrast sets expectation."},
+        {"scene_number": 2, "scene_name": "Divine Endorsement", "reference": "1:9-1:13", "why_start_end_and_devices": "Baptism theophany and wilderness testing establish Sonship and mission."},
+        {"scene_number": 3, "scene_name": "Mission Begins; First Four", "reference": "1:14-1:20", "why_start_end_and_devices": "Kingdom summary and immediate call/response shape discipleship pattern."},
+        {"scene_number": 4, "scene_name": "Capernaum Authority", "reference": "1:21-1:28", "why_start_end_and_devices": "Teaching with authority and exorcism prompt fame spread."},
+        {"scene_number": 5, "scene_name": "House Healings and Secrecy", "reference": "1:29-1:34", "why_start_end_and_devices": "Summary of healings; demons silenced for Messianic Secret."},
+        {"scene_number": 6, "scene_name": "Dawn Prayer and Tour", "reference": "1:35-1:39", "why_start_end_and_devices": "Solitary prayer then itinerant preaching defines mandate."},
+        {"scene_number": 7, "scene_name": "Cleansing the Leper", "reference": "1:40-1:45", "why_start_end_and_devices": "Touch cleanses; secrecy broken restricts movement—irony."},
+        {"scene_number": 8, "scene_name": "Paralytic and Authority to Forgive", "reference": "2:1-2:12", "why_start_end_and_devices": "Interlocking dialogue proves Son of Man’s authority via healing."},
+        {"scene_number": 9, "scene_name": "Levi and Table Fellowship", "reference": "2:13-2:17", "why_start_end_and_devices": "Call + physician proverb defends mission to sinners."},
+        {"scene_number": 10, "scene_name": "Three Conflict Questions", "reference": "2:18-3:6", "why_start_end_and_devices": "Fasting, Sabbath grain, healing—crescendo to plot to destroy."},
+        {"scene_number": 11, "scene_name": "Withdrawal and the Twelve", "reference": "3:7-3:19a", "why_start_end_and_devices": "Crowd summary; formal naming/commissioning of inner circle."},
+        {"scene_number": 12, "scene_name": "Family and Scribes ‘Sandwich’", "reference": "3:19b-3:35", "why_start_end_and_devices": "Intercalation: blasphemy charge clarifies true kin as doers."},
+        {"scene_number": 13, "scene_name": "Sower and Purpose of Parables", "reference": "4:1-4:20", "why_start_end_and_devices": "Public parable + private rationale and interpretation unit."},
+        {"scene_number": 14, "scene_name": "Lamp, Measure, Seeds", "reference": "4:21-4:34", "why_start_end_and_devices": "Parable cluster with summary: public parables, private explanations."},
+        {"scene_number": 15, "scene_name": "Calming the Storm", "reference": "4:35-4:41", "why_start_end_and_devices": "Nature obeys; ‘Who is this?’ bridges to greater power displays."},
+        {"scene_number": 16, "scene_name": "Gerasene Demoniac", "reference": "5:1-5:20", "why_start_end_and_devices": "Legion expelled; unique Gentile commissioning underscores reach."},
+        {"scene_number": 17, "scene_name": "Jairus/Woman Intercalation", "reference": "5:21-5:43", "why_start_end_and_devices": "Sandwiched healings (12 years) highlight faith and power."},
+        {"scene_number": 18, "scene_name": "Rejection at Nazareth", "reference": "6:1-6a", "why_start_end_and_devices": "Prophet without honor; unbelief limits mighty works."},
+        {"scene_number": 19, "scene_name": "Mission of the Twelve", "reference": "6:6b-6:13", "why_start_end_and_devices": "Commission + results; simple dependence ethic."},
+        {"scene_number": 20, "scene_name": "Death of John (Flashback)", "reference": "6:14-6:29", "why_start_end_and_devices": "Intercalated backstory foreshadows Jesus’ fate."},
+        {"scene_number": 21, "scene_name": "Feeding the Five Thousand", "reference": "6:30-6:44", "why_start_end_and_devices": "Shepherd compassion; abundance with numbered details."},
+        {"scene_number": 22, "scene_name": "Walking on Water; Healings", "reference": "6:45-6:56", "why_start_end_and_devices": "Sea epiphany then summary of widespread healings."},
+        {"scene_number": 23, "scene_name": "Tradition vs. True Defilement", "reference": "7:1-7:23", "why_start_end_and_devices": "Public dispute + private teaching redefine defilement."},
+        {"scene_number": 24, "scene_name": "Syrophoenician Woman", "reference": "7:24-7:30", "why_start_end_and_devices": "Clever faith secures Gentile daughter’s healing at distance."},
+        {"scene_number": 25, "scene_name": "Deaf Mute Healed", "reference": "7:31-7:37", "why_start_end_and_devices": "‘Ephphatha!’; secrecy command defied, praise spreads."},
+        {"scene_number": 26, "scene_name": "Feeding the Four Thousand", "reference": "8:1-8:10", "why_start_end_and_devices": "Parallel feeding underscores provision despite dullness."},
+        {"scene_number": 27, "scene_name": "Demand for a Sign", "reference": "8:11-8:13", "why_start_end_and_devices": "Brief refusal with definitive departure."},
+        {"scene_number": 28, "scene_name": "Leaven Warning; Blindness", "reference": "8:14-8:21", "why_start_end_and_devices": "Metaphor + rhetorical questions expose dull understanding."},
+        {"scene_number": 29, "scene_name": "Bethsaida: Partial Sight", "reference": "8:22-8:26", "why_start_end_and_devices": "Two‑stage healing as metaphor for disciples’ sight; secrecy."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Way of the Suffering Son of Man (Via Crucis)",
+      "why_start_end_and_literary_glue": "Hinge to Jerusalem journey with three Passion Predictions, each followed by misunderstanding and teaching on true discipleship; ends with Bartimaeus as model follower. Glue: prediction→misunderstanding→instruction pattern.",
+      "reference": "8:27 - 10:52",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Confession and First Prediction", "reference": "8:27-8:33", "why_start_end_and_devices": "Identity confessed; rebuke exposes human agenda vs divine."},
+        {"scene_number": 2, "scene_name": "Cost of Discipleship", "reference": "8:34-9:1", "why_start_end_and_devices": "Cross sayings and paradox maxims to crowd and disciples."},
+        {"scene_number": 3, "scene_name": "Transfiguration", "reference": "9:2-9:13", "why_start_end_and_devices": "Mountain theophany confirms Son; silence till resurrection."},
+        {"scene_number": 4, "scene_name": "Demonic Boy; Prayer", "reference": "9:14-9:29", "why_start_end_and_devices": "Failure→deliverance; ‘this kind by prayer’ private lesson."},
+        {"scene_number": 5, "scene_name": "Second Prediction; Greatness", "reference": "9:30-9:41", "why_start_end_and_devices": "Secret pass‑through; child as model; inclusive service."},
+        {"scene_number": 6, "scene_name": "Radical Warnings", "reference": "9:42-9:50", "why_start_end_and_devices": "Severe stumbling/hyperbole; salt/fire maxims conclude."},
+        {"scene_number": 7, "scene_name": "Divorce Teaching", "reference": "10:1-10:12", "why_start_end_and_devices": "Public test then private standard—creation intent."},
+        {"scene_number": 8, "scene_name": "Children and the Rich Man", "reference": "10:13-10:31", "why_start_end_and_devices": "Entry to kingdom: childlike reception vs wealth obstacle."},
+        {"scene_number": 9, "scene_name": "Third Prediction; Ransom Saying", "reference": "10:32-10:45", "why_start_end_and_devices": "Going up to Jerusalem; greatness redefined as service."},
+        {"scene_number": 10, "scene_name": "Bartimaeus Follows on the Way", "reference": "10:46-10:52", "why_start_end_and_devices": "Persistent plea; regained sight leads to following."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Conflict, Authority, and the End Times (Jerusalem Ministry)",
+      "why_start_end_and_literary_glue": "Entry→Temple action→controversies; fig‑tree/Temple intercalation interprets judgment; ends with Olivet exhortation to stay awake.",
+      "reference": "11:1 - 13:37",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Triumphal Entry", "reference": "11:1-11:11", "why_start_end_and_devices": "Symbolic royal entry; late inspection and withdrawal."},
+        {"scene_number": 2, "scene_name": "Fig Tree/Temple Intercalation", "reference": "11:12-11:26", "why_start_end_and_devices": "Fruitless fig frames cleansing; faith/forgiveness teaching."},
+        {"scene_number": 3, "scene_name": "Question of Authority", "reference": "11:27-11:33", "why_start_end_and_devices": "Counter‑question traps challengers; dialogue stalemate."},
+        {"scene_number": 4, "scene_name": "Parable of the Tenants", "reference": "12:1-12:12", "why_start_end_and_devices": "Allegory of rejection; scripture stone citation; retreat."},
+        {"scene_number": 5, "scene_name": "Tribute to Caesar", "reference": "12:13-12:17", "why_start_end_and_devices": "Image/inscription maxim resolves trap; astonishment."},
+        {"scene_number": 6, "scene_name": "Sadducees and the Resurrection", "reference": "12:18-12:27", "why_start_end_and_devices": "Pentateuch proof; God of living confounds them."},
+        {"scene_number": 7, "scene_name": "Greatest Commandment", "reference": "12:28-12:34", "why_start_end_and_devices": "Shema + neighbor; wise scribe affirmed; questions cease."},
+        {"scene_number": 8, "scene_name": "David’s Lord and Widow’s Gift", "reference": "12:35-12:44", "why_start_end_and_devices": "Christological riddle + contrast of piety vs display."},
+        {"scene_number": 9, "scene_name": "Olivet I: Temple and Beginnings", "reference": "13:1-13:13", "why_start_end_and_devices": "Destruction predicted; endurance through first woes."},
+        {"scene_number": 10, "scene_name": "Olivet II: Abomination and Coming", "reference": "13:14-13:27", "why_start_end_and_devices": "Great distress to Son of Man’s appearing; apocalyptic scope."},
+        {"scene_number": 11, "scene_name": "Olivet III: Fig Tree and Watchfulness", "reference": "13:28-13:37", "why_start_end_and_devices": "Parables press vigilance; ‘stay awake’ concludes public teaching."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Passion, Crucifixion, and Empty Tomb",
+      "why_start_end_and_literary_glue": "From plot to burial and the empty tomb (ending at 16:8). Glue: irony of royal mockery, fulfillment, repeated failures, and vindication in absence/promise.",
+      "reference": "14:1 - 16:8",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Plot and Anointing", "reference": "14:1-14:11", "why_start_end_and_devices": "Intercalation contrasts lavish devotion with betrayal."},
+        {"scene_number": 2, "scene_name": "Preparation and Supper", "reference": "14:12-14:25", "why_start_end_and_devices": "Passover arrangements; covenant in blood words given."},
+        {"scene_number": 3, "scene_name": "Gethsemane", "reference": "14:26-14:42", "why_start_end_and_devices": "Scripture‑framed desertion; triple prayer/watch failure."},
+        {"scene_number": 4, "scene_name": "Arrest and Flight", "reference": "14:43-14:52", "why_start_end_and_devices": "Betrayal kiss; all flee; enigmatic young man detail."},
+        {"scene_number": 5, "scene_name": "Jewish Trial", "reference": "14:53-14:65", "why_start_end_and_devices": "‘I am’ confession; condemnation and abuse follow."},
+        {"scene_number": 6, "scene_name": "Peter’s Denial", "reference": "14:66-14:72", "why_start_end_and_devices": "Threefold denial fulfilled; bitter weeping closes unit."},
+        {"scene_number": 7, "scene_name": "Roman Trial", "reference": "15:1-15:15", "why_start_end_and_devices": "Pilate’s dilemma; crowd chooses Barabbas; Jesus delivered."},
+        {"scene_number": 8, "scene_name": "Mockery and Crucifixion", "reference": "15:16-15:24", "why_start_end_and_devices": "Royal parody; garments cast lots; crucifixion stated."},
+        {"scene_number": 9, "scene_name": "Crucifixion Taunts", "reference": "15:25-15:32", "why_start_end_and_devices": "Title irony and derision from all sides persist."},
+        {"scene_number": 10, "scene_name": "Death of Jesus", "reference": "15:33-15:41", "why_start_end_and_devices": "Darkness/veil; centurion’s ‘Son of God’ confession."},
+        {"scene_number": 11, "scene_name": "Burial", "reference": "15:42-15:47", "why_start_end_and_devices": "Joseph’s courageous burial; women note the tomb."},
+        {"scene_number": 12, "scene_name": "Empty Tomb", "reference": "16:1-16:8", "why_start_end_and_devices": "He is risen; fear and silence end the original text."}
+      ]
+    }
+  ]
+}
+

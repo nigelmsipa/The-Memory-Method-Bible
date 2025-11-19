@@ -1,0 +1,92 @@
+{
+  "book_name": "John",
+  "hebrew_name": "יוחנן (Yoḥanan)",
+  "canonical_grouping": "Gospels",
+  "big_picture_notes": "John presents a high‑theological narrative built as legal testimony so that readers may believe (20:31). The macro‑structure is framed by the Prologue (1:1–18) and Epilogue (21), with two central panels: the Book of Signs (1:19–12:50) and the Book of Glory (13:1–20:31). Literary glue includes irony/misunderstanding, double entendre (e.g., anōthen ‘again/from above’), I‑AM sayings, key vocabulary (life, light, know, witness, believe), and the recurring ‘hour’ motif. Signs are paired with discourses to reveal identity; the Passion shows glory in sovereign self‑giving.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Eternal Word Made Flesh (Prologue)",
+      "why_start_end_and_literary_glue": "Poetic overture establishing Logos, life, light, witness, and incarnation; concludes with the unique Son making God known. Start (1:1) ‘In the beginning…’; End (1:18) ‘he has made him known.’ Glue: concentric structure centered on 1:14, repeated motifs (light/life/witness/glory).",
+      "reference": "1:1 - 1:18",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Cosmic Word and the Light", "reference": "1:1-1:5", "why_start_end_and_devices": "Genesis allusion stakes preexistence; light/darkness antithesis; creative agency repeated."},
+        {"scene_number": 2, "scene_name": "Historical Witness and Reception", "reference": "1:6-1:13", "why_start_end_and_devices": "John sent as witness; light rejected yet received by children born of God. Devices: testimony vs reception contrast."},
+        {"scene_number": 3, "scene_name": "Incarnation and Fullness", "reference": "1:14-1:18", "why_start_end_and_devices": "Word ‘tabernacled’ among us; grace in place of grace; Son makes Father known. Devices: glory motif, Moses vs grace/truth contrast."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Book of Signs: Public Revelation and Mounting Conflict",
+      "why_start_end_and_literary_glue": "Witness→sign→discourse pattern that escalates belief/unbelief, moving from Jordan/Cana to Jerusalem; ends with summary of Israel’s unbelief and Jesus’ final public words. Start (1:19): John’s testimony; End (12:50): final public declaration. Glue: sēmeia with explanatory dialogues, ‘the Jews’ as opposition shorthand, and festival settings.",
+      "reference": "1:19 - 12:50",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Delegation Questions John", "reference": "1:19-1:28", "why_start_end_and_devices": "Negative self‑definitions set stage; Bethany across the Jordan marks locale."},
+        {"scene_number": 2, "scene_name": "Behold, the Lamb of God", "reference": "1:29-1:34", "why_start_end_and_devices": "Titles: Lamb of God/Son of God; eyewitness ‘I have seen’ grounds testimony."},
+        {"scene_number": 3, "scene_name": "First Disciples Gather", "reference": "1:35-1:51", "why_start_end_and_devices": "Title crescendo (Rabbi→Messiah→King→Son of Man); Jacob’s ladder allusion promises greater revelation."},
+        {"scene_number": 4, "scene_name": "Sign 1: Water to Wine (Cana)", "reference": "2:1-2:12", "why_start_end_and_devices": "Purification jars become wine; glory manifested, disciples believe; summary move to Capernaum."},
+        {"scene_number": 5, "scene_name": "Temple Cleansing and Sign Saying", "reference": "2:13-2:22", "why_start_end_and_devices": "Passover setting; body‑temple double entendre; post‑resurrection understanding noted."},
+        {"scene_number": 6, "scene_name": "Nicodemus by Night", "reference": "3:1-3:21", "why_start_end_and_devices": "Anōthen double sense; new birth by Spirit; Son lifted up for life; light judgment motif."},
+        {"scene_number": 7, "scene_name": "John’s Final Witness: He Must Increase", "reference": "3:22-3:36", "why_start_end_and_devices": "Heaven‑from‑above vs earth‑from‑below; wrath abides vs life for believers."},
+        {"scene_number": 8, "scene_name": "Samaritan Woman and True Worship", "reference": "4:1-4:42", "why_start_end_and_devices": "Living water double entendre; revelation ‘I am he’; harvest saying; many believe by word."},
+        {"scene_number": 9, "scene_name": "Sign 2: Official’s Son", "reference": "4:46-4:54", "why_start_end_and_devices": "Distance healing; ‘your son lives’; faith develops from sign to word."},
+        {"scene_number": 10, "scene_name": "Sign 3: Bethesda and Sabbath Controversy", "reference": "5:1-5:18", "why_start_end_and_devices": "Healing triggers charge; equality with God intensifies conflict."},
+        {"scene_number": 11, "scene_name": "Son and the Father Discourse", "reference": "5:19-5:47", "why_start_end_and_devices": "Authority to give life/judge; witnesses marshaled (John, works, Father, Scriptures, Moses)."},
+        {"scene_number": 12, "scene_name": "Sign 4: Feeding the 5000", "reference": "6:1-6:15", "why_start_end_and_devices": "Passover backdrop; abundance sign leads to king‑by‑force impulse."},
+        {"scene_number": 13, "scene_name": "Walking on the Sea", "reference": "6:16-6:21", "why_start_end_and_devices": "‘It is I’ (egō eimi) epiphany; immediate arrival motif."},
+        {"scene_number": 14, "scene_name": "Bread of Life Discourse and Division", "reference": "6:22-6:71", "why_start_end_and_devices": "Work of God = believe; eating flesh/drinking blood offense; many withdraw; Peter’s confession of the Holy One."},
+        {"scene_number": 15, "scene_name": "Tabernacles: Teaching and Division", "reference": "7:1-7:52", "why_start_end_and_devices": "Timing/‘my hour’; living water on last great day; officers report ‘no one ever spoke like this.’"},
+        {"scene_number": 16, "scene_name": "Light of the World and ‘Before Abraham, I AM’", "reference": "8:12-8:59", "why_start_end_and_devices": "Witness standards; freedom/sonship debate; climactic egō eimi provokes stoning."},
+        {"scene_number": 17, "scene_name": "Sign 5: Man Born Blind and Forensic Hearing", "reference": "9:1-9:41", "why_start_end_and_devices": "Siloam sent; progressive sight/belief vs Pharisaic blindness; judgment saying."},
+        {"scene_number": 18, "scene_name": "Good Shepherd Discourse", "reference": "10:1-10:21", "why_start_end_and_devices": "Door/shepherd metaphors; lay down life/take it up; division renewed."},
+        {"scene_number": 19, "scene_name": "Dedication: I and the Father Are One", "reference": "10:22-10:42", "why_start_end_and_devices": "Works as witness; Psalm 82 argument; beyond Jordan withdrawal."},
+        {"scene_number": 20, "scene_name": "Sign 6: Raising Lazarus", "reference": "11:1-11:44", "why_start_end_and_devices": "I AM the resurrection and the life; glory through love and delay; belief commanded."},
+        {"scene_number": 21, "scene_name": "Sanhedrin Plot and Passover Timing", "reference": "11:45-11:57", "why_start_end_and_devices": "Caiaphas’ irony: one man dies for the nation; hour converges."},
+        {"scene_number": 22, "scene_name": "Anointing at Bethany", "reference": "12:1-12:8", "why_start_end_and_devices": "Fragrance fills house; value reversal vs Judas; burial preparation."},
+        {"scene_number": 23, "scene_name": "Entry and Greeks Seek Jesus", "reference": "12:12-12:36", "why_start_end_and_devices": "Donkey sign; seed that dies to bear fruit; ‘lifted up’ indicates death; walk while you have the light."},
+        {"scene_number": 24, "scene_name": "Unbelief Summary and Final Public Words", "reference": "12:37-12:50", "why_start_end_and_devices": "Isaiah unbelief citation; mission recap; commandment is eternal life."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Book of Glory: Farewell and Glorious Passion",
+      "why_start_end_and_literary_glue": "Private love and instruction (13–17) lead into sovereign Passion/Resurrection (18–20); concludes with stated purpose (20:30–31). Start (13:1) before Passover; End (20:31) purpose statement. Glue: love/Paraclete motifs, ‘Truly, truly’ framing, and ‘hour’ fulfilled.",
+      "reference": "13:1 - 20:31",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Foot Washing Paradigm", "reference": "13:1-13:17", "why_start_end_and_devices": "Act‑then‑exhort: example for blessed doing; Peter misunderstanding clarified."},
+        {"scene_number": 2, "scene_name": "Betrayer Identified; Night Falls", "reference": "13:18-13:30", "why_start_end_and_devices": "Scripture fulfilled; morsel given; Judas departs—‘and it was night.’"},
+        {"scene_number": 3, "scene_name": "Glory, New Command, and Peter’s Denial", "reference": "13:31-13:38", "why_start_end_and_devices": "Now glorified paradox; love one another; denial foretold."},
+        {"scene_number": 4, "scene_name": "Way, Truth, Life", "reference": "14:1-14:14", "why_start_end_and_devices": "Console and reveal access to the Father through the Son; greater works/prayer promise."},
+        {"scene_number": 5, "scene_name": "Paraclete Promise I", "reference": "14:15-14:31", "why_start_end_and_devices": "Obedience and manifestation; Spirit with/in you; ‘rise, let us go’ seam."},
+        {"scene_number": 6, "scene_name": "Vine and Branches; Love and Joy", "reference": "15:1-15:17", "why_start_end_and_devices": "Abide fruitfully; friends not servants; command to love one another."},
+        {"scene_number": 7, "scene_name": "World’s Hatred and Witness", "reference": "15:18-16:4", "why_start_end_and_devices": "Hate without cause; Spirit/disciples testify; warning to remember."},
+        {"scene_number": 8, "scene_name": "Paraclete Promise II", "reference": "16:5-16:15", "why_start_end_and_devices": "Spirit convicts the world; guides into all truth; glorifies the Son."},
+        {"scene_number": 9, "scene_name": "Sorrow to Joy; Ask in My Name", "reference": "16:16-16:24", "why_start_end_and_devices": "Little while riddle; birth metaphor; prayer assurance in the Son’s name."},
+        {"scene_number": 10, "scene_name": "Peace in Overcoming", "reference": "16:25-16:33", "why_start_end_and_devices": "Plain speech; scattered yet not alone; ‘I have overcome the world.’"},
+        {"scene_number": 11, "scene_name": "High Priestly Prayer", "reference": "17:1-17:26", "why_start_end_and_devices": "Glorify the Son/Father; sanctify disciples; unity for future believers; love known."},
+        {"scene_number": 12, "scene_name": "Arrest in the Garden", "reference": "18:1-18:11", "why_start_end_and_devices": "‘I am he’ knocks cohort back; protects his own; cup embraced."},
+        {"scene_number": 13, "scene_name": "Annas and Peter’s Denials", "reference": "18:12-18:27", "why_start_end_and_devices": "Interwoven hearings with triple denial fulfill Jesus’ word."},
+        {"scene_number": 14, "scene_name": "Pilate: Truth and the King", "reference": "18:28-19:16", "why_start_end_and_devices": "Inside/outside irony; ‘What is truth?’; behold the man/king; sentence delivered."},
+        {"scene_number": 15, "scene_name": "Crucifixion and It Is Finished", "reference": "19:17-19:30", "why_start_end_and_devices": "Title in three scripts; Scripture fulfilled; entrusts mother; consummation cry."},
+        {"scene_number": 16, "scene_name": "Pierced Side and Burial", "reference": "19:31-19:42", "why_start_end_and_devices": "Not one bone broken; look on the pierced one; Joseph/Nicodemus bury."},
+        {"scene_number": 17, "scene_name": "Empty Tomb: Peter and the Beloved Disciple", "reference": "20:1-20:10", "why_start_end_and_devices": "Race to tomb; saw and believed; Scripture understanding awaited."},
+        {"scene_number": 18, "scene_name": "Mary Magdalene Meets the Risen Lord", "reference": "20:11-20:18", "why_start_end_and_devices": "Name recognition turns grief to witness; ‘I am ascending’ message."},
+        {"scene_number": 19, "scene_name": "Peace/Breathing Spirit; Thomas Absent", "reference": "20:19-20:23", "why_start_end_and_devices": "Commission with Spirit; forgiveness/retention authority given."},
+        {"scene_number": 20, "scene_name": "Thomas Sees and Confesses", "reference": "20:24-20:29", "why_start_end_and_devices": "Blessed are those not seeing yet believing; climax confession ‘My Lord and my God.’"},
+        {"scene_number": 21, "scene_name": "Purpose Statement", "reference": "20:30-20:31", "why_start_end_and_devices": "Signs selected so that you may believe and have life in his name."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Epilogue: Restoration and Final Witness",
+      "why_start_end_and_literary_glue": "Appendix appearance in Galilee restores Peter, addresses the Beloved Disciple’s fate, and supplies a second editorial closure. Start (21:1) ‘After this…’; End (21:25) hyperbolic closure. Glue: fishing motif recalling first call; triple questioning reverses triple denial; witness attestation (21:24).",
+      "reference": "21:1 - 21:25",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Miraculous Catch and Recognition", "reference": "21:1-21:14", "why_start_end_and_devices": "Dawn at Tiberias; net abundance; ‘It is the Lord’; third appearance summary."},
+        {"scene_number": 2, "scene_name": "Peter Restored and Commissioned", "reference": "21:15-21:19", "why_start_end_and_devices": "Threefold love/charge; shepherding call; martyrdom hinted; ‘Follow me.’"},
+        {"scene_number": 3, "scene_name": "Beloved Disciple and Final Attestation", "reference": "21:20-21:25", "why_start_end_and_devices": "If he remains… rumor corrected; witness certification; world‑filling books hyperbole."}
+      ]
+    }
+  ]
+}
+

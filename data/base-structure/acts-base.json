@@ -1,0 +1,135 @@
+{
+  "book_name": "Acts",
+  "hebrew_name": "Πράξεις Ἀποστόλων (Praxeis Apostolōn)",
+  "canonical_grouping": "Gospels/History",
+  "big_picture_notes": "Acts continues Luke’s narrative, structured by the programmatic 1:8 commission: witnesses in Jerusalem, Judea and Samaria, and to the ends of the earth. Literary glue includes travel itineraries, summary growth statements (2:47; 6:7; 9:31; 12:24; 16:5; 19:20; 28:31), abundant speeches (about a third of the book), repeated conversion/testimony accounts, and Spirit-driven guidance. Focus shifts from Peter (1–12) to Paul (13–28). Thematically, it showcases fulfillment of Scripture and Jesus’ promises, with the Holy Spirit as the primary agent advancing the word despite opposition.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Witness in Jerusalem (The Church's Foundation)",
+      "why_start_end_and_literary_glue": "Start (1:1) links to Luke and frames the post‑resurrection mission; end (6:7) is a hinge summary concluding the Jerusalem‑centric phase. Glue: unity ‘with one accord,’ apostolic signs, temple focus, community summaries, and increasing conflict with the Sanhedrin.",
+      "reference": "1:1 - 6:7",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Prologue: Final Instructions and Ascension", "reference": "1:1-1:11", "why_start_end_and_devices": "Bridges Luke→Acts; promise of the Spirit; ascension witnessed and interpreted by angels. Devices: authorial address, theophany, oracle/promise."},
+        {"scene_number": 2, "scene_name": "Upper Room Prayer", "reference": "1:12-1:14", "why_start_end_and_devices": "Return to Jerusalem; unified prayer names the core circle. Devices: setting shift, compact list, unanimity refrain."},
+        {"scene_number": 3, "scene_name": "Selecting Matthias", "reference": "1:15-1:26", "why_start_end_and_devices": "Peter cites Scripture, community prays, and lots appoint Matthias. Devices: scriptural proof, prayer, casting lots closure."},
+        {"scene_number": 4, "scene_name": "Pentecost: Spirit Poured Out", "reference": "2:1-2:13", "why_start_end_and_devices": "Sound, fire, and tongues draw a multinational crowd and confusion. Devices: sensory theophany, nation list, mockery pivot."},
+        {"scene_number": 5, "scene_name": "Peter’s Prophetic Defense (Joel)", "reference": "2:14-2:21", "why_start_end_and_devices": "Refutes drunkenness; explains event via Joel’s prophecy. Devices: rebuttal→assertion→proof structure."},
+        {"scene_number": 6, "scene_name": "Peter Proclaims the Messiah", "reference": "2:22-2:36", "why_start_end_and_devices": "Death–resurrection–exaltation argued from Psalms; climax: Jesus is Lord and Christ. Devices: scriptural chain, climactic verdict."},
+        {"scene_number": 7, "scene_name": "Response and Baptism", "reference": "2:37-2:41", "why_start_end_and_devices": "Audience pierced; call to repent/baptize; about three thousand added. Devices: dialogue, summary result."},
+        {"scene_number": 8, "scene_name": "Community Life (Summary 1)", "reference": "2:42-2:47", "why_start_end_and_devices": "Devotion to teaching, fellowship, breaking bread, prayers; daily growth. Devices: enumerated practices, favor/growth summary."},
+        {"scene_number": 9, "scene_name": "Healing the Lame Man", "reference": "3:1-3:10", "why_start_end_and_devices": "At the temple gate, healing in Jesus’ name draws a crowd. Devices: miracle sign, praise, crowd recognition."},
+        {"scene_number": 10, "scene_name": "Temple Sermon: Repent and Turn", "reference": "3:11-3:26", "why_start_end_and_devices": "Peter redirects glory, indicts ignorance, offers restoration from the prophets. Devices: rhetorical questions, prophetic appeal."},
+        {"scene_number": 11, "scene_name": "Arrest and Growth Report", "reference": "4:1-4:4", "why_start_end_and_devices": "Authorities arrest, yet many believe; number reaches five thousand. Devices: conflict–growth juxtaposition, brief report."},
+        {"scene_number": 12, "scene_name": "Before the Sanhedrin", "reference": "4:5-4:22", "why_start_end_and_devices": "Bold witness; exclusive salvation in Jesus; threats then release. Devices: judicial scene, parrhesia, verdict closure."},
+        {"scene_number": 13, "scene_name": "Prayer for Boldness and Shaking", "reference": "4:23-4:31", "why_start_end_and_devices": "Corporate prayer cites Psalm 2; place shakes; Spirit fills anew. Devices: lament‑petition, theophany confirmation."},
+        {"scene_number": 14, "scene_name": "Sharing and Ananias/Sapphira", "reference": "4:32-5:11", "why_start_end_and_devices": "From ideal generosity (Barnabas) to judged deceit; great fear falls. Devices: contrast pericope, swift judgment."},
+        {"scene_number": 15, "scene_name": "Signs, Arrest, Night Release", "reference": "5:12-5:21a", "why_start_end_and_devices": "Many signs; imprisonment; angel frees apostles to resume teaching. Devices: summary→action, angelic intervention."},
+        {"scene_number": 16, "scene_name": "Council, Witness, and Gamaliel", "reference": "5:21b-5:42", "why_start_end_and_devices": "Empty prison irony; bold reply; Gamaliel’s counsel averts execution; beaten then rejoice. Devices: irony, deliberative speech."},
+        {"scene_number": 17, "scene_name": "The Seven and Summary Hinge", "reference": "6:1-6:7", "why_start_end_and_devices": "Hellenist complaint resolved by Spirit‑wise deacons; word increases. Devices: problem–solution, hinge summary."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Witness in Judea and Samaria (Expansion)",
+      "why_start_end_and_literary_glue": "Start (6:8) shifts to Stephen, whose martyrdom catalyzes dispersion; end (12:24) is a growth summary closing the persecution arc before the Gentile mission launch. Glue: persecution‑as‑catalyst, Spirit direction, and apostolic validation of Samaritans and Gentiles.",
+      "reference": "6:8 - 12:24",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Stephen’s Ministry and Arrest", "reference": "6:8-6:15", "why_start_end_and_devices": "Irresistible wisdom opposed; false charges; Stephen’s radiant face signals divine favor. Devices: conflict build, glory visage."},
+        {"scene_number": 2, "scene_name": "Stephen’s Speech: Israel’s Resistance", "reference": "7:1-7:53", "why_start_end_and_devices": "Historical survey turns accusatory: ‘you always resist the Holy Spirit.’ Devices: extended scriptural retelling, prophetic denunciation."},
+        {"scene_number": 3, "scene_name": "Martyrdom and Scattering", "reference": "7:54-8:4", "why_start_end_and_devices": "Vision of the Son of Man; stoning; Saul’s approval; church scattered preaching. Devices: glory–violence juxtaposition, summary pivot."},
+        {"scene_number": 4, "scene_name": "Philip in Samaria; Simon Magus", "reference": "8:5-8:25", "why_start_end_and_devices": "Joyful reception; apostles confirm with Spirit; Simon’s simony rebuked. Devices: sign‑attested mission, apostolic validation."},
+        {"scene_number": 5, "scene_name": "Philip and the Ethiopian Eunuch", "reference": "8:26-8:40", "why_start_end_and_devices": "Angel and Spirit direct a Scripture‑centered conversion and baptism; Philip transported. Devices: oracle guidance, Isa 53 exegesis."},
+        {"scene_number": 6, "scene_name": "Saul’s Conversion", "reference": "9:1-9:19a", "why_start_end_and_devices": "Heavenly encounter reverses persecutor to witness; sight restored and baptized. Devices: voice‑from‑heaven, sign (‘scales’) closure."},
+        {"scene_number": 7, "scene_name": "Saul’s Early Preaching and Escape", "reference": "9:19b-9:31", "why_start_end_and_devices": "Bold proclamation, plots, and escapes; churches have peace and grow. Devices: danger beats, hinge summary (9:31)."},
+        {"scene_number": 8, "scene_name": "Peter in Lydda and Joppa", "reference": "9:32-9:43", "why_start_end_and_devices": "Healings of Aeneas and Tabitha establish Peter’s authority along the coast. Devices: miracle signs, lodging setup in Joppa."},
+        {"scene_number": 9, "scene_name": "Cornelius’s Vision", "reference": "10:1-10:8", "why_start_end_and_devices": "God‑fearing Gentile directed to summon Peter. Devices: angelic visitation, piety characterization as foil."},
+        {"scene_number": 10, "scene_name": "Peter’s Sheet Vision and Resolve", "reference": "10:9-10:23a", "why_start_end_and_devices": "Threefold vision interpreted by Spirit; Peter descends to go. Devices: thrice repetition, inner dialogue, command obedience."},
+        {"scene_number": 11, "scene_name": "Gentiles Receive the Spirit", "reference": "10:23b-10:48", "why_start_end_and_devices": "Peter’s sermon; Spirit falls before baptism; Gentiles baptized. Devices: reversal ordering, equalizing Spirit sign."},
+        {"scene_number": 12, "scene_name": "Defense at Jerusalem", "reference": "11:1-11:18", "why_start_end_and_devices": "Peter recounts events; brethren glorify God for Gentile repentance. Devices: narrated testimony, consensus resolution."},
+        {"scene_number": 13, "scene_name": "Antioch: Barnabas and Saul", "reference": "11:19-11:30", "why_start_end_and_devices": "Scattered preaching reaches Antioch; disciples first called Christians; relief sent to Jerusalem. Devices: naming marker, emissary report."},
+        {"scene_number": 14, "scene_name": "Herod’s Persecution and Peter’s Deliverance", "reference": "12:1-12:24", "why_start_end_and_devices": "James martyred; Peter imprisoned and freed; Herod judged; word grows. Devices: prayer–deliverance irony (Rhoda), summary hinge."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "To the Ends of the Earth: First Missionary Journey",
+      "why_start_end_and_literary_glue": "Start (13:1) with Spirit‑directed commissioning at Antioch; end (14:28) with return and report. Glue: itinerary from Cyprus to Pisidia/Lycaonia and back; conflict then turning to Gentiles; elders appointed; inclusio with sending church.",
+      "reference": "13:1 - 14:28",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Commissioning and Sending", "reference": "13:1-13:5", "why_start_end_and_devices": "Prophets/teachers at Antioch; Spirit says ‘Set apart’; hands laid and sent. Devices: oracle formula, ritual sending."},
+        {"scene_number": 2, "scene_name": "Cyprus: Elymas and Sergius Paulus", "reference": "13:6-13:12", "why_start_end_and_devices": "Elymas opposed; Paul (name shift) blinds him; proconsul believes. Devices: conflict miracle, leadership shift marker."},
+        {"scene_number": 3, "scene_name": "Pisidian Antioch: Paul’s Sermon", "reference": "13:13-13:43", "why_start_end_and_devices": "Historical survey to resurrection, justified by Scripture; invited back next Sabbath. Devices: synagogue address, fulfillment chain."},
+        {"scene_number": 4, "scene_name": "Turning to the Gentiles", "reference": "13:44-13:52", "why_start_end_and_devices": "City gathers; Jews oppose; Isa 49:6 cited; dust‑shaking; joy. Devices: prophetic warrant, symbolic act."},
+        {"scene_number": 5, "scene_name": "Iconium: Division and Flight", "reference": "14:1-14:7", "why_start_end_and_devices": "Bold preaching splits city; plot to stone; they flee. Devices: division motif, protective move."},
+        {"scene_number": 6, "scene_name": "Lystra: Healing, Idolatry, and Stoning", "reference": "14:8-14:20a", "why_start_end_and_devices": "Healing sparks deification; apostles protest; Jews incite stoning; Paul rises. Devices: irony reversal, resilience sign."},
+        {"scene_number": 7, "scene_name": "Return and Strengthening the Churches", "reference": "14:20b-14:28", "why_start_end_and_devices": "Derbe preached; elders appointed; report God’s open door; long stay in Antioch. Devices: appointment formula, inclusio report."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Jerusalem Council (Gospel for Gentiles Confirmed)",
+      "why_start_end_and_literary_glue": "Start (15:1) with circumcision controversy; end (15:35) with unified ministry post‑decree in Antioch. Glue: multi‑voice testimony (Peter, Barnabas/Paul, James), Scripture (Amos 9), Spirit‑sanctioned consensus (‘seemed good to the Holy Spirit and to us’).",
+      "reference": "15:1 - 15:35",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Dispute at Antioch; To Jerusalem", "reference": "15:1-15:5", "why_start_end_and_devices": "Judaizers trigger debate; delegation welcomed; Pharisee believers restate demand. Devices: controversy setup, venue shift."},
+        {"scene_number": 2, "scene_name": "Peter’s Testimony of Grace", "reference": "15:6-15:11", "why_start_end_and_devices": "God chose Gentiles; hearts purified by faith; law’s yoke rejected. Devices: past narrative appeal, grace principle."},
+        {"scene_number": 3, "scene_name": "James’s Judgment and Scripture", "reference": "15:12-15:21", "why_start_end_and_devices": "Miracle reports heard; James cites Amos 9; four prohibitions set. Devices: legal decision, scriptural warrant."},
+        {"scene_number": 4, "scene_name": "The Decree Dispatched and Received", "reference": "15:22-15:35", "why_start_end_and_devices": "Chosen men carry the letter; encouragement and unity result. Devices: epistolary decree, messenger validation, summary close."}
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "Second Missionary Journey (Macedonia and Achaia)",
+      "why_start_end_and_literary_glue": "Start (15:36) revisiting churches, then Spirit‑redirects to Europe (Macedonian call); end (18:22) with return to Antioch. Glue: we‑sections begin (16:10), legal precedent (Gallio), and founding of key churches (Philippi, Thessalonica, Corinth).",
+      "reference": "15:36 - 18:22",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Split with Barnabas; Silas and Timothy", "reference": "15:36-16:5", "why_start_end_and_devices": "Disagreement over Mark; circumcision of Timothy for mission; churches strengthened. Devices: pragmatic concession, summary growth (16:5)."},
+        {"scene_number": 2, "scene_name": "The Macedonian Call", "reference": "16:6-16:10", "why_start_end_and_devices": "Spirit forbids Asia/Bithynia; vision summons to Macedonia; ‘we’ begin. Devices: negative guidance→positive vision, narrator shift."},
+        {"scene_number": 3, "scene_name": "Philippi: Lydia’s Household", "reference": "16:11-16:15", "why_start_end_and_devices": "Sabbath riverside prayer; the Lord opens Lydia’s heart; hospitality. Devices: divine enablement, house‑church seed."},
+        {"scene_number": 4, "scene_name": "Slave‑Girl Exorcism and Imprisonment", "reference": "16:16-16:24", "why_start_end_and_devices": "Spirit expelled; owners retaliate; Paul and Silas flogged and jailed. Devices: power encounter, injustice setup."},
+        {"scene_number": 5, "scene_name": "Jailer’s Conversion and Release", "reference": "16:25-16:40", "why_start_end_and_devices": "Midnight praise; quake opens doors; ‘What must I do to be saved?’; Roman citizenship forces apology. Devices: sign‑deliverance, legal status appeal."},
+        {"scene_number": 6, "scene_name": "Thessalonica: Uproar", "reference": "17:1-17:9", "why_start_end_and_devices": "Reasoning from Scriptures; charge of turning the world upside down; bail taken. Devices: synagogue proof, civic disturbance."},
+        {"scene_number": 7, "scene_name": "Berea: Noble Examination", "reference": "17:10-17:15", "why_start_end_and_devices": "Daily Scripture searching; many believe; opposition pursues Paul. Devices: evaluative praise, protective escort."},
+        {"scene_number": 8, "scene_name": "Athens: Areopagus Address", "reference": "17:16-17:34", "why_start_end_and_devices": "Unknown God proclamation; call to repent in light of resurrection; mixed responses. Devices: cultural citation, rhetorical adaptation."},
+        {"scene_number": 9, "scene_name": "Corinth: Vision and Long Stay", "reference": "18:1-18:11", "why_start_end_and_devices": "Work with Aquila/Priscilla; opposition; Lord’s vision assures protection; 18 months ministry. Devices: tentmaking note, oracle assurance."},
+        {"scene_number": 10, "scene_name": "Gallio’s Judgment", "reference": "18:12-18:17", "why_start_end_and_devices": "Roman refusal to adjudicate intra‑Jewish matter; Sosthenes beaten. Devices: legal precedent, ironic reversal."},
+        {"scene_number": 11, "scene_name": "Concluding the Journey", "reference": "18:18-18:22", "why_start_end_and_devices": "Vow noted; brief stops; ‘gone up’ and returned to Antioch close inclusio. Devices: itinerary compress, inclusio marker."}
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "Third Missionary Journey and the Ephesian Triumph",
+      "why_start_end_and_literary_glue": "Start (18:23) strengthening churches through Galatia/Phrygia; end (21:16) arrival in Jerusalem after layered warnings. Glue: Ephesus focus (19), triumph over magic, travel farewell rhythms, and Spirit‑prompted resolve toward Jerusalem.",
+      "reference": "18:23 - 21:16",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Apollos and Spirit‑Fullness at Ephesus", "reference": "18:23-19:7", "why_start_end_and_devices": "Apollos instructed by Priscilla/Aquila; Ephesian disciples receive the Spirit with tongues/prophecy. Devices: transitional figure, confirming signs."},
+        {"scene_number": 2, "scene_name": "Power over Magic; Word Prevails", "reference": "19:8-19:20", "why_start_end_and_devices": "Long synagogue/school ministry; failed exorcists exposed; public burning of magic books; word grows. Devices: contrast power, victory summary."},
+        {"scene_number": 3, "scene_name": "The Riot of the Silversmiths", "reference": "19:21-19:41", "why_start_end_and_devices": "Economic threat sparks civic uproar; town clerk dismisses assembly. Devices: mob chant refrain, political de‑escalation."},
+        {"scene_number": 4, "scene_name": "Travels and Eutychus Raised", "reference": "20:1-20:16", "why_start_end_and_devices": "Itinerary compression; late‑night fall and revival of Eutychus; sailing choices avoid delay. Devices: travel ledger, miracle interlude."},
+        {"scene_number": 5, "scene_name": "Miletus Farewell to the Elders", "reference": "20:17-20:38", "why_start_end_and_devices": "Testamentary speech: past service, future wolves, commendation to God; tearful parting. Devices: farewell genre, inclusio of tears."},
+        {"scene_number": 6, "scene_name": "Warnings En Route to Jerusalem", "reference": "21:1-21:16", "why_start_end_and_devices": "Prophetic warnings (Tyre, Agabus) met by Paul’s resolve; lodging set for arrival. Devices: repeated warnings, submission formula (‘The Lord’s will be done’)."}
+      ]
+    },
+    {
+      "story_letter": "G",
+      "story_title": "Arrest, Trials, Voyage, and Rome (Apostolic Climax)",
+      "why_start_end_and_literary_glue": "Start (21:17) with Jerusalem arrival leading to arrest/trials; end (28:31) with unhindered preaching in Rome. Glue: serial defenses centered on the resurrection, divine ‘must’/assurance (23:11), and providential protection culminating in Rome.",
+      "reference": "21:17 - 28:31",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Advice from James; Paul Arrested", "reference": "21:17-21:36", "why_start_end_and_devices": "Purification advice followed by temple accusation and riot; Roman rescue. Devices: irony (compromise→riot), echo of ‘Away with him!’"},
+        {"scene_number": 2, "scene_name": "Testimony to the Crowd", "reference": "21:37-22:21", "why_start_end_and_devices": "Hebrew address recounts conversion/commission; mention of Gentiles triggers fury. Devices: code‑switching, commission climax."},
+        {"scene_number": 3, "scene_name": "Citizenship Averts Scourging", "reference": "22:22-22:30", "why_start_end_and_devices": "Roman citizenship halts torture; case referred to the council. Devices: legal status reveal, procedural shift."},
+        {"scene_number": 4, "scene_name": "Before the Sanhedrin; Divine Assurance", "reference": "23:1-23:11", "why_start_end_and_devices": "Council divided Pharisees/Sadducees; night vision promises Rome. Devices: partisan division tactic, reassurance oracle."},
+        {"scene_number": 5, "scene_name": "Conspiracy and Transfer to Caesarea", "reference": "23:12-23:35", "why_start_end_and_devices": "Assassination plot foiled by nephew; escorted to Felix with letter. Devices: providential disclosure, official correspondence."},
+        {"scene_number": 6, "scene_name": "Trial Before Felix", "reference": "24:1-24:23", "why_start_end_and_devices": "Tertullus’s flattery vs Paul’s clear defense; delay with light custody. Devices: forensic rhetoric, adjournment."},
+        {"scene_number": 7, "scene_name": "Felix and Drusilla Hear Paul", "reference": "24:24-24:27", "why_start_end_and_devices": "Reasoning on righteousness, self‑control, judgment; Felix trembles then stalls; two‑year delay. Devices: tailored exhortation, moral hesitation."},
+        {"scene_number": 8, "scene_name": "Before Festus; Appeal to Caesar", "reference": "25:1-25:12", "why_start_end_and_devices": "Jews press charges; Paul asserts innocence and appeals to Caesar. Devices: jurisdictional move, legal pivot."},
+        {"scene_number": 9, "scene_name": "Before Agrippa: Grand Testimony", "reference": "25:13-26:32", "why_start_end_and_devices": "Conversion/commission retold; nearly persuades Agrippa; verdict: could be freed but for appeal. Devices: royal audience, persuasive climax."},
+        {"scene_number": 10, "scene_name": "Voyage and Shipwreck; Malta", "reference": "27:1-28:10", "why_start_end_and_devices": "Prophetic counsel ignored; storm; angel assures all will live; shipwreck survival; healings in Malta. Devices: nautical ‘we’ detail, prophecy fulfilled."},
+        {"scene_number": 11, "scene_name": "Rome: Final Witness and Unhindered Word", "reference": "28:11-28:31", "why_start_end_and_devices": "Jewish leaders hear; Isaiah 6 cited; two years preaching without hindrance. Devices: Isaiah citation, open‑ended summary."}
+      ]
+    }
+  ]
+}
+

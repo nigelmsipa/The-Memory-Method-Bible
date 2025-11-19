@@ -1,0 +1,217 @@
+{
+  "book_name": "Hosea",
+  "hebrew_name": "הוֹשֵׁעַ (Hoshea')",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Hosea is a covenant-lawsuit (rîb) framed by Hosea’s symbolic marriage to Gomer (chs. 1–3) and a sustained sequence of poetic/oracular indictments (chs. 4–13) culminating in a final call to return and an oracle of restoration (ch. 14). The book juxtaposes God’s burning wrath against Israel’s spiritual whoredom with His persistent, tender love, developed through wordplay (children’s names), vivid metaphors (half-baked cake, treacherous bow, empty vine, dew), and historical allusions (Exodus, Baal Peor, Gilgal, Gibeah). The structure is rhetorically driven with abrupt shifts in speaker and tone, bound together by the leitmotifs of whoredom, ‘knowledge of God,’ return, and the name Ephraim.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Allegory of the Unfaithful Wife and Children",
+      "why_start_end_and_literary_glue": "Chs. 1–3 form a unified sign‑act narrative: Hosea’s marriage and the children’s symbolic names (Jezreel, Lo‑Ruhamah, Lo‑Ammi), the lawsuit/judgment on the unfaithful wife, and the redeeming purchase that typifies God’s enduring love. Start (1:1): superscription/oracle formula. End (3:5): future‑oriented resolution. Literary glue: repetition of the marriage command (1:2; 3:1), the reversal of the children’s names (1:9 ↔ 2:23), and sustained marital/covenant metaphor.",
+      "reference": "1:1 - 3:5",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Prophet's Call and Symbolic Children of Judgment",
+          "reference": "1:1-1:9",
+          "why_start_end_and_devices": "Superscription and sign‑act command launch the allegory; completes the triad of names with Lo‑Ammi, sealing the covenant breach. Devices: wordplay and anti‑covenant naming."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Hopeful Reversal of the Naming",
+          "reference": "1:10-2:1",
+          "why_start_end_and_devices": "Pivot from judgment to promise; concludes with reversal (not‑my‑people → sons of the living God) preparing restoration theme. Device: inclusio with 2:23."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Israel's Adultery and Covenant Punishment",
+          "reference": "2:2-2:13",
+          "why_start_end_and_devices": "Formal lawsuit address (‘Plead with your mother…’) through withdrawal of blessings and cultic shutdown; closes when feast/fertility judgment is fully stated. Devices: personification, legal rhetoric."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Restoration through the Wilderness",
+          "reference": "2:14-2:23",
+          "why_start_end_and_devices": "Clear turn to wooing and second‑Exodus imagery; concludes with full covenant renewal and final reversal of names (Lo‑Ammi/Lo‑Ruhamah). Devices: wilderness honeymoon, parallelism."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Second Sign-Act: Redeeming the Wife",
+          "reference": "3:1-3:5",
+          "why_start_end_and_devices": "New sign‑act command (‘Go again, love…’) and purchase; resolves with future seeking of Yahweh/David. Devices: acted parable as hinge from judgment to restoration."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Covenant Lawsuit and Israel's Fatal Ignorance",
+      "why_start_end_and_literary_glue": "Chs. 4:1–6:3 prosecute the formal rîb: God’s controversy with the land for lack of knowledge (4:1, 6), targeting people, priests, leaders, and concluding in the people’s fleeting ‘let us return’ (6:1–3). Start (4:1): lawsuit formula. End (6:3): superficial repentance that sets up the rejection of 6:4. Glue: ‘knowledge’ leitwort and progression of addressees.",
+      "reference": "4:1 - 6:3",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Charge: Lack of Knowledge and Covenant Breach",
+          "reference": "4:1-4:5",
+          "why_start_end_and_devices": "Initiates the rîb (‘Hear the word…’) listing ethical breaches and cosmic mourning; ends with destruction of the people/mother. Devices: lawsuit formula, personified land."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Judgment on the Corrupt Priesthood",
+          "reference": "4:6-4:10",
+          "why_start_end_and_devices": "Focus on priests who reject knowledge; ends with unsatisfied sacrifices. Devices: lex talionis (‘rejected → rejected’), cultic irony."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Spirit of Whoredom and Corrupt Worship",
+          "reference": "4:11-4:14",
+          "why_start_end_and_devices": "Whoredom/wine take the heart; concludes with ruin of the uncomprehending people. Devices: personified ‘spirit of whoredom,’ family‑level indictment."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Warning to Judah and Condemnation of Ephraim",
+          "reference": "4:15-5:7",
+          "why_start_end_and_devices": "Parenthetical warning to Judah while indicting Ephraim’s obstinacy; ends with failed seeking (‘he has withdrawn’). Devices: stubborn heifer simile; geographic markers."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Alarm, Invasion, and the King's Helplessness",
+          "reference": "5:8-5:15",
+          "why_start_end_and_devices": "Trumpet/alarm inaugurates invasion; ends with divine withdrawal pending confession. Devices: moth/lion metaphors for slow/sudden judgment."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The People's Fleeting Repentance",
+          "reference": "6:1-6:3",
+          "why_start_end_and_devices": "People’s hymnic call to return; completes hopeful expectation that will be rebutted in 6:4. Devices: liturgical anaphora, restoration motifs."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Israel's Stubborn Apostasy and Political Folly",
+      "why_start_end_and_literary_glue": "6:4–10:15 rejects superficial repentance and sustains denunciations centered on Ephraim with recurring metaphors (oven, half‑baked cake, treacherous bow, vine). Start (6:4): rhetorical rejection. End (10:15): final cut‑off of the king. Glue: repeated rhetorical questions and futility similes.",
+      "reference": "6:4 - 10:15",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Fickle Love and Catalog of Sins",
+          "reference": "6:4-7:2",
+          "why_start_end_and_devices": "Complaint over fleeting love (‘morning cloud’) and catalog of crimes; ends as all evil is exposed before God. Devices: simile, anaphora."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Oven of Heat: Corrupt King and Leaders",
+          "reference": "7:3-7:7",
+          "why_start_end_and_devices": "Sustained oven metaphor for conspiratorial heat around the king; concludes with fallen kings and no cry to Yahweh. Devices: extended metaphor."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Ephraim is a Half-Baked Cake",
+          "reference": "7:8-7:16",
+          "why_start_end_and_devices": "Unmixed/half‑baked cake and treacherous bow imagery frame futility and unreliable leadership; ends with threat of return to Egypt/Assyria. Devices: simile, ironic reversal."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Sowing and Reaping of the Wind",
+          "reference": "8:1-8:7",
+          "why_start_end_and_devices": "Trumpet alarm opens; cause‑effect metaphor clinched in ‘sow the wind, reap the whirlwind.’ Devices: onomatopoeic call, agricultural proverb."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Israel is Swallowed Up",
+          "reference": "8:8-8:14",
+          "why_start_end_and_devices": "National fate fixed (‘swallowed up’); finalizes with fire on cities. Devices: wild donkey simile; altar‑multiplication irony."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Joy Will Cease: The Festival of Famine",
+          "reference": "9:1-9:9",
+          "why_start_end_and_devices": "Ban on celebration; exile/famine decreed; prophet mocked as madman; closes with remembered iniquity. Devices: anti‑festival reversal, irony."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Abandoned Vine: God's Former Delight",
+          "reference": "9:10-9:17",
+          "why_start_end_and_devices": "From grapes found to Baal‑peor apostasy; ends with curse on womb and wandering among nations. Devices: vine/grape metaphor, historical allusion."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Vine and the Vain Altars",
+          "reference": "10:1-10:8",
+          "why_start_end_and_devices": "Empty vine versus proliferating altars; concludes with cry for mountains to cover. Devices: ironic contrast, cultic demolition."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Harvest of Wickedness",
+          "reference": "10:9-10:15",
+          "why_start_end_and_devices": "From Gibeah’s sin to royal destruction; sows/harvests metaphors seal the verdict. Devices: agricultural proverb, historical recall."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Stubborn Son and the Tender Father",
+      "why_start_end_and_literary_glue": "Chs. 11–12 shift to parental metaphor: God’s tender care versus Israel’s betrayal, climaxing in divine compassion (11:8–11) and a historical indictment via Jacob. Start (11:1): ‘Out of Egypt I called my son.’ End (12:14): repayment for scorn. Glue: ‘love’ and ‘Ephraim’ repetition; internal divine dilemma.",
+      "reference": "11:1 - 12:14",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Struggle Between Love and Wrath",
+          "reference": "11:1-11:7",
+          "why_start_end_and_devices": "Tender historical memory turns to judgment as backsliding binds them; closes with sword threat. Devices: parental hyperbole, contrast."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "God's Compassion Overrules Judgment",
+          "reference": "11:8-11:11",
+          "why_start_end_and_devices": "Rhetorical lament (‘How can I give you up?’) flips judgment into promised return; ends with settlement at home. Devices: antithetical contrast, theological axiom ‘I am God, not man.’"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Ephraim's Lies and Jacob's Example",
+          "reference": "11:12-12:6",
+          "why_start_end_and_devices": "Charge of deceit transitions to Jacob’s wrestling as exemplar; ends with exhortation to return and hold fast to love/justice. Devices: juxtaposition, proverbial exhortation."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Merchant Israel and the Prophet's Dignity",
+          "reference": "12:7-12:14",
+          "why_start_end_and_devices": "Deceitful merchant indicts economic/moral fraud; concludes with Exodus/prohetic reminders and repayment for scorn. Devices: economic metaphor, historical allusion."
+        }
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "The Final Confrontation and the Call to Return",
+      "why_start_end_and_literary_glue": "Chs. 13–14 resolve the book’s tension: final judgment oracles (13) answered by a call to return and an oracle of restoration capped with a wisdom epilogue (14:9). Start (13:1): former glory vs present downfall. End (14:9): wisdom conclusion. Glue: judgment‑repentance‑restoration arc; devouring‑beast vs flourishing‑tree imagery.",
+      "reference": "13:1 - 14:9",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Judgment: From Exaltation to Devouring Beast",
+          "reference": "13:1-13:8",
+          "why_start_end_and_devices": "From exaltation to guilt to death; closes as God becomes predatory judge. Devices: smoke brevity simile; bear/lion metaphors."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The King's Folly and Death's Power",
+          "reference": "13:9-13:16",
+          "why_start_end_and_devices": "Rhetorical ruin and mockery of kingship reach full Samaria judgment; ends with total devastation. Devices: personified Death/Sheol dialogue."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Prophet's Call to Repentance",
+          "reference": "14:1-14:3",
+          "why_start_end_and_devices": "Clear summons to return with prescribed prayer rejecting Assyria, horses, and idols; completes liturgical instruction. Devices: anaphora, penitential formula."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Oracle of Restoration and Wisdom Conclusion",
+          "reference": "14:4-14:9",
+          "why_start_end_and_devices": "Divine promise to heal and love freely; closes with wisdom epilogue. Devices: agricultural similes (lily, olive, Lebanon), didactic epilog."
+        }
+      ]
+    }
+  ]
+}
+

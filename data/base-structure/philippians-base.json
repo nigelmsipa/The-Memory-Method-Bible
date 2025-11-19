@@ -1,0 +1,55 @@
+{
+  "book_name": "Philippians",
+  "hebrew_name": "Πρὸς Φιλιππησίους (Pros Philippēsius)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "Philippians is a personal, joy‑suffused letter whose leitmotif of joy/rejoicing forms an inclusio across the whole (1:18, 26; 2:17–18; 3:1; 4:1, 4, 10). The Christ‑Hymn (2:5–11) is the theological/ethical hinge: Paul’s circumstances → exhortation (1:12–2:4), grounded in Christ’s example (2:5–11), then applied (2:12–30), followed by polemical warning and pursuit of Christ (ch. 3), and practical instruction/thanks (ch. 4). A sharp rhetorical turn at 3:2 re‑engages urgency. Glue: partnership (koinōnia), unity/humility, and imitation.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Foundation of Joy: Salutation and the Example of Suffering",
+      "why_start_end_and_literary_glue": "Start (1:1) epistolary salutation; end (2:4) completes the unity/humility exhortation before shifting to the Christ‑Hymn (2:5). Glue: koinōnia in the gospel, joy language, and the parallel of Paul’s chains with the Philippians’ call to stand and suffer (1:27–30).",
+      "reference": "1:1 - 2:4",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Salutation, Thanksgiving, and Prayer", "reference": "1:1-1:11", "why_start_end_and_devices": "Formal proem concludes with ‘to the glory and praise of God’. Devices: inclusio on ‘day of Christ’, joy/affection vocabulary, petition for abounding love and discernment."},
+        {"scene_number": 2, "scene_name": "Imprisonment Advances the Gospel", "reference": "1:12-1:18", "why_start_end_and_devices": "‘I want you to know…’ reports gospel progress; ends ‘in this I rejoice…’. Devices: irony (chains→advance), contrast of motives, joy refrain."},
+        {"scene_number": 3, "scene_name": "To Live is Christ, To Die is Gain", "reference": "1:19-1:26", "why_start_end_and_devices": "From present aid to personal future; concludes with resolve to remain for their progress and joy. Devices: paradox dilemma, hope of vindication, prosopopoeia."},
+        {"scene_number": 4, "scene_name": "Live Worthy: Unity and Humility", "reference": "1:27-2:4", "why_start_end_and_devices": "‘Only let your manner of life…’ through ‘look to others’ interests’; completes the initial paraenesis. Devices: stand/strive/suffer triad, humility antitheses, unity focus."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "Christ’s Humiliation and Ministers Who Embody It",
+      "why_start_end_and_literary_glue": "Start (2:5) introduces the paradigm: ‘Have this mind… in Christ Jesus’; end (3:1) ‘Finally… rejoice’ closes the humility/examples unit before the abrupt polemic in 3:2. Glue: kenosis→exaltation pattern echoed in Paul, Timothy, Epaphroditus; shared service/leitourgia.",
+      "reference": "2:5 - 3:1",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "The Christ‑Hymn: Humiliation and Exaltation", "reference": "2:5-2:11", "why_start_end_and_devices": "Ethical hinge to cosmic confession ‘Jesus Christ is Lord’. Devices: hymn/chiasm, kenosis vs grasping, obedience→exaltation arc."},
+        {"scene_number": 2, "scene_name": "Work Out Salvation; Shine as Lights", "reference": "2:12-2:18", "why_start_end_and_devices": "Therefore‑application; ends with shared rejoicing. Devices: imperative/motivation pair (2:12–13), light‑in‑world metaphor, blameless children address."},
+        {"scene_number": 3, "scene_name": "Timothy and Epaphroditus as Examples", "reference": "2:19-2:30", "why_start_end_and_devices": "Travel/commendation cluster; Epaphroditus nearly dies in service. Devices: comparison (Timothy’s like‑souled care), hyperbole of risk, leitourgia language."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Pursuit of Christ and Heavenly Citizenship",
+      "why_start_end_and_literary_glue": "Start (3:2) abrupt polemic ‘look out for the dogs’; end (4:1) stand‑firm inclusio concluding the pursuit/citizenship argument. Glue: loss/gain accounting, righteousness by faith vs flesh, imitation vs enemies of the cross, earthly vs heavenly focus.",
+      "reference": "3:2 - 4:1",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Beware the Dogs; Paul’s Credentials", "reference": "3:2-3:6", "why_start_end_and_devices": "Triple warning; true circumcision; Paul’s blameless credentials. Devices: invective, identity contrast, autobiographical list."},
+        {"scene_number": 2, "scene_name": "All Loss to Gain Christ", "reference": "3:7-3:11", "why_start_end_and_devices": "Accounting metaphor shifts gain→loss for Christ; goal of resurrection. Devices: parallel aims (gain, be found, know), righteousness by faith."},
+        {"scene_number": 3, "scene_name": "Pressing Toward the Goal", "reference": "3:12-3:16", "why_start_end_and_devices": "Not yet attained; press on; let the mature think this way. Devices: athletic pursuit imagery, mindset exhortation."},
+        {"scene_number": 4, "scene_name": "Imitate; Our Citizenship is in Heaven", "reference": "3:17-4:1", "why_start_end_and_devices": "Imitate us vs enemies of the cross; await Savior who transforms us; ‘stand firm thus’. Devices: contrast destiny, politeuma motif, affectionate inclusio."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Specific Exhortations, Gratitude, and Benediction",
+      "why_start_end_and_literary_glue": "Start (4:2) direct appeals to individuals mark the concluding practical unit; end (4:23) benediction closes the epistle. Glue: peace of God/ God of peace inclusio (4:7, 9), contentment and partnership language, rejoice refrain.",
+      "reference": "4:2 - 4:23",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Appeals and the Peace of God", "reference": "4:2-4:9", "why_start_end_and_devices": "Entreaties to agree; rejoice always; think/practice virtues; ‘God of peace will be with you’. Devices: repetition, virtue catalog, peace inclusio."},
+        {"scene_number": 2, "scene_name": "Thanks and Contentment in Christ", "reference": "4:10-4:20", "why_start_end_and_devices": "Gift gratitude with contentment digression; doxology close. Devices: sufficiency theme (‘I can do all things…’), giving/receiving partnership, praise seal."},
+        {"scene_number": 3, "scene_name": "Final Greetings and Grace", "reference": "4:21-4:23", "why_start_end_and_devices": "Greet every saint; those of Caesar’s household; grace benediction. Devices: epistolary closure, encouraging narrative note."}
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "book_name": "Philemon",
+  "hebrew_name": "Πρὸς Φιλήμονα (Pros Philēmona)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "Philemon is a single, tightly argued supplicatory epistle in classical Greco‑Roman form: Salutation (1–3), Thanksgiving/Prayer (4–7), Body of appeal (8–21), and Closing (22–25). Paul persuades by laying relational groundwork, appealing ‘for love’s sake’ rather than commanding, offering personal guarantee for Onesimus’s debt, and ending with confident assurance. Literary glue includes paronomasia on ‘Onesimus’ (useful) and an inclusio built on koinōnia/partner language (vv. 6, 17), with repeated love/joy terms framing the request.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "Paul’s Masterful Appeal for Onesimus’s Reconciliation",
+      "why_start_end_and_literary_glue": "Start (1:1) prescript salutation marks the letter’s beginning; end (1:25) benediction formula closes the epistle. Glue: koinōnia/partner inclusio (vv. 6, 17), love/joy vocabulary, and paronomasia on Onesimus (‘useless/now useful’) that centers the appeal.",
+      "reference": "1:1 - 1:25",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Salutation and The Foundation of Shared Faith", "reference": "1:1-1:7", "why_start_end_and_devices": "Address to Philemon, Apphia, Archippus, church; thanksgiving for Philemon’s love/faith; ends with ‘hearts refreshed’—the relational base for the appeal. Devices: epistolary greeting, eulogy/thanksgiving, pathos via shared faith."},
+        {"scene_number": 2, "scene_name": "Appeal Framed as Love, Not Authority", "reference": "1:8-1:14", "why_start_end_and_devices": "Though able to command, Paul appeals for love’s sake; introduces Onesimus and returns him so Philemon’s goodness be voluntary. Devices: ethos→pathos pivot, paronomasia on ‘useful’, voluntariness motif."},
+        {"scene_number": 3, "scene_name": "Brotherhood as the Basis and Paul’s Guarantee", "reference": "1:15-1:20", "why_start_end_and_devices": "Providential reframing: more than a slave—a beloved brother; receive him as Paul; charge any debt to Paul; ‘refresh my heart’. Devices: providence argument, koinōnia reciprocity, legal promissory note, heart‑refresh inclusio."},
+        {"scene_number": 4, "scene_name": "Confidence, Lodging Hint, and Final Greetings", "reference": "1:21-1:25", "why_start_end_and_devices": "Confidence Philemon will do even more; request lodging; greetings and grace. Devices: confident assurance, implied compliance pressure, epistolary farewell."}
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,65 @@
+{
+  "book_name": "Galatians",
+  "hebrew_name": "אֶל־גְּלָטִיִּים (El‑Gelatiyim)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "Galatians is a forensic rhetorical defense of Paul’s apostleship and the gospel of justification by faith against Judaizers. Structure: Personal Defense (chs. 1–2) → Theological Proof (chs. 3–4) → Practical Exhortation (chs. 5–6). Literary glue: Law vs Promise, Flesh vs Spirit, Abraham motif, and the striking omission of a thanksgiving (1:6) signaling urgency. Devices include sustained allegory (4:21–31), rapid rhetorical questions (3:1–5), and analogies (will/covenant 3:15; guardian/son 4:1–7).",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "Paul’s Apostolic Defense and Confrontation",
+      "why_start_end_and_literary_glue": "Start (1:1) emphatic apostolic claim ‘not from men…’ sets authority theme; end (2:21) climactic summary that law‑righteousness nullifies grace, closing the personal/apologetic narrative. Glue: ‘man/men’ vs divine revelation, apostle/commission language, temporal markers (‘then’).",
+      "reference": "1:1 - 2:21",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Emphatic Greeting and Astonished Rebuke", "reference": "1:1-1:10", "why_start_end_and_devices": "Atypical salutation flows straight to ‘I am astonished’; double anathema seals rebuke; v.10 pivots to motive. Devices: curse repetition, rhetorical question."},
+        {"scene_number": 2, "scene_name": "Divine Origin of the Gospel", "reference": "1:11-1:17", "why_start_end_and_devices": "‘I would have you know…’ introduces defense; ends with non‑consultation and non‑Jerusalem route. Devices: contrast (flesh/blood vs revelation), brisk narrative."},
+        {"scene_number": 3, "scene_name": "Delayed Recognition and Fellowship", "reference": "1:18-2:10", "why_start_end_and_devices": "Three years → fourteen years timeline; Titus case; right hand of fellowship; remember the poor. Devices: chronology markers, dialogue with ‘pillars’."},
+        {"scene_number": 4, "scene_name": "Antioch Confrontation with Cephas", "reference": "2:11-2:16", "why_start_end_and_devices": "Public rebuke over hypocrisy; justification by faith stated. Devices: rhetorical questions, Jew/Gentile contrast, programmatic 2:16."},
+        {"scene_number": 5, "scene_name": "Death to Law, Life in Christ", "reference": "2:17-2:21", "why_start_end_and_devices": "‘Crucified with Christ’; living by faith; grace not nullified. Devices: paradox of substitution, climactic maxim."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Theological Proof of Justification by Faith",
+      "why_start_end_and_literary_glue": "Start (3:1) vocative invective turns to Scripture‑anchored proof; end (4:31) resolves the allegory: children of the free. Glue: Spirit vs flesh, Abraham motif, promise vs law vocabulary recurring across proofs and analogies.",
+      "reference": "3:1 - 4:31",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Spirit Received by Faith, Not Law", "reference": "3:1-3:5", "why_start_end_and_devices": "‘O foolish Galatians’ and rapid questions conclude with God supplying Spirit by faith. Devices: interrogative barrage, experiential proof."},
+        {"scene_number": 2, "scene_name": "Abraham as the Model", "reference": "3:6-3:9", "why_start_end_and_devices": "‘Just as’ introduces Gen 15:6; blessing extends to those of faith. Devices: proof by Scripture, inclusio of blessing."},
+        {"scene_number": 3, "scene_name": "Curse of Law and Christ’s Redemption", "reference": "3:10-3:14", "why_start_end_and_devices": "OT citations frame curse→redemption; blessing to Gentiles. Devices: antithesis, substitution (‘became a curse’)."},
+        {"scene_number": 4, "scene_name": "Promise Prior to Law", "reference": "3:15-3:18", "why_start_end_and_devices": "Human covenant analogy; inheritance by promise; ‘seed’ singular to Christ. Devices: legal analogy, lexical focus."},
+        {"scene_number": 5, "scene_name": "Why Then the Law?", "reference": "3:19-3:22", "why_start_end_and_devices": "Temporary, mediated law; Scripture imprisoned all for the promise by faith. Devices: rhetorical question, imprisonment metaphor."},
+        {"scene_number": 6, "scene_name": "Guardian to Christ; Heirs by Faith", "reference": "3:23-3:29", "why_start_end_and_devices": "Before faith… paidagogos; baptismal union; one in Christ; heirs. Devices: guardian analogy, triadic equality, heir conclusion."},
+        {"scene_number": 7, "scene_name": "Sonship and Adoption in Fullness", "reference": "4:1-4:7", "why_start_end_and_devices": "Heir under guardians→redemption→adoption; ‘Abba’ cry. Devices: heir analogy, Spirit of Son, status summary."},
+        {"scene_number": 8, "scene_name": "Regression to Slavery", "reference": "4:8-4:11", "why_start_end_and_devices": "Former ignorance→observance of elements; Paul fears labor in vain. Devices: pathos appeal, elemental spirits critique."},
+        {"scene_number": 9, "scene_name": "Personal Plea and Past Affection", "reference": "4:12-4:20", "why_start_end_and_devices": "Become as I am; you received me; labor in birth again. Devices: autobiographical appeal, maternal metaphor, perplexity close."},
+        {"scene_number": 10, "scene_name": "Allegory of Hagar and Sarah", "reference": "4:21-4:31", "why_start_end_and_devices": "‘Do you not listen to the law?’; slave/free, below/above Jerusalem; Isa 54:1; children of the free. Devices: extended allegory, contrast pairs, scriptural citation."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Freedom and Ethical Life in the Spirit",
+      "why_start_end_and_literary_glue": "Start (5:1) climactic imperative to stand firm pivots from doctrine to duty; end (6:10) universal good‑doing seals the paraenesis before the autograph close. Glue: flesh vs Spirit antithesis, love fulfilling law, sowing/reaping motivation.",
+      "reference": "5:1 - 6:10",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Stand Firm in Freedom", "reference": "5:1-5:6", "why_start_end_and_devices": "Do not submit to yoke; circumcision nullifies Christ; faith working through love. Devices: antithesis, conditional warnings, climactic maxim."},
+        {"scene_number": 2, "scene_name": "Agitators and Leaven", "reference": "5:7-5:12", "why_start_end_and_devices": "Running metaphor; little leaven; severe wish against troublers. Devices: athletic imagery, proverb, polemical hyperbole."},
+        {"scene_number": 3, "scene_name": "Freedom for Loving Service", "reference": "5:13-5:15", "why_start_end_and_devices": "Through love serve one another; law fulfilled in neighbor love; beware mutual destruction. Devices: love maxim, antithetical warning."},
+        {"scene_number": 4, "scene_name": "Walk by the Spirit", "reference": "5:16-5:18", "why_start_end_and_devices": "Imperative principle; Spirit vs flesh conflict; not under law. Devices: condensed antithesis, jurisdiction move."},
+        {"scene_number": 5, "scene_name": "Works of the Flesh", "reference": "5:19-5:21", "why_start_end_and_devices": "Catalog of vices ends with inheritance warning. Devices: vice list, legal exclusion formula."},
+        {"scene_number": 6, "scene_name": "Fruit of the Spirit", "reference": "5:22-5:26", "why_start_end_and_devices": "Singular fruit with nine traits; keep in step; avoid conceit/provocation/envy. Devices: virtue list, social application close."},
+        {"scene_number": 7, "scene_name": "Restore the Fallen; Bear Burdens", "reference": "6:1-6:5", "why_start_end_and_devices": "Gentle restoration; bear one another’s burdens yet each bears his load. Devices: paradox of burden/load, self‑testing admonition."},
+        {"scene_number": 8, "scene_name": "Sowing, Reaping, and Doing Good", "reference": "6:6-6:10", "why_start_end_and_devices": "Share with teachers; reap what you sow; do good to all, especially the household of faith. Devices: agricultural metaphor, perseverance encouragement."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Final Signature and Exhortation",
+      "why_start_end_and_literary_glue": "Start (6:11) autograph marker introduces the closing; end (6:18) benediction concludes the letter. Glue: cross vs flesh boasting, new creation as true mark, and Paul’s stigmata as authority seal.",
+      "reference": "6:11 - 6:18",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Boast of the Cross and Benediction", "reference": "6:11-6:18", "why_start_end_and_devices": "Large‑letters autograph; cross‑boast over circumcision; new creation rule; grace benediction. Devices: contrast summary, personal marks (stigmata), epistolary close."}
+      ]
+    }
+  ]
+}
+

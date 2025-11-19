@@ -1,0 +1,221 @@
+{
+  "book_name": "Zechariah",
+  "hebrew_name": "זְכַרְיָה (Zekharyah)",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Zechariah divides into two distinct halves. Chapters 1–8 are dated encouragement oracles centered on a cycle of eight night visions (chs. 1–6), capped by a crowning sign‑act and followed by prose oracles on fasting and future blessing (chs. 7–8). Chapters 9–14 shift to undated, apocalyptic 'burdens' (maśśāʾ) marked by oracle formulas (9:1; 12:1), focusing on judgment/salvation, the humble king, shepherd imagery, repentance/cleansing, and the climactic Day of Yahweh. Literary glue: dating formulas, the interpreting angel motif, repeated 'Thus says Yahweh of hosts,' and the burden/oracle markers framing the second half.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Eight Night Visions and the Temple's Hope",
+      "why_start_end_and_literary_glue": "A dated sequence beginning with introductory repentance (1:1–6) and night visions (from 1:7) through the crowning sign‑act (6:9–15). Start (1:1): first date/oracle establishes context. End (6:15): conditional promise that the temple will be built by those from afar—vision cycle resolved. Glue: 'I lifted up my eyes and saw' vision markers, the interpreting angel refrain, restoration/cleansing themes.",
+      "reference": "1:1 - 6:15",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Introductory Call to Repentance",
+          "reference": "1:1-1:6",
+          "why_start_end_and_devices": "Dated oracle recalls fathers’ disobedience and justice fulfilled; closes with acknowledgment that Yahweh’s words overtook them. Devices: exhortation, retrospective validation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Vision of the Horsemen",
+          "reference": "1:7-1:17",
+          "why_start_end_and_devices": "Second date; patrol report of earth at rest; divine zeal for Zion and promise of comfort. Devices: dialogue with interpreting angel and Angel of Yahweh; compassion motif."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Vision of the Four Horns and Four Smiths",
+          "reference": "1:18-1:21",
+          "why_start_end_and_devices": "Horns that scattered Judah; smiths sent to terrify and cast them down. Devices: symbolic agents, terse Q&A interpretation."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Vision of the Measuring Line",
+          "reference": "2:1-2:13",
+          "why_start_end_and_devices": "Man with measuring line; Jerusalem without walls with Yahweh as fiery wall; call to flee Babylon; ends with 'Be silent, all flesh.' Devices: measurement/ownership, glory‑presence, prophetic summons."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Vision of Joshua the High Priest",
+          "reference": "3:1-3:10",
+          "why_start_end_and_devices": "Courtroom cleansing of Joshua; filthy garments replaced; Branch introduced; ends with peace under vine/fig tree. Devices: legal drama, reversal/cleansing, priestly vindication."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Vision of the Lampstand and Two Olive Trees",
+          "reference": "4:1-4:14",
+          "why_start_end_and_devices": "Angel awakens prophet; golden lampstand fed by two olives; 'Not by might... but by my Spirit'; Zerubbabel assured completion. Devices: symbol interpretation, programmatic oracle, two anointed ones."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Vision of the Flying Scroll",
+          "reference": "5:1-5:4",
+          "why_start_end_and_devices": "Cursing scroll flies over land to consume houses of thieves and perjurers. Devices: written curse as active agent; covenant sanctions."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Vision of the Woman in the Basket (Ephah)",
+          "reference": "5:5-5:11",
+          "why_start_end_and_devices": "Wickedness personified confined in ephah and borne to Shinar; removal of impurity. Devices: personification, exile/purification motif."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Vision of the Four Chariots",
+          "reference": "6:1-6:8",
+          "why_start_end_and_devices": "Four chariots/spirits go out; north country pacified. Devices: parallel to opening patrol, universal reach of Yahweh’s agency."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Crowning Joshua and Branch Prophecy",
+          "reference": "6:9-6:15",
+          "why_start_end_and_devices": "Word commands symbolic crowning of Joshua; Branch will build the temple; those far off will build if obedient. Devices: sign‑act, messianic Branch, conditional promise."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Question of Fasting and the Future of Zion",
+      "why_start_end_and_literary_glue": "A dated prose unit responding to fasting inquiry: indicts past self‑serving ritual (7) and promises restoration/ethics and feast‑reversal (8). Start (7:1): fourth‑year date. End (8:23): nations grasp a Jew’s robe—God is with you. Glue: inclusio around fasting (7:3; 8:18–19) and repeated 'Thus says Yahweh of hosts.'",
+      "reference": "7:1 - 8:23",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Inquiry on Fasting and Past Obedience",
+          "reference": "7:1-7:7",
+          "why_start_end_and_devices": "Date and question posed; Yahweh asks whether past fasting was for Him and recalls neglect of former prophets. Devices: rhetorical questions, historical allusion."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Consequence of Disobedience",
+          "reference": "7:8-7:14",
+          "why_start_end_and_devices": "Call to justice/mercy refused; hearts like diamond; result is scattering among nations. Devices: cause‑effect oracle, hardening imagery."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Lord Returns to Zion",
+          "reference": "8:1-8:8",
+          "why_start_end_and_devices": "'Thus says Yahweh of hosts' multiplied; jealousy for Zion; old and young in streets; covenant formula restored. Devices: oath formulas, peace tableau."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Rebuilding and Prosperity",
+          "reference": "8:9-8:13",
+          "why_start_end_and_devices": "'Let your hands be strong'; reversal from no wage/peace to fruitful vine/peaceful conditions. Devices: contrastive parallelism, builder exhortation."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Ethical Mandates for the Restored Community",
+          "reference": "8:14-8:17",
+          "why_start_end_and_devices": "From purposed disaster to purposed good; speak truth, judge peace; Yahweh hates falsehood. Devices: purpose chiasm, concise ethics."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Fasts Become Feasts",
+          "reference": "8:18-8:23",
+          "why_start_end_and_devices": "Fasts of months become joyful feasts; nations seek Yahweh in Jerusalem; ten men grasp a Jew’s robe. Devices: reversal motif, synecdoche for universal pilgrimage."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The First Burden: Judgment, the Lowly King, and the Worthless Shepherd",
+      "why_start_end_and_literary_glue": "Undated apocalyptic burden beginning at 9:1; moves from neighbor judgments to humble king (9:9–10), covenant‑victory and restoration, then allegory of shepherd and broken staffs. Start (9:1): burden formula. End (11:17): woe on the worthless shepherd—unit closure. Glue: shepherd/covenant motifs and swift progression from hope to rejection.",
+      "reference": "9:1 - 11:17",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Judgment on the Neighboring Nations",
+          "reference": "9:1-9:8",
+          "why_start_end_and_devices": "Geographic sweep (Damascus→Philistia); Yahweh encamps to guard His house. Devices: personification, city list oracle, protection assurance."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Humble King of Peace",
+          "reference": "9:9-9:10",
+          "why_start_end_and_devices": "'Rejoice greatly' summons; king on a donkey; ends with worldwide peace and dominion. Devices: contrastive royal imagery, messianic proclamation."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Restoration and Victory over Greece",
+          "reference": "9:11-9:17",
+          "why_start_end_and_devices": "Blood of covenant frees prisoners; divine warrior imagery; closes with abundance and beauty. Devices: covenant language, martial theophany, praise."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Call for Rain and Divine Leadership",
+          "reference": "10:1-10:5",
+          "why_start_end_and_devices": "Ask Yahweh for rain; reject diviners; cornerstone/tent‑peg/battle‑bow metaphors for leadership. Devices: polemic against false counsel, leadership metaphors."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Gathering the Scattered and Restoring Israel",
+          "reference": "10:6-10:12",
+          "why_start_end_and_devices": "Strengthen Judah/save Joseph; whistle for them; return from Egypt/Assyria; walk in His name. Devices: regathering motif, repetition, covenant walk."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Prophecy of Lebanon and Bashan",
+          "reference": "11:1-11:3",
+          "why_start_end_and_devices": "'Open your doors, O Lebanon' lament; cedars devoured; shepherds wail. Devices: personification, hyperbole, transitional lament."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Allegory of the Worthless Shepherd",
+          "reference": "11:4-11:17",
+          "why_start_end_and_devices": "Prophet becomes shepherd; two staffs (Grace/Union) broken; 30 pieces of silver thrown; woe on worthless shepherd. Devices: extended sign‑act, ironic valuation, curse oracle."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Second Burden: Mourning, Cleansing, and Final Battle",
+      "why_start_end_and_literary_glue": "Second burden (12:1) weaves mourning for the pierced one, cleansing, end of idols/false prophets, striking/refining of shepherded remnant, and the climactic Day of Yahweh with universal holiness. Start (12:1): burden formula. End (14:21): no Canaanite/trader in Yahweh’s house—absolute holiness. Glue: repeated 'on that day' stitching the apocalyptic tapestry.",
+      "reference": "12:1 - 14:21",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Jerusalem: Cup of Trembling and Immovable Rock",
+          "reference": "12:1-12:9",
+          "why_start_end_and_devices": "Jerusalem burdens nations; Yahweh strengthens and seeks to destroy attackers. Devices: warfare metaphors, escalating defense promises."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Mourning for the Pierced One and Cleansing",
+          "reference": "12:10-13:1",
+          "why_start_end_and_devices": "Spirit poured out; they look on the pierced; deep lament; fountain opened for sin and impurity. Devices: lament genre, repentance‑to‑cleansing arc."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "End of Idolatry and False Prophets",
+          "reference": "13:2-13:6",
+          "why_start_end_and_devices": "Names of idols cut off; prophets ashamed/deny prophetic identity; wounds explained away. Devices: purification oracle, shame/denial motif."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Striking the Shepherd and Refining the Remnant",
+          "reference": "13:7-13:9",
+          "why_start_end_and_devices": "'Awake, O sword' against my shepherd; two‑thirds cut; one‑third refined; covenant exchange restored. Devices: shepherd/flock metaphor, refining imagery."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Day of the LORD: Theophany and Split Mountain",
+          "reference": "14:1-14:7",
+          "why_start_end_and_devices": "Final apocalyptic event; Yahweh stands on Mount of Olives; unique day ends with light. Devices: theophany narrative, cosmic upheaval."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Living Waters and Theocracy",
+          "reference": "14:8-14:15",
+          "why_start_end_and_devices": "Waters flow from Jerusalem; Yahweh king over all; plague on enemy armies. Devices: water symbolism, kingship proclamation, plague imagery."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Nations Worship and Universal Holiness",
+          "reference": "14:16-14:21",
+          "why_start_end_and_devices": "Survivors keep Feast of Booths; bells and pots 'Holy to Yahweh'; no Canaanite in Yahweh’s house. Devices: cultic imagery, holiness inclusio, universal worship."
+        }
+      ]
+    }
+  ]
+}
+

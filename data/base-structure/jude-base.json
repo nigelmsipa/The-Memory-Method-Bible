@@ -1,0 +1,24 @@
+{
+  "book_name": "Jude",
+  "hebrew_name": "Ἰούδας (Ioudas)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "Jude is a tightly constructed, single‑chapter polemical letter in classic Hellenistic form (salutation 1–2; body 3–23; doxology 24–25). Structural cohesion comes from pervasive triplets (hendiatris), aggressive historical typology (Israel/angels/Sodom; Cain/Balaam/Korah), and an inclusio of ‘kept’/‘keeping’ (1, 21, 24). The narrative arc moves from intended topic → urgent call to contend (3–4) → proof of certain judgment for intruders (5–16) → final exhortations to the faithful (17–23), concluding with a preservation‑focused doxology.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Call to Contend and the Doom of the Godless",
+      "why_start_end_and_literary_glue": "Start (1:1) epistolary opening marks the beginning; end (1:25) doxology completes the letter. Glue: recurring triplets, historical typology proving judgment, and ‘kept/keep’ inclusio framing the call to contend and God’s preserving power.",
+      "reference": "1:1 - 1:25",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Salutation and Stated Purpose", "reference": "1:1-1:4", "why_start_end_and_devices": "Opening greeting to the kept/called; sudden shift to necessity—contend for the faith; certain ungodly intruders identified. Devices: vocative blessing, thesis/purpose turn, problem‑solution setup."},
+        {"scene_number": 2, "scene_name": "Three Historical Warnings of Judgment", "reference": "1:5-1:7", "why_start_end_and_devices": "Remind: Israel, angels, Sodom—triad of precedents. Devices: typology, hendiatris, ‘likewise’ linkage to present case."},
+        {"scene_number": 3, "scene_name": "False Teachers and Michael’s Example", "reference": "1:8-1:10", "why_start_end_and_devices": "‘In like manner’ these defile/reject/blaspheme; Michael’s restrained dispute vs their ignorant reviling. Devices: crime triplet, contrast with angelic restraint, summary condemnation."},
+        {"scene_number": 4, "scene_name": "Threefold Woe and Prophetic Analogies", "reference": "1:11-1:13", "why_start_end_and_devices": "Woe! They walked in Cain’s way, rushed to Balaam’s error, perished in Korah’s rebellion; then negative nature images (clouds/trees/waves/stars). Devices: triple transgressors, vivid similes for barrenness and instability."},
+        {"scene_number": 5, "scene_name": "Enoch’s Prophecy and the Grumblers", "reference": "1:14-1:16", "why_start_end_and_devices": "Enoch prophesied the Lord’s coming to convict all; concludes with a vice catalog: grumblers, faultfinders, boastful flatterers. Devices: prophetic quotation, comprehensive character summary closing the polemic."},
+        {"scene_number": 6, "scene_name": "Apostolic Command: Build Up and Rescue", "reference": "1:17-1:23", "why_start_end_and_devices": "‘But you, beloved…’ remember apostles’ words; triple duties (build/pray/keep) and triple responses (have mercy/save with fear). Devices: hortatory turn, double triplets, pastoral strategy for perseverance and rescue."},
+        {"scene_number": 7, "scene_name": "Concluding Doxology", "reference": "1:24-1:25", "why_start_end_and_devices": "To the One able to keep and present you—glory, majesty, dominion, authority—Amen. Devices: preservation inclusio, doxological ascription quartet, formal epistolary close."}
+      ]
+    }
+  ]
+}
+

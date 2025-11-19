@@ -1,0 +1,129 @@
+{
+  "book_name": "Revelation",
+  "hebrew_name": "Ἀποκάλυψις Ἰησοῦ Χριστοῦ (Apokalypsis Iēsou Christou)",
+  "canonical_grouping": "Apocalyptic/Prophetic/Epistolary",
+  "big_picture_notes": "Revelation blends epistle (1:4), prophecy (1:3; 22:7,10), and apocalypse (1:1). Its macro‑architecture is heptadic: letters to seven churches, then three septets (seals, trumpets, bowls), framed by the epistolary prologue and the new‑creation epilogue. Recapitulation cycles, OT allusions, parataxis, and inclusios/chiasms shape the vision. Titles like ‘Alpha and Omega’ frame the whole (1:8; 22:13). Scene divisions often follow speaker changes, vision formulae (‘I saw…’), or completed symbolic units.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Mandate and the Seven Candlesticks",
+      "why_start_end_and_literary_glue": "Start (1:1) title/prologue; end (3:22) the seventh ‘hear what the Spirit says’ closes the church oracles. Glue: sevenfold pattern (churches/spirits/lampstands), repeated oracle formulas (‘to the angel… write…’, ‘he who has an ear…’), and the commission ‘write what you have seen…’ (1:19).",
+      "reference": "1:1 - 3:22",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Title, Purpose, and Blessing", "reference": "1:1-1:3", "why_start_end_and_devices": "Apocalypse superscription; blessing on reader/hearers. Devices: prologue benediction, prophecy self‑designation."},
+        {"scene_number": 2, "scene_name": "Epistolary Salutation and Divine Authority", "reference": "1:4-1:8", "why_start_end_and_devices": "‘John to the seven churches…’; Alpha/Omega declaration closes. Devices: tricolon of Christ’s titles, doxology, coming‑with‑clouds oracle, inclusio title."},
+        {"scene_number": 3, "scene_name": "John’s Setting and the Son of Man Vision", "reference": "1:9-1:16", "why_start_end_and_devices": "Patmos, in the Spirit; lampstands/Son of Man described. Devices: Danielic imagery, similes (eyes flame, feet bronze), trumpet‑voice."},
+        {"scene_number": 4, "scene_name": "Commission and Interpretation Key", "reference": "1:17-1:20", "why_start_end_and_devices": "‘Do not fear; I am First and Last’; write the seen/now/later; stars/lampstands explained. Devices: theophany speech, interpretive gloss."},
+        {"scene_number": 5, "scene_name": "Oracle to Ephesus — Lost First Love", "reference": "2:1-2:7", "why_start_end_and_devices": "Angel‑address, commend/complaint/call/promise; tree of life. Devices: structured oracle, Eden allusion."},
+        {"scene_number": 6, "scene_name": "Oracle to Smyrna — Crown of Life", "reference": "2:8-2:11", "why_start_end_and_devices": "Poverty yet rich; testing; second death immunity. Devices: irony, synagogue of Satan, victor’s crown."},
+        {"scene_number": 7, "scene_name": "Oracle to Pergamum — Hidden Manna & White Stone", "reference": "2:12-2:17", "why_start_end_and_devices": "Where Satan’s throne; Balaam/Balak; promise of manna/stone. Devices: typology with Numbers, symbolic gifts."},
+        {"scene_number": 8, "scene_name": "Oracle to Thyatira — Jezebel and Iron Rod", "reference": "2:18-2:29", "why_start_end_and_devices": "Tolerance of ‘Jezebel’; judgment; rule with iron rod; morning star. Devices: OT Jezebel echo, Psalm 2 allusion."},
+        {"scene_number": 9, "scene_name": "Oracle to Sardis — Wake Up; White Garments", "reference": "3:1-3:6", "why_start_end_and_devices": "Name of life yet dead; watchfulness; book of life. Devices: thief‑coming simile, vesture imagery."},
+        {"scene_number": 10, "scene_name": "Oracle to Philadelphia — Open Door", "reference": "3:7-3:13", "why_start_end_and_devices": "Key of David; little power yet faithful; pillar in temple; new names. Devices: Isaiah key imagery, New Jerusalem inscription."},
+        {"scene_number": 11, "scene_name": "Oracle to Laodicea — Lukewarm and Supper", "reference": "3:14-3:22", "why_start_end_and_devices": "Rich yet poor/blind; buy refined gold/eye salve; I stand at the door and knock. Devices: irony, intimate meal invitation, throne promise."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Throne Room and the Seven Seals",
+      "why_start_end_and_literary_glue": "Start (4:1) ‘Come up here’ moves to the heavenly vision; end (8:1) silence at seventh seal closes the first septet. Glue: throne‑scene doxologies, the Lamb and the sealed scroll, rhythmic ‘Come!’ of the first four seals, and interlude protection of the saints.",
+      "reference": "4:1 - 8:1",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Throne and Worship of the Creator", "reference": "4:1-4:11", "why_start_end_and_devices": "Open door; four living beings and elders; crowns cast; ‘worthy are you’ hymn. Devices: Ezekiel/Isaiah echoes, liturgical refrain."},
+        {"scene_number": 2, "scene_name": "Sealed Scroll and John’s Weeping", "reference": "5:1-5:4", "why_start_end_and_devices": "No one worthy; John weeps. Devices: narrative tension around sealed book, strong angel proclamation."},
+        {"scene_number": 3, "scene_name": "Lion‑Lamb Revealed; New Song", "reference": "5:5-5:14", "why_start_end_and_devices": "Elder: lion has conquered; seen as slain lamb; cascading doxologies to the Lamb. Devices: Christological irony, three‑tier chorus."},
+        {"scene_number": 4, "scene_name": "First Four Seals — The Horsemen", "reference": "6:1-6:8", "why_start_end_and_devices": "‘Come!’; white/red/black/pale horses; a fourth of earth affected. Devices: color‑symbolism, repetitive summons, parallel judgments."},
+        {"scene_number": 5, "scene_name": "Fifth Seal — Cry of the Martyrs", "reference": "6:9-6:11", "why_start_end_and_devices": "Souls under altar ask ‘how long?’; given white robes, told to rest. Devices: altar imagery, oracle of delay."},
+        {"scene_number": 6, "scene_name": "Sixth Seal — Cosmic Upheaval", "reference": "6:12-6:17", "why_start_end_and_devices": "Quake, darkened sun, blood‑moon, falling stars; ‘who can stand?’ Devices: catastrophe similes, day‑of‑wrath question."},
+        {"scene_number": 7, "scene_name": "Interlude: Sealing the 144,000", "reference": "7:1-7:8", "why_start_end_and_devices": "Winds restrained; servants sealed from tribes; numbered census. Devices: pause motif, twelve‑thousand refrain."},
+        {"scene_number": 8, "scene_name": "Interlude: Great Multitude in White", "reference": "7:9-7:17", "why_start_end_and_devices": "Innume­rable worshipers; elder interprets; shepherding/Lamb wipes tears. Devices: liturgy, interpretive dialogue, Exodus‑tabernacle echo."},
+        {"scene_number": 9, "scene_name": "Seventh Seal — Silence", "reference": "8:1-8:1", "why_start_end_and_devices": "Opened; half‑hour silence in heaven. Devices: dramatic pause, septet closure."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Seven Trumpets and Temple Interludes",
+      "why_start_end_and_literary_glue": "Start (8:2) seven angels with trumpets and incense; end (11:19) seventh trumpet and opened temple/ark. Glue: trumpet sequence with interposed visions (little scroll, two witnesses), and ‘woe’ eagle marking last three trumpets.",
+      "reference": "8:2 - 11:19",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Incense and Trumpet Commission", "reference": "8:2-8:6", "why_start_end_and_devices": "Seven angels receive trumpets; incense with prayers; censer cast to earth. Devices: altar/prayer linkage, thunder/lightning prelude."},
+        {"scene_number": 2, "scene_name": "Trumpets 1–4 — Earth/Sea/Rivers/Heaven", "reference": "8:7-8:12", "why_start_end_and_devices": "Hail‑fire, burning mountain, Wormwood, darkened lights. Devices: Exodus plagues echo, fourfold natural spheres."},
+        {"scene_number": 3, "scene_name": "Eagle’s Three Woes", "reference": "8:13-8:13", "why_start_end_and_devices": "‘Woe, woe, woe’ to earth‑dwellers for remaining blasts. Devices: solitary herald scene, transition marker."},
+        {"scene_number": 4, "scene_name": "Fifth Trumpet — Locust Torment", "reference": "9:1-9:11", "why_start_end_and_devices": "Abyss opened; locusts torment five months; king Abaddon. Devices: abyss imagery, constrained judgment, name wordplay."},
+        {"scene_number": 5, "scene_name": "Sixth Trumpet — Horsemen and No Repentance", "reference": "9:13-9:21", "why_start_end_and_devices": "Four angels released at Euphrates; myriad horsemen; mankind does not repent. Devices: numeric hyperbole, idolatry catalog."},
+        {"scene_number": 6, "scene_name": "Mighty Angel and Little Scroll", "reference": "10:1-10:11", "why_start_end_and_devices": "Colossal angel; seven thunders sealed; scroll sweet/bitter; John to prophesy again. Devices: oath stance, sealed utterance, recommissioning."},
+        {"scene_number": 7, "scene_name": "Measured Temple and Two Witnesses", "reference": "11:1-11:13", "why_start_end_and_devices": "Temple measured; two witnesses prophesy, are slain, raised; quake strikes city. Devices: Zechariah echoes, prophetic pattern death→vindication."},
+        {"scene_number": 8, "scene_name": "Seventh Trumpet — Kingdom Proclaimed", "reference": "11:14-11:19", "why_start_end_and_devices": "‘The kingdom… has become the Lord’s and his Christ’; worship; temple opened and ark seen. Devices: royal proclamation, doxology, covenant‑ark epiphany."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Woman, the Dragon, and the Beasts",
+      "why_start_end_and_literary_glue": "Start (12:1) great sign in heaven; end (14:20) double harvest completes conflict‑cycle contrast with the Lamb’s company and messages. Glue: woman/dragon war, sea/earth beasts (authority/propaganda), then Lamb/144,000 and three‑angel gospel and warnings.",
+      "reference": "12:1 - 14:20",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Woman, Child, and Dragon", "reference": "12:1-12:6", "why_start_end_and_devices": "Pregnant woman; dragon seeks child; child caught up; woman flees. Devices: sign imagery, wilderness motif."},
+        {"scene_number": 2, "scene_name": "War in Heaven; Woe to Earth", "reference": "12:7-12:12", "why_start_end_and_devices": "Michael defeats dragon; accuser cast down; saints conquer by blood/word. Devices: victory hymn, timing (‘short time’)."},
+        {"scene_number": 3, "scene_name": "Dragon Pursues the Woman’s Seed", "reference": "12:13-12:17", "why_start_end_and_devices": "Serpent pursues; earth helps; war on her offspring. Devices: Exodus echo (flood/earth), remnant identification."},
+        {"scene_number": 4, "scene_name": "Beast from the Sea", "reference": "13:1-13:10", "why_start_end_and_devices": "Composite beast empowered; mortal wound healed; worship; saints’ endurance call. Devices: Daniel 7 allusions, captivity/sword saying."},
+        {"scene_number": 5, "scene_name": "Beast from the Earth (False Prophet)", "reference": "13:11-13:18", "why_start_end_and_devices": "Signs deceive; image of the beast; mark and number 666. Devices: counterfeit signs, economic coercion, wisdom riddle."},
+        {"scene_number": 6, "scene_name": "Lamb and 144,000 on Mount Zion", "reference": "14:1-14:5", "why_start_end_and_devices": "New song, spotless company; firstfruits to God and Lamb. Devices: purity motif, name/seal contrast with mark."},
+        {"scene_number": 7, "scene_name": "Three Angels’ Messages", "reference": "14:6-14:13", "why_start_end_and_devices": "Eternal gospel, Babylon fallen, warning against worshiping the beast; blessed the dead in the Lord. Devices: triadic proclamations, endurance/faith of saints."},
+        {"scene_number": 8, "scene_name": "Harvest of Earth — Grain and Grapes", "reference": "14:14-14:20", "why_start_end_and_devices": "Son of Man reaps; angel harvests grapes to winepress. Devices: double harvest imagery, judgment blood‑flow vision."}
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "The Seven Bowls of Wrath",
+      "why_start_end_and_literary_glue": "Start (15:1) sign: seven angels with seven last plagues; end (16:21) seventh bowl ‘It is done’ with quake/hail. Glue: preparatory sanctuary vision (song of Moses/Lamb), then rapid bowls 1–6 and Armageddon, culminating in final bowl.",
+      "reference": "15:1 - 16:21",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Preparation: Song and Sanctuary Opened", "reference": "15:1-15:8", "why_start_end_and_devices": "Victors sing; temple of tent opens; angels receive bowls. Devices: Exodus song reprise, smoke‑filled sanctuary."},
+        {"scene_number": 2, "scene_name": "Bowls 1–6 and Armageddon", "reference": "16:1-16:16", "why_start_end_and_devices": "Sores, sea/blood, rivers blood, sun scorch, darkness, Euphrates dried; spirits gather kings to Armageddon. Devices: plague parallels, parenthetical warning ‘I come like a thief’."},
+        {"scene_number": 3, "scene_name": "Seventh Bowl — ‘It Is Done’", "reference": "16:17-16:21", "why_start_end_and_devices": "Bowl on air; lightning, quake; great hail; Babylon remembered. Devices: theophanic storm, consummation formula, city‑split image."}
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "Babylon the Great Judged and the Wedding Announced",
+      "why_start_end_and_literary_glue": "Start (17:1) angel shows judgment of the great prostitute; end (19:10) hallelujahs and marriage supper; John admonished not to worship angel. Glue: vision + interpretation (17), laments over Babylon (18), and heaven’s rejoicing and bride made ready (19:1–10).",
+      "reference": "17:1 - 19:10",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "The Woman on the Beast", "reference": "17:1-17:6", "why_start_end_and_devices": "Carried to wilderness; woman on scarlet beast; drunk with saints’ blood. Devices: wilderness sign, luxury/abomination contrast."},
+        {"scene_number": 2, "scene_name": "Angel’s Interpretation of Beast and Woman", "reference": "17:7-17:14", "why_start_end_and_devices": "Seven heads/ten horns explained; war on the Lamb, the Lamb conquers. Devices: riddling exegesis, paradox ‘was/is not/is to come’."},
+        {"scene_number": 3, "scene_name": "The Woman’s Doom by the Beast’s Allies", "reference": "17:15-17:18", "why_start_end_and_devices": "Waters = peoples; horns hate the prostitute; God’s purpose fulfilled. Devices: symbol key, sovereignty motif."},
+        {"scene_number": 4, "scene_name": "Babylon Fallen and ‘Come Out’", "reference": "18:1-18:8", "why_start_end_and_devices": "Another angel illumines; fallen is Babylon; call to depart; double repayment. Devices: prophetic oracle style, merchant/city imagery."},
+        {"scene_number": 5, "scene_name": "Laments of Kings, Merchants, Mariners", "reference": "18:9-18:24", "why_start_end_and_devices": "Threefold lament; sudden desolation; found no more. Devices: repetitive ‘in one hour’, trade catalog, millstone simile."},
+        {"scene_number": 6, "scene_name": "Heaven’s Hallelujah and the Bride", "reference": "19:1-19:10", "why_start_end_and_devices": "Great multitude praises; marriage of the Lamb; blessed are invited; ‘worship God’ correction. Devices: liturgical crescendo, beatitude, testimony of Jesus definition."}
+      ]
+    },
+    {
+      "story_letter": "G",
+      "story_title": "Final Victory and the Last Judgment",
+      "why_start_end_and_literary_glue": "Start (19:11) rider on white horse appears; end (20:15) great white throne judgment concludes present order. Glue: defeat of beast/false prophet, binding/release of Satan, and judgment of the dead from the books.",
+      "reference": "19:11 - 20:15",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "The Rider on the White Horse", "reference": "19:11-19:16", "why_start_end_and_devices": "Faithful and True judges/wages war; robe dipped in blood; King of kings. Devices: warfare theophany, name/titles cascade."},
+        {"scene_number": 2, "scene_name": "Beast and False Prophet Defeated", "reference": "19:17-19:21", "why_start_end_and_devices": "Birds’ supper; beast captured; false prophet cast into lake of fire. Devices: banquet reversal (contrast with wedding), swift judgment."},
+        {"scene_number": 3, "scene_name": "The Millennium and First Resurrection", "reference": "20:1-20:6", "why_start_end_and_devices": "Satan bound; saints reign thousand years; blessed holy participants. Devices: chaining motif, reign/rest imagery."},
+        {"scene_number": 4, "scene_name": "Satan’s Final Rebellion and Doom", "reference": "20:7-20:10", "why_start_end_and_devices": "Released deceives nations; fire from heaven; devil cast into lake of fire. Devices: brief recapitulative battle, eternal torment note."},
+        {"scene_number": 5, "scene_name": "Great White Throne Judgment", "reference": "20:11-20:15", "why_start_end_and_devices": "Earth/sky flee; books opened; death and Hades thrown into lake of fire; anyone not in book of life cast in. Devices: courtroom imagery, book‑of‑life antithesis."}
+      ]
+    },
+    {
+      "story_letter": "H",
+      "story_title": "New Creation and Epilogue",
+      "why_start_end_and_literary_glue": "Start (21:1) new heaven and new earth; end (22:21) final grace blessing. Glue: bride‑city vision, throne/river/tree, repeated ‘I am coming soon’, blessings and warnings, and Alpha/Omega inclusio.",
+      "reference": "21:1 - 22:21",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "New Heaven and New Earth; Overcomers’ Promise", "reference": "21:1-21:8", "why_start_end_and_devices": "No sea; God dwells with them; all things new; overcomer vs cowardly. Devices: creation reversal, ‘It is done’ echo, inheritance language."},
+        {"scene_number": 2, "scene_name": "The Bride, the Holy City", "reference": "21:9-21:21", "why_start_end_and_devices": "Carried to a great mountain; city/bride shown; measures, foundations, jewels, gates. Devices: angelic tour, symbolic geometry and gem‑catalog."},
+        {"scene_number": 3, "scene_name": "Glory of God as Its Light", "reference": "21:22-21:27", "why_start_end_and_devices": "No temple; nations walk by its light; nothing unclean enters. Devices: templelessness motif, nations/kingdoms inclusion."},
+        {"scene_number": 4, "scene_name": "River and Tree of Life; Reign Forever", "reference": "22:1-22:5", "why_start_end_and_devices": "River from the throne; tree of life heals nations; they see his face and reign. Devices: Eden restored, beatific vision, servant‑reign."},
+        {"scene_number": 5, "scene_name": "‘I Am Coming Soon’ — Final Exhortations", "reference": "22:6-22:13", "why_start_end_and_devices": "Faithful/true words; keep prophecy; do not seal; coming soon; Alpha and Omega. Devices: angel/Jesus speeches, urgency refrains."},
+        {"scene_number": 6, "scene_name": "Invitation, Warning, and Benediction", "reference": "22:14-22:21", "why_start_end_and_devices": "Blessed who wash robes; Spirit and bride say ‘Come’; warning against adding/removing; grace be with all. Devices: open invitation, canonical warning, epistolary grace close."}
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,55 @@
+{
+  "book_name": "2 Timothy",
+  "hebrew_name": "Πρὸς Τιμόθεον Β’ (Pros Timotheon B’)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "Paul’s final will-and-testament letter blends intimate encouragement with urgent instruction. The structure cycles through perseverance, suffering, and Scripture’s authority, unified by direct vocatives to Timothy and memorable metaphors (soldier, athlete, farmer, vessels) in ch. 2. A core contrast opposes unfaithful teachers (2:17–18; 3:1–9) to faithful models (Paul’s life, 3:10–11; and the sacred writings, 3:15–17). The move from a solemn public charge (4:1–5) to personal postscript (4:9–22) closes with farewell and benediction.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "Paul’s Foundational Encouragement and the Example of Loyalty",
+      "why_start_end_and_literary_glue": "Start (1:1) apostolic salutation opens the epistle; end (1:18) prayer for Onesiphorus completes the loyalty/disloyalty exempla. Glue: ‘guard/keep’ language (1:12, 1:14) and the contrast of unashamed confession vs desertion (1:8, 1:15).",
+      "reference": "1:1 - 1:18",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Salutation and Sincere Remembrance", "reference": "1:1-1:5", "why_start_end_and_devices": "Formal greeting shifts to affectionate memory of Timothy’s sincere faith from Lois and Eunice. Devices: pathos via vocative ‘my child’, familial lineage of faith."},
+        {"scene_number": 2, "scene_name": "Rekindle the Gift; Paul’s Unashamed Defense", "reference": "1:6-1:12", "why_start_end_and_devices": "‘For this reason I remind you…’ fan into flame; spirit of power not fear; Paul’s calling and trust ‘He is able to guard…’. Devices: imperative charge, contrastive parallelism, personal testimony."},
+        {"scene_number": 3, "scene_name": "Pattern of Sound Words; Onesiphorus’ Example", "reference": "1:13-1:18", "why_start_end_and_devices": "‘Hold fast…’ and ‘guard the good deposit’; disloyal Asia vs faithful Onesiphorus; prayer-wish closure. Devices: twin imperatives, juxtaposition, narrative exemplum."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Disciplines of a Faithful Minister",
+      "why_start_end_and_literary_glue": "Start (2:1) new direct address ‘You then, my child…’ launches ministerial conduct; end (2:26) purpose of gentle correction stated. Glue: extended metaphors (soldier/athlete/farmer; vessels), and fidelity to entrusted teaching (entrust, endure, handle rightly).",
+      "reference": "2:1 - 2:26",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Endure, Entrust, Consider the Examples", "reference": "2:1-2:7", "why_start_end_and_devices": "Be strengthened; entrust to faithful men; soldier/athlete/farmer triptych ends with ‘think over what I say’. Devices: militant/domestic metaphors, reflective exhortation."},
+        {"scene_number": 2, "scene_name": "Remember Christ; Paul’s Chains; The Faithful Saying", "reference": "2:8-2:13", "why_start_end_and_devices": "Remember Jesus Christ; Paul bound but the word not; ‘faithful saying’ (if we die/endure… He remains faithful). Devices: historical grounding, hymnic parallelism, assurance."},
+        {"scene_number": 3, "scene_name": "Workman Approved vs. Gangrenous Error", "reference": "2:14-2:19", "why_start_end_and_devices": "Remind them; handle the word rightly; name Hymenaeus/Philetus; firm foundation stands—‘the Lord knows those who are his’. Devices: craftsman metaphor, decay analogy, name-and-shame with assurance seal."},
+        {"scene_number": 4, "scene_name": "Cleansed Vessels and Gentle Correction", "reference": "2:20-2:26", "why_start_end_and_devices": "Great house vessels; flee passions, pursue virtues; Lord’s servant must be kind, able to teach; aim: opponents escape the snare. Devices: vessel metaphor, tone-of-ministry instruction, teleological close."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Prophecy of Peril and the Authority of Scripture",
+      "why_start_end_and_literary_glue": "Start (3:1) prophetic ‘understand this’ opens last-days warning; end (4:8) Paul’s crown hope seals the charge’s authority. Glue: ‘continue/hold fast’ amid peril, imitation of Paul, and Scripture’s sufficiency.",
+      "reference": "3:1 - 4:8",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Last Days: Vices and Exposure of Opponents", "reference": "3:1-3:9", "why_start_end_and_devices": "Times of difficulty; vice catalog; Jannes/Jambres typology; ‘their folly will be plain’. Devices: catalog of vices, typological warning, narrative resolution."},
+        {"scene_number": 2, "scene_name": "Paul’s Example and God-Breathed Scripture", "reference": "3:10-3:17", "why_start_end_and_devices": "‘You, however…’ follow my teaching and persecutions; sacred writings make wise; Scripture God-breathed for equipping. Devices: imitation paradigm, theopneustos claim, sufficiency telos."},
+        {"scene_number": 3, "scene_name": "Solemn Charge to Preach", "reference": "4:1-4:5", "why_start_end_and_devices": "Adjuration before God and Christ’s appearing; preach, reprove, rebuke, exhort; fulfill your ministry. Devices: high-stakes adjuration, imperative chain, climactic commission."},
+        {"scene_number": 4, "scene_name": "Paul’s Testament and Crown", "reference": "4:6-4:8", "why_start_end_and_devices": "Being poured out; fought the good fight, finished the race, kept the faith; crown of righteousness. Devices: death metaphors, triadic life summary, eschatological reward."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Personal Postscript, Farewell, and Benediction",
+      "why_start_end_and_literary_glue": "Start (4:9) urgent personal request changes register; end (4:22) double benediction closes. Glue: named persons/places, trial recollection with doxology, and repeated ‘do your best’ inclusio in the postscript.",
+      "reference": "4:9 - 4:22",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Come Soon and Personnel Report", "reference": "4:9-4:15", "why_start_end_and_devices": "‘Do your best to come soon’; list of deserters and co-workers; warning about Alexander. Devices: companion list, cautionary injunction, practical logistics."},
+        {"scene_number": 2, "scene_name": "Defense, Deliverance, and Doxology", "reference": "4:16-4:18", "why_start_end_and_devices": "At first defense all deserted, but the Lord stood by; delivered from the lion’s mouth; doxology. Devices: contrastive testimony, deliverance motif, doxological seal."},
+        {"scene_number": 3, "scene_name": "Final Greetings and Grace", "reference": "4:19-4:22", "why_start_end_and_devices": "Greet Prisca/Aquila and others; travel notes; ‘The Lord be with your spirit. Grace be with you.’ Devices: epistolary greeting list, double benediction close."}
+      ]
+    }
+  ]
+}
+

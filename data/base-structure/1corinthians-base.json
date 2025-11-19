@@ -1,0 +1,79 @@
+{
+  "book_name": "1 Corinthians",
+  "hebrew_name": "Πρὸς Κορινθίους Α' (Pros Korinthious Alpha)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "1 Corinthians is a rhetorically sophisticated letter addressing reported problems (chs. 1–6) and written questions (chs. 7–16). The second movement is organized by the perì de (‘Now concerning…’) markers (7:1, 7:25, 8:1, 12:1, 16:1). Literary glue includes extended metaphors (agriculture/construction ch. 3; body ch. 12; athlete ch. 9), antithesis (worldly wisdom vs. cross; knowledge vs. love), temple/body motifs (3:16–17; 6:19–20), and the love chapter (13) as a regulating centerpiece for gift praxis. The argument culminates in the doctrine of the resurrection (ch. 15), grounding all ethics in the historical gospel.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "Opening and Response to Reported Divisions",
+      "why_start_end_and_literary_glue": "Start (1:1) formal salutation; end (6:20) closes the reported issues with the body‑as‑temple ethic before the perì de turn at 7:1. Glue: schismata vs. Christ’s unity, wisdom vs. cross, temple/body parallel (3:16–17; 6:19–20).",
+      "reference": "1:1 - 6:20",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Salutation, Thanksgiving, and Grace", "reference": "1:1-1:9", "why_start_end_and_devices": "Epistolary opening and eucharistia conclude; gifts/knowledge preview misuse. Devices: authority assertion, thanksgiving irony."},
+        {"scene_number": 2, "scene_name": "Divisions and Factionalism", "reference": "1:10-1:17", "why_start_end_and_devices": "Appeal for unity, report from Chloe, purpose of Paul’s mission. Devices: rhetorical questions, slogan citation."},
+        {"scene_number": 3, "scene_name": "Paradox of the Cross vs. Wisdom", "reference": "1:18-2:5", "why_start_end_and_devices": "Cross as power/‘folly’; preaching in weakness for faith’s grounding in God. Devices: antithesis, Isa 29:14 citation, exemplum."},
+        {"scene_number": 4, "scene_name": "Spiritual vs. Natural; Infant Status", "reference": "2:6-3:4", "why_start_end_and_devices": "Spirit‑revealed wisdom; natural man cannot receive; infant nourishment. Devices: definitional contrast, milk/solid food metaphor."},
+        {"scene_number": 5, "scene_name": "God’s Field and Building; Temple Warning", "reference": "3:5-3:23", "why_start_end_and_devices": "Ministers as co‑workers; Christ foundation; test by fire; temple judgment. Devices: agriculture/construction master metaphors, inclusio ‘you are Christ’s’."},
+        {"scene_number": 6, "scene_name": "Stewards and Apostolic Suffering", "reference": "4:1-4:13", "why_start_end_and_devices": "Steward criterion: faithfulness; irony of ‘kings’ vs. suffering apostles. Devices: apologia, afflictions list, contrast."},
+        {"scene_number": 7, "scene_name": "Paternal Warning; Incest Judgment", "reference": "4:14-5:5", "why_start_end_and_devices": "Fatherly admonition; severe sentence on immoral man. Devices: ethos appeal, judgment formula (‘deliver to Satan’)."},
+        {"scene_number": 8, "scene_name": "Purge the Leaven; Lawsuits Among Believers", "reference": "5:6-6:8", "why_start_end_and_devices": "Leaven metaphor for communal purity; shame of civil courts. Devices: Passover imagery, internal adjudication ethic."},
+        {"scene_number": 9, "scene_name": "Inheritance Warning and Body as Temple", "reference": "6:9-6:20", "why_start_end_and_devices": "Vice list vs. ‘you were washed’; union with Christ; glorify God in body. Devices: status reversal, temple/body argument, inclusio closure."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "Response to the Letter: Marriage, Food, and Apostolic Freedom",
+      "why_start_end_and_literary_glue": "Start (7:1) perì de shift to written questions; end (11:1) imitators of Paul/Christ seals the liberty ethic. Glue: recurring perì de (7:1, 7:25, 8:1), rights vs. edification, love’s priority over knowledge.",
+      "reference": "7:1 - 11:1",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Marriage and Mutual Duty", "reference": "7:1-7:7", "why_start_end_and_devices": "Now concerning…; reciprocal marital obligations; Paul’s preference yet gift diversity. Devices: antithesis, concession for prayer."},
+        {"scene_number": 2, "scene_name": "Unmarried, Mixed Marriages, and Callings", "reference": "7:8-7:24", "why_start_end_and_devices": "Grouped instructions end with remain in calling. Devices: audience shifts, ‘the Lord says/I say’ oracle distinctions."},
+        {"scene_number": 3, "scene_name": "Virgins/Betrothed and Present Distress", "reference": "7:25-7:40", "why_start_end_and_devices": "Perì de virgins; world passing; freedom to marry ‘in the Lord’. Devices: eschatological frame, anxiety motif."},
+        {"scene_number": 4, "scene_name": "Knowledge vs. Love: Food Offered to Idols", "reference": "8:1-8:13", "why_start_end_and_devices": "‘Knowledge puffs up, love builds up’; resolve to avoid stumbling. Devices: ontological admission→ethical restraint, conscience care."},
+        {"scene_number": 5, "scene_name": "Apostolic Rights and Renunciation", "reference": "9:1-9:18", "why_start_end_and_devices": "Right to support proved then waived to offer gospel free. Devices: diatribe questions, legal/scriptural proofs, contrast."},
+        {"scene_number": 6, "scene_name": "Servant to All; Race Metaphor; Israel as Warning", "reference": "9:19-10:5", "why_start_end_and_devices": "All things to all; athletic discipline; most fell in the wilderness. Devices: mission parallelism, athletic imagery, typology bridge."},
+        {"scene_number": 7, "scene_name": "Examples and Idolatry Warning", "reference": "10:6-10:22", "why_start_end_and_devices": "Written for our admonition; flee idolatry; incompatible tables/cups. Devices: enumerated sins, antithetical conclusion."},
+        {"scene_number": 8, "scene_name": "Liberty, Edification, and God’s Glory", "reference": "10:23-11:1", "why_start_end_and_devices": "Not all beneficial; seek neighbor’s good; imitate Paul as he imitates Christ. Devices: proverbial maxims, case guidance, exemplum closure."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Liturgical Order: Worship, the Supper, and Spiritual Gifts",
+      "why_start_end_and_literary_glue": "Start (11:2) commendation regarding traditions; end (14:40) decency and order. Glue: ‘when you come together’ refrain, assembly focus, and pursuit of intelligibility and edification in gifts.",
+      "reference": "11:2 - 14:40",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Head Coverings and Order of Creation", "reference": "11:2-11:16", "why_start_end_and_devices": "Commendation, kephalē chain, appeal to universal practice. Devices: creation allusion, rhetorical questions, custom appeal."},
+        {"scene_number": 2, "scene_name": "Divisions and the Lord’s Supper", "reference": "11:17-11:34", "why_start_end_and_devices": "Not for better but worse; tradition of the Supper; discern the body. Devices: instituted tradition, contrast judgment/discernment, pragmatic fix."},
+        {"scene_number": 3, "scene_name": "Varieties of Gifts, One Spirit", "reference": "12:1-12:11", "why_start_end_and_devices": "Perì de gifts; same Spirit/Lord/God; distribution as He wills. Devices: negative past→confession ‘Jesus is Lord’, parallel triads."},
+        {"scene_number": 4, "scene_name": "One Body, Many Members", "reference": "12:12-12:31", "why_start_end_and_devices": "Body metaphor extended; weaker parts honored; desire higher gifts. Devices: rhetorical questions, interdependence analogy, transition to love."},
+        {"scene_number": 5, "scene_name": "The More Excellent Way: Love", "reference": "13:1-13:13", "why_start_end_and_devices": "Without love gifts are nothing; love abides. Devices: hyperbole, contrast temporary/permanent, triad faith‑hope‑love."},
+        {"scene_number": 6, "scene_name": "Prophecy over Tongues for Edification", "reference": "14:1-14:19", "why_start_end_and_devices": "Pursue love, desire prophecy; intelligibility prioritized. Devices: musical and language metaphors, personal practice close."},
+        {"scene_number": 7, "scene_name": "Maturity, Signs, and Peace in the Churches", "reference": "14:20-14:33a", "why_start_end_and_devices": "Be adults in thinking; tongues sign to unbelievers; God of peace. Devices: law citation, outsider effect contrast, theological rationale."},
+        {"scene_number": 8, "scene_name": "Silencing, Submission, and Order", "reference": "14:33b-14:40", "why_start_end_and_devices": "Commands on silence and recognition of apostolic authority; all in order. Devices: hortatory imperatives, tradition appeal, final order command."}
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Doctrine of the Resurrection",
+      "why_start_end_and_literary_glue": "A single, unified doctrinal argument on Christ’s resurrection and ours: kerygma, consequences of denial, nature of the body, and final victory. Glue: repeated ‘resurrection’ focus, Adam–Christ antithesis, and climactic exhortation.",
+      "reference": "15:1 - 15:58",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Kerygma and Eyewitnesses", "reference": "15:1-15:11", "why_start_end_and_devices": "Remind of gospel received; creedal core; witnesses list; grace in Paul. Devices: tradition formula, catalog, ethos humility."},
+        {"scene_number": 2, "scene_name": "If No Resurrection… and Christ’s Reign", "reference": "15:12-15:28", "why_start_end_and_devices": "Consequences of denial; firstfruits; subjection until God all in all. Devices: reductio chain, Adam–Christ, eschatological sequence."},
+        {"scene_number": 3, "scene_name": "Practical Absurdities and Nature Analogies", "reference": "15:29-15:41", "why_start_end_and_devices": "Baptism for the dead question; dying daily; seed/body diversity. Devices: rhetorical questions, metaphor/analogy suite."},
+        {"scene_number": 4, "scene_name": "Spiritual Body and Final Victory", "reference": "15:42-15:58", "why_start_end_and_devices": "Sown/raised contrasts; last Adam; death swallowed; steadfast exhortation. Devices: antithesis triad, Isaiah/Hosea citations, hortatory close."}
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "Final Instructions and Farewell",
+      "why_start_end_and_literary_glue": "Start (16:1) perì de on collection opens the epistolary conclusion; end (16:24) benediction closes. Glue: logistics (collection/travel), greetings, warning, signature.",
+      "reference": "16:1 - 16:24",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Collection and Travel Plans", "reference": "16:1-16:12", "why_start_end_and_devices": "Perì de collection; itinerary; Timothy and Apollos notes. Devices: comparative instruction, travel logistics, personnel coordination."},
+        {"scene_number": 2, "scene_name": "Final Exhortations, Greetings, Benediction", "reference": "16:13-16:24", "why_start_end_and_devices": "Watch, stand firm, be strong; greetings; anathema and grace; love benediction. Devices: staccato imperatives, name list, signature."}
+      ]}
+  ]
+}
+
